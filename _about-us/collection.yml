@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Organisation.md
       - Principal's Message.md
       - Our History.md
       - Our Vision and Mission.md
       - Our Emblem and School Songs.md
+      - Our Organisation.md
