@@ -3,10 +3,7 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
-*“The secret of change is to focus all of your energy, not on fighting the old, but on building the new.”*
-
-Socrates
+> *“The secret of change is to focus all of your energy, not on fighting the old, but on building the new.”*   - Socrates
 
 I started my last message in my previous school with the exact same quote, because it is still so apt for Meridian. Apt, because after 5 years of uniting the school, and empowering the community to reach new heights, Mrs Hilda Thong has moved on to continue her good work as Principal of Katong Convent. She has led the school through an eventful journey – from the initial trepidation of forging a new identity, through the excitement of sustaining both new and old ventures, and finally, over the last 2 years, navigating the challenges of COVID19 – all while ensuring that the school continues to serve its purpose. Team Meridian is forever indebted to her vision, foresight and care for the community.
 
@@ -20,7 +17,7 @@ I have shared two simple ideas, but simple ideas have this quite anarchic way of
 
 I started this message with wise words from Socrates. I would like to end with an adaptation of those same words:
 
-***“The secret of change is to focus your energy, not on harking or wishing for the old. The secret of change is to focus on building the new. But equally important, the secret of change, is in appreciating, and learning from the old.”***
+> “The secret of change is to focus your energy, not on harking or wishing for the old. The secret of change is to focus on building the new. But equally important, the secret of change, is in appreciating, and learning from the old.”
 
 Yours-in-Education
 
