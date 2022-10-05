@@ -11,4 +11,3 @@ description: ""
 ## **School Mission**
 
 >To nurture in Meridians inquiring minds and caring hearts for their pursuit of excellence
-
