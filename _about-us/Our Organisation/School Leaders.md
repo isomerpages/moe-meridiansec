@@ -4,9 +4,7 @@ permalink: /about-us/school-leaders/
 description: ""
 third_nav_title: Our Organisation
 ---
-
-
-|  |  |  |
+| Designation |Name  | Contact E-mail |
 | -------- | -------- | -------- |
 | Principal | Mr Mohamed Razali B Abdul Hamed | mohamed_razali_abdul_hamed@moe.edu.sg |
 | Vice-Principal (Academic) | Mrs Rose Chen-Tay Ngee Seew | tay_ngee_seew@moe.edu.sg |
