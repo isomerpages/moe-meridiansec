@@ -4,7 +4,8 @@ permalink: /home/departments/271-2/
 description: ""
 third_nav_title: Departments
 ---
-  <input type="checkbox" id="accordion2">
+<ul class="jekyllcodex_accordion">
+<input type="checkbox" id="accordion2">
     <label for="accordion2">Extensive Reading Programme - #MeridianReads</label>
     <div>
       <p>At Meridian Secondary, we aim to awaken the inner reader in every Meridian. As the library is an oasis of knowledge and resources that opens up the imagination of our students, the English Language Department partnered the National Library Board in 2018 to revamp our school library.</p>
@@ -41,4 +42,4 @@ third_nav_title: Departments
 </figure>
 </p>
     </div>
-	</li>  
+	</li>
