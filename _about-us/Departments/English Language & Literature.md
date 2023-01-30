@@ -94,4 +94,21 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 </table></p>
     </div>
 	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Extensive Reading Programme - #MeridianReads</label>
+    <div>
+      <p>At Meridian Secondary, we aim to awaken the inner reader in every Meridian. As the library is an oasis of knowledge and resources that opens up the imagination of our students, the English Language Department partnered the National Library Board in 2018 to revamp our school library.</p>
+			<p><img src="/images/e1.png"></p>
+			<p><img src="/images/e2.png"></p>
+			<p><img src="/images/e3.png"></p>
+			<p><img src="/images/e4.png"></p>
+			<p><img src="/images/e5.png"></p>
+			<p>Our teachers are reading models who promote extensive reading by giving Meridians the time, encouragement and books to read pleasurably, at their own level.</p>
+		<p>We have a wide range of activities to encourage reading in our students this year. On top of regular visits to the library during curriculum time, activities include ‘Redesign a Book Cover’, ‘Book Fairy Giveaway’, ‘Go on a Blind Date with a Book’, ‘Print to Reel’, ‘Book Recommendation for you’.  Lower Secondary students can look forward to attaining the “Best Reader Award” by completing their reading logs as well.</p>
+			<p><img src="/images/EL-ERP-1.jpg"></p>
+			<p>To build a strong reading culture within our classrooms, we provided our Sec One classes with a classroom library each. They can customise their own classroom library and pick up the habit of reading through a good book selection.</p>
+			<p><img src="/images/EL-ERP-2.jpg"></p>
+    </div>
+	</li>  
 </ul>
