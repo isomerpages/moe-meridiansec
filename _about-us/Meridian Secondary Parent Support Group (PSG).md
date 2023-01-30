@@ -76,3 +76,66 @@ Mdm Sahrul
      style="width:70%">
 <img src="/images/psg-3.png" 
      style="width:72%">
+		 
+<h3>Events for 2019</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Event</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">18 Jan</td>
+    <td class="tg-h5mn">PMP for Sec 1 Parents</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4 Feb</td>
+    <td class="tg-1ppo">CNY Celebration</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">15 Mar</td>
+    <td class="tg-h5mn">PMP for Sec 3 Parents<br>PTC for Sec 4</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">5 Apr</td>
+    <td class="tg-1ppo">Speech Day</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">18 Apr</td>
+    <td class="tg-h5mn">Cross Country</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">25 Apr</td>
+    <td class="tg-1ppo">Sec 2 Streaming Talk for Parents</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">19 Jul</td>
+    <td class="tg-h5mn">Racial Harmony Day</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">8 Aug</td>
+    <td class="tg-1ppo">NDP Celebration</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">5 Sep</td>
+    <td class="tg-h5mn">Staff Appreciation Day</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">25 Oct</td>
+    <td class="tg-1ppo">End of Year Parent-Teacher Conference (Sec 1-3)</td>
+  </tr>
+</tbody>
+</table>
