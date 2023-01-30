@@ -150,4 +150,15 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 			<p><img src="/images/EL02.jpg"></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Meridian Speakers Programme</label>
+    <div>
+      <p>The Meridian Speakers Programme aims to develop confident and eloquent speakers who are able to command the attention of their audience. Despite the reduction of face-to-face public speaking events, our Meridian Speakers have pivoted to speak online by hosting school outreach sessions as well as e-Open Houses. At the same time, our team have developed our very own podcast, The Meridian Show!</p>
+			<p>Check out the speakers in action:</p>
+			<p><img src="/images/EL03.jpg"></p>
+			<p><img src="/images/EL04.jpg"></p>
+			<p><img src="/images/social-media.png"></p>
+    </div>
+	</li>  
 </ul>
