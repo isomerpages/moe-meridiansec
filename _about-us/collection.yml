@@ -2,8 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - E–Yearbook.md
-      - Meridian Secondary Parent Support Group (PSG).md
+      - History of Meridian Secondary School.md
+      - Principal's Message.md
+      - School Crest, Vision and Mission.md
+      - School Songs.md
+      - School Profile Information.md
+      - Our Staff.md
       - Departments/.keep
       - Departments/English Language & Literature.md
       - Departments/Mother Tongue Language.md
@@ -15,9 +19,5 @@ collections:
       - Departments/Nutrition and Food Science.md
       - Departments/Design & Technology.md
       - Departments/Physical Education.md
-      - History of Meridian Secondary School.md
-      - Principal's Message.md
-      - School Crest, Vision and Mission.md
-      - School Songs.md
-      - School Profile Information.md
-      - Our Staff.md
+      - Meridian Secondary Parent Support Group (PSG).md
+      - E–Yearbook.md
