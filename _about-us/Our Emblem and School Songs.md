@@ -4,12 +4,15 @@ permalink: /about-us/our-emblem-and-school-songs/
 description: ""
 ---
 ## Our Emblem
-![](/images/MERIDIAN%20CREST.jpg)
-The school emblem is formed by the letter M for Meridian Secondary School and is designed with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School.
+
+<img src="/images/Meridian-Sec-Logo-.jpg" 
+     style="width:60%">
+
+The school crest is formed by the letter M for Meridian Secondary School and is designed with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School.
 
 The peaks stand tall and exude strength in solid foundations.
 
-The silver, blue and green colours symbolise Innovation, Leadership and The Arts.  
+The silver, blue and green colours symbolise Innovation, Leadership and The Arts.  
 
 The silver peaks symbolise an innovative environment to cultivate creative thinkers.
 
@@ -19,45 +22,18 @@ The first pillar in blue symbolises Leadership and the other in green symbolises
 
 Together, they represent the strength and unity of Meridians to reach new heights.
 
+### School Vision
 
-## Meridian School Song
+Joyful Learners, Creative Thinkers, Compassionate Leaders
 
-**Verse One:**
+### School Mission
 
-Joyful learners, seeking knowledge,
+To nurture in Meridians inquiring minds and caring hearts for their pursuit of excellence
 
-Reaching for the highest star.
+### School Values
 
-Gifted minds, adding value,
+Humility, Compassion, Integrity and Resilience
 
-Building our community.
+### School Motto
 
-**Chorus:**
-
-Let’s unite and keep it true.
-
-Let Meridian guide us through.
-
-We will strive with all our hearts
-
-To make Meridian great.
-
-**Verse Two:**
-
-Caring people, daring leaders,
-
-Leading in the thoughtful path.
-
-Sharing arts, touching hearts,
-
-Enrich our humanity
-
-**Chorus:**
-
-Let’s unite and keep it true.
-
-Let Meridian guide us through.
-
-We will strive with all our hearts
-
-To make Meridian great.
+Unite to Reach New Heights
