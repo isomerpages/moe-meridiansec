@@ -111,4 +111,26 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 			<p><img src="/images/EL-ERP-2.jpg"></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">English Language & Literature Week</label>
+    <div>
+      <p>To foster a love of the English Language in our students through different platforms and to celebrate the joy of reading and writing, the English Language & Literature Week features a number of activities to nurture creativity among the students. For example, there is a Book Character Dress Up Day for students to dress up and represent a character from a book they have read. For the Lower Sec, we also have a Spelling Bee Competition, and for the Upper Sec, a Creative Writing Competition. The English Language & Literature Week is always a buzzing week of exciting activities!</p>
+			<p><figure>
+<img src="/images/EL05.jpg">
+<figcaption> <strong>Character Quiz</strong> </figcaption>
+</figure>
+</p>
+			<p><figure>
+<img src="/images/EL06.jpg">
+<figcaption> <strong>Character Dress Up</strong> </figcaption>
+</figure>
+</p>
+			<p><figure>
+<img src="/images/EL07.jpg">
+<figcaption> <strong>Poet for a Day</strong> </figcaption>
+</figure>
+</p>
+    </div>
+	</li>  
 </ul>
