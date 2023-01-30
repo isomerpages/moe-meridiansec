@@ -17,7 +17,6 @@ To equip students with competency and confidence in the English Language.</p>
 Teachers adopt a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.</p>
 	 <p><h4>Key Programmes</h4><br>
 <li>Extensive Reading Programme</li><li>Meridian Speakers Programme</li><li>English Language and Literature Week</li></p>
-		<p><h4>Department Teachers</h4><br></p>
 		</div>
 		<div>
       <p><h4>Department Teachers</h4><br></p>
