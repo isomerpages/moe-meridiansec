@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Our History.md
+      - History of Meridian Secondary School.md
       - Principal's Message.md
       - Our Vision and Mission.md
       - Our Emblem and School Songs.md
