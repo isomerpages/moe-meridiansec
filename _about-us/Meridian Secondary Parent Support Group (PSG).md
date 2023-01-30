@@ -139,3 +139,12 @@ Mdm Sahrul
   </tr>
 </tbody>
 </table>
+
+<img src="/images/psg-4.png" 
+     style="width:70%">
+<img src="/images/psg-5.png" 
+     style="width:70%">
+<img src="/images/psg-6.png" 
+     style="width:70%">
+<img src="/images/psg-7.png" 
+     style="width:70%">
