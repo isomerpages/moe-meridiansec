@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - History of Meridian Secondary School.md
       - Principal's Message.md
       - School Crest, Vision and Mission.md
