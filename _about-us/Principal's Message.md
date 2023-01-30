@@ -23,6 +23,5 @@ I end as usual with wise words from others, this time from Mark Twain:
 
 Hope your time laying on your shelves, has renewed your edges for another purposeful year ahead.
 
-Yours-in-Education,
-
+Yours-in-Education, <br>
 Mohamed Razali
