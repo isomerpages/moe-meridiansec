@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Departments/Mother Tongue Language.md
       - Departments/English Language & Literature.md
       - Departments/.keep
       - History of Meridian Secondary School.md
