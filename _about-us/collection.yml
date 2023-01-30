@@ -2,17 +2,17 @@ collections:
   about-us:
     output: true
     order:
-      - Departments/Physical Education.md
-      - Departments/Design & Technology.md
-      - Departments/Nutrition and Food Science.md
-      - Departments/Art.md
-      - Departments/Aesthetics.md
-      - Departments/Humanities.md
-      - Departments/Science.md
-      - Departments/Mathematics.md
-      - Departments/Mother Tongue Language.md
-      - Departments/English Language & Literature.md
       - Departments/.keep
+      - Departments/English Language & Literature.md
+      - Departments/Mother Tongue Language.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Humanities.md
+      - Departments/Aesthetics.md
+      - Departments/Art.md
+      - Departments/Nutrition and Food Science.md
+      - Departments/Design & Technology.md
+      - Departments/Physical Education.md
       - History of Meridian Secondary School.md
       - Principal's Message.md
       - School Crest, Vision and Mission.md
