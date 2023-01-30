@@ -92,7 +92,7 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
   </tr>
 </tbody>
 </table></p>
-    </div>
+		</div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
