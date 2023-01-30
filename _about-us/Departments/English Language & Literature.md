@@ -104,6 +104,7 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 </p>	
   </div>
 	</li>  
+	<li>
 	<input type="checkbox" id="accordion2">
     <label for="accordion2">Extensive Reading Programme - #MeridianReads</label>
     <div>
