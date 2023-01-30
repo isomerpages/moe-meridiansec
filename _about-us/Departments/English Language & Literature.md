@@ -22,10 +22,9 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 	<li>English Language and Literature Week</li>
 </ul>
 	</p>
-		</div>
-		<div>
       <p><h4>Department Teachers</h4><br></p>
-      <p><style type="text/css">
+      <p>
+      <<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -99,7 +98,8 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
     <td class="tg-1ppo">EBS Teacher</td>
   </tr>
 </tbody>
-</table></p>	
+</table>
+	</p>	
   </div>
 	</li>  
 	<li>
@@ -143,4 +143,4 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
 	</li>
 </ul>
 
-7
+8
