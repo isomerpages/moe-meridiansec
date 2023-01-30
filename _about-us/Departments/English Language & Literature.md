@@ -146,8 +146,8 @@ Teachers adopt a systematic approach to teaching language skills with an emphasi
     <label for="accordion4">Advanced Elective Module (AEM)</label>
     <div>
       <p>During the March holidays, a group of selected Sec 3 students took part in Temasek Polytechnic’s Photojournalism and broadcasting module. They had fun learning the process in the creation of a radio programme. They fine-tuned their scripts, recorded their stinger, interviewed their guest and edited their podcast. Check out our Sec 3 students in action!</p>
-			<p><img src=""></p>
+			<p><img src="/images/EL01.jpg"></p>
+			<p><img src="/images/EL02.jpg"></p>
     </div>
 	</li>  
 </ul>
-
