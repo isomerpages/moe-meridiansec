@@ -16,7 +16,7 @@ To equip students with competency and confidence in the English Language.</p>
    <p><h4>Approach to EL Teaching</h4><br>
 Teachers adopt a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.</p>
 	 <p><h4>Key Programmes</h4><br>
-<li>Extensive Reading Programme<br><li>Meridian Speakers Programme<br><li>English Language and Literature Week</p>
+<li>Extensive Reading Programme<li>Meridian Speakers Programme<li>English Language and Literature Week</p>
 		<p><h4>Department Teachers</h4><br><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
