@@ -211,7 +211,7 @@ description: ""
   </tr>
 </tbody>
 </table></p>
-	<br><br><br>
+	<br>
 	<p>Senior Teacher</p>
 	<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
