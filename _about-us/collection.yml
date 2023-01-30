@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Departments/Nutrition and Food Science.md
       - Departments/Art.md
       - Departments/Aesthetics.md
       - Departments/Humanities.md
