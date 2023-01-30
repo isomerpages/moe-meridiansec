@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - E–Yearbook.md
       - Meridian Secondary Parent Support Group (PSG).md
       - Departments/.keep
       - Departments/English Language & Literature.md
