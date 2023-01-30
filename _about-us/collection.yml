@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile Information.md
       - School Songs.md
       - History of Meridian Secondary School.md
       - Principal's Message.md
