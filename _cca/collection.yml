@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
-      - Uniformed Groups/National Cadet Corps NCC (Land).md
       - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps NCC (Land).md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Uniformed Groups/Red Cross Youth.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Drama Club.md
