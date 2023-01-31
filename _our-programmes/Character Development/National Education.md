@@ -54,3 +54,13 @@ Students reflected on their experiences and engaged in meaningful activities to 
      style="width:60%">
 		 
 <center>Meridian Secondary partnered with Temasek Polytechnic to create online and board games for the students.</center>
+
+
+<img src="/images/neoct10.jpg" 
+     style="width:60%">
+		
+<img src="/images/neoct11.jpg" 
+     style="width:60%">
+		 
+<center>Playing games with different groups of students, promoting inclusivity.  <br>
+CCE team partnered with the PE departments to plan and conduct the games for the Sec 1 students.</center>
