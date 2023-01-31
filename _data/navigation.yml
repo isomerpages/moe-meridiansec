@@ -1,12 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Our Programmes
-    collection: our-programmes
-  - title: Our Achievements
-    collection: our-achievements
-  - title: Student Information
-    collection: student-information
   - title: About Us
     collection: about-us
-  - title: Resources
-    collection: resources
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Student Information
+    collection: student-information
+  - title: Our Achievements
+    collection: our-achievements
