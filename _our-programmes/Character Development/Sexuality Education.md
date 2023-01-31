@@ -45,20 +45,26 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-6pjv{background-color:#B4B4B8;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6pjv"><span style="font-weight:bold">Unit</span></th>
-    <th class="tg-6pjv"><span style="font-weight:bold">Lesson Title / Duration</span></th>
-    <th class="tg-6pjv"><span style="font-weight:bold">Lesson Overview</span></th>
-    <th class="tg-6pjv"><span style="font-weight:bold">Lesson Objectives</span><br><br>At the end of the lesson, students will be able to:</th>
-    <th class="tg-6pjv"><span style="font-weight:bold">Time Period</span></th>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary 1</span></th>
+    <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-6pjv"><span style="font-weight:bold">Unit</span></td>
+    <td class="tg-6pjv"><span style="font-weight:bold">Lesson Title / Duration</span></td>
+    <td class="tg-6pjv"><span style="font-weight:bold">Lesson Overview</span></td>
+    <td class="tg-6pjv"><span style="font-weight:bold">Lesson Objectives</span><br><br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-6pjv"><span style="font-weight:bold">Time Period</span></td>
+  </tr>
   <tr>
     <td class="tg-zr06" rowspan="3"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span><br><br> <br> </td>
     <td class="tg-zr06"><span style="background-color:#FFF">Steady or Not</span><br><br>Lesson 1<br>(60 mins)</td>
