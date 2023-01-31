@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Character Development/Education and Career Guidance.md
       - Character Development/National Education.md
       - Character Development/Values in Action (VIA).md
       - Character Development/Sexuality Education.md
