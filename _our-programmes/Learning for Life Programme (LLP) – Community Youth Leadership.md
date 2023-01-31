@@ -28,8 +28,8 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Student Leadership Progressive Development Model</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Student Leadership Progressive Development Model</label>
     <div>
       <p><img src="/images/llp4.jpg" 
      style="width:60%"></p>
@@ -68,4 +68,3 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
      style="width:60%"></p>
 	</li>  
 </ul>
-
