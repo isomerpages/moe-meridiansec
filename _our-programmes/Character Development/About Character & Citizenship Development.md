@@ -62,3 +62,10 @@ During these sessions, Meridians learn how to manage their mental health and inc
 
 <hr>
 
+#### Strengthening positive peer support relationship to enhance students’ well-being
+
+
+<figure>
+<img src="/images/CCE6.jpg">
+<figcaption>Our Peer Support Leaders (PSLs) carried out a peer bonding activity to develop positive relationship among students using Kahoot!.</figcaption>
+</figure>
