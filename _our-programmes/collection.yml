@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Direct School Admission.md
       - Applied Learning Programme (ALP) – Aesthetics.md
       - Learning for Life Programme (LLP) – Community Youth Leadership.md
       - Education and Career Guidance.md
@@ -14,3 +13,4 @@ collections:
       - National Digital Literacy Programme (NDLP).md
       - Design Thinking.md
       - Internationalisation Programme.md
+      - Direct School Admission.md
