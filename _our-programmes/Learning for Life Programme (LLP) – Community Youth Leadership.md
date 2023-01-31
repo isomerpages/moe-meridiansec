@@ -50,7 +50,8 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 		<p>At Tier 2, undergo further training and participate in a wider range of community projects to develop their skills as “Leaders of Peers” through their roles as Student Councillors, CCA Leaders, Class Chairpersons or Peer Support Leaders. As Leaders of Peers, our student leaders often conduct activities for peers of their level (e.g. Class Chairpersons conducting origami activity for their class during CNY celebration, or Peer Support Leaders conducting class bonding games), or for their juniors (e.g. Sec 3 Student Councillors facilitating Sec 2 VIA projects).</p>
 		<p>Student leaders continue to attend developmental training programmes which are more specialized such as the Anti-bullying workshop, Proposal Writing workshop, and Events Management workshop. Regular check-in sessions are also conducted to provide guidance and support to the student leaders. What is unique to our school is that students are encouraged to step forward and nominate themselves to take on these leadership roles.</p>
 		<p><b><center>Student Councillors</center></b></p>
-		<p><img src="/images/LLP-02.jpg" 
+		<p><img src="/images/LLP-03.jpg" 
      style="width:60%"></p>
 	</li>  
 </ul>
+
