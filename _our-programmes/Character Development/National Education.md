@@ -68,3 +68,19 @@ CCE team partnered with the PE departments to plan and conduct the games for the
 ### **National Day Celebration**
 
 This year’s celebration was carried out differently, students and teachers still came together to enjoy class-based activities and live-streamed Observance Ceremony.
+
+<figure>
+<img src="/images/neoct12.jpg"><br>
+<img src="/images/neoct13.jpg">
+<figcaption>National Day Observance Ceremony</figcaption>
+</figure>
+
+<figure>
+<img src="/images/neoct14.jpg">
+<figcaption>School leaders sharing their NS Experience</figcaption>
+</figure>
+
+<figure>
+<img src="/images/neoct15.jpg">
+<figcaption>Class-based activities</figcaption>
+</figure>
