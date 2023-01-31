@@ -39,7 +39,6 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 				<li> Leaders of Peers</li>
 				<li> Leaders of Community</li>
 			</ul>
-    </div>
 		<hr>
 		<h3>Tier 1</h3>
 		<p>Cohort leadership reaches out to the masses. Hence, students will be equipped with the knowledge of K&P principles through an anchor programme at the Lower Secondary level. They will then be provided with opportunities to apply their learning and practise leadership through various platforms such as CCAs and VIA activities.</p>
@@ -66,5 +65,6 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 		<p>At Tier 3, the ExCo members are trained through regular sessions with Vice-Principal, Mr Kong, and are provided with opportunities to participate in events and/or nominated for awards at the national level (e.g. National Young Leader Award and National Youth Environment Conference).</p>
 		<p><img src="/images/LLP-06.jpg" 
      style="width:60%"></p>
+		</div>
 	</li>  
 </ul>
