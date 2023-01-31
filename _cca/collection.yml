@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/Concert Band.md
-      - Visual and Performing Arts/Modern Dance.md
-      - Visual and Performing Arts/Malay Dance.md
-      - Visual and Performing Arts/Nusantara Orchestra.md
-      - Visual and Performing Arts/Drama Club.md
-      - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Drama Club.md
+      - Visual and Performing Arts/Nusantara Orchestra.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/Concert Band.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
