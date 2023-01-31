@@ -8,24 +8,14 @@ locations:
       - "31 "
       - "Pasir Ris Street 51, "
       - Singapore 518901
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: General Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6583 1387
+      - email: meridian_sec@moe.edu.sg
+      - other: "Fax: 65836467 <br> Nearest MRT Station :  Pasir Ris MRT <br> Buses : 39,
+          53, 81, 89, 109, 359, 403, 518"
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
