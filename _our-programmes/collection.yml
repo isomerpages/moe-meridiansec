@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Character Development/Internationalisation Programme.md
       - Character Development/Design Thinking.md
       - Character Development/National Digital Literacy Programme (NDLP).md
       - Character Development/.keep
