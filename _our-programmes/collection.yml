@@ -2,9 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Internationalisation Programme.md
-      - Design Thinking.md
-      - National Digital Literacy Programme (NDLP).md
+      - Applied Learning Programme (ALP) – Aesthetics.md
+      - Learning for Life Programme (LLP) – Community Youth Leadership.md
       - Education and Career Guidance.md
       - Character Development/.keep
       - Character Development/About Character & Citizenship Development.md
@@ -12,5 +11,6 @@ collections:
       - Character Development/Values in Action (VIA).md
       - Character Development/National Education.md
       - Character Development/Direct School Admission.md
-      - Learning for Life Programme (LLP) – Community Youth Leadership.md
-      - Applied Learning Programme (ALP) – Aesthetics.md
+      - National Digital Literacy Programme (NDLP).md
+      - Design Thinking.md
+      - Internationalisation Programme.md
