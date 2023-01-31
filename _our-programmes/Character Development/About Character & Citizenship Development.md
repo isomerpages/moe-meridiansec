@@ -41,4 +41,24 @@ During these sessions, Meridians learn how to manage their mental health and inc
 <figcaption>Our graduating students wrote their THANK YOU message on the Meridian Gratitude Cards and presented the card to their classmate as a memento.</figcaption>
 </figure>
 
+<figure>
+<img src="/images/CCE3.jpg">
+<figcaption>Sec 1 to Sec 3 students penned down their words of appreciation to their classmates on the petals. Once ready, student leaders pasted the petals at the Gratitude Wall (Level 2).</figcaption>
+</figure>
+
+<hr>
+
+#### Practising Mindfulness to support positive thinking
+
+<figure>
+<img src="/images/CCE4.jpg">
+<figcaption>Our school counsellor, Ms Wendy Lauw, shared on how Meridians can cultivate Mindfulness in their daily lives.</figcaption>
+</figure>
+
+<figure>
+<img src="/images/CCE5.jpg">
+<figcaption>Meridians had an opportunity to explore Mindful stretching during one of the Thoughtful Thursdays.</figcaption>
+</figure>
+
+<hr>
 
