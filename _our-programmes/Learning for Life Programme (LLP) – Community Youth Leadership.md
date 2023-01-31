@@ -52,5 +52,20 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 		<p><b><center>Student Councillors</center></b></p>
 		<p><img src="/images/LLP-03.jpg" 
      style="width:60%"></p>
+		<p><b><center>CCA Leaders</center></b></p>
+		<p><img src="/images/LLP-04.jpg" 
+     style="width:60%"></p>
+		<p><b><center>Class Chairpersons</center></b></p>
+		<p><img src="/images/llp10.jpg" 
+     style="width:60%"></p>
+		<p><b><center>Peer Support Leaders</center></b></p>
+		<p><img src="/images/LLP-05.jpg" 
+     style="width:60%"></p>
+		<br>
+		<h3>TIER 3</h3>
+		<p>At Tier 3, the ExCo members are trained through regular sessions with Vice-Principal, Mr Kong, and are provided with opportunities to participate in events and/or nominated for awards at the national level (e.g. National Young Leader Award and National Youth Environment Conference).</p>
+		<p><img src="/images/LLP-06.jpg" 
+     style="width:60%"></p>
 	</li>  
 </ul>
+
