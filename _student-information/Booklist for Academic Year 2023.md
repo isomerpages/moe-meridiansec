@@ -5,6 +5,7 @@ description: ""
 ---
 Please click on the link below for the required book list.
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,9 +29,9 @@ Please click on the link below for the required book list.
     <td class="tg-4ufn" colspan="3"><span style="font-weight:bold">Secondary 2</span></td>
   </tr>
   <tr>
-    <td class="tg-hdwk"><a href="https://meridiansec.moe.edu.sg/wp-content/uploads/2022/11/Meridian-Secondary-School-Booklist-2023-2E.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Express Book List</span></a></td>
-    <td class="tg-hdwk"><a href="https://meridiansec.moe.edu.sg/wp-content/uploads/2022/11/Meridian-Secondary-School-Booklist-2023-2NA.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Normal (Acad) Book List</span></a></td>
-    <td class="tg-hdwk"><a href="https://meridiansec.moe.edu.sg/wp-content/uploads/2022/11/Meridian-Secondary-School-Booklist-2023-2NT.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Normal (Tech) Book List</span></a></td>
+    <td class="tg-hdwk"><a href="/files/Meridian-Secondary-School-Booklist-2023-2E.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Express Book List</span></a></td>
+    <td class="tg-hdwk"><a href="/files/Meridian-Secondary-School-Booklist-2023-2NA.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Normal (Acad) Book List</span></a></td>
+    <td class="tg-hdwk"><a href="/files/Meridian-Secondary-School-Booklist-2023-2NT.pdf"><span style="text-decoration:underline;color:#060681;background-color:transparent">S2 Normal (Tech) Book List</span></a></td>
   </tr>
   <tr>
     <td class="tg-4ufn" colspan="3"><span style="font-weight:bold">Secondary 3</span></td>
