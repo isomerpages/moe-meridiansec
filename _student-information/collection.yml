@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - N–Level 2022 – Post–Secondary Admission Exercises and Key Information.md
       - 2023 Secondary 1 Registration Information.md
       - Booklist for Academic Year 2023.md
       - School Letters.md
