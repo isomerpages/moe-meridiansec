@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Badminton.md
       - Physical Sports/.keep
       - CCA LEAPS.md
