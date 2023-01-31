@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Character Development/Direct School Admission.md
       - Character Development/Internationalisation Programme.md
       - Character Development/Design Thinking.md
       - Character Development/National Digital Literacy Programme (NDLP).md
