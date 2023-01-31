@@ -92,6 +92,34 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 				<li>Mr Lee Jiaqi Arthur</li>
 			</ul>
     </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Highlights</label>
+    <div>
+			<h3>2022</h3>
+			<ul>
+				<li>Our Singapore Leadership Programme (OSLP) Shortlisted Participant – Ng Shi Ying, Shannen</li>
+				<li>National Youth Environment Conference 2022 – Outstanding Delegate (Daphne Lim Huey Xin and Siti Aisyah Mahirah Binte Zulkifli)</li>
+			</ul>
+			<p><img src="/images/LLP-07.jpg" 
+     style="width:60%"></p>
+			<ul>
+				<li>National Cyber Wellness Advocacy Challenge (NCAC) 2022 Advocacy Module</li>
+			</ul>
+			<p><img src="/images/LLP-08.jpg" 
+     style="width:60%"></p>
+			<ul>
+				<li>National Cyber Wellness Advocacy Challenge (NCAC) 2022 Enrichment Module</li>
+			</ul>
+			<hr>
+			<h3>2021</h3>
+			<ul>
+				<li>OPMUN 2022 Chair Training</li>
+				<li>OPMUN 2022 Delegates Involvement</li>
+				<li>Heartware Network Student Leader Trainings</li>
+			</ul>
+    </div>
 	</li>  
 </ul>
 
