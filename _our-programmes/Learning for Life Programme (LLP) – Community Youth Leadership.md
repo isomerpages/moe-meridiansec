@@ -66,7 +66,14 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 		<p><img src="/images/LLP-06.jpg" 
      style="width:60%"></p>
 		</div>
+	</li>  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Student Leadership Functional Titles and DSA Programme</label>
+    <div>
+			<p><img src="/images/llp6.jpg" 
+     style="width:60%"></p>
+      <p>With Community Youth Leadership being the school’s Learning for Life Programme (LLP), Primary Six students can look forward to applying to Meridian Secondary through the DSA Leadership programme. Sec 1 Students who are selected for admission through the school’s DSA Leadership programme will have an advantage over their peers – they will, by default, be accepted into the school’s Tier 2 Leadership programme.</p>
+    </div>
 	</li>  
 </ul>
 
-123
