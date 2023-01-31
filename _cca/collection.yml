@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports/Netball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Floorball.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Badminton.md
       - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
       - CCA LEAPS.md
