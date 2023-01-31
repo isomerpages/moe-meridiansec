@@ -42,3 +42,15 @@ The objective of the NRIC presentation ceremony is to provide Meridians with a m
 <img src="/images/neoct5.jpg">
 <figcaption>Meridians reciting the pledge at the end of the ceremony.</figcaption>
 </figure>
+
+### **Racial Harmony Day**
+
+Students reflected on their experiences and engaged in meaningful activities to learn more about the different races and cultures, as well as to study how they can play a part in strengthening trust and friendships among the communities, in order to emerge stronger as a more caring, cohesive and resilient nation.
+
+<img src="/images/neoct6.jpg" 
+     style="width:60%">
+		 
+<img src="/images/neoct7.jpg" 
+     style="width:60%">
+		 
+<center>Meridian Secondary partnered with Temasek Polytechnic to create online and board games for the students.</center>
