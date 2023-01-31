@@ -31,3 +31,11 @@ In Meridian, students utilized MySkillsFuture Portal to find out about their VIP
 		 
 *   **Workshops**
     *   Ms Kathy had conducted both online and physical workshops on portfolio creation and interview skills as well as the Pathfinder workshop for our graduating students in Semester 1. Our students found the sessions beneficial and they managed to clarify any doubts easily with Ms Kathy.
+
+<img src="/images/ECG02.jpg" 
+     style="width:60%">
+		 
+*   **Counselling Sessions**
+    *   The Education and Career Guidance (ECG) room is located at Level 1 in front of the central staircase.
+    *   Students and parents can use the following link to book an appointment with Ms Kathy. She will be in Meridian Secondary on **Tuesdays, Wednesdays and Fridays** only.
+    *   **Book your appointment** here: [https://go.gov.sg/kathykoh](https://go.gov.sg/kathykoh)
