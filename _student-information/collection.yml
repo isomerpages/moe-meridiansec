@@ -2,11 +2,11 @@ collections:
   student-information:
     output: true
     order:
-      - N–Level 2022 – Post–Secondary Admission Exercises and Key Information.md
-      - 2023 Secondary 1 Registration Information.md
-      - Booklist for Academic Year 2023.md
-      - School Letters.md
-      - E–Student Handbook.md
-      - Assessment Matters.md
-      - Student Timetable.md
       - Full Subject–Based Banding (Full SBB).md
+      - Student Timetable.md
+      - Assessment Matters.md
+      - E–Student Handbook.md
+      - School Letters.md
+      - Booklist for Academic Year 2023.md
+      - 2023 Secondary 1 Registration Information.md
+      - N–Level 2022 – Post–Secondary Admission Exercises and Key Information.md
