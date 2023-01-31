@@ -7,7 +7,7 @@ Dear Students/Parents,
 
 Please refer to the attached document for information related to the various admission exercises (JIE, DPP, NFP, PFP) and instructions given during the release of N-Level Results on 19 December 2022.
 
-*   [2022 N-Level Briefing Slides\_19 Dec](https://meridiansec.moe.edu.sg/wp-content/uploads/2022/12/For-Students-2022-N-Level-Briefing-Slides_19-Dec.pdf)
+* [2022 N-Level Briefing Slides_19 Dec](/files/For-Students-2022-N-Level-Briefing-Slides_19-Dec.pdf)
 
 ### Key Dates
 
