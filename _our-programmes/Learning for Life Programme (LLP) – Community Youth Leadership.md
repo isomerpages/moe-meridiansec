@@ -27,4 +27,19 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 			<p>The Student Leadership Tiered Model at Meridian Secondary is designed to be aligned with the Kouzes and Posner’s Five Practices of Exemplary Leadership and the four beliefs.</p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Student Leadership Progressive Development Model</label>
+    <div>
+      <p><img src="/images/llp4.jpg" 
+     style="width:60%"></p>
+			<p>Meridian Secondary adopts an age-appropriate and progressive three-stage leadership training programme:</p>
+			<ul>
+				<li>Leaders of Self</li>
+				<li> Leaders of Peers</li>
+				<li> Leaders of Community</li>
+			</ul>
+    </div>
+	</li>  
 </ul>
+
