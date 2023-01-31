@@ -64,3 +64,7 @@ Students reflected on their experiences and engaged in meaningful activities to 
 		 
 <center>Playing games with different groups of students, promoting inclusivity.  <br>
 CCE team partnered with the PE departments to plan and conduct the games for the Sec 1 students.</center>
+
+### **National Day Celebration**
+
+This year’s celebration was carried out differently, students and teachers still came together to enjoy class-based activities and live-streamed Observance Ceremony.
