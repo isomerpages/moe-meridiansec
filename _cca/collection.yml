@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Robotics Club.md
-      - Clubs and Societies/Media Club.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Media Club.md
+      - Clubs and Societies/Robotics Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/National Cadet Corps NCC (Land).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
