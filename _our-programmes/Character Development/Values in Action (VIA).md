@@ -29,7 +29,8 @@ Through CCE lessons, students will go through various case studies on Mental Hea
 
 Our Sec 3 Student Leaders led their juniors in this project by helping them to recall the school’s Design Thinking Framework, Feel-Think-Do-Share. Together with the Sec 2 Class Chairpersons, they helped to facilitate the discussions to plan and execute a school event.
 
-![](/images/VIA02.jpg)
+<img src="/images/VIA02.jpg" 
+     style="width:60%">
 
 ### Sec 3 VIA: Collaboration with SG Cares
 
@@ -37,7 +38,8 @@ Our Sec 3 Student Leaders led their juniors in this project by helping them to r
 
 Sec 3 students were given the opportunity to collaborate with the external organisation of their choice. Led by the Class Chairpersons, as a class, they plan and come up with the deliverables to meet the organisation’s needs.
 
-![](/images/VIA03.jpg)
+<img src="/images/VIA03.jpg" 
+     style="width:60%">
 
 ### Sec 4 and 5 VIA: Collaboration with Food From The Heart
 
@@ -45,4 +47,5 @@ Sec 3 students were given the opportunity to collaborate with the external organ
 
 Our graduating students have concluded their VIA journey. Through the project, they learnt more about Food From The Heart, a food charity organisation in Singapore and how the beneficiaries benefitted from their assistance. This lesson was led by the Class Chairpersons. Our students also donated food items to the organisation.
 
-![](/images/VIA04.jpg)
+<img src="/images/VIA04.jpg" 
+     style="width:60%">
