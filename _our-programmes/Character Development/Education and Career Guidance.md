@@ -39,3 +39,6 @@ In Meridian, students utilized MySkillsFuture Portal to find out about their VIP
     *   The Education and Career Guidance (ECG) room is located at Level 1 in front of the central staircase.
     *   Students and parents can use the following link to book an appointment with Ms Kathy. She will be in Meridian Secondary on **Tuesdays, Wednesdays and Fridays** only.
     *   **Book your appointment** here: [https://go.gov.sg/kathykoh](https://go.gov.sg/kathykoh)
+
+<img src="/images/ECG03.jpg" 
+     style="width:60%">
