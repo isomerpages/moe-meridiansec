@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/National Cadet Corps NCC (Land).md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
