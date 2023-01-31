@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Drama Club.md
