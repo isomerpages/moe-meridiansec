@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - School Letters.md
       - E–Student Handbook.md
       - Assessment Matters.md
       - Student Timetable.md
