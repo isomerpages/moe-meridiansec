@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/.keep
-      - Clubs and Societies/Media Club.md
-      - Clubs and Societies/Robotics Club.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/National Cadet Corps NCC (Land).md
-      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
-      - Uniformed Groups/Red Cross Youth.md
+      - CCA LEAPS.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Netball.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Drama Club.md
@@ -16,10 +16,10 @@ collections:
       - Visual and Performing Arts/Malay Dance.md
       - Visual and Performing Arts/Modern Dance.md
       - Visual and Performing Arts/Concert Band.md
-      - Physical Sports/.keep
-      - Physical Sports/Badminton.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Floorball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Netball.md
-      - CCA LEAPS.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps NCC (Land).md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Uniformed Groups/Red Cross Youth.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Media Club.md
+      - Clubs and Societies/Robotics Club.md
