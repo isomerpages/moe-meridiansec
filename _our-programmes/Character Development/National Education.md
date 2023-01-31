@@ -31,3 +31,14 @@ With the theme, Singapore In The World, International Friendship Day (IFD) comme
 ### **Sec 3 NRIC Presentation Ceremony**
 
 The objective of the NRIC presentation ceremony is to provide Meridians with a memorable citizenship experience**.** Through this experience, students learnt the value of the NRIC and reflected on what it means to be Singaporeans.
+
+
+<figure>
+<img src="/images/neoct4.jpg">
+<figcaption>Taking a class photo with their new NRIC</figcaption>
+</figure>
+
+<figure>
+<img src="/images/neoct5.jpg">
+<figcaption>Meridians reciting the pledge at the end of the ceremony.</figcaption>
+</figure>
