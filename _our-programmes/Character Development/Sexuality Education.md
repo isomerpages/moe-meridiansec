@@ -86,3 +86,50 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-g60p{background-color:#B4B4B4;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="5"><span style="font-weight:bold">Secondary 2</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-g60p"><span style="font-weight:bold">Unit</span></td>
+    <td class="tg-g60p"><span style="font-weight:bold">Lesson Title/ Duration</span></td>
+    <td class="tg-g60p"><span style="font-weight:bold">Lesson Overview</span></td>
+    <td class="tg-g60p"><span style="font-weight:bold">Lesson Objectives</span><br><br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-g60p"><span style="font-weight:bold">Time Period</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo" rowspan="3"><span style="background-color:#FFF">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">A Role for Everyone</span><br><br>Lesson 1<br>(60  mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.</span><br><br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.<br> </td>
+    <td class="tg-tsok">know that one’s understanding of gender roles should not be limited by gender stereotypes<br>develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>understand what sexual orientation entails</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 2 Week 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Online Safety Challenge</span><br><br>Lesson 2A<br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.</span><br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> </td>
+    <td class="tg-tsok">recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Do I or Don’t I</span><br><br>Lesson 2B<br>(60 mins)</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.</span><br><br> </td>
+    <td class="tg-tsok">recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 3 Week 8</span></td>
+  </tr>
+</tbody>
+</table>
