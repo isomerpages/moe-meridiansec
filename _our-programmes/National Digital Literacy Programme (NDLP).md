@@ -16,3 +16,15 @@ Students will carry out learning via various platform, such as MOE Student Learn
 #### Why a Chromebook?
 
 A Chromebook is a computing device running Chrome OS as its operating system. The Chromebook is designed for use primarily while connected to the internet, with most of its applications and data residing online.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSbZQNJwPuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The Chromebook is chosen for the following reasons:
+
+1.  Price: cost significantly lesser than the average laptop
+2.  Security: Strong management and control access and content through Chromebook Management Console
+3.  Weight: Chromebooks are lightweight, that are portable and easy to carry around
+4.  Battery: long battery life
+5.  Speed: Chromebooks can power up and be ready to use within seconds
+
+### Resources for Parents
