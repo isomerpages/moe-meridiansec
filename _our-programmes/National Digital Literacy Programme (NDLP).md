@@ -28,3 +28,6 @@ The Chromebook is chosen for the following reasons:
 5.  Speed: Chromebooks can power up and be ready to use within seconds
 
 ### Resources for Parents
+
+- [Parent Handbook (I) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Parent-Handbook-I-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
+- [Parent Handbook (II) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Parent-Handbook-II-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
