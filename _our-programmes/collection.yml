@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - Learning for Life Programme (LLP) – Community Youth Leadership.md
       - Applied Learning Programme (ALP) – Aesthetics.md
