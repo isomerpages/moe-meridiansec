@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Internationalisation Programme.md
       - Design Thinking.md
       - National Digital Literacy Programme (NDLP).md
       - Education and Career Guidance.md
