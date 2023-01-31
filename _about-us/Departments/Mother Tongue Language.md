@@ -12,5 +12,11 @@ third_nav_title: Departments
 
 <p>Through the experience that explores differentiated strategies customized to enhance the three core focuses of teaching and learning MTL, namely Skills Acquisition & Enhancement, Cognitive Thinking and Authentic Experiential Learning, we hope to develop our students holistically as caring, creative, and confident individuals.</p>
     </div>
-	</li>  
+	</li> <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Highlights - Chinese Language</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>   
 </ul>
