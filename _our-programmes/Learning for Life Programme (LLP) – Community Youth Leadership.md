@@ -18,4 +18,13 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 			<p>The Five Practices of Exemplary Leadership® is a functional leadership model offered by James Kouzes and Barry Posner (1987) in their book, “The Leadership Challenge.” It reveals a cluster of behaviours identified through a thematic analysis of what people did when they were at their “personal best” in leading others. The Five Practices of Exemplary Leadership are namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act and Encourage the Heart.</p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Student Leadership Tiered Model</label>
+    <div>
+      <p><img src="/images/LLP2.jpg" 
+     style="width:60%"></p>
+			<p>The Student Leadership Tiered Model at Meridian Secondary is designed to be aligned with the Kouzes and Posner’s Five Practices of Exemplary Leadership and the four beliefs.</p>
+    </div>
+	</li>  
 </ul>
