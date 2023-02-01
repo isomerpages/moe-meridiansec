@@ -290,8 +290,9 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p><center>Astrid, seen here at the centre, wearing a blazer</center></p>
 			<h4>Top 50 in National Young Leader Award</h4>
 			<p>Congratulations to Ellasandra, Sec 4E1, for making it to the top 50 of the National Young Leader Award 2019.</p>
+			<img src="/images/ss8.jpg" 
+     style="width:60%">
     </div>
 	</li>  
 </ul>
-
 
