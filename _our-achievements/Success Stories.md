@@ -307,9 +307,136 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<h3>2018</h3>
 			<h4>Outstanding Normal Course Student Award</h4>
 			<p>Our Alumnus, Gwee Yuan Sheng received  the Lee Kuan Yew Award for Outstanding Normal Course Student Award at The Special Awards Presentation Ceremony 2018. This award is given to students to recognise them for their academic achievements and to encourage them to continue to strive for excellence.<br><br>Here is what he said about his award:<br><br>“I received the Lee Kuan Yew Award for Outstanding Normal Course student at the special awards presentation ceremony at Republic Polytechnic. I was truly ecstatic and humbled by this recognition. My fellow Meridians, it only goes to show that with the support and guidance from parents, teachers and friends, and with a lot of determination and drive, anything is possible. I have indeed reached greater heights by doing well for my N Levels and getting this prestigious award.”</p>
+			<img src="/images/Gwee-Yuan-Sheng.jpg" 
+     style="width:60%">
+			<h3>2015</h3>
+			<h4>Peter Lim Scholarship 2015</h4>
+			<p>The school would like to congratulate our 17 football team students who have received the Peter Lim Scholarship 2015.</p>
+			<img src="/images/SS2-1.png" 
+     style="width:60%">
+			<p>They are –</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">NO</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">NAME</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">CLASS</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">1</td>
+    <td class="tg-ys2m">MUHAMMAD DANIAL FAID BIN AMIRRUDIN</td>
+    <td class="tg-ys2m">2-1</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2</td>
+    <td class="tg-1ppo">MUHAMMAD DANIAL BIN AZMAN</td>
+    <td class="tg-1ppo">2-2</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">3</td>
+    <td class="tg-ys2m">AL-ASREE BIN KHAIRIL ANUAR</td>
+    <td class="tg-ys2m">2-2</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4</td>
+    <td class="tg-1ppo">MOHAMED SYAKIR BIN MOHAMED BASHEER</td>
+    <td class="tg-1ppo">2-4</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">5</td>
+    <td class="tg-ys2m">MUHAMMAD ARIF BIN ABDUL HALIM</td>
+    <td class="tg-ys2m">2-4</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">6</td>
+    <td class="tg-1ppo">ANTONIO</td>
+    <td class="tg-1ppo">2-6</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">7</td>
+    <td class="tg-ys2m">MUHAMMAD ARIFFIN BIN NOOR M</td>
+    <td class="tg-ys2m">2-7</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">8</td>
+    <td class="tg-1ppo">MUHAMMAD FIKRI BIN RAIHAN</td>
+    <td class="tg-1ppo">2-7</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">9</td>
+    <td class="tg-ys2m">MUHAMMAD HAZIQ MIKHAIL B AZHAR</td>
+    <td class="tg-ys2m">3-1</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">10</td>
+    <td class="tg-1ppo">AQIL IZDIHAR BIN ISKANDAR</td>
+    <td class="tg-1ppo">3-1</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">11</td>
+    <td class="tg-ys2m">MUHAMMAD HAZIQ BIN ABDUL JALAL</td>
+    <td class="tg-ys2m">3-2</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">12</td>
+    <td class="tg-1ppo">ABDUL HAFIQ BIN ABDUL RASHID</td>
+    <td class="tg-1ppo">3-2</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">13</td>
+    <td class="tg-ys2m">MUHAMMAD FIKRI BIN JUNAIDI</td>
+    <td class="tg-ys2m">3-7</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">14</td>
+    <td class="tg-1ppo">ADY ZUHAIRI BIN KHAIRUL FAMY</td>
+    <td class="tg-1ppo">3-7</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">15</td>
+    <td class="tg-ys2m">MUHAMMAD SHAHRIZAN BIN MUHAMMAD SHAIR</td>
+    <td class="tg-ys2m">3-7</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">16</td>
+    <td class="tg-1ppo">FADLY BIN RAMSANI</td>
+    <td class="tg-1ppo">4-2</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">17</td>
+    <td class="tg-ys2m">MUHAMMAD AFIQ BIN ISMAIL</td>
+    <td class="tg-ys2m">4-7</td>
+  </tr>
+</tbody>
+			</table></p>
+	<p>Well done, boys!</p>
+	<h4>Nominated for TNP School Sports Star Award</h4>
+	<p>We are pleased to announce that the following student has been nominated for the TNP School Sports Star Award.</p>
+	<img src="/images/D1.png" 
+     style="width:60%">
+	<h4>MOE Teaching Award</h4>
+	<p>We would like to congratulate our alumnus <b>Mr Fathurrahman Bin Abdul Wahed</b> who would be receiving this year’s <b>MOE Teaching Award</b> at the Teaching Scholarship Presentation Ceremony 2015.<br><br>We wish him all the best in his teaching career.</p>
+	<h4>Winners in the 2015 Tales of ‘S’ eBook Competition</h4>
+	<p>We would like to congratulate Melissa Foo and Randall Ang (both from Sec 4/5) who were eventually selected as <b>two of the fifty winners</b> in the <b>2015 Tales of ‘S’ eBook Competition</b> organised by Civica. <br><br>Their work will be published in the 2015 Tales of ‘S’ publication which will be launched tentatively in August.<br><br>We would like to congratulate Melissa Foo and Randall Ang (both from Sec 4/5) who were eventually selected as <b>two of the fifty winners</b> in the <b>2015 Tales of ‘S’ eBook Competition</b> organised by Civica.<br><br>Their work will be published in the 2015 Tales of ‘S’ publication which will be launched tentatively in August.</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
 
 
 
