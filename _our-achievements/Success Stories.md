@@ -245,6 +245,7 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<ul>
 				<li>Nathaniel Lim Wei Rong (Diploma in Business Studies)</li>
 				<li>Celestine Ng Ruiting (Diploma in Biomedical Engineering)</li>
+			</ul>
 				<p>Our heartiest congratulation to Mr Lim and Ms Ng!</p>
 				<h4>Director’s List at Nanyang Polytechnic</h4>
 				<p>We are pleased to announced that the following alumni of Coral Secondary School have made it to the Director’s List in Nanyang Polytechnic.</p>
@@ -260,9 +261,6 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 				<p>We are pleased to announce that the following alumna of Coral Secondary School had performed exceptionally well.<br><br>Diploma in Biomedical Engineering<br><br>Ms Amanda Er Tse Wern from Temasek Polytechnic who has been awarded the Ministry of Health Healthcare Merit Award (HMA) Scholarship.<br><br>We wish her all the best in her future endeavours.</p>
      </div>
 	</li> 
-</ul>
-
-<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Institute of Technical Education (ITE)</label>
