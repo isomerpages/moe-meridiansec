@@ -273,5 +273,12 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>Our heartiest congratulations to Mr Huin and Ms Lau!  We wish them all the best in their future endeavours<br><br>
 				Posted on 2 June 2015</p>
     </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Others</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
 	</li>  
 </ul>
