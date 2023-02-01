@@ -44,6 +44,9 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>Our heartiest congratulation to Yan Yong for his sterling results and achievement!</p>
 			<h4>Outstanding GCE ‘A’ Level Results (Tampines Junior College)</h4>
 			<p>We are pleased to announce that the following alumni of Coral Secondary School have made outstanding performance in the 2015 GCE A Level Examination during their time at Tampines</p>
+			<img src="/images/SS1.png" 
+     style="width:60%">
     </div>
 	</li>
 </ul>
+
