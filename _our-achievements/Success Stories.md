@@ -297,8 +297,9 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>Three of our students received the Singapore Olympic Foundation – Peter Lim Scholarship for their achievements in football.<br><br>They are Nur Alisha Binte Aidit (Sec 1A2), Zakaria Syari Bin Aidit (Sec 4T1) and Muhammad Haziq Bin Rosni (Sec 5A1).</p>
 			<img src="/images/ss9.jpg" 
      style="width:60%">
+			<h4>Represent Singapore at the Bayern Youth Cup World Finals in Munich</h4>
+			<p>Nur Muhammad Asis Ijilrali, Sec 3A1, was featured in the Straits Times. He was one of the 16 players shortlisted to represent Singapore at the Bayern Youth Cup World Finals in Munich in May. Congratulations and all the best!</p>
     </div>
 	</li>  
 </ul>
-
 
