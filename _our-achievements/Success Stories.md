@@ -186,6 +186,10 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
      style="width:60%">
 			<p>We are pleased to inform everyone that our alumnus, Clement Koh Zong Jun from Class of 2016, has excelled academically at Temasek Polytechnic. He recently graduated with a Diploma in Aviation Management and Services with Merit, and was presented with a Silver Medal for his course and a Director’s List Award. He is now waiting for National Service (NS) enlistment. He has also received an NTU scholarship to study Business. Congratulations, Clement, and all the best! <br><br>Clement has a message for all Meridians.</p>
 		<p>“Hello fellow juniors! Hope you are prepared and ready for your upcoming national examinations! All the best and do not worry too much! You’ve got this! Your hardwork will definitely be paid off.”</p>
+			<h4>Outstanding Republic Polytechnic Graduates</h4>
+			<p>We are pleased to share that our Alumni have done very well for their studies at Republic Polytechnic. They are among the Outstanding RP graduates.</p>
     </div>
 	</li>  
 </ul>
+
+
