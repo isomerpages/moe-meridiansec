@@ -227,8 +227,11 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
      style="width:60%">
 			<h4>Outstanding Academic Achievements at Temasek Polytechnic</h4>
 			<p>This is a list of our alumni, who have recently graduated with excellent results from Temasek Polytechnic. Congratulations!</p>
+			<img src="/images/ss5.jpg" 
+     style="width:60%">
+			<h3>2016</h3>
+			<h4>Director’s List at Nanyang Polytechnic</h4>
     </div>
 	</li>  
 </ul>
-
 
