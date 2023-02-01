@@ -293,6 +293,12 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>Congratulations to Ellasandra, Sec 4E1, for making it to the top 50 of the National Young Leader Award 2019.</p>
 			<img src="/images/ss8.jpg" 
      style="width:60%">
+			<h4>Peter Lim Scholarship for Football</h4>
+			<p>Three of our students received the Singapore Olympic Foundation – Peter Lim Scholarship for their achievements in football.<br><br>They are Nur Alisha Binte Aidit (Sec 1A2), Zakaria Syari Bin Aidit (Sec 4T1) and Muhammad Haziq Bin Rosni (Sec 5A1).</p>
+			<img src="/images/ss9.jpg" 
+     style="width:60%">
     </div>
 	</li>  
 </ul>
+
+
