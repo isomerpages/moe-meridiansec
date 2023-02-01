@@ -139,10 +139,48 @@ description: ""
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Achievements in 2020</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo">No.</th>
+    <th class="tg-1ppo">CCA/ Department</th>
+    <th class="tg-1ppo">Competition</th>
+    <th class="tg-1ppo">Awards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">1</td>
+    <td class="tg-ys2m">Mother Tongue Languages</td>
+    <td class="tg-ys2m">2020 Chinese Reciting Competition<br><br> <br> <br>2020 Chinese ‘Battling the Pandemic’ national writing competition</td>
+    <td class="tg-ys2m">2nd Prize<br><br> <br> <br>1st Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2</td>
+    <td class="tg-1ppo">Aesthetics</td>
+    <td class="tg-1ppo">Singapore Youth Festival (SYF) Open Call Youth Station (Song writing competition)<br><br> </td>
+    <td class="tg-1ppo">Top 15 – Barrinuevo Janea Rainessa Godinez<br><br> </td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">3</td>
+    <td class="tg-ys2m">CPA</td>
+    <td class="tg-ys2m">Animation and Game Making Competition</td>
+    <td class="tg-ys2m">Silver Award</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>  
 </ul>
