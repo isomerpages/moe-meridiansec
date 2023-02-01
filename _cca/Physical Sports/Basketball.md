@@ -82,13 +82,10 @@ third_nav_title: Physical Sports
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Basketball Team 2022</label>
     <div>
-      <p>This is a simple one line item</p>
-    </div>
-	</li>  
-</ul>
-
-<img src="/images/BB01.jpg" 
+			<img src="/images/BB01.jpg" 
      style="width:60%">
+			<center><b>Our Meridian Basketball Team</b></center>
+			<p>In Meridian Basketball, our players are dedicated in their sport and are constantly striving to improve their skills. They also demonstrate strong camaraderie and possess a united team spirit. Through rigorous training sessions, our boys develop discipline, strong values and competencies that will hold them in good stead in their growing years.</p>
 <img src="/images/BB02.jpg" 
      style="width:60%">
 <img src="/images/BB03.jpg" 
@@ -97,3 +94,8 @@ third_nav_title: Physical Sports
      style="width:60%">
 <img src="/images/BB05.jpg" 
      style="width:60%">
+      
+    </div>
+	</li>  
+</ul>
+
