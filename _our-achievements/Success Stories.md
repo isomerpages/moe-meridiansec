@@ -220,6 +220,9 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 		<p>Congratulations to our alumna, Sambo Arianne Lois Dela Cruz, who has excelled academically at Temasek Polytechnic and has been awarded the TP Engineering Scholarship Award based on her first year of study in AY 2018/2019. This prestigious scholarship is given to students with outstanding academic achievement as well as impressive CCA contribution.</p>
 			<img src="/images/ss3.jpg" 
      style="width:60%">
+			<h3>2019</h3>
+			<h4>Gold Medal in Republic Polytechnic</h4>
+			<p>Congratulations to our alumnus, Lau Gern Liang Ian, who was awarded the Gold medal for being top in his cohort for the Sports and Exercise Sciences Course in Republic Polytechnic.</p>
     </div>
 	</li>  
 </ul>
