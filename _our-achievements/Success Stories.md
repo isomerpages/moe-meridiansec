@@ -475,10 +475,14 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
      style="width:60%">
 			<h4>Teacher’s Award for Contribution in Football</h4>
 			<p>Congratulations to our Subject Head (Sports), Mr Quaide Millath, for receiving an award from the Singapore Sports Council for his contribution as National Football Organising Secretary and Team Manager for the Under-18 Combined Schools Team at the Asian Schools Football Federation over the past five years.</p>
+			<img src="/images/ss12.jpg" 
+     style="width:60%">
+			<h3>2018</h3>
+			<h4>Outstanding Youth in Education Award</h4>
+			<p>We are proud to announce that Mr Muhd Khaliq, our Subject Head (Student Management), received the prestigious Outstanding Youth in Education Award 2018 for his passion in teaching and excellent work in moulding the character of students. He pioneered the Meridian Lighthouse Programme, which aims to work with students from the Normal stream by challenging them through interesting and engaging activities.</p>
+			<img src="/images/Muhammad-Khaliq-e1589768601123.jpg" 
+     style="width:60%">
     </div>
 	</li>  
 </ul>
-
-
-
 
