@@ -1100,4 +1100,267 @@ description: ""
 </table></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Achievements in 2014</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-nsi8{background-color:#E5E5E5;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a3j2" colspan="4">Organisation Excellence</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">1</td>
+    <td class="tg-ys2m">National Day Award (Siglap)</td>
+    <td class="tg-ys2m">Commendation Medal</td>
+    <td class="tg-ys2m">Mr Chow Poh Boon</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2</td>
+    <td class="tg-1ppo">Innergy Award (Siglap)</td>
+    <td class="tg-1ppo">SiglapArt@MRT Trail</td>
+    <td class="tg-1ppo">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">3</td>
+    <td class="tg-ys2m">Schools’ Green Audit Awards 2013 (Coral)</td>
+    <td class="tg-ys2m">Schools’ Green Audit Awards 2013 (Coral)</td>
+    <td class="tg-ys2m">Lotus Award</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4</td>
+    <td class="tg-1ppo">3R Awards (Coral)</td>
+    <td class="tg-1ppo">Green Committee</td>
+    <td class="tg-1ppo">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m" colspan="4">Co Curricular Activities</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">1</td>
+    <td class="tg-1ppo">Football (Siglap)</td>
+    <td class="tg-1ppo">East Zone Inter-School Football Championship C Division Boys</td>
+    <td class="tg-1ppo">Champions</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">2</td>
+    <td class="tg-ys2m">Football (Coral)</td>
+    <td class="tg-ys2m">East Zone Inter-School Football Championship (Which division?)</td>
+    <td class="tg-ys2m">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3</td>
+    <td class="tg-1ppo">Football (Coral)</td>
+    <td class="tg-1ppo">Peter Lim Scholarship</td>
+    <td class="tg-1ppo">Antonio (Sec 1/6)Danial Irfan (Sec 2/1)<br><br>Hafiq (Sec 2/1)<br>Haziq Jalal(Sec 2/3)<br>Shahrizan (Sec 2/8)<br>Khidir (Sec 3/1)<br>Hanif (Sec 3/8)<br>Faris (Sec 3/8)</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">4</td>
+    <td class="tg-ys2m">Football (Coral)</td>
+    <td class="tg-ys2m">H-Two-O Ultimate Champions League 2014(9-A-Side Soccer Championship)</td>
+    <td class="tg-ys2m">Champion</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">5</td>
+    <td class="tg-1ppo">Football (Coral)</td>
+    <td class="tg-1ppo">Adidas Invitational Cup Under 14</td>
+    <td class="tg-1ppo">Champion</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">6</td>
+    <td class="tg-ys2m">Football (Coral)</td>
+    <td class="tg-ys2m">Adidas Invitational Cup Under 16</td>
+    <td class="tg-ys2m">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">7</td>
+    <td class="tg-1ppo">Football (Coral)</td>
+    <td class="tg-1ppo">North East CDC Tampines Rover FC YouthChallenge Cup</td>
+    <td class="tg-1ppo">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">8</td>
+    <td class="tg-ys2m">Floorball (Coral)</td>
+    <td class="tg-ys2m">National Inter-School Floorball Championship (C’Division Boys)</td>
+    <td class="tg-ys2m">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">9</td>
+    <td class="tg-1ppo">Floorball (Coral)</td>
+    <td class="tg-1ppo">National Inter-School Floorball Championship</td>
+    <td class="tg-1ppo">Top 6 Nationals (B’ Girls)Top 8 Nationals (B’Boys)</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">10</td>
+    <td class="tg-ys2m">Netball (Coral)</td>
+    <td class="tg-ys2m">M1 Schools Challenge League</td>
+    <td class="tg-ys2m">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">11</td>
+    <td class="tg-1ppo">Netball (Coral)</td>
+    <td class="tg-1ppo">Tampines GRC Netball Tournament</td>
+    <td class="tg-1ppo">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">12</td>
+    <td class="tg-ys2m">Girl Guides (Siglap)</td>
+    <td class="tg-ys2m">Puan Noor Aishah Award</td>
+    <td class="tg-ys2m">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">13</td>
+    <td class="tg-1ppo">NCC (Coral)</td>
+    <td class="tg-1ppo">Best Unit Competition (BUC)</td>
+    <td class="tg-1ppo">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">14</td>
+    <td class="tg-ys2m">NPCC (Coral)</td>
+    <td class="tg-ys2m">Unit Overall Proficiency Award (UOPA)</td>
+    <td class="tg-ys2m">Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">15</td>
+    <td class="tg-1ppo">NCDCC (Coral)</td>
+    <td class="tg-1ppo">Unit Overall Proficiency Award (UOPA)</td>
+    <td class="tg-1ppo">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">16</td>
+    <td class="tg-ys2m">Red Cross (Coral)</td>
+    <td class="tg-ys2m">First Aid Competition (Awareness Category) Preliminary Round</td>
+    <td class="tg-ys2m">1st in the East District</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">17</td>
+    <td class="tg-1ppo">Red Cross (Coral)</td>
+    <td class="tg-1ppo">First Aid Competition (Management Category)Preliminary Round</td>
+    <td class="tg-1ppo">2nd in the East District</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">18</td>
+    <td class="tg-ys2m">Red Cross (Coral)</td>
+    <td class="tg-ys2m">First Aid Competition (Management Category)</td>
+    <td class="tg-ys2m">Top 8 Finalist</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">19</td>
+    <td class="tg-1ppo">Red Cross (Coral)</td>
+    <td class="tg-1ppo">Excellent Unit Award 2013</td>
+    <td class="tg-1ppo">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">20</td>
+    <td class="tg-ys2m">Red Cross (Coral)</td>
+    <td class="tg-ys2m">Community Service Award 2013</td>
+    <td class="tg-ys2m">Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">21</td>
+    <td class="tg-1ppo">Infocomm Club (Coral)</td>
+    <td class="tg-1ppo">Singamania Game Competition</td>
+    <td class="tg-1ppo">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">22</td>
+    <td class="tg-ys2m">Media Club (Coral)</td>
+    <td class="tg-ys2m">Singapore Young Photographers’ Convention</td>
+    <td class="tg-ys2m">4th</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">23</td>
+    <td class="tg-1ppo">Robotics (Coral)</td>
+    <td class="tg-1ppo">Inter-School ITE Robotics Challenge(Creative Challenge)</td>
+    <td class="tg-1ppo">Merit Award</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">24</td>
+    <td class="tg-ys2m">Robotics (Coral)</td>
+    <td class="tg-ys2m">Inter-School ITE Robotics Challenge(Obstacle Challenge)</td>
+    <td class="tg-ys2m">Merit Award</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">25</td>
+    <td class="tg-1ppo">Robotics (Coral)</td>
+    <td class="tg-1ppo">Inter-School ITE Robotics Challenge(Tracing Challenge)</td>
+    <td class="tg-1ppo">Merit Award</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">26</td>
+    <td class="tg-ys2m">Robotics (Coral)</td>
+    <td class="tg-ys2m">Solar Boat Race (Singapore International Water Festival)</td>
+    <td class="tg-ys2m">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">27</td>
+    <td class="tg-1ppo">Robotics (Coral)</td>
+    <td class="tg-1ppo">National Junior Solar Sprint Competition (Car)</td>
+    <td class="tg-1ppo">4th</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">28</td>
+    <td class="tg-ys2m">Robotics (Coral)</td>
+    <td class="tg-ys2m">National Junior Robotics Competition</td>
+    <td class="tg-ys2m">3rd in Best Research</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2" colspan="4">Aesthetics</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">1</td>
+    <td class="tg-ys2m">Symphonic Band (Coral)</td>
+    <td class="tg-ys2m">National Band Competition</td>
+    <td class="tg-ys2m">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2</td>
+    <td class="tg-1ppo">Instrumental Ensemble – Gamelan (Siglap)</td>
+    <td class="tg-1ppo">Combined School Gamelan Fiesta</td>
+    <td class="tg-1ppo">Organiser</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">3</td>
+    <td class="tg-ys2m">Modern Dance (Siglap)</td>
+    <td class="tg-ys2m">DanceWorks Competition</td>
+    <td class="tg-ys2m">3rdBest Dancer</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4</td>
+    <td class="tg-1ppo">Malay Dance (Siglap)</td>
+    <td class="tg-1ppo">Elias CC National Day Observance Ceremony</td>
+    <td class="tg-1ppo"></td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">5</td>
+    <td class="tg-ys2m">Concert Band (Siglap)</td>
+    <td class="tg-ys2m">Istana Open House Performance</td>
+    <td class="tg-ys2m"></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">6</td>
+    <td class="tg-1ppo">English Drama (Siglap)</td>
+    <td class="tg-1ppo">Human Values Drama Competition</td>
+    <td class="tg-1ppo">FinalistBest Actor</td>
+  </tr>
+  <tr>
+    <td class="tg-nsi8" colspan="4">Instructional Programme</td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+	</li>  
 </ul>
