@@ -450,6 +450,15 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<h4>AST Awards</h4>
 			<img src="/images/ss5-1-1024x576.jpg" 
      style="width:60%">
+			<h3>2020</h3>
+			<h4>MOE Service Excellence Awards</h4>
+			<img src="/images/ss6-1-1024x576.jpg" 
+     style="width:60%"><br>
+			<img src="/images/ss7-1-1024x576.jpg" 
+     style="width:60%">
+			<h4></h4>
+			<img src="/images/ss8-1-1024x576.jpg" 
+     style="width:60%">
     </div>
 	</li>  
 </ul>
