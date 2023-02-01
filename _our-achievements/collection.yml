@@ -2,5 +2,5 @@ collections:
   our-achievements:
     output: true
     order:
-      - Success Stories.md
       - Achievements.md
+      - Success Stories.md
