@@ -8,7 +8,8 @@ In Meridian Secondary, we design NE learning experiences to strengthen our stude
 
 The citizenship dispositions are displayed below.
 
-![](/images/NE01.jpg)
+<img src="/images/NE01.jpg" 
+     style="width:70%">
 
 # Highlights
 
