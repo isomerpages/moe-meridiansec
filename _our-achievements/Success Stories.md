@@ -163,8 +163,18 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
   </tr>
 </tbody>
 </table></p>
-		<p>Well done, boys! <br><br>
-			Posted on 15 Apr 2015</p>
+		<p>Well done, boys! <br><br>Posted on 15 Apr 2015</p>
+		<h3>2014</h3>
+		<h4>Outstanding GCE ‘A’ Level Results (Tampines and Meridian Junior College)</h4>
+		<p>We are pleased to announce that the following alumni of Coral Secondary School have performed exceptionally well in the 2014 GCE ‘A’ Level Examination.</p>
+		<ul>
+			<li>Mr Pang Qi En from Tampines Junior College who has obtained 4 distinctions in Physics, Economics, Chinese Language and Project Work.</li>
+			<li>Mr Lee Wei Hao Jonathan from Meridian Junior College who has obtained 3 distinctions in Physics, Chemistry and Mathematics.</li>
+		</ul>
+		<p>We wish them all the best in their future endeavours.</p>
     </div>
 	</li>
 </ul>
+
+
+
