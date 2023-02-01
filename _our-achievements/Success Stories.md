@@ -30,11 +30,22 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>Our alumna, Nuha Omar Zohri-Kung, was featured in BERITAmediacorp in October. She was awarded Anugerah Mendaki, an award to reward and recognize Malay/Muslim students who have done exceptionally well academically. When she was studying  for her GCE ‘O’ Level, she learnt to manage her time well, persevering through her studies while doing volunteer work. She is now studying in Raffles Institution and is also providing free tuition to other children.</p>
 			<img src="/images/ss1-e1589761772689.jpg" 
      style="width:60%">
-			<p>Photo Source: From BERITAmediacorp</>
+			<p>Photo Source: From BERITAmediacorp</p>
+			<h3>2018</h3>
+			<p><b>Congratulations! <br>Muhammad Nafis (Class of 2017)</b></p>
+			<p>The inspiring story of our 2017 student, Muhammad Nafis, is featured in Berita Harian (21 Jan 2018)</p>
+			<p>The sudden loss of his father at beginning of Sec 3 dealt a heavy blow to Nafis. Furthermore, in the same year, his grandma had difficulty eating. She would vomit and was hospitalized. Nafis wanted to help with the care of his grandmother, so he sought permission to be excused from Football CCA to attend to his grandma’s needs at home straight after school. Unfortunately, in the following year when he was in Sec 4, his flat was burnt due to a short circuit and he had to move to a temporary house.</p>
+			<p>All these difficulties and obstacles didn’t deter him. It made him study harder as he didn’t want to disappoint his mother. He wants to go to TJC and then move to university studying accounting. Finally he said that he’s glad that he didn’t disappoint his mum with his O level results. He did his best and he was very pleased with his achievements!</p>
+			<img src="/images/Muhammad-Nafis.jpg" 
+     style="width:60%">
+			<h3>2016</h3>
+			<h5>Outstanding GCE ‘A’ Level Results (Temasek Junior College)</h5>
+			<p>It is our pleasure to share with you that one of our alumni, Mr Teh Yan Yong, has received the College Advisory Committee Awards for Academic Excellence for achieving 5 Distinctions at the GCE A Level Examination at Temasek Junior College.</p>
+			<p>Our heartiest congratulation to Yan Yong for his sterling results and achievement!</p>
+			<h4>Outstanding GCE ‘A’ Level Results (Tampines Junior College)</h4>
+			<p>We are pleased to announce that the following alumni of Coral Secondary School have made outstanding performance in the 2015 GCE A Level Examination during their time at Tampines</p>
     </div>
 	</li>
 </ul>
-
-
 
 
