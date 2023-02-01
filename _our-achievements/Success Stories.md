@@ -20,6 +20,21 @@ We encourage all Meridians to be innovative, develop resilience and learn from t
 			<p>Our alumnus, Low Wei Bin, Class of 2018, has done well in the GCE ‘A’ Level Examinations 2020.</p>
 			<p>Here is his message to his juniors:</p>
 			<p>“Hello juniors! Hope you guys are doing great! An advice I have for you is; learn to view every obstacle as a new opportunity to learn and gain many values from. By viewing things under an optimistic lught, I’m sure you can pull through numerous hurdles in life. Wish you all the best!”</p>
+			<img src="/images/ssj2-e1640582543886.png" 
+     style="width:60%">
+			<p>Our alumna, Nuha Binte Omar Zohri Kung @ Kung Wen Xuan, Class of 2018, performed well in the GCE ‘A’ Level Examinations 2020! Here is a message from Nuha..</p>
+			<p>“Dear Meridians, <br>
+I hope you are thriving. An advice I have for you is to learn to be disciplined and independent. Take every failure as a lesson and never stop improving yourself in every aspect as a student and as a child. Remember to show gratitude to your tribe, for they will support you during tough times. I wish you all the best!”</p>
+			<h3>2019</h3>
+			<h3>Anugerah Mendaki</h3>
+			<p>Our alumna, Nuha Omar Zohri-Kung, was featured in BERITAmediacorp in October. She was awarded Anugerah Mendaki, an award to reward and recognize Malay/Muslim students who have done exceptionally well academically. When she was studying  for her GCE ‘O’ Level, she learnt to manage her time well, persevering through her studies while doing volunteer work. She is now studying in Raffles Institution and is also providing free tuition to other children.</p>
+			<img src="/images/ss1-e1589761772689.jpg" 
+     style="width:60%">
+			<p>Photo Source: From BERITAmediacorp</>
     </div>
 	</li>
 </ul>
+
+
+
+
