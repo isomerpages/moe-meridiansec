@@ -300,8 +300,20 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
      style="width:60%">
 			<h4>Represent Singapore at the Bayern Youth Cup World Finals in Munich</h4>
 			<p>Nur Muhammad Asis Ijilrali, Sec 3A1, was featured in the Straits Times. He was one of the 16 players shortlisted to represent Singapore at the Bayern Youth Cup World Finals in Munich in May. Congratulations and all the best!</p>
+			<h4>Represent Singapore at the Bayern Youth Cup World Finals in Munich</h4>
+			<p>Nur Muhammad Asis Ijilrali, Sec 3A1, was featured in the Straits Times. He was one of the 16 players shortlisted to represent Singapore at the Bayern Youth Cup World Finals in Munich in May. Congratulations and all the best!</p>
+			<img src="/images/ss10.jpg" 
+     style="width:60%">
+			<h3>2018</h3>
+			<h4>Outstanding Normal Course Student Award</h4>
+			<p>Our Alumnus, Gwee Yuan Sheng received  the Lee Kuan Yew Award for Outstanding Normal Course Student Award at The Special Awards Presentation Ceremony 2018. This award is given to students to recognise them for their academic achievements and to encourage them to continue to strive for excellence.<br><br>Here is what he said about his award:<br><br>“I received the Lee Kuan Yew Award for Outstanding Normal Course student at the special awards presentation ceremony at Republic Polytechnic. I was truly ecstatic and humbled by this recognition. My fellow Meridians, it only goes to show that with the support and guidance from parents, teachers and friends, and with a lot of determination and drive, anything is possible. I have indeed reached greater heights by doing well for my N Levels and getting this prestigious award.”</p>
     </div>
 	</li>  
 </ul>
 
-6
+
+
+
+
+
+
