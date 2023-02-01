@@ -17,17 +17,21 @@ The citizenship dispositions are displayed below.
 
 We started the commemoration by viewing the Total Defence Message Video and a quiz on ‘My Total Defence’ type.
 
-![](/images/NE02.jpg)
+
+<img src="/images/NE02.jpg" 
+     style="width:70%">
 
 Our Uniformed Group cadets led the their peers in the different activities such as facilitating the Guardians of the City II card games, Kahoot quiz and the discussion of the case scenarios. Each Upper Sec class was tasked to write a Digital Defence class pledge which they have put up on their class noticeboard.
 
-![](/images/NE03.jpg)
+<img src="/images/NE03.jpg" 
+     style="width:70%">
 
 ### International Friendship Day 2022
 
 With the theme, Singapore In The World, International Friendship Day (IFD) commemoration activities help our students realise the importance of forging good international relations with others. The day started off with our Principal Mr Razali’s sharing on the situation in Ukraine and its impact on Singapore. Thereafter, Sec 1, 2, 4 and 5 students continued the engaging discussions during CCE periods while the Sec 3 students attended the sharing sessions by our International Students which were planned together by the CCE Team and the Internationalisation Team.
 
-![](/images/NE04.jpg)
+<img src="/images/NE04.jpg" 
+     style="width:70%">
 
 ### **Sec 3 NRIC Presentation Ceremony**
 
