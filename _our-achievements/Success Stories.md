@@ -3,7 +3,7 @@ title: Success Stories
 permalink: /success-stories/
 description: ""
 ---
-### Main Success Stories site]
+### Main Success Stories site
 
 **Success Stories**
 
@@ -47,5 +47,3 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
     </div>
 	</li>
 </ul>
-
-
