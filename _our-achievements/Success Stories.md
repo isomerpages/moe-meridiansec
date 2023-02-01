@@ -278,7 +278,10 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Others</label>
     <div>
-      <p>This is a simple one line item</p>
+			<h3>2019</h3>
+			<h4>Top Scorer Award for Football</h4>
+      <p>Abdul Rauf from Football Boys received the Top Scorer Award for scoring a total of 13 goals in the FAS Under-15 Centre of Excellence Championships this year.</p>
     </div>
 	</li>  
 </ul>
+
