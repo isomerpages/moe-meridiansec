@@ -46,7 +46,20 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p>We are pleased to announce that the following alumni of Coral Secondary School have made outstanding performance in the 2015 GCE A Level Examination during their time at Tampines</p>
 			<img src="/images/SS1.png" 
      style="width:60%">
+			<ol>
+				<li><b>Mr Huin Wai Kit Lester</b> for receiving Course Medal for his outstanding performance in Higher Nitec in Mechanical Engineering.</li>
+				<li><b>Ms Lau Jia Yi </b> for receiving Course Medal for her outstanding performance in Higher Nitec in Network Security Technology.
+</li>
+			</ol>
+			<p>Our heartiest congratulations to Mr Huin and Ms Lau!  We wish them all the best in their future endeavours. <br><br>Posted on 2 June 2015</p>
+			<h4>Peter Lim Scholarship 2015</h4>
+			<p>The school would like to congratulate our 17 football team students who have received the Peter Lim Scholarship 2015.</p>
+			<img src="/images/SS2.png" 
+     style="width:60%">
+			<p>They are:</p>
     </div>
 	</li>
 </ul>
+
+
 
