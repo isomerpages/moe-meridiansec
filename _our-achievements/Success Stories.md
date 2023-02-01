@@ -236,7 +236,26 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<img src="/images/C1.png" style="width:60%"><br>
 			<img src="/images/C2.png" style="width:60%"><br>
 			<img src="/images/C3.png" style="width:60%">
+			<h3>Success stories in 2015</h3>
+			<h4>Congratulations!</h4>
+			<img src="/images/C4.png" style="width:60%"><br>
+			<img src="/images/C5.png" style="width:60%">
+			<h4>Outstanding Results (Ngee Ann Polytechnic)</h4>
+			<p>We are pleased to announce that the following alumni of Coral Secondary School have graduated from Ngee Ann Polytechnic with Diploma with Merit.</p>
+			<ul>
+				<li>Nathaniel Lim Wei Rong (Diploma in Business Studies)</li>
+				<li>Celestine Ng Ruiting (Diploma in Biomedical Engineering)</li>
+				<p>Our heartiest congratulation to Mr Lim and Ms Ng!</p>
+				<h4>Director’s List at Nanyang Polytechnic</h4>
+				<p>We are pleased to announced that the following alumni of Coral Secondary School have made it to the Director’s List in Nanyang Polytechnic.</p>
+				<ul>
+					<li>Han Jia Ying Karissa (Diploma in Business Management, Year 2)</li>
+					<li>Wong Wai Hong (Diploma in Sport & Wellness Management, Year 2)</li>
+				</ul>
+				<p>Our heartiest congratulation to Ms Han and Mr Wong!</p>
     </div>
 	</li>  
 </ul>
+
+
 
