@@ -459,7 +459,20 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<h4></h4>
 			<img src="/images/ss8-1-1024x576.jpg" 
      style="width:60%">
+			<p>Congratulations to Ms Koh-Lee Y-Lynn Wendy and Ms Jasmin Tan Jiemin for receiving the Associate of the AST Award!</p>
+			<h4>NIE Caring Teacher Award – National Level Winner</h4>
+			<img src="/images/ss9-1.jpg" 
+     style="width:60%">
+			<p>Congratulations to Mdm Norul HOD CCE for receiving the Caring Teacher Award 2020 at the national level from National Institute of Education. She is one of three national recipients selected from nominees across Singapore.</p>
+			<h4>National Day Awards 2020</h4>
+			<img src="/images/ss10.png" 
+     style="width:60%">
+			<p>We extend our congratulations to our Principal, Mrs Hilda Thong and Mdm Suriati Bte Samat. They were awarded the Long Service Medal. Our Mathematics Senior Teacher, Mr Cheang Cheng Guan Geoffrey received The Commendation Medal.</p>
+			<h3>2019</h3>
+			<h4>AST Teachers Awards</h4>
+			<p>Congratulations to our Senior Teachers, Mr David Vaithilingam and Mr Robin Paik, on receiving the Associate of Academy of Singapore Teachers Awards today. This award recognises their contributions to the professional development of other teachers. Mr David was also recognised as one of the finalists of the President’s Award for teachers this year.</p>
     </div>
 	</li>  
 </ul>
+
 
