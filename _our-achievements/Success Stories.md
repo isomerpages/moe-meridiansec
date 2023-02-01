@@ -263,20 +263,15 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Institute of Technical Education (ITE)</label>
     <div>
-      <p>This is a simple one line item</p>
+			<h3>Success stories in 2015</h3>
+			<h4>Congratulations!</h4>
+      <p>We would like to congratulate the following alumni of Coral Secondary School who have performed exceptionally well in <b>Full-time ITE education programme.</b></p>
+			<ul>
+				<li><b>Mr Huin Wai Kit Lester</b> for receiving Course Medal for his outstanding performance in Higher Nitec in Mechanical Engineering.</li>
+				<li><b>Ms Lau Jia Yi</b>for receiving Course Medal for her outstanding performance in Higher Nitec in Network Security Technology.</li>
+			</ul>
+			<p>Our heartiest congratulations to Mr Huin and Ms Lau!  We wish them all the best in their future endeavours<br><br>
+				Posted on 2 June 2015</p>
     </div>
 	</li>  
 </ul>
-
-**Success stories in 2015**
-
-**Congratulations!**
-
-We would like to congratulate the following alumni of Coral Secondary School who have performed exceptionally well in **Full-time ITE education programme.**
-
-1.  **Mr Huin Wai Kit Lester** for receiving Course Medal for his outstanding performance in Higher Nitec in Mechanical Engineering.
-2.  **Ms Lau Jia Yi**  for receiving Course Medal for her outstanding performance in Higher Nitec in Network Security Technology.
-
-Our heartiest congratulations to Mr Huin and Ms Lau!  We wish them all the best in their future endeavours.
-
-Posted on 2 June 2015
