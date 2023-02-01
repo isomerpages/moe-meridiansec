@@ -259,14 +259,24 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 				<h4>Outstanding Achievement (Temasek Polytechnic)</h4>
 				<p>We are pleased to announce that the following alumna of Coral Secondary School had performed exceptionally well.<br><br>Diploma in Biomedical Engineering<br><br>Ms Amanda Er Tse Wern from Temasek Polytechnic who has been awarded the Ministry of Health Healthcare Merit Award (HMA) Scholarship.<br><br>We wish her all the best in her future endeavours.</p>
     </div>
+	</li>  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Institute of Technical Education (ITE)</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
 	</li>  
 </ul>
 
+**Success stories in 2015**
 
+**Congratulations!**
 
+We would like to congratulate the following alumni of Coral Secondary School who have performed exceptionally well in **Full-time ITE education programme.**
 
+1.  **Mr Huin Wai Kit Lester** for receiving Course Medal for his outstanding performance in Higher Nitec in Mechanical Engineering.
+2.  **Ms Lau Jia Yi**  for receiving Course Medal for her outstanding performance in Higher Nitec in Network Security Technology.
 
+Our heartiest congratulations to Mr Huin and Ms Lau!  We wish them all the best in their future endeavours.
 
-
-
-
+Posted on 2 June 2015
