@@ -431,16 +431,26 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 	<h4>Winners in the 2015 Tales of ‘S’ eBook Competition</h4>
 	<p>We would like to congratulate Melissa Foo and Randall Ang (both from Sec 4/5) who were eventually selected as <b>two of the fifty winners</b> in the <b>2015 Tales of ‘S’ eBook Competition</b> organised by Civica. <br><br>Their work will be published in the 2015 Tales of ‘S’ publication which will be launched tentatively in August.<br><br>We would like to congratulate Melissa Foo and Randall Ang (both from Sec 4/5) who were eventually selected as <b>two of the fifty winners</b> in the <b>2015 Tales of ‘S’ eBook Competition</b> organised by Civica.<br><br>Their work will be published in the 2015 Tales of ‘S’ publication which will be launched tentatively in August.</p>
     </div>
+	</li>  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Staff</label>
+    <div>
+			<h3>2021</h3>
+			<h4>NIE Award</h4>
+			<img src="/images/ss1-1.png" 
+     style="width:60%">
+      <p>Mr Lee Jiaqi, Arthur, our Science Teacher, was the winner of the Singapore Association for the Advancement of Science Prize. The award is presented to NIE teachers who have displayed best performance in the teaching of Science in the Postgraduate Diploma in Education programme.</p>
+			<h4>MOE Service Excellence Awards</h4>
+			<img src="/images/ss2-1-1024x576.jpg" 
+     style="width:60%"><br>
+			<img src="/images/ss3-1-1024x576.jpg" 
+     style="width:60%"><br>
+			<img src="/images/ss4-1-1024x576.jpg" 
+     style="width:60%">
+			<h4>AST Awards</h4>
+			<img src="/images/ss5-1-1024x576.jpg" 
+     style="width:60%">
+    </div>
 	</li>  
 </ul>
-
-
-
-
-
-
-
-
-
-
 
