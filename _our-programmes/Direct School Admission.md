@@ -194,3 +194,99 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
     b.  Any recommendations or references (e.g. student testimonial).
 2.  For students NOT studying in MOE mainstream primary schools  <br>
     Students not studying in MOE schools will require to obtain a Registration Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can apply through the DSA-Sec Portal. For more information, please refer to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
+		
+* * * 
+
+### **For DSA Enquiries**
+
+For general enquiries, you may contact:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tsok">Mr Quaide Millath<br>(SH/PE &amp; CCA)</th>
+    <th class="tg-tsok">Tel: 6583 1387 (ext. 303)<br>Email: quaide_millath@schools.gov.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl">Mr Joel Boon<br>(SH/Chemistry)</td>
+    <td class="tg-xyrl">Tel: 6583 1387 (ext. 305)<br>Email: boon_jun_hao_joel@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+For enquiries on specific talent areas, you may contact:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo" rowspan="2"><span style="background-color:#FFF">Community Youth Leadership</span></th>
+    <th class="tg-1ppo"><span style="background-color:#FFF">Ms Jasmin Tan</span><br><span style="background-color:#FFF">Email: jasmin_tan_jiemin@schools.gov.sg</span></th>
+  </tr>
+  <tr>
+    <th class="tg-1ppo"><span style="background-color:#FFF">Ms Ida Murni</span><br><span style="background-color:#FFF">Email: ida_murni_ismail@schools.gov.sg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo" rowspan="2"><span style="background-color:#FFF">Visual Arts</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Ong Yin Yin</span><br><span style="background-color:#FFF">Email: ong_yin_yin@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Mdm Norzalina</span><br><span style="background-color:#FFF">Email: norzalina_bohari@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Angklung/Kulintang Ensemble</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Mdm Sahrul</span><br><span style="background-color:#FFF">Email: sahrul_bahriah_mohamed_taib@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Concert Band</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Jasmin Tan</span><br><span style="background-color:#FFF">Email: jasmin_tan_jiemin@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Modern Dance</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Wang Dan</span><br><span style="background-color:#FFF">Email: wang_dan_a@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Badminton</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Selvi</span><br><span style="background-color:#FFF">Email: selvi_varathappan@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Basketball</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Mr Joe Mei</span><br><span style="background-color:#FFF">Email: mei_yung_jian_joe@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Floorball</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Mr Justin Toh</span><br><span style="background-color:#FFF">Email: toh_choon_gee_justin@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo" rowspan="2"><span style="background-color:#FFF">Football</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Kahbini Raj</span><br><span style="background-color:#FFF">Email: kahbini_raj@schools.gov.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Ms Nurhidayah</span><br><span style="background-color:#FFF">Email: nurhidayah_mohammad_ibrahim@schools.gov.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+**_For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)_**
+
+**Thank you and we look forward to meeting you soon!**
