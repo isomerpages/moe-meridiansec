@@ -22,5 +22,19 @@ description: ""
 			<img src="/images/Design-thinking02.jpg" 
      style="width:60%">
     </div>
+	</li>  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">STAFF INNOVATION</label>
+    <div>
+      <p>All staff are trained in Design Thinking through an in-house workshop conducted by the Innovation Team.</p>
+			<p>At the beginning of the year, all staff went through a Design Thinking (DT) Refresher Workshop. This workshop aims to strengthen teachers’ knowledge on DT processes, focusing on the ‘Empathy’ stage.</p>
+			<p>With the enhanced knowledge in DT, which is a tool for innovation, staff will then apply the processes into their various areas of work for improvements and innovation.</p>
+			<img src="/images/Design-thinking03.jpg" 
+     style="width:60%">
+			<p>Staff submit their ideas via the Changemakers Challenge and the best ideas are shared with all staff via video and recognised during Staff Contact Time and social media.</p>
+			<img src="/images/Design-thinking04.jpg" 
+     style="width:60%">
+    </div>
 	</li>  
 </ul>
+
