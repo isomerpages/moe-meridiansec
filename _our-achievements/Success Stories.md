@@ -283,10 +283,10 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
       <p>Abdul Rauf from Football Boys received the Top Scorer Award for scoring a total of 13 goals in the FAS Under-15 Centre of Excellence Championships this year.</p>
 			<img src="/images/ss6.jpg" 
      style="width:60%">
+			<h4>Plain English Speaking Awards</h4>
+			<p>Astrid, Sec 1E4, participated in the Plain English Speaking Awards held by YMCA. It is a breakthrough for Meridian to be one of the seven finalists in this prestigious competition.</p>
     </div>
 	</li>  
 </ul>
 
 
-		 
-		 
