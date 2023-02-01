@@ -253,9 +253,20 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 					<li>Wong Wai Hong (Diploma in Sport & Wellness Management, Year 2)</li>
 				</ul>
 				<p>Our heartiest congratulation to Ms Han and Mr Wong!</p>
+			<img src="/images/C6.png" style="width:60%"><br>
+			<img src="/images/C7.png" style="width:60%">
+				<h3>2014</h3>
+				<h4>Outstanding Achievement (Temasek Polytechnic)</h4>
+				<p>We are pleased to announce that the following alumna of Coral Secondary School had performed exceptionally well.<br><br>Diploma in Biomedical Engineering<br><br>Ms Amanda Er Tse Wern from Temasek Polytechnic who has been awarded the Ministry of Health Healthcare Merit Award (HMA) Scholarship.<br><br>We wish her all the best in her future endeavours.</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
+
+
 
 
 
