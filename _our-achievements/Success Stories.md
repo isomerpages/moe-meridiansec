@@ -214,8 +214,13 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<p> * Student formerly from Coral Secondary School<br># Student formerly from Siglap Secondary School</p>
 		<h4>Singapore Polytechnic Scholarship (Engineering)</h4>
 		<p>Congratulations to our alumna, Psalm Micaela Salde, who was selected for this year’s Singapore Polytechnic Scholarship (Engineering). The award recognises students with excellent academic achievements, outstanding leadership qualities and significant accomplishments in co-curricular activities.</p>
+			<img src="/images/ss2.jpg" 
+     style="width:60%">
+			<h4>Temasek Polytechnic Engineering Scholarship Award</h4>
+		<p>Congratulations to our alumna, Sambo Arianne Lois Dela Cruz, who has excelled academically at Temasek Polytechnic and has been awarded the TP Engineering Scholarship Award based on her first year of study in AY 2018/2019. This prestigious scholarship is given to students with outstanding academic achievement as well as impressive CCA contribution.</p>
     </div>
 	</li>  
 </ul>
+
 
 
