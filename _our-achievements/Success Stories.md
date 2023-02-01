@@ -231,6 +231,7 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
      style="width:60%">
 			<h3>2016</h3>
 			<h4>Director’s List at Nanyang Polytechnic</h4>
+			<img src="/images/Success-Stories-22-Dec-2016.jpg" style="width:60%">
     </div>
 	</li>  
 </ul>
