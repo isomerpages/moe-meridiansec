@@ -174,7 +174,18 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 		<p>We wish them all the best in their future endeavours.</p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Polytechnic</label>
+    <div>
+			<h3>2020</h3>
+			<img src="/images/ssp1-e1640581098781.png" 
+     style="width:60%">
+      <p>Congratulations to our alumni who have done very well in their studies at Temasek Polytechnic! Seen here is the list of awards that they received.</p>
+			<img src="/images/ssp2-e1640581291398.png" 
+     style="width:60%">
+			<p>We are pleased to inform everyone that our alumnus, Clement Koh Zong Jun from Class of 2016, has excelled academically at Temasek Polytechnic. He recently graduated with a Diploma in Aviation Management and Services with Merit, and was presented with a Silver Medal for his course and a Director’s List Award. He is now waiting for National Service (NS) enlistment. He has also received an NTU scholarship to study Business. Congratulations, Clement, and all the best! <br><br>Clement has a message for all Meridians.</p>
+		<p>“Hello fellow juniors! Hope you are prepared and ready for your upcoming national examinations! All the best and do not worry too much! You’ve got this! Your hardwork will definitely be paid off.”_</p>
+    </div>
+	</li>  
 </ul>
-
-
-
