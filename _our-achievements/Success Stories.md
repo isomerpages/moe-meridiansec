@@ -223,7 +223,12 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<h3>2019</h3>
 			<h4>Gold Medal in Republic Polytechnic</h4>
 			<p>Congratulations to our alumnus, Lau Gern Liang Ian, who was awarded the Gold medal for being top in his cohort for the Sports and Exercise Sciences Course in Republic Polytechnic.</p>
+			<img src="/images/ss4.jpg" 
+     style="width:60%">
+			<h4>Outstanding Academic Achievements at Temasek Polytechnic</h4>
+			<p>This is a list of our alumni, who have recently graduated with excellent results from Temasek Polytechnic. Congratulations!</p>
     </div>
 	</li>  
 </ul>
+
 
