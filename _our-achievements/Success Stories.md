@@ -258,9 +258,9 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 				<h3>2014</h3>
 				<h4>Outstanding Achievement (Temasek Polytechnic)</h4>
 				<p>We are pleased to announce that the following alumna of Coral Secondary School had performed exceptionally well.<br><br>Diploma in Biomedical Engineering<br><br>Ms Amanda Er Tse Wern from Temasek Polytechnic who has been awarded the Ministry of Health Healthcare Merit Award (HMA) Scholarship.<br><br>We wish her all the best in her future endeavours.</p>
-    </div>
+     </div>
 	</li>  
-	<li>
+  <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Institute of Technical Education (ITE)</label>
     <div>
