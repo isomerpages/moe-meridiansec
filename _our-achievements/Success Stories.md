@@ -188,6 +188,32 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 		<p>“Hello fellow juniors! Hope you are prepared and ready for your upcoming national examinations! All the best and do not worry too much! You’ve got this! Your hardwork will definitely be paid off.”</p>
 			<h4>Outstanding Republic Polytechnic Graduates</h4>
 			<p>We are pleased to share that our Alumni have done very well for their studies at Republic Polytechnic. They are among the Outstanding RP graduates.</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zr06">Afiq Zuhaily Bin Mohd Fadzil *</th>
+    <th class="tg-zr06">Diploma in Biotechnology with Merit</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-faf8">So Zhi Hui, Aileen #</td>
+    <td class="tg-faf8">Diploma in Supply Chain Management with Merit and Diploma Plus Certificate in International Business</td>
+  </tr>
+</tbody>
+</table></p>
+			<p> * Student formerly from Coral Secondary School<br># Student formerly from Siglap Secondary School</p>
+		<h4>Singapore Polytechnic Scholarship (Engineering)</h4>
+		<p>Congratulations to our alumna, Psalm Micaela Salde, who was selected for this year’s Singapore Polytechnic Scholarship (Engineering). The award recognises students with excellent academic achievements, outstanding leadership qualities and significant accomplishments in co-curricular activities.</p>
     </div>
 	</li>  
 </ul>
