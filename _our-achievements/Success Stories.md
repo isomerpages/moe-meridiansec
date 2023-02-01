@@ -471,8 +471,14 @@ I hope you are thriving. An advice I have for you is to learn to be disciplined 
 			<h3>2019</h3>
 			<h4>AST Teachers Awards</h4>
 			<p>Congratulations to our Senior Teachers, Mr David Vaithilingam and Mr Robin Paik, on receiving the Associate of Academy of Singapore Teachers Awards today. This award recognises their contributions to the professional development of other teachers. Mr David was also recognised as one of the finalists of the President’s Award for teachers this year.</p>
+			<img src="/images/ss11.jpg" 
+     style="width:60%">
+			<h4>Teacher’s Award for Contribution in Football</h4>
+			<p>Congratulations to our Subject Head (Sports), Mr Quaide Millath, for receiving an award from the Singapore Sports Council for his contribution as National Football Organising Secretary and Team Manager for the Under-18 Combined Schools Team at the Asian Schools Football Federation over the past five years.</p>
     </div>
 	</li>  
 </ul>
+
+
 
 
