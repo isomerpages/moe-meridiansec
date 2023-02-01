@@ -102,4 +102,19 @@ third_nav_title: Physical Sports
 			<p>“Hi, my name is Nathan, from class 4A3, Vice-Captain of Meridian Basketball School Team. On behalf of my basketball peers, I would like to thank our teachers-in-charge, Mr Joe, Mrs Koh and Mr Xia, for inspiring us to do our very best in our trainings. I would like to also thank our coach, for instilling self-discipline in us and enabling us to be better despite our shortcomings. These past 4 years have been quite a journey for me as I had to deal with challenges such as learning how to work as a team during trainings. But by understanding my peers, I have come to understand what it means to have team spirit and its importance. Juggling study time and trainings has been challenging but time management has kept me from falling off both ends. I hope we can learn from our defeat in this year’s National School Games and use the experience to come back stronger. I also wish for the sec 3s to find out their strengths and weaknesses and how they can improve. Not everyone is perfect, but we have to try. I have faith in the sec 3 boys that they can be good role models to their juniors. As I step down from this Vice-Captain position, I have the peace of mind, knowing that I leave behind such capable juniors.”</p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Basketball Team 2021</label>
+    <div>
+      <img src="/images/bball%202021-1.png" 
+     style="width:60%"><br>
+			<img src="/images/bball%202021-2.png" 
+     style="width:60%">
+			<p>“The year of 2020 has brought along a lot of changes.  The pandemic has forced all competitions to stop and the trainings paused for several months.  We had to resort to training online via zoom with our coach and teachers on the other end of the screen, teaching as best as they could.  Many of us were really sad and disappointed that we could not compete but we understood the reasons and the volatile situation then.  Our hope is that our juniors will continue to grow as skillful players and someday, Meridian can compete once again.”</p>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/AUisR96hFiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/CO93lmatM-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+	</li>  
 </ul>
+
+
