@@ -116,4 +116,25 @@ Extraordinary Youth Leaders
 <figcaption> <strong>Our cadets participating in the NCC Sports Championship at Loyang View Secondary School.</strong> </figcaption>
 </figure>
 
+#### Selected highlights from our past activities
 
+<img src="/images/NCC6.jpg" style="width:50%">
+<img src="/images/NCC7.jpg" style="width:50%">
+<img src="/images/NCC8.jpg" style="width:50%">
+<img src="/images/NCC9.jpg" style="width:50%">
+<img src="/images/NCC10.jpg" style="width:50%">
+<img src="/images/NCC11.jpg" style="width:50%">
+<img src="/images/NCC12.jpg" style="width:50%">
+<img src="/images/NCC13.jpg" style="width:50%">
+
+* * *
+
+### Our CCA Experience
+
+_I have learnt a lot from NCC. This CCA has taught me a lot of life lessons and skills that I can apply in my everyday life. They also give me important values for me to hold on in NCC such as being Confident or taking initiative. An example of the values I have learnt is that while I was taking a key role in NCC as a CCA Leader, I have learnt to be more confident in myself and take in initiative as my role in NCC is supposed to teach and let the others bond together. I learnt on how to be more open and to speak up as I must be the one to do so to guide the others in learning. I have always been a quiet person back when I was young, and I barely speak up for myself back then. But, due to NCC pushing my limits and teaching me values I hold onto till this day, I was able to speak up with confidence and pride while helping to guide the Juniors in my CCA throughout some activities like foot drills to oversee or bonding to tell my experiences and to pass down what I have learnt during my time in NCC. For the skills I have learnt, I learn how to tie a knot which can be applied to making a tent from scratch and learn how to do urban ops where I learn the different methods of moving with a rifle such as the leopard crawl or the baby crawl with the rifle. Although some of the skills I have learnt do not need to be applied in my everyday life, to me it is still fun to learn new things and maybe one day use it to my advantage when the situation calls for that certain skill._
+
+**– Aiman Shah Bin Anwar, 3E1, 2022**
+
+_In my 3 years in NCC, I have learnt a lot of things like resilience, hard work, working together as a team and many more. This CCA has pushed me to limits that I have not gone to before, both mentally and physically, and has made me a stronger person in general._
+
+**– Perillo Ethan De Jesus, 3A1, 2022**
