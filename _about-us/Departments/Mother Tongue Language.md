@@ -104,9 +104,16 @@ third_nav_title: Departments
 			<img src="/images/ML02.jpg"  style="width:60%">
 			<h4>Julai 2022 – Siri Ceramah dan Kuliah Menengah 3</h4>
 			<p>Pada penggal ketiga tahun ini, Unit Bahasa Melayu Sekolah Menengah Meridian mula untuk menganjurkan Siri Ceramah dan Kuliah bagi pelajar Menengah 3 yang akan mengambil aliran Ekspres. Siri ceramah dan kuliah ini memberi pelajar latihan intensif yang melatih mereka tentang teknik-teknik menjawab soalan peperiksaan peringkat O. Tujuannya adalah bagi pelajar Menengah 3 mempersiapkan diri untuk menduduki peperiksaan akhir tahun pada Oktober 2022, selain memberikan mereka pendedahan seawal peringkat ini agar mereka lebih bersedia untuk menduduki peperiksaan peringkat O kelak. Antara topik-topik yang disentuh termasuklah (a) Penulisan Ekspositori (b) Penekanan terhadap soalan-soalan HOT bagi bahagian kefahaman (c) Imbuhan.</p>
+			<img src="/images/ML01.jpg"  style="width:60%">
+			<h4>April 2022- Rakan Bahasa</h4>
+			<p>Muhammad Rizq Aqasya dari 1E2 dan Luqman Nurhakeem dari 1E3 telah dilantik sebagai Rakan Bahasa di upacara yang berlangsung secara maya pada 1 April 2022. Pelantikan oleh Majlis Bahasa Melayu Singapura (MBMS) ini akan memberikan mereka peluang untuk mengikut serta dalam aktiviti-akvititi yang dijalankan sepanjang tahun seperti acara “Kembara Rakan Bahasa”.<br><br>
+Meski baru menjejaki alam persekolahan di peringkat sekolah Menengah, para pejuang bahasa ini diberi tugas untuk menggalak dan mengongsi keindahan bahasa Melayu bersama para pelajar menengah Meridian yang lain!  <br><br>
+Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian Kesihatan merangkap Perhubungan dan Penerangan, Cik Rahayu Mahzam.
+<p>
     </div>
 	</li>  
 </ul>
 
+****
 
 
