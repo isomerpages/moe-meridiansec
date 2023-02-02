@@ -15,4 +15,4 @@ Trainings by professionals are also conducted to further widen the students’ s
 <img src="/images/instagram.png" 
      style="width:10%">
 
-<center><a href="https://www.instagram.com/meridianmediaclub/">Click here</a></center>
+<center><a href="https://www.instagram.com/meridianmediaclub/">https://www.instagram.com/meridianmediaclub/</a></center>
