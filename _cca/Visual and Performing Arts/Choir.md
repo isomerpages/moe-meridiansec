@@ -4,3 +4,81 @@ permalink: /home/cca/visual-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
+### About Us
+
+The Meridian Secondary School (MSS) Choir was formed in 1999 by the late Madam Ong Foon. The Choir aims to bring out the best in all members through rigorous training in vocal techniques and musicality. Opportunities are also given to develop students’ leadership skills. As a whole, MSS Choir provides students with avenues to develop their interpersonal skills when working together, and also areas to build their personal confidence and self-esteem when they perform regularly on stage. The Choir has grown to a proud strength of 60 singers. Since 2019, we have recruited male voices and are now a full SATB Choir (Sopranos, Altos, Tenors and Basses)!
+
+The Choir actively performs in school events. Other performances include the National Day Parade as part of the Combined Secondary School Choir, charitable concerts at Changi General Hospital, and Pasir Ris West CC events.
+
+* * *
+
+### Schedule and Venue
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-92cm{background-color:#A6D3F7;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-92cm">Day</th>
+    <th class="tg-92cm">Time</th>
+    <th class="tg-92cm">Venue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">Tuesday</td>
+    <td class="tg-a3j2">2.45 pm to 5.15 pm</td>
+    <td class="tg-a3j2">Netball Court</td>
+  </tr>
+</tbody>
+</table>
+
+### Teachers-in-charge
+
+*   Mdm Shermane Yeo
+*   Ms Astri
+*   Mr Cheong Kim Gin
+*   Mr Chou Cher Hoong
+
+### Instructor
+
+*   Ms Ho Lian-Ian
+
+<img src="/images/choir-01.jpg" 
+     style="width:20%">
+		 
+Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in this year. She graduated with a Master of Music Studies from The University of Queensland, with specialisation in choral conducting. She is a seasoned Music Director and Conductor. She brings with her a vast wealth of experience in leading and developing school choirs in various primary and secondary schools. Over the years, she has successfully led numerous schools in achieving awards in local and international events, such as the Singapore Youth Festival Central Judging of Choirs, Singapore International Choral Festival and Hong Kong Winter Choral Festival. Ms Ho believes in building a strong foundation in music education through providing musical guidance and direction to choir members. She also advocates developing strong choir leaders and self-discipline among choir members, as well as creating an enjoyable learning environment during every choir session. With Ms Ho’s strong leadership, professional experience and accomplishments, we are working as a cohesive team to inspire and motivate our MSS Choir to reach new heights!
+
+* * *
+
+### Highlights
+
+The MSS Choir has established itself as a pivotal Performing Arts group in Meridian Secondary School with its track record of offering its members a comprehensive programme that promotes the holistic development of its members. Besides equipping its members with the technical skills of singing and developing their sense of musicality, the Choir also provides its members with a unique and valuable opportunity to experience the intricacies of working with a group of fellow musicians.
+
+#### **2022**
+
+_**Sec 4 Values in Action – Showing Appreciation to Support Staff**_  
+To show appreciation to our school’s non-teaching support staff for their hard work and dedicated service, as well as to bring joy, positivity and sense of community to them, our Sec 4 Choir members embarked on a VIA project to produce a video recording of the song “Evening Rise”. Kudos to our Sec 4s for their months of unyielding practice, rehearsals, and a wonderful studio recording!
+
+![](/images/choir-05-1.jpg)
+
+With detailed planning and preparations, Choir successfully executed a smooth Sec 1 CCA Experience-cum-Trial programme over a few weeks. Through lively and interesting presentations, interactions and trials, our members were able to fully engage the Sec 1s and pique their interest to joining Choir.
+
+![](/images/choir-06.jpg)
+
+Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to show their appreciation to their seniors and organised a most wonderous event. The seniors were pampered with food and snacks, and taken down the memory lane with games and quizzes. A big shout-out to Sec 4s for your leadership, your dedication and most importantly for your tender love and care of the juniors. You will be sorely missed!
+
+![](/images/choir-07-2.jpg)
+
+_**Training and Exposure**_
+
+**Concerts & Workshop**
+
+Choir aims to provide our members with a platform to develop their passion for singing through learning different genres of music and sing well with confidence while performing. What better to way is there to learn than by attending concerts and participating in related workshops? Members made use of the June and September school holidays to attend a concert, Nelson’s Voyage, held at the Victoria Concert Hall as well as participated in two workshops held under the auspice of the Voices of Singapore Festival 2022.
