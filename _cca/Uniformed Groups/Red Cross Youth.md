@@ -144,3 +144,7 @@ Felix Dave Khor Wei Ming  <br>
 *   First Aid Championships Senior Category (Bronze)
 
 ### Highlights of Events
+
+![](/images/Red-Cross-01.jpg)
+![](/images/Red-Cross-02.jpg)
+![](/images/Red-Cross-03.jpg)
