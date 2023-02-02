@@ -16,3 +16,35 @@ Trainings by professionals are also conducted to further widen the students’ s
      style="width:10%">
 
 <center><a href="https://www.instagram.com/meridianmediaclub/">https://www.instagram.com/meridianmediaclub/</a></center>
+
+### Major events supported
+
+*   Speech and Prize Presentation Day
+*   Student Councillor Investiture
+*   National Day Celebration
+*   Graduation Day Celebration
+*   Staff appreciation Day
+
+### Competitions participated
+
+*   16th Ngee Ann Photography Exhibition 2021
+    *   Malcolm Pong of 1A1 and Royce Li of 3E1 have been selected to exhibit their works in Lasalle College of Arts.
+*   Our Schools, Our Stories photo and video contest 2021.
+*   ibuildsg photography competition 2022
+
+### Teachers In-charge
+
+*   Mr Jeffrey Low Kok Hua (Overall IC)
+*   Mdm Dewi Haryanti Hussein (2IC)
+*   Mr Tan Toon Wuay
+*   Mdm Norzalina Bohari
+*   Ms Ummu Rabbisyfina
+
+### CCA Schedule
+
+*   Tuesday and Thursday, 3:00 pm to 5:00 pm
+*   Venue: Computer Lab 1 or 2
+
+### CCA in Action!
+
+#### CCA Experience for Sec 1s
