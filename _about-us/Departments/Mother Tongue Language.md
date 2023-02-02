@@ -124,8 +124,18 @@ Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka men
 			<h3>2021</h3>
 			<h4>Mac 2021 (Pertandingan Bahasa 4PM – Malay Debate Competition 4PM)</h4>
 			<p>Empat pelajar Menengah 3 Ekspres memasuki peraduan debat dalam Bahasa Melayu di peringkat nasional yang dianjurkan oleh Persatuan Persuratan Pemuda Pemudi Melayu (4PM). Disebabkan COVID-19 pada tahun ini, pusingan peringkat saringan dijalankan dalam talian. Daripada empat pelajar yang memasuki pertandingan tersebut, Mahirah dan Ryan Aniq muncul sebagai pembahas terbaik bagi pusingan saringan. Syabas diucapkan kepada mereka!</p>
+			<img src="/images/ml10-1.jpg"  style="width:60%">
+			<p>Para pembahas Meridian sedang beraksi dengan menjadi pihak penyanggah bagi perlawanan pertama. Mauduk yang dibahasakan ialah “Rakyat Singapura terlalu bergantung dengan teknologi dalam kehidupan seharian mereka”</p>
+			<h4>Mei 2021</h4>
+			<h4>(Aktiviti Dwi-Minggu Bahasa Ibunda bagi Pelajar Menengah 1 – MTL Fortnight Activities for Sec 1 students)</h4>
+			<p>Daripada mempelajari tentang sejarah yang luas tentang Wayang Kulit, hingga kepada pembikinan Wayang Kulit itu sendiri, kesemua pelajar Menengah 1 daripada aliran yang berbeza-beza diberikan peluang untuk menikmati aktiviti-aktiviti tersebut bersempena dengan sambutan Dwi-Minggu Bahasa Ibunda.<br><br>
+Para pelajar memberikan maklum balas menerusi program itu mereka dapat mempelajari dan menghargai seni persembahan tradisional di Nusantara.<br><br>
+Lebih menarik lagi, kesemua aktiviti dijalankan di dalam suasana yang selesa dan selamat disebabkan oleh COVID-19. Aktiviti-aktiviti dijalankan di dalam bilik darjah masing-masing!</p>
     </div>
 	</li>  
 </ul>
+
+
+
 
 123
