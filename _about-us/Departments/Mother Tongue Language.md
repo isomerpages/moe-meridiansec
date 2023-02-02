@@ -16,7 +16,28 @@ third_nav_title: Departments
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Highlights - Chinese Language</label>
     <div>
-      <p>This is a simple one line item</p>
+			<p><b>中一文化营</b></p>
+			<ul>
+				<li>2022 – 线下工作坊：制作泥塑和风筝</li>
+				<li>2021 – 线上工作坊：制作脸谱和扇画</li>
+				<li> 2020 – 线上讲故事会：孙悟空三打白骨精</li>
+			</ul>
+			<p>母语双周</p>
+			<ul>
+				<li>2022</li>
+				<ul>
+					<li>中二米食文化，制作红龟粿</li>
+					<li>中三学习篆刻</li>
+					<li>中一至中三创意作文比赛</li>
+				</ul>
     </div>
 	</li>   
 </ul>
+
+*   2021
+    *   中二制作泥塑
+    *   中三欣赏稻米文化
+    *   中一至中三创意作文比赛
+*   2020
+    *   中一至中四京剧变脸艺术
+    *   中一至中三创意作文比赛
