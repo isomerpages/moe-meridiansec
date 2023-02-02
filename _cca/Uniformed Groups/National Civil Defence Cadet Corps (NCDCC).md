@@ -86,51 +86,80 @@ Students who are enrolled in NCDCC can look forward to participating in a large 
 
 <figure>
 <img src="/images/NCDCC-03.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>East Zone Interschool Games – Collaboration between selected east zone schools</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-04.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>Fire Station Visit @ Changi Fire Station</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-05.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>VIA – NCDCC cadets enlivening the school library with greenery</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-06.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>Precision Drill Competition 2022</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-07.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>NCDCC CCA Showcase 2022 – Talks and activities related to the CCA</strong></figcaption>
 </figure>
+
+* * *
+### 2021
 
 <figure>
 <img src="/images/NCDCC-08.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>Total Defence Day Sharing by Uniformed Group Cadets</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-09.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>Service Month 2021 – Showcase and sharing of life-saving skills</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-10.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>NCDCC Affirmation Day 2021 – Online zoom session for Sec 1 cadets</strong></figcaption>
 </figure>
+
+* * * 
+
+### 2020
 
 <figure>
 <img src="/images/NCDCC-11.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>NCDCC Psychological First Aid Course 2020</strong></figcaption>
 </figure>
 
 <figure>
 <img src="/images/NCDCC-12.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+<figcaption> <strong>Total Defence Exhibition @ Singapore Discovery Centre</strong></figcaption>
 </figure>
 
+### Achievements
+
+
+### 2022
+
+*   Unit Overall Performance Award – Gold
+*   Precision Drill Competition – 2nd Place
+*   SCDF-NCDCC Pinnacle Badge – Awarded to Low Zi Cheng Marcus and Muhammad Syazwan Bin Osman
+
+* * *
+
+### 2021
+
+*   Unit Overall Performance Award – Gold
+*   SCDF-NCDCC Pinnacle Badge – Awarded to Reiko Tan and Wong Wei Jun, Abel
+
+* * *
+
+### 2020
+
+*   Unit Overall Performance Award – Gold
+*   SCDF-NCDCC Pinnacle Badge – Awarded to Nurul Izzaty
