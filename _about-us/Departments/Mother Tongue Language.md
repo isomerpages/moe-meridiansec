@@ -139,6 +139,14 @@ Lebih menarik lagi, kesemua aktiviti dijalankan di dalam suasana yang selesa dan
 			<p>Ramai yang tahu tentang songkok, namun tidak ramai yang tahu tentang Tanjak. Itulah yang dikatakan oleh para pelajar Menengah 3 selepas mereka menjalani aktiviti membuat Tanjak.<br><br>
 Selain mempelajari tentang teknik pembuatan tanjak, pelajar-pelajar Menengah 3 juga mempelajari tentang sejarah dan kepentingan Tanjak dalam masyarakat Melayu.<br><br>
 Setiap tanjak dibuat dengan menggunakan helaian batik dan keratan suratkhabar.</p>
+			<img src="/images/ml10-5.jpg"  style="width:60%">
+			<img src="/images/ml10-6.jpg"  style="width:60%">
+			<p>‘Pendekar’ Sekolah Menengah Meridian yang menampilkan hasil buatan tanjak mereka.
+</p>
+			<h4>Julai 2021</h4>
+			<h4>(Aktiviti Dwi-Minggu Bahasa Ibunda bagi Pelajar Menengah 2 – MTL Fortnight Activities for Sec 2 students)</h4>
+			<p>Tirai program Dwi-Minggu Bahasa Ibunda ditutup dengan aktiviti mempelajari cara-cara menulis huruf Jawi bagi pelajar Menengah 2. Meski tidak pernah menulis tulisan Jawi sebelum ini, para pelajar telah berjaya untuk menulis nama-nama mereka dalam tulisan Jawi dengan penuh yakin selepas program dijalankan.<br><br>
+Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis seperti cat berwarna dan kanvas untuk mewarnakan hasil penulisan Jawi mereka.</p>
     </div>
 	</li>  
 </ul>
