@@ -120,7 +120,9 @@ Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka men
 			<p>‘Pelapis’ seni kebudayaan mempelajari cara-cara menggendang dalam persembahan seni dikir barat.</p>
 			<img src="/images/malay02.jpg"  style="width:60%">
 			<p>Bukan sahaja para pelajar perempuan yang ingin turut serta dalam aktiviti ini, pelajar lelaki juga turut gigih mempelajari lenggok tarian ini.</p>
+			<hr>
+			<h3>2021</h3>
+			<h4></h4>
     </div>
 	</li>  
 </ul>
-
