@@ -51,35 +51,41 @@ Trainings by professionals are also conducted to further widen the students’ s
 
 <figure>
 <img src="/images/Media01.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>Introduction to the club by the seniors</figcaption>
 </figure>
 
 <figure>
 <img src="/images/Media02.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>AVA training by seniors and alumni</figcaption>
 </figure>
+
+* * *
+
+#### Here are some of the school’s key events supported by Media Club this year:
 
 <figure>
 <img src="/images/Media03.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>Secondary one student ID photography</figcaption>
 </figure>
 
 <figure>
 <img src="/images/Media04.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>Student Councillor election recordings and photography</figcaption>
 </figure>
 
 <figure>
 <img src="/images/Media05.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>Jam Introduction recording</figcaption>
 </figure>
+
+* * *
 
 <figure>
 <img src="/images/Media06.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong>Malcolm (2A1) and Royce (4E1) proudly showing off their exhibition piece.</strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/Media07.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong>Farewell lunch treat for the seniors. Thank you once again for your support!</strong> </figcaption>
 </figure>
