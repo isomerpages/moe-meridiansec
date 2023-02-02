@@ -66,3 +66,38 @@ Guided by our motto, ‘**One Band, One Sound**’, the band strives to empower 
 #### **2022**
 
 *   Singapore International Band Festival (SIBF) – Bronze Award
+
+![](/images/Band01.jpg)
+
+*   Band and Choir Performance 2022
+
+![](/images/Band02.jpg)
+
+*   Farewell Party for graduating concert band students
+
+![](/images/Band03.jpg)
+
+*   Youth Arts Leaders Conference
+*   WBAS Youth Band Festival 2022 Open Call
+
+#### 2021
+
+*   Singapore Youth Festival Arts Presentation – Certificate of Accomplishment
+
+![](/images/Band04.jpg)
+
+* * *
+
+### Our CCA Experience
+
+_When I joined band, I was afraid that I would not understand how to play the instrument and struggle with music theory. However, my seniors provided a lot of support and guidance along the way. During my time in band, I not only picked up a new instrument but have also developed my character through teamwork, communication and leading the band. I have also had to chance to participate in competitions such as the Singapore International Band Festival. I have learnt a lot from the experience and enjoyed the training and practices with my fellow members. I am happy that I picked the Meridian Concert Band as my CCA and I know that I will have another fun and engaging experience next year!_
+
+**– Edeline, 3E3, 2022**
+
+_Band is one of the things that I look forward to every week. It has provided me with a wonderful experience especially because of the friends I made along the way. Not only that, I have had various opportunities such as the Singapore International Band Festival, Singapore Youth Festival and instrumental masterclasses!_
+
+**– Isabella, 2E4, 2022**
+
+_The environment and culture in band is wonderful as it instills discipline in students while encouraging us to have fun and enjoy our time in band. We also have had the opportunity to perform on various occasions such as National Day and at the Singapore Youth Festival. It truly has been a meaningful experience for me and I look forward to more activities and performances with the band._
+
+**– Izzul, 3E2, 2022**
