@@ -76,3 +76,34 @@ As a team sport, we believe that everyone plays an essential part of the team. W
 <img src="/images/Netball-02.jpg">
 <figcaption>Participation in Pesta Sukan Netball Carnival – 6th August 2022</figcaption>
 </figure>
+
+<figure>
+<img src="/images/Netball-04.jpg">
+<figcaption>Participation in NSG 2022 – April to July 2022</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Netball-03.jpg">
+</figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fdLK300t6so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Weekly trainings**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEVTmCTdnxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Farewell Party for our graduating netballers**
+
+* * *
+
+### Our CCA Experience
+
+_Being in netball allowed me to realise just how important teamwork and perseverance is. I was able overcome my fear of failure and work on myself for the better of the team with the help of my fellow teammates._
+
+**– Chervel (3E4 2022), Sec 3 Captain**
+
+_Netball is a team sport, and this allowed me to learn how to work as a team and communicate with them when necessary. During competitions like NSG, we learn to persevere through the games together as a team instead of just giving up when knowing we may be at the losing end._
+
+**– Sheryl (3E4 2022), Sec 3 Vice-captain**
+
+![](/images/Netball-01.jpg)
