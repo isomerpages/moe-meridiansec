@@ -92,3 +92,41 @@ _“My experience in floorball is one that I will never forget. In my 4 years pl
 _“4 years in Meridian Floorball and there is only two words to describe it, SIMPLY AWESOME! Since Sec 1 when I was selected to represent the Meridian Secondary School for National School Games, our experience and bonding as a team grew stronger. I can still remember vividly when I participated in the first ever NSG in Sec 1 where we got 4th. In our eyes we are already champions of C Division Floorball. Covid hit the world, and everything was a standstill. However, it did not stop each of us to practice hard, meet through Zoom for trainings and persevere to ensure that we improve our skills. This year, I had the privilege and trust to be named Captain and able to lead the team all the way to Finals in NSG B Division. Crowned 2nd, we are still proud of the hard work and determination we had put in as a team. Without the motivation from teachers and coaches and support from the team, I will not be where I am today in Floorball.”_
 
 – Nur Dinah Adriana Binte Mohammad Azmi (4A2 2022), Captain B Division Girls
+
+### Achievements
+
+
+#### **2022 – National Inter-School Floorball Championship**
+
+*   B Division Girls – 2nd
+*   B Division Boys – 3rd
+
+#### **2019 – National Inter-School Floorball Championship**
+
+*   B Division Girls – 2nd
+*   C Division Boys – 2nd
+*   C Division Girls – 4th
+
+#### 2018 – National Inter-School Floorball Championship
+
+*   B Division Girls – 3rd
+*   C Division Boys – 3rd
+
+#### **2017 – National Inter-School Floorball Championship**
+
+*   B Division Boys – 2nd
+*   C Division Boys – 4th
+*   C Division Girls – 3rd
+
+#### 2016- National Inter-School Floorball Championship
+
+*   B Division Boys – 4th
+*   B Division Girls – 4th
+
+<img src="/images/instagram.png" 
+     style="width:10%">
+FOLLOW US @meridian.floorball FOR THE LATEST UPDATES ON INSTAGRAM.
+
+![](/images/f1.jpg)
+![](/images/f2.jpg)
+![](/images/f3.jpg)
