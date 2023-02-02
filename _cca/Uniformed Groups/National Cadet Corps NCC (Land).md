@@ -80,3 +80,33 @@ Extraordinary Youth Leaders
 <img src="/images/NCC0.jpg" style="width:50%">
 <figcaption> <strong> Our ASM Ethan receiving Drills Instructor Certificate from Mr Chris Poh</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/NCC1.jpg" style="width:50%">
+<figcaption> <strong>Passing-Out Parade conducted in March 2022 for our graduating cadets and handing over command to the Sec 3 leaders.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC2.jpg" style="width:50%">
+<figcaption> <strong>Our cadets facilitating the Total Defence Day 2022 activities.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC3.jpg" style="width:50%">
+<figcaption> <strong>Preparation to facilitate Total Defence Day, using Chromebooks to research on how to play GOTC.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC4.jpg" style="width:50%">
+<figcaption> <strong>A combined UGs session held for the Kindness Badge Award Project 2021.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC5.jpg" style="width:50%">
+<figcaption> <strong>Our Senior Cadets explaining the NCC (Land) CCA during the Sec 1 CCA Showcase</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC6.jpg" style="width:50%">
+<figcaption> <strong>Our Junior Cadets saying the NCC pledge during NCC Affirmation Ceremony.</strong> </figcaption>
+</figure>
