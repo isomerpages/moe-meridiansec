@@ -48,3 +48,35 @@ Extraordinary Youth Leaders
   </tr>
 </tbody>
 </table>
+
+### Teachers-in-charge
+
+*   Mr Poh Wei Khim Chris
+*   Mr Chan Yew Ming Adam
+*   Ms Lim Zhi Qi Joanne
+
+### UG Volunteers
+
+*   Mr Hadi Furqan Bin Mohamad Hairi
+*   Mr Haziq Mikhail Nalpon Bmy
+*   Mr Tham Keng Cong
+*   Mr Chee Le Siang, Aaron Matthews
+*   Mr Oh Zhe Qi
+*   Mr Shawn Ang
+
+* * *
+
+### Highlights
+
+#### Achievements
+
+*   2021 NCC Unit Recognition – Distinction Award
+*   2019 NCC Unit Recognition – Distinction Award
+*   2018 NCC Unit Recognition – Distinction Award
+
+#### Events from 2021 to 2022
+
+<figure>
+<img src="/images/NCC0.jpg" style="width:50%">
+<figcaption> <strong> Our ASM Ethan receiving Drills Instructor Certificate from Mr Chris Poh</strong> </figcaption>
+</figure>
