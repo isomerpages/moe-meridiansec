@@ -4,7 +4,6 @@ permalink: /home/cca/clubs-societies/robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-    
 ### About Us
 
 The Robotics Club was set up in March 2001 to allow our students to channel their creative and innovative energies. Currently, the club has evolved the knowledge to a few coding programs from MicroBit, Lego EV3 and the latest one, Lego Spike Prime. We also have an interest group who does coding Anaconda – Python and Cloud computing to make the Robotics sessions more inclusive and engaging.
@@ -57,4 +56,35 @@ The Robotics members are creative, inquisitive, and enthusiastic young people wh
 #### **2022**
 
 *   Sec 1 and 2 members were introduced to program and build the latest Lego robot – Spike Prime sets apart from the Lego EV3. Other soft skills that the members learnt are researching, presentation and video recording skills.
-![](/images/robotics-05.jpg)
+
+<figure>
+<img src="/images/robotics-01.jpg">
+<figcaption> <strong>Singapore Amazing Flying Machine (SAFMC 2022) – Unpowered Glider and Radio Control categories. All four teams qualify for the Finals.</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/robotics-02.jpg">
+<figcaption>
+<ul><li>First Lego League (FLL 2022).</li><li>Singapore Grand Energy Challenge (Youth) 2022.</li><li>National Robotics Competition (NRC 2022) – All members participated in the World RoboMission and two teams managed to qualify for the Finals.</li></ul></figcaption>
+</figure>
+
+
+
+
+
+<figure>
+<img src="/images/robotics-03.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+
+<figure>
+<img src="/images/robotics-04.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+
+<figure>
+<img src="/images/robotics-05.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
