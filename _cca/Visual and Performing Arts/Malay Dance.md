@@ -18,3 +18,7 @@ During SYF 2019, they charmed the judges with their performance, a traditional d
 - Ms Wang Dan (2IC)  
 - Mdm Zaidah MOHD  
 - Mdm Nordiana Daim
+
+![](/images/md1.png)
+
+![](/images/md2.png)
