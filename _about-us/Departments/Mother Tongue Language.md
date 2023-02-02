@@ -94,7 +94,9 @@ third_nav_title: Departments
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Highlights - Malay Language</label>
     <div>
-      <p>This is a simple one line item</p>
+			<h3>2022</h3>
+			<h4>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Menganyam</h4>
+      <p>Bukan sekadar melatih penelitian pelajar, tetapi turut mencungkil kreativiti mereka. Itulah yang dapat dicapai para pelajar Menengah 2 menerusi aktiviti menganyam tempat letak minuman. Menerusi aktiviti yang dijalankan selama 2 jam itu, para pelajar dapat mempelajari teknik-teknik menganyam dengan betul. Menurut para pelatih, seni tangan itu semakin pupus ditelan zaman. Maka itulah, ilmu tersebut diharap dapat diturunkan kepada generasi akan datang, seperti pelajar-pelajar Menengah 2 ini. Para pelatih juga berkongsi beberapa pelajar Menengah 2 ini ada kebolehan untuk menganyam dengan baik, Syabas diucapkan kepada mereka!</p>
     </div>
 	</li>  
 </ul>
