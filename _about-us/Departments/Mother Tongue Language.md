@@ -116,9 +116,11 @@ Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian Kesih
 			<p>Pada 10 Mac lalu, para pelajar Menengah satu telah didedahkan dengan tiga aktiviti budaya iaitu persembahan Dikir Barat, Kompang dan Tarian Zapin. Menerusi sesi yang dijalankan pelajar diberi pendedahan terhadap sejarah dan kepentingan aktiviti kebudayaan itu dalam era moden. <br><br>
 Menjangkaui aspek teori dan teknikal, para pelajar juga diberi pendedahan untuk bermain alat-alat muzik tradisional, malah turut diberi peluang untuk menari serta berdikir barat.  
 Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka menjalani sesi sebegitu secara maya pada tahun-tahu lalu disebabkan pandemik COVID-19.</p>
+			<img src="/images/malay01.jpg"  style="width:60%">
+			<p>‘Pelapis’ seni kebudayaan mempelajari cara-cara menggendang dalam persembahan seni dikir barat.</p>
+			<img src="/images/malay02.jpg"  style="width:60%">
+			<p>Bukan sahaja para pelajar perempuan yang ingin turut serta dalam aktiviti ini, pelajar lelaki juga turut gigih mempelajari lenggok tarian ini.</p>
     </div>
 	</li>  
 </ul>
-
-
 
