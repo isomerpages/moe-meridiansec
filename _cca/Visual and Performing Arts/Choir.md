@@ -177,3 +177,43 @@ Choir students ventured into other musical talents which do not require singing,
 
 –  Joined virtual choir event “Night of Choirs” with a choir in Hungary.
 
+![](/images/c3.jpg)
+
+Our choir members serenading the secondary 1s during the CCA selection day (2020)
+
+![](/images/c4.jpg)
+
+Our choir members enjoying themselves during the sec 1s CCA selection day (2020).
+
+![](/images/c5.jpg)
+
+Meridian Choir singing their hearts out during the recent CNY celebrations (2020)
+
+![](/images/c6.jpg)
+
+Our dedicated Ms Tham training our choir members for the virtual choir over video conferencing.
+
+* * *
+
+**Our CCA Experience**
+
+<img src="/images/choir-02.jpg" 
+     style="width:50%">
+
+_Because of Choir, I was able to grow and improve my confidence on stage. I have made numerous friends in Choir, with many supportive seniors and juniors. I have picked up many exciting new songs such as “A Million Dreams”, singing and enjoying them with my friends. I have most definitely improved my singing techniques._
+
+**– Eaty Shyam Sheetal, 2E4, 2022 (Assistant Section Leader)**
+
+<img src="/images/choir-03.jpg" 
+     style="width:50%">
+		 
+_To me, Choir is not just a CCA, it is a time when I can relax, have fun, and learn at the same time. Choir is also a place where I get to make friends with people from other classes and levels. Through Choir, I have learnt to be a better team player and understand music better. I have joined the Choir with an open mind and am glad to be able to pick up quickly the music theory that our conductor has taught us. Choir also further enhanced my interest in music and singing._
+
+**– Lim Ming Hui Sonia 2E2, 2022**
+		 
+<img src="/images/choir-04.jpg" 
+     style="width:50%">
+		 
+_I thought joining choir was just about singing but I was so wrong. I went in with an opened-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different races, languages, and cultures. It has been indeed an enriching experience._
+
+**– Chong Yong Yu, 3E1, 2022 (Student Conductor)**
