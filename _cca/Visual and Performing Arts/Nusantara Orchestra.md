@@ -109,3 +109,53 @@ A bonded orchestra makes better music hence MNO regularly creates time for games
 ### Highlights from 2021 and before
 
 **SYF Arts Presentation 2021 (Angklung & Kulintang Ensemble)**
+
+![](/images/MNO7.jpg)
+
+* * *
+
+**SYF Arts Presentation 2021 (Gamelan Ensemble)**
+
+![](/images/MNO8.jpg)
+
+* * *
+
+**2021 National Day Virtual Orchestra**
+
+This year, the Heightened Alert Phase disrupted MNO’s original preparation for a live National Day performance. However, MNO was not disheartened. Our resourceful instructor, Mr Shaik, decided to create a virtual orchestra. Within a few eCCA sessions, MNO learnt how to use Digital Audio Workstations, such as Bandlab, to record rhythms, melodic lines, and students’ voices for this song.
+
+![](/images/MNO9.jpg)
+
+* * *
+
+**SYF Arts Presentation 2019 (Angklung & Kulintang Ensemble)**
+
+![](/images/MNO10.jpg)
+
+* * *
+
+**SYF Arts Presentation 2019 (Gamelan Ensemble)**
+
+![](/images/MNO11.jpg)
+
+* * *
+
+**2020 Chinese New Year Concert**
+
+![](/images/MNO12.jpg)
+
+**SYF 2019 Celebrations Exchange Programme:**
+
+Hosting school for Senior High School 28 Jakarta, Indonesia on 5th July 2019
+
+![](/images/MNO13.jpg)
+
+* * *
+
+**2019 Speech Day**
+
+![](/images/MNO14.jpg)
+
+**“SYF 2018 Celebrations in the Community” at Novena Square.**
+
+![](/images/MNO15.jpg)
