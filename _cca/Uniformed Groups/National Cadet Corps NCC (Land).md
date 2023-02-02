@@ -107,6 +107,13 @@ Extraordinary Youth Leaders
 </figure>
 
 <figure>
-<img src="/images/NCC6.jpg" style="width:50%">
+<img src="/images/ncc-01-1.jpg" style="width:50%">
 <figcaption> <strong>Our Junior Cadets saying the NCC pledge during NCC Affirmation Ceremony.</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/ncc-02.jpg" style="width:50%">
+<figcaption> <strong>Our cadets participating in the NCC Sports Championship at Loyang View Secondary School.</strong> </figcaption>
+</figure>
+
+
