@@ -79,6 +79,36 @@ Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to
 
 _**Training and Exposure**_
 
-**Concerts & Workshop**
+*Concerts & Workshop*
 
 Choir aims to provide our members with a platform to develop their passion for singing through learning different genres of music and sing well with confidence while performing. What better to way is there to learn than by attending concerts and participating in related workshops? Members made use of the June and September school holidays to attend a concert, Nelson’s Voyage, held at the Victoria Concert Hall as well as participated in two workshops held under the auspice of the Voices of Singapore Festival 2022.
+
+![](/images/choir-08.jpg)
+
+*Audio & Video Recording ~ Can You Feel The Love Tonight*
+
+To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight!
+
+<"video here">
+
+![](/images/choir-11.jpg)
+
+![](/images/choir-12.jpg)
+
+![](/images/choir-13.jpg)
+
+_**National Day performance**_  
+
+The highlight of this Term 3 was most definitely the National Day Celebrations where Choir finally had the chance to perform “live”. Choir was the first item of the day. With our rendition of “The Road Ahead”, Choir managed to engage the students and draw them into celebrating the nation’s birthday.
+
+![](/images/choir-09.jpg)
+
+_**Jubilate – Joint Concert with Band**_  
+
+There is no better way to wrap up the year than a joint concert with Band. Jubilate – there were certainly good reasons to rejoice and celebrate our performance with a “live” audience in many years. It was certainly a feather in the cap, with parents here to witness the fruits of all the hours of hard work and practices. Well done, Choir!
+
+![](/images/choir-10.jpg)
+
+#### **2021**
+
+**Sing-a-Song**
