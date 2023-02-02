@@ -10,7 +10,7 @@ During SYF 2019, they charmed the judges with their performance, a traditional d
 
 **CCA Schedule:**
 
- - Mondays and Thursdays 3 to 530pm
+- Mondays and Thursdays 3 to 530pm
 
 **Teachers-in-charge:**
 
