@@ -59,7 +59,7 @@ The Robotics members are creative, inquisitive, and enthusiastic young people wh
 
 <figure>
 <img src="/images/robotics-01.jpg">
-<figcaption> <strong>Singapore Amazing Flying Machine (SAFMC 2022) – Unpowered Glider and Radio Control categories. All four teams qualify for the Finals.</strong> </figcaption>
+<figcaption>Singapore Amazing Flying Machine (SAFMC 2022) – Unpowered Glider and Radio Control categories. All four teams qualify for the Finals.</figcaption>
 </figure>
 
 <figure>
@@ -69,22 +69,25 @@ The Robotics members are creative, inquisitive, and enthusiastic young people wh
 </figure>
 
 
-
-
-
 <figure>
 <img src="/images/robotics-03.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption>Our VIA program includes assisting with the Code for Fun for all Sec 1 and 2 Meridians.
+</figcaption>
 </figure>
+
+#### 2021
+
+*   Singapore Amazing Flying Machine 2021 (SAFMC 2021) – Participated in the Unpowered Glider category. Achieved 2nd and 3rd placing in Most Creative and Aesthetic Award.
+
 
 
 <figure>
-<img src="/images/robotics-04.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<img src="/images/robotics-04.jpg" style="width:50%">
+	<figcaption><ul><li>Singapore Energy Grand Challenge 2021 (SEGC) – Qualified for the Semi-finals. Using Minecraft, the team designed how sustainability are implemented in Meridian Sec School in 2050.</li><li>Bootcamp Data Science in the AWS Cloud- Python Anaconda Coding – 2 teams participated in the 22-hour of Python Anaconda and Cloud computing.</li></ul></figcaption>
 </figure>
-
 
 <figure>
 <img src="/images/robotics-05.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption><ul><li>First Lego League 2021 (FLL)</li><li>National Robotic Competitions 2021 (NRC) – Participated in the WRO(Sec) and CoderZ categories.</li></ul></figcaption>
 </figure>
+
