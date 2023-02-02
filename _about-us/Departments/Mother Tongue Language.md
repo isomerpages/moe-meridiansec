@@ -99,7 +99,11 @@ third_nav_title: Departments
       <p>Bukan sekadar melatih penelitian pelajar, tetapi turut mencungkil kreativiti mereka. Itulah yang dapat dicapai para pelajar Menengah 2 menerusi aktiviti menganyam tempat letak minuman. Menerusi aktiviti yang dijalankan selama 2 jam itu, para pelajar dapat mempelajari teknik-teknik menganyam dengan betul. Menurut para pelatih, seni tangan itu semakin pupus ditelan zaman. Maka itulah, ilmu tersebut diharap dapat diturunkan kepada generasi akan datang, seperti pelajar-pelajar Menengah 2 ini. Para pelatih juga berkongsi beberapa pelajar Menengah 2 ini ada kebolehan untuk menganyam dengan baik, Syabas diucapkan kepada mereka!</p>
 			<img src="/images/ML03.jpg"  style="width:60%">
 			<img src="/images/ML04.jpg"  style="width:60%">
+			<h4>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Lukisan Batik</h4>
+			<p>Pada Ogos lalu, lebih daripada 100 Menengah 3 didedahkan dengan aktiviti lukisan batik. Menjangkaui teknik seni lukisan yang diajar oleh guru-guru mapan, para pelajar Menengah 3 ini juga mempelajari tentang sejarah lukisan batik dan peranan batik dalam dunia Melayu. Setiap pelajar disiapkan dengan alat-alat seni lukisan batik untuk mereka mencubanya. Selepas menghadiri sesi tersebut, beberapa pelajar Menengah 3 ini berkongsi kini mereka lebih dapat menghargai seni batik yang mereka lihat daripada pakaian yang dimiliki oleh keluarga mereka. Syabas!</p>
+			<img src="/images/ML02.jpg"  style="width:60%">
     </div>
 	</li>  
 </ul>
+
 
