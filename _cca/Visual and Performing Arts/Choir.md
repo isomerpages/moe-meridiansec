@@ -119,3 +119,61 @@ Our passionate Choir members took part in “Sing-a-Song”, a VIA project in co
 
 **Sec 1 CCA Showcase**
 
+![](/images/c300522.jpg)
+
+![](/images/c300523.jpg)
+
+Our student leaders, Zhi En (top photo), Axel, Isaiah, Ignatius and Emmarae, introduced the Choir CCA to the Secondary 1 students during the Sec 1 CCA Showcase. One of the items shared to the Secondary 1 students was the Sing-a-Song VIA collaboration project, as shown on the projector screen.
+
+**In-house Training Workshops**
+
+![](/images/c300527.jpg)
+
+Our Secondary 4 student leaders carried out ice breaker activities to allow our Choir members to get to know one another better. In this photo and venue, we have Isaiah testing the Choir members on their musical knowledge using Kahoot.
+
+![](/images/c300528.jpg)
+
+This is a workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Soundtrap and learnt how to make music together online. The seniors were able to engage the members well and went through a guided series of steps on how to create musical content like an artiste. In this photo, we have Emmarae, our outgoing president, and Jahnavi, Alto section leader.
+
+![](/images/c300529.jpg)
+
+This is another workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Video Editing 101. The seniors were able to engage the members well and went through a guided series of steps on how to edit videos like a professional. In this photo, we have Zhi En, our outgoing vice-president, and Ignatius, our student conductor.
+
+**Makeup/Grooming for Music Video Creation**
+
+![](/images/c300533.jpg)
+
+Our multi-talented Choir members, Elfa and Alya, leading a workshop to share with fellow members on face makeup and video taking techniques in preparations for VIA music video group project.
+
+![](/images/c300532.jpg)
+
+Darshini eagerly trying out her makeup skills on Mia.
+
+**SYF recording**
+
+![](/images/c300531.jpg)
+
+SYF Arts Presentation 2021 took on a different format this year. Our very dedicated teacher-in-charge Ms Jasmin Tan has been working hard recording our selected choristers who are taking part in the SYF. Here is our student conductor, Ignatius, recording his piece and working alongside our in-house sound engineer genius.
+
+![](/images/c300530.jpg)
+
+This is Ernest, recording his SYF piece and being very focused in the process to ensure no mistakes will be made.
+
+![](/images/c300526.jpg)
+
+Our outgoing vice-president, Zhi En, recording his SYF piece and aiming for musical perfection.
+
+**Percussion Workshop**
+
+![](/images/c300525.jpg)
+
+Choir students ventured into other musical talents which do not require singing, as the school adheres to the safety management measures. Here is a percussion workshop led by Ms Sng. Our students definitely have fun beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian Samba!
+
+### 2020
+
+– Performed for CNY
+
+– Performed during Sec 1 CCA selection day
+
+–  Joined virtual choir event “Night of Choirs” with a choir in Hungary.
+
