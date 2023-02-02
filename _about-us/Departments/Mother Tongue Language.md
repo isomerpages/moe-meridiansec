@@ -89,7 +89,12 @@ third_nav_title: Departments
 			<img src="/images/mtoct17.jpg"  style="width:60%"><br>
 			<img src="/images/mtoct18.jpg"  style="width:60%"><br>
     </div>
-	</li>   
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Highlights - Malay Language</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
 </ul>
-
-
