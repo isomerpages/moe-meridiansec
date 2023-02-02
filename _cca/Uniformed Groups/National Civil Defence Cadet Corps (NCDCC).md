@@ -83,3 +83,54 @@ Students who are enrolled in NCDCC can look forward to participating in a large 
 ### Highlights
 
 ### 2022
+
+<figure>
+<img src="/images/NCDCC-03.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-04.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-05.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-06.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-07.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-08.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-09.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-10.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-11.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCDCC-12.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong></figcaption>
+</figure>
+
