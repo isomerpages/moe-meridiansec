@@ -22,7 +22,7 @@ As a team sport, we believe that everyone plays an essential part of the team. W
 
 <img src="/images/instagram.png" 
      style="width:10%">
-<center>Do follow us @meridian\_netball for more updates.</center>
+<center>Do follow us @meridian_netball for more updates.</center>
 
 
 * * * 
