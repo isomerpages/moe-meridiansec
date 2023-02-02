@@ -4,8 +4,7 @@ permalink: /home/cca/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---
-About Us
---------
+### About Us
 
 Netball is a ball sport played by two teams of seven players where they will be assigned to specific positions. Besides learning the technical parts of the sport, our students will learn how to communicate and cooperate with each other while playing the games which will help to improve their social and verbal skills.
 
@@ -57,3 +56,23 @@ As a team sport, we believe that everyone plays an essential part of the team. W
 </table>
 
 * * *
+
+### Teachers-in-charge
+
+*   Mdm Suriati
+*   Miss Chen Yi-Chun
+*   Ms Ummirah
+
+### Coach
+*   Coach Susan Tan
+
+* * * 
+
+### Highlights
+
+**2022**
+
+<figure>
+<img src="/images/Netball-02.jpg">
+<figcaption>Participation in Pesta Sukan Netball Carnival – 6th August 2022</figcaption>
+</figure>
