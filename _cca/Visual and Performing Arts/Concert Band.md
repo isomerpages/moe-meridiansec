@@ -46,3 +46,23 @@ Guided by our motto, ‘**One Band, One Sound**’, the band strives to empower 
   </tr>
 </tbody>
 </table>
+
+### Teachers-in-charge
+
+*   Ms Jasmin Tan
+*   Ms Yuslina
+*   Ms Evonne Tham
+*   Ms Phang Yan See
+
+### Instructors
+
+*   Mr Pan Chee Mun
+*   Mr Gabriel Song
+
+* * *
+
+### Highlights
+
+#### **2022**
+
+*   Singapore International Band Festival (SIBF) – Bronze Award
