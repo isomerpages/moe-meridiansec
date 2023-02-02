@@ -110,10 +110,15 @@ third_nav_title: Departments
 Meski baru menjejaki alam persekolahan di peringkat sekolah Menengah, para pejuang bahasa ini diberi tugas untuk menggalak dan mengongsi keindahan bahasa Melayu bersama para pelajar menengah Meridian yang lain!  <br><br>
 Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian Kesihatan merangkap Perhubungan dan Penerangan, Cik Rahayu Mahzam.
 <p>
+	<img src="/images/malay03.jpg"  style="width:60%">
+	<img src="/images/malay04.jpg"  style="width:60%">
+			<h4>Mac 2022 – Perkhemahan Kebudayaan</h4>
+			<p>Pada 10 Mac lalu, para pelajar Menengah satu telah didedahkan dengan tiga aktiviti budaya iaitu persembahan Dikir Barat, Kompang dan Tarian Zapin. Menerusi sesi yang dijalankan pelajar diberi pendedahan terhadap sejarah dan kepentingan aktiviti kebudayaan itu dalam era moden. <br><br>
+Menjangkaui aspek teori dan teknikal, para pelajar juga diberi pendedahan untuk bermain alat-alat muzik tradisional, malah turut diberi peluang untuk menari serta berdikir barat.  
+Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka menjalani sesi sebegitu secara maya pada tahun-tahu lalu disebabkan pandemik COVID-19.</p>
     </div>
 	</li>  
 </ul>
 
-****
 
 
