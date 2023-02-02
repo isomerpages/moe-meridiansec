@@ -131,8 +131,16 @@ Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka men
 			<p>Daripada mempelajari tentang sejarah yang luas tentang Wayang Kulit, hingga kepada pembikinan Wayang Kulit itu sendiri, kesemua pelajar Menengah 1 daripada aliran yang berbeza-beza diberikan peluang untuk menikmati aktiviti-aktiviti tersebut bersempena dengan sambutan Dwi-Minggu Bahasa Ibunda.<br><br>
 Para pelajar memberikan maklum balas menerusi program itu mereka dapat mempelajari dan menghargai seni persembahan tradisional di Nusantara.<br><br>
 Lebih menarik lagi, kesemua aktiviti dijalankan di dalam suasana yang selesa dan selamat disebabkan oleh COVID-19. Aktiviti-aktiviti dijalankan di dalam bilik darjah masing-masing!</p>
+			<img src="/images/ml10-3.jpg"  style="width:60%">
+			<img src="/images/ml10-4.jpg"  style="width:60%">
+			<img src="/images/ml10-2.jpg"  style="width:60%">
+			<h4>Mei 2021</h4>
+			<h4>(Aktiviti Dwi-Minggu Bahasa Ibunda bagi Pelajar Menengah 3 – MTL Fortnight Activities for Sec 3 students)</h4>
+			<p>Ramai yang tahu tentang songkok, namun tidak ramai yang tahu tentang Tanjak. Itulah yang dikatakan oleh para pelajar Menengah 3 selepas mereka menjalani aktiviti membuat Tanjak.<br><br>
+Selain mempelajari tentang teknik pembuatan tanjak, pelajar-pelajar Menengah 3 juga mempelajari tentang sejarah dan kepentingan Tanjak dalam masyarakat Melayu.<br><br>
+Setiap tanjak dibuat dengan menggunakan helaian batik dan keratan suratkhabar.</p>
     </div>
 	</li>  
 </ul>
 
-1222
+
