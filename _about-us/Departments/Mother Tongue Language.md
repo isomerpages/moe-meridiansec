@@ -122,7 +122,11 @@ Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka men
 			<p>Bukan sahaja para pelajar perempuan yang ingin turut serta dalam aktiviti ini, pelajar lelaki juga turut gigih mempelajari lenggok tarian ini.</p>
 			<hr>
 			<h3>2021</h3>
-			<h4></h4>
+			<h4>Mac 2021 (Pertandingan Bahasa 4PM – Malay Debate Competition 4PM)</h4>
+			<p>Empat pelajar Menengah 3 Ekspres memasuki peraduan debat dalam Bahasa Melayu di peringkat nasional yang dianjurkan oleh Persatuan Persuratan Pemuda Pemudi Melayu (4PM). Disebabkan COVID-19 pada tahun ini, pusingan peringkat saringan dijalankan dalam talian. Daripada empat pelajar yang memasuki pertandingan tersebut, Mahirah dan Ryan Aniq muncul sebagai pembahas terbaik bagi pusingan saringan. Syabas diucapkan kepada mereka!</p>
     </div>
 	</li>  
 </ul>
+
+
+
