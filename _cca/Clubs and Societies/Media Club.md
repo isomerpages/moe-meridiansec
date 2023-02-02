@@ -48,3 +48,38 @@ Trainings by professionals are also conducted to further widen the students’ s
 ### CCA in Action!
 
 #### CCA Experience for Sec 1s
+
+<figure>
+<img src="/images/Media01.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media02.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media03.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media04.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media05.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media06.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Media07.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
