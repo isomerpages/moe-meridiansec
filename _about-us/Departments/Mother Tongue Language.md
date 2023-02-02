@@ -102,8 +102,11 @@ third_nav_title: Departments
 			<h4>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Lukisan Batik</h4>
 			<p>Pada Ogos lalu, lebih daripada 100 Menengah 3 didedahkan dengan aktiviti lukisan batik. Menjangkaui teknik seni lukisan yang diajar oleh guru-guru mapan, para pelajar Menengah 3 ini juga mempelajari tentang sejarah lukisan batik dan peranan batik dalam dunia Melayu. Setiap pelajar disiapkan dengan alat-alat seni lukisan batik untuk mereka mencubanya. Selepas menghadiri sesi tersebut, beberapa pelajar Menengah 3 ini berkongsi kini mereka lebih dapat menghargai seni batik yang mereka lihat daripada pakaian yang dimiliki oleh keluarga mereka. Syabas!</p>
 			<img src="/images/ML02.jpg"  style="width:60%">
+			<h4>Julai 2022 – Siri Ceramah dan Kuliah Menengah 3</h4>
+			<p>Pada penggal ketiga tahun ini, Unit Bahasa Melayu Sekolah Menengah Meridian mula untuk menganjurkan Siri Ceramah dan Kuliah bagi pelajar Menengah 3 yang akan mengambil aliran Ekspres. Siri ceramah dan kuliah ini memberi pelajar latihan intensif yang melatih mereka tentang teknik-teknik menjawab soalan peperiksaan peringkat O. Tujuannya adalah bagi pelajar Menengah 3 mempersiapkan diri untuk menduduki peperiksaan akhir tahun pada Oktober 2022, selain memberikan mereka pendedahan seawal peringkat ini agar mereka lebih bersedia untuk menduduki peperiksaan peringkat O kelak. Antara topik-topik yang disentuh termasuklah (a) Penulisan Ekspositori (b) Penekanan terhadap soalan-soalan HOT bagi bahagian kefahaman (c) Imbuhan.</p>
     </div>
 	</li>  
 </ul>
+
 
 
