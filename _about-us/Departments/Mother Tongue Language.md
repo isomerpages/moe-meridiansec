@@ -62,9 +62,11 @@ third_nav_title: Departments
 			<h4>二、欣赏中华戏剧表演</h4>
 			<p>中华戏剧，博大精深，但似乎越来越远离当代学生的生活。为了让学生领略“吹拉弹唱”“生旦净末丑”的艺术魅力，华文部每年都邀请京剧艺术中心的演员到我校为学生表演精彩的戏剧。<br><br>
 粤剧《唐明皇游月宫》、京剧《伐东吴》《孙悟空龙宫借宝》，让学生了解了中华经典故事，认识了戏曲人物的角色分类和道具。华丽的戏服、丰富的唱腔、细腻的表情、流畅的动作，给学生带来了一台台精彩的视听盛宴。学生也被邀请到台上与演员互动，学习戏剧的念白和动作，在轻松愉快的气氛中感染华族文化的艺术魅力。</p>
+			<img src="/images/mtoct1.jpg"  style="width:50%"><br>
+			<img src="/images/mtoct2.jpg"  style="width:50%"><br>
+			<img src="/images/mtoct3.jpg"  style="width:50%"><br>
+			<img src="/images/mtoct4.jpg"  style="width:50%">
     </div>
 	</li>   
 </ul>
-
-
 
