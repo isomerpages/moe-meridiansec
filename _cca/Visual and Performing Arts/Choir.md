@@ -112,3 +112,10 @@ There is no better way to wrap up the year than a joint concert with Band. Jubil
 #### **2021**
 
 **Sing-a-Song**
+
+![](/images/c300521.jpg)
+
+Our passionate Choir members took part in “Sing-a-Song”, a VIA project in collaboration with Pathlight school to encourage Pathlight students to read. It was truly an enjoyable experience singing and recording this sing along session while referring to the digital book.
+
+**Sec 1 CCA Showcase**
+
