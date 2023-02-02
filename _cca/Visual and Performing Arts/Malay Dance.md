@@ -22,3 +22,19 @@ During SYF 2019, they charmed the judges with their performance, a traditional d
 ![](/images/md1.png)
 
 ![](/images/md2.png)
+
+Performance at Pasir Ris West Community Centre 2020
+
+![](/images/M151101.jpg)
+
+Distinction Performance at  Singapore Youth Festival 2019
+
+![](/images/M151102.jpg)
+
+![](/images/M151103.jpg)
+
+Collaboration with Nan Chiau High School to perform at SYF Celebration in Bukit Panjang Plaza in July 2019
+
+![](/images/M151104.jpg)
+
+Performance for Chillbox Opening 2019
