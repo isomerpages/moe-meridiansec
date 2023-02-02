@@ -91,3 +91,26 @@ The Robotics members are creative, inquisitive, and enthusiastic young people wh
 <figcaption><ul><li>First Lego League 2021 (FLL)</li><li>National Robotic Competitions 2021 (NRC) – Participated in the WRO(Sec) and CoderZ categories.</li></ul></figcaption>
 </figure>
 
+#### 2020
+
+*   ITE Robotics Challenge 2020 – Participated in the three categories, Obstacle, Line Tracing and Creative
+*   MicroBit and StrawBees Workshop and Challenge
+*   National Robotics Competition 2020 – Participated in the World RoboMission (Open) category and CoderZ.
+
+* * *
+
+### Our CCA Experience
+
+_In my three years of being in Robotics Club, I am glad to have great seniors who were patient in guiding me through the steps of coding even when I was still new, I am also truly fortunate to have friendly members in the CCA whom I can communicate with to build better experiences for the juniors in the CCA. Overall, Robotics was a great experience for me, throughout the time in Meridian.  
+_
+
+**– Chan Hao Yang, 3E3, 2022 (Chairman of Robotics Club 2022)**
+
+_When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._ _I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!  
+_
+
+**– Seah Yang En, 3E3, 2022 (Vice Chairman of Robotics Club 2022)**
+
+_My experience in Robotics has been great, I have been able to experience a lot of new things for the first time. From interacting with my CCA mates to build and program robots, to even entering competitions with them, Robotics Club has provided me with many opportunities. I am forever grateful for the memories I have made in this CCA and I sincerely recommend everyone to give this CCA a shot._
+
+**– Shine Min Hlaing, 3E4, 2022 (Vice Chairman of Robotics Club 2022)**
