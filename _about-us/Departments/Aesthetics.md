@@ -338,5 +338,11 @@ We are proud to see highly motivated Meridians playing music during their free t
      style="width:80%">
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Assembly Programmes</label>
+    <div>
+      <p>The school assembly programmes serve as a platform of exposure to the school population. At Meridian, this is used to expose all students to a variety of art forms (e.g. dance, drama, music). These programmes are selected to encourage Meridians to pursue their interest and participation in the arts.</p>
+    </div>
+	</li>  
 </ul>
-
