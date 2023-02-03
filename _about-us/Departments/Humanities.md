@@ -163,7 +163,7 @@ third_nav_title: Departments
 			Learning Journey to Fort Canning</h4>
       <p>Students learn best when they are involved and this field trip offers them an ideal opportunity for experiential learning. The learning journey to Fort Canning enabled the students to understand and appreciate the 700 years of Singapore’s recorded existence, which they visualised and presented in the form of sketches.</p>
 	<img src="/images/humanities%201.png" 
-     style="width:80%">
+     style="width:65%">
 	<h4>Sec 1 Geographical Investigation<br>
 What is the quality of water in Tampines River?
 </h4>
@@ -218,6 +218,3 @@ What is the quality of water in Tampines River?
     </div>
 	</li>  
 </ul>
-	
-	
-
