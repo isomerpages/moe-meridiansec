@@ -58,3 +58,26 @@ third_nav_title: Departments
 </table></p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Pedagogy</label>
+    <div>
+      <p>The Humanities department employs an inquiry-based approach as its main pedagogy to encourage critical thinking and problem solving.  Students will be required to embark on an inquiry process where they investigate, analyse, and consolidate information, and draw conclusions to the questions based on evidence. In the process, students will also be encouraged to share their conclusions with their peers, and to critique and refine their own and others’ work through pair, group and/or class discussions and through individual reflections. Geographical and historical investigations through field-based and experiential learning offer opportunities for students to engage in the inquiry process.</p>
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Assessment</label>
+    <div>
+      <p>Assessment in the Humanities curriculum includes Assessment for Learning and Assessment of Learning to facilitate meaningful learning and encourage independent learning. Modes of assessment include geographical and historical investigation, source-based questions and summative assessment carried out in the form of level tests or examinations. Authentic assessment tasks through geographical and historical investigations also encourage students to showcase their varied intelligences so that our assessment of our students will be accurate and holistic.</p>
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">About Us</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+
+
