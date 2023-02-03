@@ -26,8 +26,7 @@ third_nav_title: Departments
 				<li>Career Guidance</li>
 				<li>Talent Scouting</li>
 			</ul>
-    </div>
-		<p><style type="text/css">
+			<p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -78,5 +77,89 @@ third_nav_title: Departments
   </tr>
 </tbody>
 </table></p>
+		<h4>Connect with Us</h4>
+		<p>Connect with us on Social Media and get up-to-date information about our programmes.</p>
+		<img src="/images/aesthetic.png" 
+     style="width:50%">
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Achievements</label>
+    <div>
+			<h4>2017</h4>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">·</th>
+    <th class="tg-1wig">SYF Celebrations 2017 @ OneKM Mall – Youth Got Talent Finalist (Audience’s Choice)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Najiha Khan, 2A1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">SYF Celebrations 2017 @ West Mall – Youth Got Talent Finalist (Audience’s Choice)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Matthias Low 3E1, Sean Koh 3E1, Amrit Angelena Kaur 3E4, and Liew Jason 3E6</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">SYF Youth Station Top 16 Finalists</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">“Realisations” composed by Muhammad Mateen, 4E6</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/35jfBb8kzYo</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">SYF Youth Station Top 16 Finalists</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">“Shining Through” composed by Ellyn Goh, Riqqah Luthfiya, Sabrina Bte Roslee, and Sammi Poh from 2E2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/hCE0SM8UGo4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">National Schools Xinyao Singing Competition (Quaterfinals)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Dex Fernandez 2A2, Ryna Goh 2E1, and Dylan Hon 2E4)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">Singapore Polytechnic DMAT Music Fiesta 1st Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Dex Fernandez 2A2, Dylan Hon 2E4, Avena Ong 4E1, and Johannah 4A1</td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
 	</li>  
 </ul>
+
