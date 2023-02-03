@@ -174,9 +174,50 @@ What is the quality of water in Tampines River?
      style="width:80%">
 	<h4>Sec 2 Interdisciplinary Learning Journey to Gardens by the Bay</h4>
 	<p>The Secondary 2 students participated in an experiential trail at Gardens by the Bay, as part of the Interdisciplinary Learning Journey jointly organized by the Mathematics and Humanities Departments. To complement what the students have learnt in class about Singapore’s role in the early maritime trade from the 14th to 19th Century, the students had the opportunity to have an up-close encounter with the plants at the Heritage area of the Colonial Gardens. From there, they could identify the plants involved in the spice trade, as well as their uses and places of origin.</p>
+	<img src="/images/humanities%204.png" 
+     style="width:80%">
+	<h4>IIIMPACT 2019</h4>
+	<p>Our Sec 3 Geographers emerged Top 10 out of 53 teams in the IIMPACT 2019 contest on environmental conservation, which was part of a series of events held at the MBS Convention Centre. Students listened to talks and participated in the Q&A on ‘Planet 4.0’, ‘Geopolitics 4.0’ and ‘Challenges for Third Culture Kids’. The opening address was made by Mr Kailash Satyarthi, a Nobel Peace Laureate and social reformer who campaigned against child labour in India and elsewhere and advocated for the universal right to education. As one of the Top 10 teams, our students were also invited to the Gala Dinner, with Mr Chan Chun Sing, Minister for Trade and Industry, as the GOH.</p>
+	<img src="/images/humanities%205.png" 
+     style="width:80%">
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">From 2021</label>
+    <div>
+      <p>One Hack at A Time is a Meridian Secondary Humanities Department flagship collaboration event with Chua Chu Kang Secondary and Woodlands Ring Secondary. In this Hackathon, students are challenged to design innovative solutions to contemporary issues surrounding governance and citizenship in Singapore. To enrich their out of classroom experience, industry experts are also invited as guest speakers and judges to provide their on-ground experience with students. As we believe that the 21st CC learner is also a highly collaborative player, the Hackathon places an emphasis on discussions and collaboration in the process of the competition.  For more information, please visit the OHT dedicated website @ <a href="https://sites.google.com/moe.edu.sg/ohat2021/home"> https://sites.google.com/moe.edu.sg/ohat2021/home</a> </p>
+			<h4>Accolades</h4>
+			<p>Overall Best Hack Team</p>
+			<ul>
+				<li>FG 1 (Low income families)</li>
+				<ul>
+					<li>Tilottoma Tuli Bose</li>
+					<li>Lim Wei Yi</li>
+					<li>Ryan Aniq</li>
+				</ul>
+				<li>FG 3 (Migrant Workers)</li>
+				<ul>
+					<li>Wang Lihan</li>
+					<li>Benedict Wong Zhenglong</li>
+					<li>Astrid Conde</li>
+					<li>Isaiah Yeong Yi Zhung</li>
+				</ul>
+			</ul>
+			<h4>Overall Best Speakers</h4>
+			<ul>
+				<li>Jahnavi Rao (FG2)</li>
+				<li>Astrid Conde (FG3)</li>
+			</ul>
+			<h4>Most Passionate Speakers</h4>
+			<ul>
+				<li>Lim Wei Yi (FG1)</li>
+				<li>Clark Estreller (FG2)</li>
+				<li>Astrid Conde (FG3)</li>
+			</ul>
+    </div>
+	</li>  
+</ul>
+	
 	
 
-	
-	
