@@ -317,7 +317,7 @@ third_nav_title: Departments
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Integrated Arts Programme</label>
     <div>
-      <p><p>Through the “Integrated Arts Programme” (IAP), Secondary 1 students receive hands-on experience in various performing arts modules like gamelan, hip hop dance, and violin. The wide exposure aims to help students have a better understanding of the performing arts from local and global cultures, develop a range of ways for self-expression, develop their sense of creativity, and develop their collaborative skills.<br><br>
+      <p>Through the “Integrated Arts Programme” (IAP), Secondary 1 students receive hands-on experience in various performing arts modules like gamelan, hip hop dance, and violin. The wide exposure aims to help students have a better understanding of the performing arts from local and global cultures, develop a range of ways for self-expression, develop their sense of creativity, and develop their collaborative skills.<br><br>
 Feedback from Students:<br><br>
 <i>“I learnt different dance moves and how to express myself through dance.”</i><br><br>
 	<i>“I learnt that patience is required in order to play the instruments smoothly.”</i><br><br>
