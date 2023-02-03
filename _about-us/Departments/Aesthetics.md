@@ -18,6 +18,3 @@ third_nav_title: Departments
     </div>
 	</li>  
 </ul>
-
-
-
