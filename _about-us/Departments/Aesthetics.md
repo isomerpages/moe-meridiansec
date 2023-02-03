@@ -326,5 +326,17 @@ Feedback from Students:<br><br>
      style="width:80%">
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Music Curriculum</label>
+    <div>
+      <p>Students at Meridian are provided with sound footing for an informed and life-long involvement in music. The MOE framework for teaching and learning music is closely followed in the planning of our curriculum. As such, students are given opportunities for a good balance of listening and responding to music, performing to music and creating their own music. Students are also provided with music literacy skills to aid them in communicating with others through music, and to express their musical thoughts. Collaborative learning and reflective thinking are strongly encouraged in class. When possible, students are provided with platforms to perform as a class for school events.<br><br>
+At Secondary One, the emphasis is placed on training students’ listening skills. These listening activities will in turn inform them in their performance and creation of music. Above that, the Secondary Ones are equipped with basic instrumental skills on instruments such as the ukulele and keyboard.<br><br>
+At Secondary Two, students go more in-depth with ensemble playing skills. This encourages close listening and good coordination of timing. To keep up with the times, the Secondary Twos also experience using Digital Audio Workstations (DAWs) to create their individual musical works.<br><br>
+We are proud to see highly motivated Meridians playing music during their free time, and whom are also happy to share their music with the school. Follow @meridian_channel on Instagram to find some of their works.</p>
+			<img src="/images/aesthetics%202.png" 
+     style="width:80%">
+    </div>
+	</li>  
 </ul>
 
