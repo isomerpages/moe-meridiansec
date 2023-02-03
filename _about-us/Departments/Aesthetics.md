@@ -247,6 +247,70 @@ third_nav_title: Departments
   </tr>
 </tbody>
 </table></p>
+			<h4>2019</h4>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">·</th>
+    <th class="tg-1wig">SYF Evolution! Finalist (Beatboxing Group)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Brisel Choo, 3A1 in collaboration with Syidaad from Tanjong Katong Secondary</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/B7CfLZLNcrI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">SYF Evolution! Finalist (Vocal Group)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Umairah Bte Azid 4A2, Mahirah 3E2, and Hannah 2A2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/RA90izPpVq4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">SYF Evolution! Finalist (Vocal Solo)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Basya Clarisse Eliza Ramilo, 2T1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/Lw0Ky3SpJ4Q</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">·</td>
+    <td class="tg-1wig">National Schools Xinyao Singing Competition (Grand Finals)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">o</td>
+    <td class="tg-0lax">Ryna Goh, 4E4, and Dylan Hon, 4E1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">§</td>
+    <td class="tg-0lax">Listen at: https://youtu.be/ToD54FSAEl4</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>  
 </ul>
