@@ -76,8 +76,87 @@ third_nav_title: Departments
     <input type="checkbox" id="accordion4">
     <label for="accordion4">About Us</label>
     <div>
-      <p>This is a simple one line item</p>
+			<img src="/images/Humanities-Department-picture.jpg" 
+     style="width:80%">
+			<p><center>From 12 pm clockwise: Mr Adam Chan (Geo/SS), Mr Teo WY (His, SS), Ms Ng YQ (Geo/SS), Ms Selvi (Geo/SS NT), Mdm Yuslina (SS, His), Ms Kahbini (His/SS NT, Math), Mrs Warrier (His, SS), Mdm Jamilah (Geo/SS NT), Ms Hassan (His/SS), Mrs V Koh (Geo/EL) & Mr Cheong KJ (SS, EL)</center></p>
+			<p>The Humanities department is made up of 3 subject groups – Social Studies, History and Geography.</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo">Ms Norharyati Hassan</th>
+    <th class="tg-1ppo">Lead Teacher</th>
+    <th class="tg-1ppo">History &amp; Social Studies</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">Mdm Jamilah Sukimi</td>
+    <td class="tg-ys2m">Senior Teacher</td>
+    <td class="tg-ys2m">Geography &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mrs Mita Warrier</td>
+    <td class="tg-1ppo">Year Head</td>
+    <td class="tg-1ppo">History &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Mr Adam Chan</td>
+    <td class="tg-ys2m">Teacher</td>
+    <td class="tg-ys2m">Geography &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Ms Kahbini Raj</td>
+    <td class="tg-1ppo">Teacher</td>
+    <td class="tg-1ppo">History &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Mdm Yuslina Md Salleh</td>
+    <td class="tg-ys2m">Teacher</td>
+    <td class="tg-ys2m">History &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Ms Selvi Varathappan</td>
+    <td class="tg-1ppo">Teacher</td>
+    <td class="tg-1ppo">Geography &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Ms Ng Yi Qing</td>
+    <td class="tg-ys2m">Teacher</td>
+    <td class="tg-ys2m">Geography &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mrs Vicki Koh</td>
+    <td class="tg-1ppo">Teacher</td>
+    <td class="tg-1ppo">Geography &amp; English Language</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Mr Teo Wei Yang</td>
+    <td class="tg-ys2m">Teacher</td>
+    <td class="tg-ys2m">History &amp; Social Studies</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Mr Cheong Kim Gin</td>
+    <td class="tg-1ppo">Teacher</td>
+    <td class="tg-1ppo">Social Studies and English Language</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Mdm Nurhairen Amer</td>
+    <td class="tg-ys2m">Adjunct Teacher</td>
+    <td class="tg-ys2m">History</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
-	</li>  
+	</li>
+	
 
-
+	
