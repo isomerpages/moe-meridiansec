@@ -422,8 +422,15 @@ We are heartened to see alumni students doing well in the performing arts scene.
 			<img src="/images/aesthetics%2011.png" 
      style="width:80%">
 			<h4>East Zone Competitions</h4>
+			<img src="/images/aesthetics%2012.png" 
+     style="width:80%">
+			<h4>National Xinyao Singing Competition</h4>
+			<img src="/images/aesthetics%2013.png" 
+     style="width:80%">
+			<h4>SYF Youth Station and Evolution!</h4>
     </div>
 	</li>  
 </ul>
+
 
 
