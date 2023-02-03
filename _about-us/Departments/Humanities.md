@@ -165,8 +165,7 @@ third_nav_title: Departments
 	<img src="/images/humanities%201.png" 
      style="width:65%">
 	<h4>Sec 1 Geographical Investigation<br>
-What is the quality of water in Tampines River?
-</h4>
+What is the quality of water in Tampines River?</h4>
 	<p>The Secondary 1 students carried out a student-directed geographical inquiry into the water quality of the Tampines River and the impact that human activities may have on its water quality. Armed with a hypothesis, the students carried out a research on the areas through which the river flows before testing the quality of the water. As students were unable to carry out the water testing onsite because of the restrictions placed due to COVID 19, water from the river was collected and brought to school. The students worked in groups to test the quality of the water and test their hypothesis. Annotated field sketches were drawn and findings were presented.</p>
 	<img src="/images/humanities%202.png" 
      style="width:80%">
