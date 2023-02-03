@@ -376,10 +376,26 @@ Feedback from Students:<br><br>
     <label for="accordion8">Learning Journeys and Workshops</label>
     <div>
       <p>The learning journeys and workshops allow students to be exposed to a range of performing arts, experience them in their real settings (e.g. in theatre studio or concert halls), and explore performing arts venues in Singapore. Some of these learning journeys are conducted in collaboration with the “Keppel Nights” programme. In addition, students learn to observe proper concert etiquette.</p>
-			<img src="/images/aesthetics%206.png" 
+			<img src="/images/aesthetics%207.png" 
      style="width:80%">
-			<img src="/images/aesthetics%206.png" 
+			<img src="/images/aesthetics%208.png" 
      style="width:80%">
+    </div>
+	</li> 
+	<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Meridian Artistes</label>
+    <div>
+      <p>The “Meridian Artistes” programme is a platform to recognize passionate, innovative, excellent and resilient performing arts leaders. These students may be performing arts CCA leaders or have participated actively in and/or outside of school. Their roles as Meridian Artistes are to coordinate performing arts programmes in school (e.g. Speech Day performances) or suggest ideas to promote the performing arts in school.<br><br>
+The Meridian Artistes mission is to:</p>
+			<ul>
+				<li>provide and promote quality and innovative performing arts performances</li>
+				<li>develop a positive, healthy, and collaborative performing arts community in Meridian</li>
+				<li>inspire and delight the local community</li>
+			</ul>
+			<img src="/images/a27.jpg" 
+     style="width:80%">
+			<p><center>Meridian Artistes with their Certificates of Appreciation at VIVA (SYF Celebrations), 2019</center></p>
     </div>
 	</li>  
 </ul>
