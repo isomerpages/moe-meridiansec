@@ -15,6 +15,17 @@ third_nav_title: Departments
 			<h4>Mission</h4>
 			<p>To create a convivial performing arts culture as a leading Arts Hub.</p>
 			<h4>Key Programmes</h4>
+			<ul>
+				<li>Integrated Arts Programme (IAP)</li>
+				<li>Music Curriculum</li>
+				<li>Assembly Programmes</li>
+				<li>Project Family Song</li>
+				<li>Aesthetics Learning Journey</li>
+				<li>Learning Journeys and Workshops</li>
+				<li>Meridian Artistes</li>
+				<li>Career Guidance</li>
+				<li>Talent Scouting</li>
+			</ul>
     </div>
 	</li>  
 </ul>
