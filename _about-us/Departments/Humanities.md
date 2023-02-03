@@ -57,6 +57,4 @@ third_nav_title: Departments
 </tbody>
 </table></p>
     </div>
-	</li>  
-
-	
+	</li>
