@@ -398,5 +398,32 @@ The Meridian Artistes mission is to:</p>
 			<p><center>Meridian Artistes with their Certificates of Appreciation at VIVA (SYF Celebrations), 2019</center></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Career Guidance</label>
+    <div>
+      <p><i>“To find out what one is fitted to_ _do and to secure an opportunity to do it is the key to happiness.”</i><br><br>
+<i>— John Dewey, Democracy and Education, 1916</i><br><br>
+To assist students in exploring future career options, our school has been actively collaborating with tertiary institutes (e.g. Singapore Polytechnic, NAFA and Laselle) to provide students with a taster of tavailable courses.<br><br>
+We are heartened to see alumni students doing well in the performing arts scene. Some have also done their part in giving back to the community.</p>
+			<img src="/images/aesthetics%209.png" 
+     style="width:80%">
+    </div>
+	</li> 
+	<li>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Talent Scouting</label>
+    <div>
+      <p>In-house talent competitions and external platforms are organized for students to hone their skills. The JAM (Joyful and Artistic Meridians) talent competition is our in-house competition which has increasingly been receiving popular signup rates by students. Guest judges with accomplished portfolios are often brought in during the finals to increase the level of professionalism expected. With regard to external platforms, performances at external venues are organized when possible and students have represented the school at several East Zone and national competitions. The national competitions include the National Xinyao Singing Competition organized by CPCLL, the SYF Youth Station, and the SYF Evolution! Click on the “Achievements” tab to view our students’ accomplishments.</p>
+			<h4>JAM Talent Competition</h4>
+			<img src="/images/aesthetics%2010.png" 
+     style="width:80%">
+			<h4>SCAPE Confessions</h4>
+			<img src="/images/aesthetics%2011.png" 
+     style="width:80%">
+			<h4>East Zone Competitions</h4>
+    </div>
+	</li>  
 </ul>
+
 
