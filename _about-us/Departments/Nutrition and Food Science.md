@@ -65,4 +65,65 @@ Candidates should be able to extend the learnt knowledge towards planning a food
 		 
 ### Programmes & Highlights
 
-#### Design Thinking-infused coursework in FCE
+**Design Thinking-infused coursework in FCE**
+
+<img src="/images/FCE01.jpg" 
+     style="width:70%">
+		 
+**National Day Meridian Bake-Off Competition (Internal competition)**
+
+<img src="/images/FCE02.jpg" 
+     style="width:70%">
+
+**Assumption Pathway Baking Competition (Nation-wide competition)**
+		 
+<img src="/images/FCE03.jpg" 
+     style="width:70%">
+		 
+<img src="/images/FCE04.jpg" 
+     style="width:70%">
+		 
+**First Runner up in 2019 (Ice Kachang-inspired cake & Fusion-flavoured cookies)**
+
+<img src="/images/FCE05.jpg" 
+     style="width:70%">
+		 
+### Department Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo">Ms Ong Swee Lian, Amy</th>
+    <th class="tg-1ppo">SH / Food and Nutrition</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Mdm Sahrul Bahriah Bte Mohd Taib</td>
+    <td class="tg-h5mn">Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Ms Nurhidayah Mohammad Ibrahim</td>
+    <td class="tg-1ppo">Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Mdm Zaidah Bte Mohd</td>
+    <td class="tg-h5mn">Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Ms Nur Ummirah Nasser</td>
+    <td class="tg-1ppo">Teacher</td>
+  </tr>
+</tbody>
+</table>
+
+
