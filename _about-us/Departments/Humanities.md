@@ -162,5 +162,21 @@ third_nav_title: Departments
     <div>Sec 1 History Enrichment Programme<br>
 			Learning Journey to Fort Canning</h4>
       <p>Students learn best when they are involved and this field trip offers them an ideal opportunity for experiential learning. The learning journey to Fort Canning enabled the students to understand and appreciate the 700 years of Singapore’s recorded existence, which they visualised and presented in the form of sketches.</p>
+	<img src="/images/humanities%201.png" 
+     style="width:80%">
+	<h4>Sec 1 Geographical Investigation<br>
+What is the quality of water in Tampines River?
+</h4>
+	<p>The Secondary 1 students carried out a student-directed geographical inquiry into the water quality of the Tampines River and the impact that human activities may have on its water quality. Armed with a hypothesis, the students carried out a research on the areas through which the river flows before testing the quality of the water. As students were unable to carry out the water testing onsite because of the restrictions placed due to COVID 19, water from the river was collected and brought to school. The students worked in groups to test the quality of the water and test their hypothesis. Annotated field sketches were drawn and findings were presented.</p>
+	<img src="/images/humanities%202.png" 
+     style="width:80%">
+	<img src="/images/humanities%203.png" 
+     style="width:80%">
+	<h4>Sec 2 Interdisciplinary Learning Journey to Gardens by the Bay</h4>
+	<p>The Secondary 2 students participated in an experiential trail at Gardens by the Bay, as part of the Interdisciplinary Learning Journey jointly organized by the Mathematics and Humanities Departments. To complement what the students have learnt in class about Singapore’s role in the early maritime trade from the 14th to 19th Century, the students had the opportunity to have an up-close encounter with the plants at the Heritage area of the Colonial Gardens. From there, they could identify the plants involved in the spice trade, as well as their uses and places of origin.</p>
     </div>
-	</li>  
+	</li>
+	
+
+	
+	
