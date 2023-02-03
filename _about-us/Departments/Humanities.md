@@ -156,7 +156,11 @@ third_nav_title: Departments
 </tbody>
 </table></p>
     </div>
-	</li>
-	
-
-	
+	</li><li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Programmes</label>
+    <div>Sec 1 History Enrichment Programme<br>
+			Learning Journey to Fort Canning</h4>
+      <p>Students learn best when they are involved and this field trip offers them an ideal opportunity for experiential learning. The learning journey to Fort Canning enabled the students to understand and appreciate the 700 years of Singapore’s recorded existence, which they visualised and presented in the form of sketches.</p>
+    </div>
+	</li>  
