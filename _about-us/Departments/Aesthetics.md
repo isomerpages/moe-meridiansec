@@ -428,9 +428,15 @@ We are heartened to see alumni students doing well in the performing arts scene.
 			<img src="/images/aesthetics%2013.png" 
      style="width:80%">
 			<h4>SYF Youth Station and Evolution!</h4>
+			<img src="/images/aesthetics%2014.png" 
+     style="width:80%">
+			<img src="/images/aesthetics%2015.png" 
+     style="width:80%">
+			<img src="/images/aesthetics%2016.png" 
+     style="width:80%">
+			<img src="/images/aesthetics%2017.png" 
+     style="width:80%">
     </div>
 	</li>  
 </ul>
-
-
 
