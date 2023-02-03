@@ -322,6 +322,8 @@ Feedback from Students:<br><br>
 <i>“I learnt different dance moves and how to express myself through dance.”</i><br><br>
 	<i>“I learnt that patience is required in order to play the instruments smoothly.”</i><br><br>
 	<i>“I learn how important teamwork is in order to play the piece nicely.”</i></p>
+			<img src="/images/aesthetic%201.png" 
+     style="width:80%">
     </div>
 	</li>  
 </ul>
