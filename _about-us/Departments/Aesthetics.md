@@ -343,6 +343,44 @@ We are proud to see highly motivated Meridians playing music during their free t
     <label for="accordion5">Assembly Programmes</label>
     <div>
       <p>The school assembly programmes serve as a platform of exposure to the school population. At Meridian, this is used to expose all students to a variety of art forms (e.g. dance, drama, music). These programmes are selected to encourage Meridians to pursue their interest and participation in the arts.</p>
+			<img src="/images/aesthetics%203.png" 
+     style="width:80%">
+			<img src="/images/aesthetics%204.png" 
+     style="width:80%">
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Project Family Song</label>
+    <div>
+      <p>Other than developing a sense of camaraderie and pride in the Meridian community via the singing of the Meridian Family song, the “Project Family Song” also aims to give all Meridians a platform to lead through performing. It is important to us that all students are provided with the opportunity to perform and lead others through their performance. Through this, students build confidence and develop an awareness of good presentation skills.</p>
+			<img src="/images/aesthetics%205.png" 
+     style="width:80%">
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Aesthetics Learning Journey</label>
+    <div>
+      <p>The “Aesthetics Learning Journey” aims to help students appreciate art, music and Physical Education from the Singapore culture. As such, the locations (i.e. Haji Lane and Telok Ayer) that were carefully selected are places that are rich in history and culture. Students learn to navigate the area in small groups and are engaged in station activities. Through the activities, they have a better understanding of the various cultures in Singapore and how the past relates to the present.<br><br>
+Feedback from Students:<br><br>
+<i>“It was fun to experience the past in the form of art and music.”</i><br><br>
+<i>“I was able to see the beauty and art in the culture of Singapore”</i>
+</p>
+			<img src="/images/aesthetics%206.png" 
+     style="width:80%">
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Learning Journeys and Workshops</label>
+    <div>
+      <p>The learning journeys and workshops allow students to be exposed to a range of performing arts, experience them in their real settings (e.g. in theatre studio or concert halls), and explore performing arts venues in Singapore. Some of these learning journeys are conducted in collaboration with the “Keppel Nights” programme. In addition, students learn to observe proper concert etiquette.</p>
+			<img src="/images/aesthetics%206.png" 
+     style="width:80%">
+			<img src="/images/aesthetics%206.png" 
+     style="width:80%">
     </div>
 	</li>  
 </ul>
+
