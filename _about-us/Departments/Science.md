@@ -56,6 +56,16 @@ Two students represented our school in the 15th Singapore National Crystal Grow
 			<p>All Sec 2 students participated in the STEM Playground Challenge #2: Dome Sweet Dome, where they are tasked to build a geodesic dome using any materials. After building their domes, students have to test the support strength of the dome by stacking handphones! From each class, a winning entry with the strongest structure built with sustainable or recyclable materials was selected.</p>
 			<img src="/images/Science06.jpg" style="width:60%">
 			<p><center>Showcase of domes built by students from 2E1 (left), 2E4 (centre) and 2A1 (right)</center></p>
+			<h4>Meridian Science Programmes</h4>
+			<p>Meridian Science Program is a series of programmes that aim to enhance students’ interest in science and stretch their learning in Science. Through various activities, students improve scientific communication by working and presenting on projects of interest. Students are exposed to extra-curricular experimental laboratory sessions in school, workshops and competitions. Through structured guidance and inquiry based exploration, we aim to nurture curiosity, intellectual perseverance and confidence in our students.</p>
+			<p><b>Meridian Young Scientist</b></p>
+			<p>The Meridian Young Scientist is a stretching programme for Sec 1 students to stretch and apply their knowledge in science. An award card is given to all students to encourage students to apply their learning and enjoy learning Science through various activities.<br><br>
+In 2022, the Meridian Young Scientist is renewed and updated with more exciting tasks! This time, it was organised as part of the 2022 Meridian Science Week. Students are given a choice of being “The Creative”, “The Erudite” or “The Explainer”, depending on the list of activities that they have completed. From their submissions, students completed their tasks with creativity and dedication.</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
+
