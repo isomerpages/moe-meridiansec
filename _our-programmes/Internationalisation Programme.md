@@ -194,6 +194,3 @@ Overall, this trip had been an amazing experience for me. Besides learning so mu
 	</li>  
 </ul>
 
-
-9999
-
