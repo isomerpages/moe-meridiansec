@@ -171,10 +171,9 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     <input type="checkbox" id="accordion7">
     <label for="accordion7">2017 Hanoi, Vietnam Overseas Learning Journey</label>
     <div>
-			<p><b>5-day 4-night Immersion Programme to Hanoi, Vietnam</b></p>
-			<p>This overseas trip to Hanoi in Vietnam is aimed at expanding the world view of students through understanding the tumultuous and complex heritage of Vietnam’s history as well as appreciating its rich culture through understanding the country’s colonial influences from the Chinese, Khmer and French occupation.  Students would then better comprehend Singapore’s resilience in her own struggle to independence through understanding the Vietnamese’ strong value of nationalism in their efforts for peace in their country.  Also, through a cultural immersion programme with a local school, Le Quy Don Junior High School, the value of humility in learning from others is encouraged.  In the 5 days in Hanoi, the places visited included the Temple of Literature, Hanoi’s Old Quarter, Ho Chi Minh Mausoleum and Stilt House.  The students visited Dong Trieu Village where they undertook the role of farmers planting rice and catching fishes.  The group also visited Trang An Grottoes, a UNESCO World Heritage Site, and made comparison with Singapore Botanic Gardens to understand the significance of this award.
-</p>
-			<img src="/images/hanoi1.jpg" 
+      <p><b>5-day 4-night Immersion Programme to Hanoi, Vietnam</b></p>
+			<p>This overseas trip to Hanoi in Vietnam is aimed at expanding the world view of students through understanding the tumultuous and complex heritage of Vietnam’s history as well as appreciating its rich culture through understanding the country’s colonial influences from the Chinese, Khmer and French occupation.  Students would then better comprehend Singapore’s resilience in her own struggle to independence through understanding the Vietnamese’ strong value of nationalism in their efforts for peace in their country.  Also, through a cultural immersion programme with a local school, Le Quy Don Junior High School, the value of humility in learning from others is encouraged.  In the 5 days in Hanoi, the places visited included the Temple of Literature, Hanoi’s Old Quarter, Ho Chi Minh Mausoleum and Stilt House.  The students visited Dong Trieu Village where they undertook the role of farmers planting rice and catching fishes.  The group also visited Trang An Grottoes, a UNESCO World Heritage Site, and made comparison with Singapore Botanic Gardens to understand the significance of this award.</p>
+				<img src="/images/hanoi1.jpg" 
      style="width:60%"><br>
 			<img src="/images/hanoi2.jpg" 
      style="width:60%"><br>
@@ -196,5 +195,4 @@ Overall, this trip had been an amazing experience for me. Besides learning so mu
 
 
 
-****
-
+123123
