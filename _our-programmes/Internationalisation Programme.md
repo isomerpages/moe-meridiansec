@@ -155,9 +155,46 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Ho Chi Minh City, Vietnam Overseas Learning Journey Trip May 2017</label>
     <div>
-      <p>This is a simple one line item</p>
+      <img src="/images/2017-Ho%20Chi%20Minh%20City-1.png" 
+     style="width:75%">
+			<img src="/images/2017-Ho%20Chi%20Minh%20City-2.png" 
+     style="width:75%">
+			<img src="/images/2017-Ho%20Chi%20Minh%20City-3.png" 
+     style="width:75%">
+			<img src="/images/2017-Ho%20Chi%20Minh%20City-4.png" 
+     style="width:75%"><br>
     </div>
 	</li>  
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">2017 Hanoi, Vietnam Overseas Learning Journey</label>
+    <div>
+			<p><b>5-day 4-night Immersion Programme to Hanoi, Vietnam</b></p>
+			<p>This overseas trip to Hanoi in Vietnam is aimed at expanding the world view of students through understanding the tumultuous and complex heritage of Vietnam’s history as well as appreciating its rich culture through understanding the country’s colonial influences from the Chinese, Khmer and French occupation.  Students would then better comprehend Singapore’s resilience in her own struggle to independence through understanding the Vietnamese’ strong value of nationalism in their efforts for peace in their country.  Also, through a cultural immersion programme with a local school, Le Quy Don Junior High School, the value of humility in learning from others is encouraged.  In the 5 days in Hanoi, the places visited included the Temple of Literature, Hanoi’s Old Quarter, Ho Chi Minh Mausoleum and Stilt House.  The students visited Dong Trieu Village where they undertook the role of farmers planting rice and catching fishes.  The group also visited Trang An Grottoes, a UNESCO World Heritage Site, and made comparison with Singapore Botanic Gardens to understand the significance of this award.
+</p>
+			<img src="/images/hanoi1.jpg" 
+     style="width:60%"><br>
+			<img src="/images/hanoi2.jpg" 
+     style="width:60%"><br>
+			<img src="/images/hanoi3.jpg" 
+     style="width:60%"><br>
+			<img src="/images/hanoi4.jpg" 
+     style="width:60%">
+			<p><b>Reflections by students</b></p>
+			<p>I chose to spend my holidays differently this year by signing up for the school’s overseas learning journey to Vietnam. Although I was initially apprehensive about going by myself, this trip proved to be much more rewarding than I had expected. For example, the water puppet show provided much insights about how farmers made use of the surrounding conditions, like the flooded rice fields, to present interesting puppet shows to celebrate bountiful harvests. As I visited the National Museum, I had a further glimpse into the rich history of Vietnam. One of the best memories I had was the visit to the Old Quarters in Hanoi. I am amazed at how the roads in the area were closed during weekends to cater to the huge influx of locals roaming around the Hoan Kiem Lake for their family time. The visit to Le Qui Don Junior High School was a valuable learning experience. I was awestruck by their celebrations of Halloween with their performance, fashion show, carnival and even lessons with this festival as the theme of learning. I was especially fascinated with their song and dance segment. It is apparent that much effort had been used in their preparation for the concert. The most amazing experience was actually from Dong Trieu Village, where we learn how to plant rice seedlings into the paddy fields and catch fishes for our dinner! The unforgettable moment was when we visited the Trang An Grottoes at Ninh Binh. The river was so clean that I could see plenty of green vegetation at the bottom. It was such a break from the city that I felt rejuvenated as I cruised along the river on the boat. I would like to thank the school for providing this opportunity for me to attend this overseas trip. The lessons learnt from this were much more than those I have learnt from the classroom. - Naden Jarel Anthony Koh (Class 3E1)<br><br>
+During the recent overseas trip to Vietnam, I have learnt many new things through understanding the history and culture of Vietnam as well as forging new friendships. This trip was filled with many fun activities like catching fishes, watching a water puppet show and more.<br><br>
+On the first day, we got to visit the famous Temple of Literature and watch a water puppet show. The Temple of Literature helped me understand about the influence the Chinese scholar, Confucius, has in Vietnam and how much the Vietnamese value education. As for the water puppet show, I was impressed at how the puppeteers maneuvered the puppets so smoothly in the water.<br><br>
+On the second day, we got to visit two museums and I realized how much the history of Vietnam was influenced by the colonization of the French and the Chinese. The shopping at Old Quarters was therapeutic because there was such a vast array of goods at really affordable prices and I bought many gifts for my family and friends in Singapore.<br><br>
+The visit to Le Quy Don Junior High School on the third day was an eye-opener. The pupils in the school had put up an amazing celebration of Halloween. Besides a concert at the beginning, the school had organized a carnival too where each class put up a game stall or a food stall. Using their entrepreneurial spirit, each class tried to cajole customers to their stalls and purchase their products or to play their games. We had a glimpse into the classroom teaching of an English lesson and we had an enjoyable time learning new vocabulary terms on the theme of Halloween. For me, the humbling part was about planting rice in the flooded paddy fields and catching fishes for our dinner. It was a back-breaking job and I truly appreciate the food the farmers grew.<br><br>
+On the fourth day, I got the chance to scale up a mountain by bus and visit a three-tier pagoda inside a cave. The view at the top of the mountain took my breath away.<br><br>
+Overall, this trip had been an amazing experience for me. Besides learning so much about Vietnam, I had the opportunity to bond with my friends and also made new friends. - Tran Bao Nguyen Andy (Class 1E2)</p>
     </div>
 	</li>  
 </ul>
+
+
+
+****
+
