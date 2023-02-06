@@ -29,6 +29,22 @@ The department continues to provide opportunities for students from all classes 
 			<img src="/images/02.png" style="width:70%">
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Highlights (2022)</label>
+    <div>
+			<h4><u>Meridian Science Enrichment</u></h4>
+			<p><b>Science Centre Workshops</b></p>
+      <p>Our Sec 1 students were engaged in a Science Centre Singapore workshop called “The Science of Making Candy” during the Term 2 Week 10 Experiential Learning Programme. The students learned about the different types of sugar and how they are made into candies using interfering agents.</p>
+			<img src="/images/Science01.jpg" style="width:60%">
+			<h4>Learning Journey to Greensproutz and Kok Fah Technology Farm</h4>
+			<p>All Sec 1 students went on a learning journey to Singapore’s modern agricultural farms as part of their Term 2 Week 10 Experiential Learning Programme. A few classes went on a tour at Kok Fah Technology Farm and learned the science behind hydroponics. The remaining classes went on a sustainable journey at Greensproutz to learn how recycled items are used to make terrariums. At the end of their learning journeys, students brought home new science knowledge and souvenirs!</p>
+			<img src="/images/Science02.jpg" style="width:60%">
+    </div>
+	</li>  
 </ul>
+
+
+
 
 
