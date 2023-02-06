@@ -60,3 +60,47 @@ In addition, they also visited a local school where they interacted with local s
      style="width:60%">
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2018 Overseas Learning Journey to Chiang Mai, Thailand</label>
+    <div>
+      <img src="/images/Slide1.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide2.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide3.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide4.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide5.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide6.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide7.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide8.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide9.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide10.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide11.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide12.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide13.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide14.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide15.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide16.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide17.jpg" 
+     style="width:60%"><br>
+			<img src="/images/Slide18.jpg" 
+     style="width:60%"><br>
+    </div>
+	</li>  
+
+
