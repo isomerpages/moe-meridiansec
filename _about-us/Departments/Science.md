@@ -23,6 +23,12 @@ Our programmes aim to give students the experience of conducting investigative s
 The department continues to provide opportunities for students from all classes and streams to participate in external Science competitions.</p>
 			<p><u>Framework:</u></p>
 			<p>The Science Enrichment framework is modelled from the NE, “Head, Heart and Hands” framework.</p>
+			<img src="/images/01.png" style="width:50%">
+			<p><b>Objective</b>: To inculcate passion in Science and provide a progressive and holistic Science education which extends beyond the classroom and curriculum.
+</p>
+			<img src="/images/02.png" style="width:70%">
     </div>
 	</li>  
 </ul>
+
+
