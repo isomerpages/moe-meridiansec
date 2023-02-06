@@ -114,8 +114,13 @@ In 2021, the Meridian Young Scientist was introduced. Using the Meridian Young S
 				<li>Secondary 2 Mocktails, Gliders and Crystals Competitions</li>
 			</ul>
 			<p>The Secondary 2 students went through enriching Science workshops and competitions during the Science Discovery Week! Through teacher-designed workshops, students learned the Science behind crystal growing, glider design and mocktails creation. After which, students participated in the best crystals, gliders and mocktails!</p>
+			<img src="/images/Science-13.jpg" style="width:60%">
+			<ul>
+				<li>Daily Science Quizzes</li>
+			</ul>
+			<p>During the Science Discovery Week, daily online quizzes were released based on the different subjects of Biology, Chemistry and Physics. For each quiz, students who had accurate answers had the opportunity to be randomly selected for a prize!</p>
+			<img src="/images/Science-14.jpg" style="width:60%">
     </div>
 	</li>  
 </ul>
-
 
