@@ -70,6 +70,35 @@ In 2022, the Meridian Young Scientist is renewed and updated with more exciting 
 			</ul>
 			<p>Our Secondary 1 students completed two Science activities ‘Minus the Virus!’ and a sorbet-making workshop. For ‘Minus the Virus!’, they learnt more about role of sanitisers in the current COVID-19 situation. Students also had the opportunity to make their own hand sanitisers during the hands-on segment.
 </p>
+			<img src="/images/Science-17.jpg" style="width:60%">
+			<p>In the in-house sorbet-making workshop, students learnt the properties of dry ice and how they are used to freeze fruit juice into sorbets!</p>
+			<img src="/images/Science-18.jpg" style="width:60%">
+			<ul>
+				<li>Daily Science Quizzes</li>
+			</ul>
+			<p>During the Science Discovery Week, daily online quizzes were released over the four days. For each quiz, students who had accurate answers had the opportunity to be randomly selected for a prize!</p>
+			<img src="/images/Science-19.jpg" style="width:60%">
+    </div>
+	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Highlights (2021)</label>
+		<div>
+			<h4>Science External Competitions</h4>
+			<p><b>IgnITE Competitions</b></p>
+			<p>IgnITE Skills Challenge is Singapore’s first and only national competition for ‘N’ level students where students can enjoy learning in the fun-filled and hands-on activities! All teams that signed up for the challenges first attended a workshop to learn the basic knowledge needed for their competition. After which, they took part in the preliminary challenge to come up with their product within the stipulated time frame.<br><br>
+Meridian Secondary School selected a total of 9 teams of Sec 3 Normal Academic/Technical students to take part in 4 challenges: Digital Media Story Telling, Mad Mocktail Strikes Again!, Potion Alchemy and Daedalus Challenge.  
+Under Science, teams were sent for the Mad Mocktail Strikes Again! and the Daedalus Challenge.<br><br>
+For Mad Mocktail Strikes Again!, students designed their own mocktails by identifying the densities of different liquids, such as syrups and juices. Using the concept of density, they create an attractive mocktail with different coloured layers for their signature mocktails.</p>
+			<img src="/images/Science-08.jpg" style="width:60%">
+			<p>For the Daedalus Challenge, students developed skills in using computer-aided design (CAD) software to design and assembled an aerodynamic glider that can clear obstacles.<br><br>
+With their crafty glider skills, one of the teams for the Daedalus Challenge made their way to be one of the finalist teams! 2021 ITE Skills Challenge (Daedalus Challenge) Finalist Team – Wang Jing Kai Athvan, Muhammad Danish Bin Muhammad Aidil and Teo Wei Ming David from class 3A2</p>
+			<img src="/images/Science-09.jpg" style="width:60%">
+			<h4>Meridian Science Programmes</h4>
+			<p>Meridian Science Program is a series of programmes that aim to enhance students’ interest in science and stretch their learning in Science. Through various activities, students improve scientific communication by working and presenting on projects of interest. Students are exposed to extra-curricular experimental laboratory sessions in school, workshops and competitions. Through structured guidance and inquiry based exploration, we aim to nurture curiosity, intellectual perseverance and confidence in our students.</p>
+			<p><b>Meridian Young Scientist</b></p>
+			<p>The Meridian Young Scientist is a stretching programme for Sec 1 students to stretch and apply their knowledge in science. An award card is given to all students to encourage students to apply their learning and enjoy learning Science through various activities.<br><br>
+In 2021, the Meridian Young Scientist was introduced. Using the Meridian Young Scientist Award card as a checklist, students aim to complete a main task and various side tasks related to the different science disciplines.</p>
     </div>
 	</li>  
 </ul>
