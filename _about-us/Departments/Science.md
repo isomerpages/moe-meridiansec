@@ -47,7 +47,14 @@ The department continues to provide opportunities for students from all classes 
 			<p><b>Singapore National Crystal Growing Competition</b></p>
 			<p>The Singapore National Crystal Growing Competition is organised by the National University of Singapore for all secondary schools to encourage the learning and mastery in the art of crystal growing.<br><br>
 Two students represented our school in the 15th Singapore National Crystal Growing Competition. Under the guidance of Mr Arthur Lee, they spent weeks in the planning and optimisation of their lab procedure for the growth of ammonium nickel (II) sulfate.</p>
+				<img src="/images/Science04.jpg" style="width:60%">
+			<p><center>2022 Singapore National Crystal Growing Competition Team<br>
+(3E3 Otebay Atilla & Leo Yoong Yih)</center></p>
+			<p><b>STEM Playground Challenge</b></p>
+			<p>The STEM Playground Challenge is part of the UNTAME Festival organised by the Singapore Science Centre and the James Dyson Foundation. Students use their knowledge in Science, Technology, Engineering and Mathematics to apply into real-world situations.</p>
     </div>
 	</li>  
 </ul>
+
+
 
