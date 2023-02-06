@@ -21,7 +21,8 @@ With the push for 21st Century Competencies (21CC), it is necessary to prepare s
 			<p>Thus, a new area of focus this year would be the application of ICT-enabled lessons in our daily lessons, using the Design Thinking approach as well as the structure of <b>I Do, We Do, You Do</b> in the lesson to improve students’ confidence and attain achievement<br><br>
 Our programmes aim to give students the experience of conducting investigative science projects and provide them with a platform for scientific exchange. Students will be given opportunities to be engaged in Science workshops, learning journeys and competitions at various Science institutions.<br><br>
 The department continues to provide opportunities for students from all classes and streams to participate in external Science competitions.</p>
+			<p><u>Framework:</u></p>
+			<p>The Science Enrichment framework is modelled from the NE, “Head, Heart and Hands” framework.</p>
     </div>
 	</li>  
 </ul>
-
