@@ -40,11 +40,11 @@ The department continues to provide opportunities for students from all classes 
 			<h4>Learning Journey to Greensproutz and Kok Fah Technology Farm</h4>
 			<p>All Sec 1 students went on a learning journey to Singapore’s modern agricultural farms as part of their Term 2 Week 10 Experiential Learning Programme. A few classes went on a tour at Kok Fah Technology Farm and learned the science behind hydroponics. The remaining classes went on a sustainable journey at Greensproutz to learn how recycled items are used to make terrariums. At the end of their learning journeys, students brought home new science knowledge and souvenirs!</p>
 			<img src="/images/Science02.jpg" style="width:60%">
+			<h4>Biology AEM: ApLM Discovering Pharmacy @ Temasek Polytechnic</h4>
+			<p>Our Sec 3 Biology students had the opportunity to attend Temasek Polytechnic’s Discovering Pharmacy AEM during their March Holidays. In the 4-day course, they learned about the different types of medications, focusing on over-the-counter medications, principles of optimizing drug therapy as well as responsible and proper self-medication. The AEM introduces students to the products and services of a pharmacy and they get to know the industry through sharing conducted by industry practitioners and lecturers.</p>
     </div>
 	</li>  
 </ul>
-
-
 
 
 
