@@ -99,9 +99,15 @@ With their crafty glider skills, one of the teams for the Daedalus Challenge mad
 			<p><b>Meridian Young Scientist</b></p>
 			<p>The Meridian Young Scientist is a stretching programme for Sec 1 students to stretch and apply their knowledge in science. An award card is given to all students to encourage students to apply their learning and enjoy learning Science through various activities.<br><br>
 In 2021, the Meridian Young Scientist was introduced. Using the Meridian Young Scientist Award card as a checklist, students aim to complete a main task and various side tasks related to the different science disciplines.</p>
+			<img src="/images/Science-07.jpg" style="width:70%">
+			<p><b>Meridian Science Discovery Week</b></p>
+			<p>The Meridian Science Discovery Week is held in Term 3 with the objective to enable students to see Science in everyday life through self-discovery and inquiry.</p>
+			<img src="/images/Science-10.jpg" style="width:60%">
+			<ul>
+				<li>Secondary 1 Labby Works!</li>
+			</ul>
+			<p>Our Secondary 1 Express students completed the Science activity ‘Corona.. No more!’, where they learnt more about role of sanitisers in the current COVID-19 situation. Students also had the opportunity to make their own hand sanitisers during the hands-on segment.</p>
     </div>
 	</li>  
 </ul>
-
-
 
