@@ -107,7 +107,15 @@ In 2021, the Meridian Young Scientist was introduced. Using the Meridian Young S
 				<li>Secondary 1 Labby Works!</li>
 			</ul>
 			<p>Our Secondary 1 Express students completed the Science activity ‘Corona.. No more!’, where they learnt more about role of sanitisers in the current COVID-19 situation. Students also had the opportunity to make their own hand sanitisers during the hands-on segment.</p>
+			<img src="/images/Science-11.jpg" style="width:60%">
+			<p>The Secondary 1 Normal Academic and Normal Technical students completed the Science activity, ‘Ice ‘S’Cream!’, where they learnt a brief history about ice cream making and the Science behind it. After which, students get to experience making their very own delicious ice cream with salt and ice!</p>
+			<img src="/images/Science-12.jpg" style="width:60%">
+			<ul>
+				<li>Secondary 2 Mocktails, Gliders and Crystals Competitions</li>
+			</ul>
+			<p>The Secondary 2 students went through enriching Science workshops and competitions during the Science Discovery Week! Through teacher-designed workshops, students learned the Science behind crystal growing, glider design and mocktails creation. After which, students participated in the best crystals, gliders and mocktails!</p>
     </div>
 	</li>  
 </ul>
+
 
