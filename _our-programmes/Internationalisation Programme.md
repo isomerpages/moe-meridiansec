@@ -146,4 +146,14 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
      style="width:75%">
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2017 Kuching, Sarawak Overseas Learning Journey</label>
+    <div>
+      <a href="/files/Kuching-Sarawak-Overseas-Learning-Journey.pdf">Kuching, Sarawak Overseas Learning Journey</a>
+    </div>
+	</li>  
 </ul>
+
+
+
