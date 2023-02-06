@@ -61,11 +61,18 @@ Two students represented our school in the 15th Singapore National Crystal Grow
 			<p><b>Meridian Young Scientist</b></p>
 			<p>The Meridian Young Scientist is a stretching programme for Sec 1 students to stretch and apply their knowledge in science. An award card is given to all students to encourage students to apply their learning and enjoy learning Science through various activities.<br><br>
 In 2022, the Meridian Young Scientist is renewed and updated with more exciting tasks! This time, it was organised as part of the 2022 Meridian Science Week. Students are given a choice of being “The Creative”, “The Erudite” or “The Explainer”, depending on the list of activities that they have completed. From their submissions, students completed their tasks with creativity and dedication.</p>
+			<img src="/images/Science-15.jpg" style="width:60%">
+			<p><b>Meridian Science Discovery Week</b></p>
+			<p>The Meridian Science Discovery Week is held in Term 3 with the objective to enable students to see Science in everyday life through self-discovery and inquiry.</p>
+			<img src="/images/Science-16.jpg" style="width:60%">
+			<ul>
+				<li>Sec 1 Science Activities</li>
+			</ul>
+			<p>Our Secondary 1 students completed two Science activities ‘Minus the Virus!’ and a sorbet-making workshop. For ‘Minus the Virus!’, they learnt more about role of sanitisers in the current COVID-19 situation. Students also had the opportunity to make their own hand sanitisers during the hands-on segment.
+</p>
     </div>
 	</li>  
 </ul>
-
-
 
 
 
