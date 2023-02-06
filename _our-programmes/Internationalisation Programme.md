@@ -36,8 +36,20 @@ At the end of each trip, through their reflections and feedback, students have r
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2018 Overseas Learning Journey to Ho Chi Minh, Vietnam</label>
     <div>
-      <p>This is a simple one line item</p>
+      <img src="/images/2018-Ho-Chi-Minh-1.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-2.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-3.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-4.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-5.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-6.jpg" 
+     style="width:60%">
+			<img src="/images/2018-Ho-Chi-Minh-7.jpg" 
+     style="width:60%">
     </div>
-	</li>  
-
+	</li>
 	
