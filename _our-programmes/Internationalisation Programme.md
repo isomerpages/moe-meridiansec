@@ -18,3 +18,15 @@ Since 2018, one of the signature programmes for the entire secondary three cohor
 In 2019, a total of 6 OLJ destinations were organised from Malaysia to Thailand, Vietnam and China.
 
 ![](/images/ip1.jpg)
+
+**Our process**
+
+Annually, the school will identify various destinations with emphasis on ASEAN countries for students to select.  Each trip is headed by one of the Secondary 3 Form Teachers (FTs) with other FTs acting as chaperones for all the trips organized.  This process offers opportunities for all involved to not only build a stronger teacher-student rapport outside a classroom setting but more importantly, allows for greater social mixing with other students across the classes and streams.  Each trip’s itinerary will also include an immersion experience with a hosting school helping students learn about the lives of their peers abroad.
+
+**The strengths of the OLJ**
+
+*   Powerful learning experience to help students develop confidence, independence and responsibility through immersion in a different environment.
+*   Develop understanding of another country’s culture, history and development broadening the students’ world view.
+*   Opportunities for interaction with Meridian schoolmates and overseas friends.
+
+At the end of each trip, through their reflections and feedback, students have recorded overwhelming support for the programme as they have gained much from the OLJ experience; from learning about themselves and others; about the culture and life of the places and countries they have visited and how much they have learnt about Singapore’s place in the world. The most priceless impact of the OLJ is that the students expressed a greater sense of appreciation for our country.
