@@ -135,16 +135,15 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     <label for="accordion4">2017 Beijing, China Overseas Learning Journey</label>
     <div>
       <img src="/images/2017-Beijing1.png" 
-     style="width:60%"><br>
+     style="width:75%"><br>
 			<img src="/images/2017-Beijing2.png" 
-     style="width:60%"><br>
+     style="width:75%"><br>
 			<img src="/images/2017-Beijing3.png" 
-     style="width:60%"><br>
+     style="width:75%"><br>
 			<img src="/images/2017-Beijing4.png" 
-     style="width:60%"><br>
+     style="width:75%"><br>
 			<img src="/images/2017-Beijing5.png" 
-     style="width:60%">
+     style="width:75%">
     </div>
 	</li>  
 </ul>
-
