@@ -42,9 +42,12 @@ The department continues to provide opportunities for students from all classes 
 			<img src="/images/Science02.jpg" style="width:60%">
 			<h4>Biology AEM: ApLM Discovering Pharmacy @ Temasek Polytechnic</h4>
 			<p>Our Sec 3 Biology students had the opportunity to attend Temasek Polytechnic’s Discovering Pharmacy AEM during their March Holidays. In the 4-day course, they learned about the different types of medications, focusing on over-the-counter medications, principles of optimizing drug therapy as well as responsible and proper self-medication. The AEM introduces students to the products and services of a pharmacy and they get to know the industry through sharing conducted by industry practitioners and lecturers.</p>
+			<img src="/images/Science03.jpg" style="width:60%">
+			<h4>Science External Competitions</h4>
+			<p><b>Singapore National Crystal Growing Competition</b></p>
+			<p>The Singapore National Crystal Growing Competition is organised by the National University of Singapore for all secondary schools to encourage the learning and mastery in the art of crystal growing.<br><br>
+Two students represented our school in the 15th Singapore National Crystal Growing Competition. Under the guidance of Mr Arthur Lee, they spent weeks in the planning and optimisation of their lab procedure for the growth of ammonium nickel (II) sulfate.</p>
     </div>
 	</li>  
 </ul>
-
-
 
