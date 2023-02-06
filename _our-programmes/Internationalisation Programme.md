@@ -38,18 +38,25 @@ At the end of each trip, through their reflections and feedback, students have r
     <div>
       <img src="/images/2018-Ho-Chi-Minh-1.jpg" 
      style="width:60%">
+			<p>2018 Overseas Learning Journey to Ho Chi Minh</p>
 			<img src="/images/2018-Ho-Chi-Minh-2.jpg" 
      style="width:60%">
+			<p><center>Description of Events</center></p>
+			<p>37 Secondary Three students visited Ho Chi Minh City on a memorable culture-rich learning experience.<br><br>
+During the 4 day trip, student participants were able to broaden their world view and develop an appreciation for the rich Vietnamese heritage and culture through various activities.<br><br>
+They visited places of interest like War Remnant Museum and Cu Chi Tunnels to understand the Vietnam War.<br><br>
+In addition, they also visited a local school where they interacted with local students and learnt about the different culture of learning.</p>
 			<img src="/images/2018-Ho-Chi-Minh-3.jpg" 
      style="width:60%">
+			<p>Students visiting a local school</p>
 			<img src="/images/2018-Ho-Chi-Minh-4.jpg" 
-     style="width:60%">
+     style="width:60%"><br>
 			<img src="/images/2018-Ho-Chi-Minh-5.jpg" 
      style="width:60%">
+			<p>Interacting with the local students.</p>
 			<img src="/images/2018-Ho-Chi-Minh-6.jpg" 
-     style="width:60%">
+     style="width:60%"><br>
 			<img src="/images/2018-Ho-Chi-Minh-7.jpg" 
      style="width:60%">
     </div>
 	</li>
-	
