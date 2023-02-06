@@ -120,7 +120,11 @@ Overall, this trip was a very enjoyable trip because I got to visit a country wi
 			<p>Through this trip, I learnt about the rich history and culture of Vietnam. We visited Hoa Lo Prison, a prison used by the French colonists for political prisoners. We were shown the actual cells prisoners lived in and saw depictions of the grueling lifestyle of every prisoner. We also visited a museum where we were educated on the numerous ethnic groups and their rich culture.  I have also learnt that Vietnam is a country ruined by war and we should appreciate what we have in Singapore. All in all, this trip was a marvelous experience and I would not mind going back to Vietnam.  - Gervin Tang, 3E1  <br><br>
 During the recent oversea learning trip to Hanoi, my friends and I got to learn and have a better understanding of Vietnam’s history and culture. We also visited many places like the water puppet show and a local school where we had a taste of their education system.  - Goh Kai Qi, 3A2</p>
 			<img src="/images/2018-Hanoi-4.jpg" 
-     style="width:60%"><br>
+     style="width:60%">
+			<p>I learnt many new things from the trip to Hanoi, Vietnam such as the history and the culture of Vietnam as well as forming new friendships with peers. This trip was also filled with exciting activities such as shopping at Old Quarter Streets and planting rice paddies as a rice farm. I loved going on this trip as it also made me a better person.  <br>
+On the first day, we went to the busy Hanoi Old Quarter Streets where a variety of shops ranging from bookstores to clothing stores could be found. It was a bit new to me, as I had never walked in busy streets filled with motorcycles. It was my first time and I learnt that we had to be close to one another in order not to get lost.  Afterwards, we went to enjoy The Water Puppet Show at Thang Long Theatre, a rather unique theatre with its own restaurant on the ground floor. It was a fantastic performance as we heard the sounds of the haunting theremin accompanying the movements of the puppets. At the end of the day, we checked in to the Kuretakeso Hotel.  <br>
+The next day, we went to a  rice farm where we went through a paddy field lesson hands-on activity. I learnt that rice paper or banh trang, one of Vietnam’s traditional dishes were made by crushing rice grains and collecting it in liquid form. Other than the rice farm, we went to a cow farm, an organic vegetables farm as well as a local farmer’s home.  At the countryside, the atmosphere was one of peace and serenity that I enjoyed.  <br>
+On the third day, we went for a cultural exchange at Le Quy Don High School, a friendly and cool school.  The students were very friendly as they welcomed us to their school, answered our questions regarding Vietnam as well as bringing us a tour of their beautiful school. After we have bid goodbye after staying at the school for about 2 hours, we went to the Ho Chi Minh Mausoleum, the One Pillar Pagoda, the Vietnam Museum of Ethnology and lastly, the Hoa Loa Prison Museum.  To conclude, I will never forget this trip and will definitely recommend it to other students.  – Ali Hamzah, 3E1</p>
 			<img src="/images/2018-Hanoi-5.jpg" 
      style="width:60%"><br>
 			<img src="/images/2018-Hanoi-6.jpg" 
@@ -128,7 +132,4 @@ During the recent oversea learning trip to Hanoi, my friends and I got to learn 
     </div>
 	</li>  
 
-	![]()
 	
-	<img src="/images/2018-Hanoi-1.jpg" 
-     style="width:60%"><br>
