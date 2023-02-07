@@ -274,6 +274,67 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <div>
       <p><center><b>Meridian Secondary School<br><br>Sec 2 Virtual Learning Journey 2021 – Gardens by the Bay<br><br>Monday 6 September 2021, 9 am to 2:30 pm</b></center></p>
 			<p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7rem{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf" colspan="2">Sec 2 Express</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7rem">1st</td>
+    <td class="tg-7rem">DANIELLE CLARISSE MARQUEZ SOBREPENA – Sec 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">2nd</td>
+    <td class="tg-tsok">MOHAMAD HALIL ARMAN – Sec 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-7rem">3rd</td>
+    <td class="tg-7rem">PECK KO YI – Sec 2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf" colspan="2">Sec 2 Normal Academic</td>
+  </tr>
+  <tr>
+    <td class="tg-7rem">1st</td>
+    <td class="tg-7rem">SHIM SEOK JIN – Sec 2A1</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">2nd</td>
+    <td class="tg-tsok">RYAN TOH JI TIAN – Sec 2A1</td>
+  </tr>
+  <tr>
+    <td class="tg-7rem">3rd</td>
+    <td class="tg-7rem">SHAWN LIM JIN KAI – Sec 2A1</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf" colspan="2">Sec 2 Normal Technical</td>
+  </tr>
+  <tr>
+    <td class="tg-7rem">1st</td>
+    <td class="tg-7rem">FARISAH HANNAH – Sec 2T1</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">2nd</td>
+    <td class="tg-tsok">JEZREEL MICA LORZANO DALLORAN – Sec 2T1</td>
+  </tr>
+  <tr>
+    <td class="tg-7rem">3rd</td>
+    <td class="tg-7rem">MUHAMMAD ILMAN HAZIQ – Sec 2T1</td>
+  </tr>
+</tbody>
+			</table></p>
     </div>
 	</li>  
 </ul>
