@@ -273,6 +273,7 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <label for="accordion3">2021</label>
     <div>
       <p><center><b>Meridian Secondary School<br><br>Sec 2 Virtual Learning Journey 2021 – Gardens by the Bay<br><br>Monday 6 September 2021, 9 am to 2:30 pm</b></center></p>
+			<p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:</p>
     </div>
 	</li>  
 </ul>
