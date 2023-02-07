@@ -73,8 +73,54 @@ The school was awarded the SMO School Commendation Award in recognition of overa
 			<h4>UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS 2022</h4>
 			<p>Selected Meridians took part in the UNSW ICAS national Mathematics competition, which assesses advanced concepts and critical-thinking skills in various areas of Mathematics.<br><br>
 Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards and 10 Merit Awards! Congratulations to the following Meridians for their perseverance and performance. We would also like to extend our special appreciation to the other Meridian competitors!</p>
+			<ul>
+				<li><b>DISTINCTION AWARDS</b></li>
+				<ul>
+					<li>Ng Zhi Cong, Max, 1E4</li>
+					<li>Leo Yoong Yih, 3E3</li>
+				</ul>
+				<li><b>CREDIT AWARDS</b></li>
+				<ul>
+					<li>Liew Yu Xin, Aislinn, 1E2</li>
+					<li>Nur Amirah Binte Jalaluddin, 1E2</li>
+					<li>Cheang Jiaxin Nicole, 1E3</li>
+					<li>Hannah Peralta Khai, 1E4</li>
+					<li>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</li>
+					<li>Zhan En Chen, 2E2</li>
+					<li>Lim Jia Ying, Evangel, 2E3</li>
+					<li>Tan Kok Kun (Chen Guojun), 2E3</li>
+					<li>Wee Jun Han, 3E3</li>
+					<li>Wesly Tiew Pek How, 3E3</li>
+					<li>Alonzo Lai, 3E4</li>
+					<li>Jonathan Quek Zhi Yong, 3E4</li>
+					<li>Kayden Oo Kai Zhe, 3E4</li>
+					<li>Lee Jae, 3E4</li>
+					<li>Meghan Sim Rui Ning, 3E4</li>
+					<li>Regine Ng Yi Xin, 3E4</li>
+					<li>Shine Min Hlaing, 3E4</li>
+					<li>Ting Jun An, Titus, 3E4</li>
+					<li>Wang Lihan, 4E1</li>
+					<li>Anthony Ng, 4E4</li>
+					<li>Estreller Rian Clark Angeles, 4E4</li>
+					<li>Makoto Sueyoshi, 4E4</li>
+					<li>Tan Li Fang Brittany Wenda, 4E4</li>
+					<li>Yikov Yager, 4E4</li>
+				</ul>
+				<li><b>MERIT AWARDS</b></li>
+				<ul>
+					<li>Ahmad Faheem Bin Nilautama, 1E2</li>
+					<li>Kang Le En, Sylvia, 1E2</li>
+					<li>Wong Jim, 1E2</li>
+					<li>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</li>
+					<li>Julian See Jun Da, 2E3</li>
+					<li>Bao Enning, 3E2</li>
+					<li>Jomin Hoo Yuan Hui, 3E3</li>
+					<li>Jonathan Chen Zhi Hao, 3E3</li>
+					<li>Otebay Atilla, 3E3</li>
+					<li>Too Weng Yi, 3E4</li>
+				</ul>
+			</ul>
+			<p>hi</p>
     </div>
 	</li>  
 </ul>
-
-
