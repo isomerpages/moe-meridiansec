@@ -68,6 +68,13 @@ The school was awarded the SMO School Commendation Award in recognition of overa
 				</ul>
 			</ul>
 			<p>Congratulations to the award winners for their hard work and performance. We would also like to extend our appreciation to all the other Meridian competitors!</p>
+			<img src="/images/Maths-01-1.jpg" 
+     style="width:75%">
+			<h4>UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS 2022</h4>
+			<p>Selected Meridians took part in the UNSW ICAS national Mathematics competition, which assesses advanced concepts and critical-thinking skills in various areas of Mathematics.<br><br>
+Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards and 10 Merit Awards! Congratulations to the following Meridians for their perseverance and performance. We would also like to extend our special appreciation to the other Meridian competitors!</p>
     </div>
 	</li>  
 </ul>
+
+
