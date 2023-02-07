@@ -268,4 +268,11 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
      style="width:75%">
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">2021</label>
+    <div>
+      <p><center><b>Meridian Secondary School<br><br>Sec 2 Virtual Learning Journey 2021 – Gardens by the Bay<br><br>Monday 6 September 2021, 9 am to 2:30 pm</b></center></p>
+    </div>
+	</li>  
 </ul>
