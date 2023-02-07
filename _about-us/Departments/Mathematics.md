@@ -124,6 +124,19 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 			<img src="/images/Maths-Poster.png" 
      style="width:40%">
 			<p>The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th February to 4th March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.</p>
+			<img src="/images/math%201.png" 
+     style="width:60%"><br>
+			<img src="/images/math%202.png" 
+     style="width:60%"><br>
+			<img src="/images/math%203.png" 
+     style="width:60%"><br>
+			<img src="/images/math%204.png" 
+     style="width:60%"><br>
+			<img src="/images/math%205.png" 
+     style="width:60%"><br>
+			<p>On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.</p>
+			<img src="/images/Maths-13.png" 
+     style="width:60%"><br>
     </div>
 	</li>  
 </ul>
