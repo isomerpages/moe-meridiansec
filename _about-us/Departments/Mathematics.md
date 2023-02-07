@@ -335,6 +335,8 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
   </tr>
 </tbody>
 			</table></p>
+		<p>Here is a sample of a real-life question that students had to answer, and students’ responses.</p>
+	
     </div>
 	</li>  
 </ul>
