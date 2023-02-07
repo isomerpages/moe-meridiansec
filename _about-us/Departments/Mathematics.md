@@ -137,7 +137,133 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 			<p>On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.</p>
 			<img src="/images/Maths-13.png" 
      style="width:60%"><br>
+			<p>Congratulations to put top 10 winners.</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo">1st</th>
+    <th class="tg-1ppo">Shalyn Mia</th>
+    <th class="tg-1ppo">3A2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">2nd</td>
+    <td class="tg-ys2m">Jerrica Ong</td>
+    <td class="tg-ys2m">2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3rd</td>
+    <td class="tg-1ppo">Reuben Adrian Rajoo</td>
+    <td class="tg-1ppo">4E4</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">4th</td>
+    <td class="tg-ys2m">Wang Lihan</td>
+    <td class="tg-ys2m">4E1</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">5th</td>
+    <td class="tg-1ppo">Musfirah Bte Khalid</td>
+    <td class="tg-1ppo">1E3</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">6th</td>
+    <td class="tg-ys2m">Joson Klarvie</td>
+    <td class="tg-ys2m">3E4</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">7th</td>
+    <td class="tg-1ppo">Nur Amirah</td>
+    <td class="tg-1ppo">1E2</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">8th</td>
+    <td class="tg-ys2m">Aisyah Sofea</td>
+    <td class="tg-ys2m">1E1</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">9th</td>
+    <td class="tg-1ppo">Anne Liew</td>
+    <td class="tg-1ppo">2E1</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">10th</td>
+    <td class="tg-ys2m">Kakarla Hasini Chowdary</td>
+    <td class="tg-ys2m">2E3</td>
+  </tr>
+</tbody>
+			</table></p>
+		<p>In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!</p>
+		<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo">Sec 1 (1st)</th>
+    <th class="tg-1ppo">Kang Le En, Sylvia</th>
+    <th class="tg-1ppo">1E2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ys2m">Sec 1 (2nd)</td>
+    <td class="tg-ys2m">Ng Zhi Cong, Max</td>
+    <td class="tg-ys2m">1E4</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Sec 1 (3rd)</td>
+    <td class="tg-1ppo">Canda Jaedan Luis Bernabe</td>
+    <td class="tg-1ppo">1E3</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Sec 2 (1st)</td>
+    <td class="tg-ys2m">Tan Kok Kun (Chen Guojun)</td>
+    <td class="tg-ys2m">2E3</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Sec 2 (2nd)</td>
+    <td class="tg-1ppo">Zhang Zilang</td>
+    <td class="tg-1ppo">2E3</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Sec 2 (3rd)</td>
+    <td class="tg-ys2m">Darius Chew Kok Ying</td>
+    <td class="tg-ys2m">2E3</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Sec 3 (1st)</td>
+    <td class="tg-1ppo">Jonathan Chen Zhi Hao</td>
+    <td class="tg-1ppo">3E3</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">Sec 3 (2nd)</td>
+    <td class="tg-ys2m">Wesly Tiew Pek How</td>
+    <td class="tg-ys2m">3E3</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Sec 3 (3rd)</td>
+    <td class="tg-1ppo">Shine Min Hlaing</td>
+    <td class="tg-1ppo">3E4</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>  
 </ul>
-
