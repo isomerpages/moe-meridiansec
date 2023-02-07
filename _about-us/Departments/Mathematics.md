@@ -67,7 +67,7 @@ The school was awarded the SMO School Commendation Award in recognition of overa
 					</ul>
 				</ul>
 			</ul>
+			<p>Congratulations to the award winners for their hard work and performance. We would also like to extend our appreciation to all the other Meridian competitors!</p>
     </div>
 	</li>  
 </ul>
-
