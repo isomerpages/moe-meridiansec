@@ -340,8 +340,16 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
      style="width:75%">
 		<img src="/images/m10-2.png" 
      style="width:75%">
+	<p><b>(a)</b> A family tourist from Denmark consisting of 2 adults and a 5 year old boy planned to visit the two Conservatories.<br><br>
+Calculate the total admission fees for the family to the two Conservatories.<br><br><b>(b)</b> If the family decided to also visit the Floral Fantasy, they will be given a 10% discount off on the Floral Fantasy admission tickets. Calculate the total admission fees to the Floral Fantasy for the family.<br><br><b>(c)</b> Calculate the total admission cost for them to go to the two Conservatories and Floral Fantasy.</p>
+		<img src="/images/m10-3.png" 
+     style="width:75%">
+		<img src="/images/LOWER-1448x2048.png" 
+     style="width:75%">
+		<img src="/images/UPPER-1448x2048.png" 
+     style="width:75%">
     </div>
 	</li>  
 </ul>
 
-![]()
+
