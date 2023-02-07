@@ -353,6 +353,18 @@ Calculate the total admission fees for the family to the two Conservatories.<br>
 		<img src="/images/math%202021.png" 
      style="width:75%">
 		<p>The students had positive learning experiences in the week and learned how to connect better with Mathematics. Some also had the opportunity to learn and apply concepts and skills to solve real-world problems, as well as collaborate and work together as a team. Active participation was evident in all levels, making the week an exciting an engaging experience for all!</p>
+		<img src="/images/m8.jpg" 
+     style="width:75%">
+		<p>During the week, Sec 3 students also played the Principles of Accounts (POA) Business Challenge. The board game gave Sec 3 POA students an introductory experience in managing a business. It provided a simulated business environment that required players to carry out business transactions and make the correct decisions to maximise their profits.</p>
+		<img src="/images/m9.jpg" 
+     style="width:75%"><br>
+		<img src="/images/m10.jpg" 
+     style="width:75%"><br>
+		<img src="/images/m11.jpg" 
+     style="width:75%"><br>
+		<img src="/images/m12.jpg" 
+     style="width:75%">
     </div>
 	</li>  
 </ul>
+
