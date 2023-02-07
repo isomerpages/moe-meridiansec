@@ -264,6 +264,8 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
   </tr>
 </tbody>
 </table></p>
+			<img src="/images/Maths-14.jpg" 
+     style="width:75%">
     </div>
 	</li>  
 </ul>
