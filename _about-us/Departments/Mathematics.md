@@ -120,6 +120,11 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 					<li>Too Weng Yi, 3E4</li>
 				</ul>
 			</ul>
+			<h4>Meridian Mathematics and Financial Literacy Week 2022</h4>
+			<img src="/images/Maths-Poster.png" 
+     style="width:40%">
+			<p>The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th February to 4th March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.</p>
     </div>
 	</li>  
 </ul>
+
