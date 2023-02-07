@@ -336,7 +336,12 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 </tbody>
 			</table></p>
 		<p>Here is a sample of a real-life question that students had to answer, and students’ responses.</p>
-	
+		<img src="/images/m10-1.png" 
+     style="width:75%">
+		<img src="/images/m10-2.png" 
+     style="width:75%">
     </div>
 	</li>  
 </ul>
+
+![]()
