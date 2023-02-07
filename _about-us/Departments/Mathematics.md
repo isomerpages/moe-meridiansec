@@ -32,4 +32,42 @@ third_nav_title: Departments
 			</ol>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2022</label>
+    <div>
+			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2022</h4>
+      <p>Selected Meridians participated in the Singapore Mathematical Olympiad (SMO) national competition after learning advanced skills in solving competitive Mathematics problems.<br><br>
+The school was awarded the SMO School Commendation Award in recognition of overall participation and performance. 11 Meridians have done well and clinched the Bronze Awards and Honourable Mention Awards in their respective competition categories.</p>
+			<ul>
+				<li><b>SENIOR SECTION</b></li>
+				<ul>
+					<li>BRONZE AWARDS</li>
+					<ul>
+						<li>Anthony Ng, 4E4</li>
+						<li>Makoto Sueyoshi, 4E4</li>
+					</ul>
+					<li>HONOURABLE MENTION AWARDS</li>
+					<ul>
+						<li>Estreller Rian Clark Angeles, 4E4</li>
+						<li>Yikov Yager, 4E4</li>
+						<li>Kayden Oo Kai Zhe, 3E4</li>
+					</ul>
+				</ul>
+				<li><b>JUNIOR SECTION</b></li>
+				<ul>
+					<li>HONOURABLE MENTION AWARDS</li>
+					<ul>
+						<li>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</li>
+						<li>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</li>
+						<li>Lim Jia Ying, Evangel, 2E3</li>
+						<li>Cheang Jiaxin Nicole, 1E3</li>
+						<li>Ng Zhi Cong, Max, 1E4</li>
+						<li>Vathsavai Hemasri, 1E4</li>
+					</ul>
+				</ul>
+			</ul>
+    </div>
+	</li>  
 </ul>
+
