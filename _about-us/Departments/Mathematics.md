@@ -120,7 +120,6 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 					<li>Too Weng Yi, 3E4</li>
 				</ul>
 			</ul>
-			<p>hi</p>
     </div>
 	</li>  
 </ul>
