@@ -348,8 +348,11 @@ Calculate the total admission fees for the family to the two Conservatories.<br>
      style="width:75%">
 		<img src="/images/UPPER-1448x2048.png" 
      style="width:75%">
+		<h4>Meridian Mathematics and Financial Literacy Week</h4>
+		<p>Meridian Mathematics and Financial Literacy Week is a week-long celebration from 8th to 12th March 2021. During the week, students across the levels were engaged through a series of exciting and engaging activities pertaining to Mathematics, POA and Financial Literacy.<br><br>The highlights of the week include mathematical challenges such as Riddles, Sudoku, and Tangrams in which students had to pit against one another in solving challenging Math problems and puzzles. Sec 3 students also experienced Math Modelling and Kite Making in which they applied Mathematics to real-life scenarios.</p>
+		<img src="/images/math%202021.png" 
+     style="width:75%">
+		<p>The students had positive learning experiences in the week and learned how to connect better with Mathematics. Some also had the opportunity to learn and apply concepts and skills to solve real-world problems, as well as collaborate and work together as a team. Active participation was evident in all levels, making the week an exciting an engaging experience for all!</p>
     </div>
 	</li>  
 </ul>
-
-
