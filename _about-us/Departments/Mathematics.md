@@ -695,10 +695,108 @@ In teams of four, student took on the roles of the CEO, purchasing manager, sale
 			<p>Modelled after national competitions which were cancelled due to the Covid-19 situation, the Mathematics department organized the Meridian Math Olympiad in Term 3 to develop students’ interest in competitive mathematics and nurture budding mathematical champions.<br><br>
 The Olympiad was open to all Secondary 1 to 3 students, and high-performing students from the Mathematics Challenge held in Term 1 Week 5 and members from our Mathematics, Financial Literacy and Chess Club (MFC) were specially invited to take part.  The preliminary round was held on 26th August 2020 using SLS (School Learning Space) and the finals was conducted via Zoom.</p>
 		<p>The winners from each level are:</p>
+		<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Secondary 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">S1-E3 SHERYL ONG KIA NENG</td>
+    <td class="tg-0lax">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S1-E1 KAYDEN OO KAI ZHE</td>
+    <td class="tg-0lax">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S1-E3 WESLY TIEW PEK HOW</td>
+    <td class="tg-0lax">3rd</td>
+  </tr>
+</tbody>
+</table></p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Secondary 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">S2-E1 WANG LIHAN</td>
+    <td class="tg-0lax">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S2-E3 SE YONG JUN</td>
+    <td class="tg-0lax">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S2-E3 JASON NICHOLAS THOMSON</td>
+    <td class="tg-0lax">2nd</td>
+  </tr>
+</tbody>
+</table></p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Secondary 3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">S3-E3 DAVID LAUW KWAI YONG</td>
+    <td class="tg-0lax">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S3-E1 REGAN LEE YU FENG</td>
+    <td class="tg-0lax">2nd</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">S3-E3 FELIX DAVE KHOR WEI MING</td>
+    <td class="tg-0lax">3rd</td>
+  </tr>
+</tbody>
+</table></p>
+			<p>Heartfelt congratulations to these students for their efforts and ability to adapt to an online test!</p>
+			<img src="/images/oct-2020-m2.jpg" 
+     style="width:70%">
+		 <p><center>S1-E1 KAYDEN OO KAI ZHE       2nd</center></p>
+		 <h4>Virtual Learning Journey to Gardens by the Bay 2020</h4>
+		 <p>The Secondary 2 students participated in a Virtual Learning Journey to Gardens by the Bay during the September holidays. This project is co-organised by the Mathematics and Humanities departments.<br><br>
+The tasks were assigned to the students via SLS. Through the tasks, students had to</p>
+			<ol>
+				<li>apply mathematical skills to real-world contexts,</li>
+				<li>evaluate the impact of human activities on the environment, and</li>
+				<li>learn about measures to reduce the impact of global warming.
+</li>
+			</ol>
     </div>
 	</li>  
 </ul>
-
-
 
 
