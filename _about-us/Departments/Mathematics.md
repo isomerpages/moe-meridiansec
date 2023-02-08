@@ -1009,11 +1009,23 @@ Despite taking part in Finex for the first time, a team of three POA Scholars fr
 				<li>Raffles Lim Jian Wei, 3A2</li>
 			</ol>
 			<p>Congratulations ! We would like to thank all the participants for their endurance and team spirit !</p>
+			<img src="/images/FE2019-2.jpg" 
+     style="width:70%"><br>
+			<img src="/images/FE2019-1.jpg" 
+     style="width:70%">
+			<h4>National CashFlow Competition (NCF) 2019 – National 1st Runner-Up</h4>
+			<p>A team of Meridians from Mathematics, Financial Literacy and Chess Club (MFC) and the POA Scholars Programme under Mathematics Department, participated in the National CashFlow Competition (NCF) 2019. The MFC CCA members and POA scholars had the opportunity to learn and gain financial literacy skills, and apply their knowledge via an interesting board game with iPad app.<br><br>
+After a competitive preliminary round, 13 Meridians entered the Finals! From MFC, they were Cleaven Tay (1E3), He Si (2E2), Clement Kee (2E3), Hong Zi Xuan (3E3), Kho Wei Shan and Patrick Liu (4E1), and Pan Yiao Shing (4E4). The finalists from POA scholars programme were Jaser Kek (3A1), Ashley Tan, Ian Tan and Raffles Lim (3A2), as well as Bryan Tee and Ryan Chan (3E1). Congratulations to the following students for clinching top honours:</p>
+			<ol>
+				<li>Hong Zi Xuan (3E3, MFC) – national 2nd position</li>
+				<li>Ryan Chan (3E1, POA scholar) – national 3rd position</li>
+			</ol>
+			<p>In addition, our school was crowned the overall 1st runner-up in the Secondary School category!<br><br>
+Well done, Team Meridian !<br><br>
+Our students acquired financial literacy life skills, and enjoyed the exciting learning experience while having lots of fun playing the board game. They also displayed our school values of resilience and humility, as well as camaraderie throughout the experience.<br><br>
+We would like to extend our heartfelt thanks to the team of Meridians for their efforts and doing our school proud, our teachers-in-charge, as well as fellow Meridians who stayed on to support our school’s finalists till well after 9pm! Thank you!</p>
     </div>
 	</li>  
 </ul>
-
-
-
 
 
