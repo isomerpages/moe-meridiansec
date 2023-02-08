@@ -19,10 +19,9 @@ sections:
           description: ""
           url: /home/about-meridian/portals-links/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: 2023 Secondary 1 Registration Information
+      description: Please Click on "Read" button to find out more on Secondary 1
+        Registration
+      button: Read here
+      url: /sec-1-registration-2023-cohort/
 ---
-
