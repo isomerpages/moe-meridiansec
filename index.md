@@ -24,4 +24,21 @@ sections:
         Registration
       button: Read here
       url: /sec-1-registration-2023-cohort/
+  - infobar:
+      title: Full SBB
+      description: Meridian Secondary School will be embarking on a Full Subject-Based
+        Banding (SBB) from 2023. Click on "Read" to find out more.
+      button: Read here
+      url: /full-subject-based-banding-full-sbb/
+  - infobar:
+      title: Our CCAs
+      description: Click on "Read" to explore our range of CCAs
+      button: Read Here
+      url: /co-curricular-activities-cca-leaps-2-0/
+  - infobar:
+      title: School Mission
+      description: To nurture in Meridians inquiring minds and caring hearts for their
+        pursuit of excellence
+      button: Read here
+      url: /home/about-meridian/school-crest/
 ---
