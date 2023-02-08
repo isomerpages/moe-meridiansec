@@ -996,7 +996,24 @@ Congratulations to the following 7 Meridians who achieved the ‘High Distinctio
 			<img src="/images/math141104.jpg" 
      style="width:70%">
 			<h4>Secondary Two Interdisciplinary (Maths and Humanities) Trail @ Gardens by the Bay</h4>
+			<img src="/images/2019-maths-1.png" 
+     style="width:70%"><br>
+			<img src="/images/2019-maths-2.png" 
+     style="width:70%">
+			<h4>Financial Expedition (Finex) 2019 – National 1st Runner-Up</h4>
+			<p>A group of Mathematics, Financial Literacy and Chess Club (MFC) members as well as POA scholars took part in a national financial literacy competition known as Financial Expedition (Finex) 2019. Finex is a team competition that involved a gruelling 4-hour amazing race around the Central Business District.<br><br>
+Despite taking part in Finex for the first time, a team of three POA Scholars from Mathematics Department displayed teamwork and tenacity to become National 1st runner-up! The members of the winning team are</p>
+			<ol>
+				<li>Ashley Tan Jing Wen, 3A2  </li>
+				<li>Ian Tan Yi En, 3A2  </li>
+				<li>Raffles Lim Jian Wei, 3A2</li>
+			</ol>
+			<p>Congratulations ! We would like to thank all the participants for their endurance and team spirit !</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
 
