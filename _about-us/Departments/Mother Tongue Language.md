@@ -254,6 +254,15 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/7-1.png"  style="width:60%"><br>
 			<h4>Mother Tongue Fortnight Activity (Dikir Barat –CNY concert)</h4>
 			<p>Setelah mengikuti perkhemahan Bahasa pada 5hb Januari 2017, sekumpulan para pelajar menengah satu diberi peluang untuk mengadakan persembahan dikir barat sempena konsert sambutan Tahun Baru Cina pada 27hb Januari 2017. Para pelajar diberi kepercayaan serta autonomi untuk memilih lagu yang ingin dipersembahkan. Selain daripada lagu ‘Rakan Muda’ yang telah ditetapkan, pelajar memilih untuk mendendangkan lagu ‘Tahun Baru Cina’ dalam Bahasa Mandarin. Mereka telah membuat persembahan yang menarik dan menghiburkan.</p>
+			<img src="/images/1-2.png"  style="width:60%"><br>
+			<img src="/images/2-2.png"  style="width:60%"><br>
+			<h4>Pementasan Nuri Terbang Malam di Esplanade</h4>
+			<p>Pada 27hb Mac 2017, seramai 42 pelajar menengah 2 aliran Normal Akademik telah menonton pementasan Nuri Terbang Malam di Esplanade. Pementasan tersebut membawa pelajar merentasi peralihan genre muzik setempat. Pelajar mempelajari tentang perkembangan dan pengaruh muzik dalam dunia seni tanah air. Pementasan tersebut memberi kesan kepada pelajar yang juga seronok menikmati santapan muzik yang didendangkan sepanjang pementasan.</p>
+			<img src="/images/3-2.png"  style="width:60%"><br>
     </div>
 	</li>  
 </ul>
+
+
+
+
