@@ -236,6 +236,12 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/10OCT-MT-11.jpg"  style="width:60%"><br>
 			<h4>Bengkel Nasi Ambeng</h4>
 			<p>Pada 27hb September 2018, para pelajar menengah 1 dan 3 aliran Normal Teknikal telah menikmati juadah Nasi Ambeng. Sebuah bengkel Nasi Ambeng telah dijalankan sempena Dwiminggu Bahasa Ibunda. Para pelajar dihidangkan dengan bahan-bahan serta sejarah yang membentuk Nasi Ambeng. Mereka kemudian menjamu selera dengan makan berdulang.</p>
+			<img src="/images/10OCT-MT-12.jpg"  style="width:60%"><br>
+			<h4>Bengkel Roti Jala</h4>
+			<p>Pada 27hb September 2018, para pelajar menengah 2 aliran Normal Teknikal telah mencuba membuat Roti Jala atau juga dikenali sebagai Roti Kirai dan Roti Renjis. Sebuah bengkel Roti Jala telah dijalankan sempena Dwiminggu Bahasa Ibunda. Para pelajar mempelajari tentang bahan-bahan serta cara membuatnya. Mereka kemudian menjamu selera dan mencicah roti jala dengan kari ayam.</p>
+			<img src="/images/10OCT-MT-13.jpg"  style="width:60%"><br>
+			<h4>Bengkel Pengacara dan DJ</h4>
+			<p>Pada 27hb September 2018, para pelajar menengah 3 aliran Normal Akademik dan Ekspres menjalani sebuah bengkel pengacaraan dan DJ sempena Dwiminggu Bahasa Ibunda. Para pelajar telah mengasah kemahiran bertutur dan sebutan sekaligus melatih tahap keyakinan menyampaikan ucapan secara rasmi di khalayak ramai.</p>
     </div>
 	</li>  
 </ul>
