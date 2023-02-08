@@ -195,9 +195,12 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/ml5.png"  style="width:70%">
 			<h4>Ogos<br><br>Program Pengayaan dalam Talian – Menganyam Bakul dan Melukis Batik<br><br>(Onine Enrichment Programme – Basket Weaving and Batik Painting)</h4>
 			<p>Pelajar-pelajar menengah 2 memperoleh pengetahuan mengenai seni menenun melalui program pengayaan dalam talian menerusi sesi secara langsung. Pelajar-pelajar menengah 3 pula berkesempatan untuk mengikuti bengkel melukis batik dalam talian dan mengakhirinya dengan sesi amali melukis batik yang menenangkan.</p>
+			<img src="/images/ml5.png"  style="width:70%">
+			<img src="/images/ml6.png"  style="width:70%">
+			<img src="/images/ml7.png"  style="width:70%">
+			<h4>Perkhemahan Bahasa anjuran Jabatan Bahasa Ibunda</h4>
+			<p>Pada 4hb Januari 2018, pelajar kohort menengah satu daripada pelbagai aliran serta para pelajar yang tidak mengambil mata pelajaran Bahasa Ibunda di sekolah telah mengikuti Perkhemahan Bahasa. Pelajar-pelajar yang mengambil mata pelajaran Bahasa Melayu telah didedahkan kepada aspek teori dan praktikal seni tarian zapin, seni tangan tanjak dan pemakaian samping dan seni muzik angklung. Mereka melalui sesi amali selama tiga jam mengenali setiap seni ini menerusi sejarah ringkasnya, alat muzik yang digunakan serta gerak tari yang penuh bermakna. Perkhemahan ini berakhir dengan kemuncaknya iaitu persembahan ketiga-tiga seni.</p>
+			<h4>Sesi Tarian Zapin</h4>
     </div>
 	</li>  
 </ul>
-
-
-
