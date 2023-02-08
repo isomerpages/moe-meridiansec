@@ -799,7 +799,163 @@ The tasks were assigned to the students via SLS. Through the tasks, students had
      style="width:70%">
 		 <p>Three students from each class with the highest score received prizes for their outstanding efforts.<br><br>
 Warmest congratulations to the following students who received their certificates and prizes from their Form Teachers!</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0ys1{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-i5i7{background-color:#E5E5E5;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-slvr{background-color:#E5E5E5;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-k81l{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pdeq"><span style="font-weight:bold">2E1</span></th>
+    <th class="tg-pdeq"><span style="font-weight:bold"> </span></th>
+    <th class="tg-pdeq"><span style="font-weight:bold"> </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-i5i7">1st</td>
+    <td class="tg-i5i7">2nd</td>
+    <td class="tg-i5i7">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-0ys1">NUR IMAN BINTE ABDULL HAMMED</td>
+    <td class="tg-0ys1">NUR IZZRYN BINTE IZHAR</td>
+    <td class="tg-0ys1">SITI HADIJAH BINTE MOHAMAD MUNIR</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq"><span style="font-weight:bold">2E2</span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">1st</td>
+    <td class="tg-i5i7">2nd</td>
+    <td class="tg-i5i7">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-0ys1">TAN YE KAI</td>
+    <td class="tg-0ys1">VYVYAN CHAN MIN EN</td>
+    <td class="tg-0ys1">LI JUN YI ROYCE</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0f6e"><span style="font-weight:bold">2E3</span></td>
+    <td class="tg-0f6e"><span style="font-weight:bold"> </span></td>
+    <td class="tg-0f6e"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-slvr">1st</td>
+    <td class="tg-slvr">Joint 2nd</td>
+    <td class="tg-slvr"></td>
+  </tr>
+  <tr>
+    <td class="tg-k81l">SELINA HIEW YI QING</td>
+    <td class="tg-k81l">INSYIRA PUTRI MUHAMMAD SHAIFUL</td>
+    <td class="tg-k81l">LOW NING XUAN</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq"><span style="font-weight:bold">2E4</span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">1st</td>
+    <td class="tg-i5i7">2nd</td>
+    <td class="tg-i5i7">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-0ys1">NICOLE YEO JING YI</td>
+    <td class="tg-0ys1">KIKO LIM JIA YU</td>
+    <td class="tg-0ys1">LIM WEI YI</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq"><span style="font-weight:bold">2A1</span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">1st</td>
+    <td class="tg-i5i7">2nd</td>
+    <td class="tg-i5i7">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-0ys1">IRFAN RIZQI BIN ABDULLAH JUNAIDI</td>
+    <td class="tg-0ys1">SERI SHAFIQA BINTE SA’AD</td>
+    <td class="tg-0ys1">JOVYL CHRISTIAN DIMARANAN CATINDOY</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq"><span style="font-weight:bold">2A2</span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-i5i7">1st</td>
+    <td class="tg-i5i7">2nd</td>
+    <td class="tg-i5i7">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-0ys1">ANASTASYA BINTE MOHAMED RIZAL</td>
+    <td class="tg-0ys1">ABBY CHARLENE YAM</td>
+    <td class="tg-0ys1">NUR ALINA TAHIRAH MUCHTAR</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-pdeq"><span style="font-weight:bold">2T1</span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+    <td class="tg-pdeq"><span style="font-weight:bold"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">1st</td>
+    <td class="tg-faf8">2nd</td>
+    <td class="tg-faf8">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">PUTRI NUR DINA ILYANA BINTE MUHAMAD FAUZY</td>
+    <td class="tg-zr06">MOHAMAD AKID BIN MOHAMAD AIDIL</td>
+    <td class="tg-zr06">FARIDA NUR AMELYA BINTE NOOR IKHSAN</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>  
 </ul>
-
