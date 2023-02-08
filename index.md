@@ -18,6 +18,9 @@ sections:
         - title: Portals & Links
           description: ""
           url: /home/about-meridian/portals-links/
+        - title: Announcements
+          description: ""
+          url: /lp-announcement/2023-school-letter/
   - infobar:
       title: 2023 Secondary 1 Registration Information
       description: Please Click on "Read" button to find out more on Secondary 1
