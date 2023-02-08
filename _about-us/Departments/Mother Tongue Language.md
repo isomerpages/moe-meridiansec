@@ -189,6 +189,15 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 				<p>Pelajar-pelajar menengah empat berpeluang mengikuti perkongsian oleh pelajar alumni yang berkongsi tip-tip menjawab soalan perbualan lisan. Pelajar Alumni ini berkongsi mengenai ketrampilan berkomuniksai, cara-cara serta teknik untuk berbual dengan penuh keyakinan serta bagaimana memberikan jawapan yang meyakinkan. Pengalamannya sebagai seorng pelajar sedikit sebanyak memberi tip-tip yang bermanfaat kepada para pelajar.
 </p>
 		<img src="/images/MLNOV15.jpg"  style="width:60%">
+			<h4>Jun</h4>
+			<h4>Rakan Bahasa</h4>
+			<p>Pelantikan duta Rakan Bahasa; Habir Bin Shafeik dari 2E4 dan Siti Aisyah Mahirah dari 2E1 sempena Bulan Bahasa yang dianjurkan oleh Majlis Bahasa Melayu Singapura (MBMS) tetap diraikan secara maya. Walaupun Majlis Pelantikan telah dibatalkan kerana penularan COVID-19, pelantikan mereka tetap  diraikan bersama semua agar mereka dapat mengalami pengalaman pembelajaran dan pengembangan Bahasa Melayu yang bermanfaat. Rakan Bahasa kami yang dilantik; Aisyah (2E1) dan Habir (2E4), berpeluang menjalani latihan mereka secara dalam talian yang dianjurkan oleh Majlis Bahasa Melayu.</p>
+			<img src="/images/ml5.png"  style="width:70%">
+			<h4>Ogos<br><br>Program Pengayaan dalam Talian – Menganyam Bakul dan Melukis Batik<br><br>(Onine Enrichment Programme – Basket Weaving and Batik Painting)</h4>
+			<p>Pelajar-pelajar menengah 2 memperoleh pengetahuan mengenai seni menenun melalui program pengayaan dalam talian menerusi sesi secara langsung. Pelajar-pelajar menengah 3 pula berkesempatan untuk mengikuti bengkel melukis batik dalam talian dan mengakhirinya dengan sesi amali melukis batik yang menenangkan.</p>
     </div>
 	</li>  
 </ul>
+
+
+
