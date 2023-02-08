@@ -178,6 +178,9 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 				<li>Menengah 2 pula dapat belajar sambil bermain permainan tradisional dan permainan bahasa iaitu congkak, batu seremban, capteh, guli, gasing dan permainan papan; Sahibba dan Saidina serta permainan kad Fikir-fikir.</li>
 				<li>Menengah 3, telah menonton filem dan membuat kritikan tentang filem tersebut.</li>
 				<li>Bagi kohort pelajar aliran Normal Teknikal, aktiviti terjemahan telah dilakukan bagi menterjemah misi, visi serta sejarah sekolah di tempat-tempat tertentu di sekeliling sekolah.</li>
+				<img src="/images/ml1.png"  style="width:70%">
+				<img src="/images/ml2.png"  style="width:70%">
+				<img src="/images/ml3.png"  style="width:70%">
 			</ul>
     </div>
 	</li>  
