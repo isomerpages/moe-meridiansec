@@ -145,8 +145,20 @@ Setiap tanjak dibuat dengan menggunakan helaian batik dan keratan suratkhabar.</
 			<h4>(Aktiviti Dwi-Minggu Bahasa Ibunda bagi Pelajar Menengah 2 – MTL Fortnight Activities for Sec 2 students)</h4>
 			<p>Tirai program Dwi-Minggu Bahasa Ibunda ditutup dengan aktiviti mempelajari cara-cara menulis huruf Jawi bagi pelajar Menengah 2. Meski tidak pernah menulis tulisan Jawi sebelum ini, para pelajar telah berjaya untuk menulis nama-nama mereka dalam tulisan Jawi dengan penuh yakin selepas program dijalankan.<br><br>
 Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis seperti cat berwarna dan kanvas untuk mewarnakan hasil penulisan Jawi mereka.</p>
+			<img src="/images/ml10-7.jpg"  style="width:60%"><br>
+			<img src="/images/ml10-8.jpg"  style="width:60%"><br>
+			<img src="/images/ml10-9.jpg"  style="width:60%">
+			<p>Hasil seni lukis dalam tulisan Jawi oleh pelajar-pelajar Menengah 2<br><br><b>Mei 2021</b> Translation Competition<br><br>Pelajar Nuradlin Qistina Mohd Noh Fadzli telah mewakili Sekolah Menengah Meridian dalam pertandingan terjemahan (3T) Bahasa Melayu ke Inggeris dan Inggeris ke Bahasa Melayu yang dianjurkan oleh Persatuan Budaya Melayu Maktab Rendah Nasional.</p>
+			<img src="/images/ml10-10.jpg"  style="width:60%">
+			<p><b>Ogos 2021</b> Pantun Competiton<br><br>Tidak ramai anak muda sekarang yang mempunyai minat mendalam terhadap Pantun. Namun, tidak begitu halnya bagi dua pelajar Meridian ini –  Alya Marina Binte Manaf dari 3T1 and Muhamad Ali bin Manaf dari 4A2.<br><br>Keduanya bukan sahaja telah menyertai, tetapi muncul sebagai Naib Juara bagi pertandingan pantun ‘Our Malay Kampung Stories’ yang dianjurkan oleh MAEC di bawah kategori sekolah menengah.</p>
+			<img src="/images/ml10-11.jpg"  style="width:60%"><br>
+			<img src="/images/ml10-12.jpg"  style="width:60%">
+			<p><b>September 2021</b> NDR Post Dialogue<br>Membincangkan isu-isu semasa yang ditekankan oleh Perdana Menteri Lee Hsien Loong dalam Rapat Umum Hari Kebangsaan 201. Itulah yang dilakukan oleh wakil pelajar dari Menengah 3 Mahirah, Syazwan, Arif, Ryan, dan Redha.<br>Kelima-lima pelajar ini menghadiri dialog Pasca Rapat Umum Hari Kebangsaan yang dianjurkan oleh MENDAKI, MESRA, dan MUIS (M3).  Panelis bagi sesi dialog ini terdiri dari Anggota Parlimen Rahayu Mahzam, Sharael Taha dan Nadia Samdin.</p>
+			<img src="/images/ml10-13.jpg"  style="width:60%"><br>
+			<img src="/images/ml10-14.jpg"  style="width:60%">
     </div>
 	</li>  
 </ul>
 
-123444
+
+
