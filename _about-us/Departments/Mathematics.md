@@ -1034,8 +1034,68 @@ After a competitive preliminary round, 13 Meridians entered the Finals! From MFC
 Well done, Team Meridian !<br><br>
 Our students acquired financial literacy life skills, and enjoyed the exciting learning experience while having lots of fun playing the board game. They also displayed our school values of resilience and humility, as well as camaraderie throughout the experience.<br><br>
 We would like to extend our heartfelt thanks to the team of Meridians for their efforts and doing our school proud, our teachers-in-charge, as well as fellow Meridians who stayed on to support our school’s finalists till well after 9pm! Thank you!</p>
+			<img src="/images/ncfc2019-1.jpg" 
+     style="width:70%"><br>
+			<img src="/images/ncfc2019-2.jpg" 
+     style="width:70%">
+			<h4>Inaugural Meridian Mathematics Challenge</h4>
+			<p>To create an opportunity for our students to develop an interest in competitive Mathematics and encourage out-of-the-box thinking skills, the Mathematics Department held the inaugural Meridian Mathematics Challenge in April 2019.<br><br>
+The results for the top three positions in each level were very close. Congratulations to the following winners, who received their prizes at an award presentation on 29 April 2019!</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Sec 1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1st – Gabriel Teo Yi Yang (1E3)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Joint 2nd – Reina Chua Hui Ci (1E2) and Anthony Ng (1E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Sec 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1st – Asher Koh Kai En (2E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2nd – You Linhao (2E2)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3rd – Sarah Emily Ong Xin Wei (2E3)</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Sec 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1st – Ganzon Lyka Plaza (3E3)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2nd – Ignatius Lee Koi Yin (3E3)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3rd – Nazura Binte Saini (3E1)</td>
+  </tr>
+</tbody>
+			</table></p>
+	<p>The Mathematics Department would like to thank all participants and Mathematics teachers for their time and efforts!</p>
+	<img src="/images/IMMC-2019-1.jpg" 
+     style="width:70%">
     </div>
 	</li>  
 </ul>
 
-12333
+
+
+
