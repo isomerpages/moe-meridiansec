@@ -219,8 +219,14 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/Malay-27aug-11.jpg"  style="width:60%">
 			<h4>Pementasan Joget di Esplanade</h4>
 			<p>Pada 23hb Mac 2018, para pelajar menengah dua aliran Ekspres telah menonton pementasan Joget di Esplanade. Pementasan tersebut mendedahkan penonton kepada pelbagai jenis tarian oleh penggiat seni setempat. Mereka mempelajari tentang perkembangan dan pengaruh seni tarian dalam dunia seni tanah air. Pementasan tersebut memberi kesan kepada para pelajar yang memerlukan intepretasi dan pemaknaan terhadap apa yang telah dipersembahkan.</p>
+			<img src="/images/10OCT-MT-1.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-2.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-3.jpg"  style="width:60%">
+			<h4>Bengkel Penulisan Naratif</h4>
+			<p>Pada 3hb April 2018, para pelajar Menengah 4 dan 5 yang akan menduduki peperiksaan peringkat O telah menyertai sebuah bengkel penulisan naratif yang telah dikelolakan oleh Cikgu Djohan Rahman. Beliau telah berkongsi pelbagai cara dan stilistik dalam penulisan.</p>
     </div>
 	</li>  
 </ul>
+
 
 
