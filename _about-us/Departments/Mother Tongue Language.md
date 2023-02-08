@@ -170,8 +170,16 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<p>Program Bacaan ini menggalakkan pelajar membaca dengan senyap. Pelajar akan ke perpustakaan pada waktu yang dikhaskan semasa waktu kokurikulum. Pelajar dapat menikmati suasana bacaan yang menenangkan tanpa gangguan di sudut-sudut khas perpustakaan. Setiap pelajar daripada pelbagai peringkat dan aliran akan melaksanakan tugasan sebagai aktiviti pengukuhan.</p>
 			<img src="/images/MLNOV3.jpg"  style="width:60%"><br>
 			<img src="/images/MLNOV4.jpg"  style="width:60%">
+			<h4>Mac</h4>
+			<h4>Minggu Meneroka Bahasa dan Budaya Melayu – Exploring the Malay Language and Culture Week</h4>
+			<p>Minggu Meneroka Bahasa dan Budaya Melayu diadakan untuk mendedahkan para pelajar bagi mendalami bahasa dan budaya Melayu. Setiap kohort telah menjalani program yang direka khas.</p>
+			<ul>
+				<li>Menengah 1 telah mempelajari tentang tulisan Jawi, seni batik dan ukiran Melayu.</li>
+				<li>Menengah 2 pula dapat belajar sambil bermain permainan tradisional dan permainan bahasa iaitu congkak, batu seremban, capteh, guli, gasing dan permainan papan; Sahibba dan Saidina serta permainan kad Fikir-fikir.</li>
+				<li>Menengah 3, telah menonton filem dan membuat kritikan tentang filem tersebut.</li>
+				<li>Bagi kohort pelajar aliran Normal Teknikal, aktiviti terjemahan telah dilakukan bagi menterjemah misi, visi serta sejarah sekolah di tempat-tempat tertentu di sekeliling sekolah.</li>
+			</ul>
     </div>
 	</li>  
 </ul>
-
 
