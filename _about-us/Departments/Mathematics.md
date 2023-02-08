@@ -958,4 +958,31 @@ Warmest congratulations to the following students who received their certificate
 </table></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2019</label>
+    <div>
+			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2019</h4>
+      <p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in this year’s SMO, which is a prestigious and challenging national mathematics competition. The following five Meridians have done our school proud in their respective competition categories.</p>
+    </div>
+	</li>  
 </ul>
+
+
+(A)    Open Section
+
+*   Bronze Award – Wang Xinrong    (4E2 / MFC)
+
+(B)    Senior Section
+
+*   Bronze Award – Diong Xiu Lin     (4E2 / MFC)
+*   Honourable Mention Award – Koh Liang Han   (4E1 / MFC)
+
+(C)    Junior Section
+
+*   Honourable Mention Award – Se Yong Jun       (1E3 / MFC)
+*   Honourable Mention Award – Lai Yude              (2E1)
+
+Our five award winners have trained hard and done well. Wang Xinrong’s Bronze Award in the Open Section is quite a remarkable feat, as the Open Section is meant for Junior College and higher-level participants.
+
+Congratulations to all award winners! We would also like to extend our heartfelt thanks to the other Meridian competitors for their effort and time!
