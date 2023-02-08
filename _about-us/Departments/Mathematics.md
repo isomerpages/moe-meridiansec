@@ -373,8 +373,196 @@ Calculate the total admission fees for the family to the two Conservatories.<br>
 			<h4>Young Accountants Programme 2020</h4>
       <p>In October this year, our Secondary Three POA students were involved in a project ‘Buy from me!’. They learned to plan for a business venture, source for inventory and market their products. In addition, they learned to analyse their results based on financial and non-financial information.<br><br>
 In teams of four, student took on the roles of the CEO, purchasing manager, sales manager or finance manager. To avoid inter-mingling of students, each team sourced for their products and put up their advertisements online. Instead of setting up physical stores, order forms and coupons were issued to each “consumer” class to enable this cashless and contactless but fun activity. Finally, each team was judged on their advertisement, sales performance and performance report.</p>
+			<img src="/images/2020-maths-1.png" 
+     style="width:70%"><br>
+			<img src="/images/2020-maths-2.png" 
+     style="width:70%">
+			<h4>List of Prize Winners</h4>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Class: 3E1</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">1st</td>
+    <td class="tg-zr06">AYESHA SARAH BINTE MOHAMED YUSRI</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">JOLIN NUA SING YING</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">JOANNA CHOO JIE EN</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">WONG SZE LIN</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">2nd</td>
+    <td class="tg-faf8">LIM JING KAI ZANDER</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">REGAN LEE YU FENG</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">MOHAMMAD FAIRUZ BIN SUHAIMI</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">3rd</td>
+    <td class="tg-faf8">NGAN JUN BIN</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">REIKO TAN</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">SIM RUI EN, ALYSSA</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">NUR QISTINA BINTE ELVIS ISYAK</td>
+  </tr>
+</tbody>
+</table></p>
+	<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Class: 3E2, 3E3</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">1st</td>
+    <td class="tg-1ppo">SHIREEN BINTE MOHAMED ZULKIFLI</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">MIRA ADNILSAH BINTE ROSLAN</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">DANIAL HASHRY BIN SUHAINI</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">LIM JIAJING, GALEN</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">2nd</td>
+    <td class="tg-ys2m">ELICIA LAM PEI EN</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">NOR ALHODA</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">PACHECO LAYA MARIE TIOCAO</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">MUHAMMAD DANISH ARSHAQ BIN SHARIN</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3rd</td>
+    <td class="tg-1ppo">JOSHUA KWA JIA HAO</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">NUR FIRZANAH BINTE ZAIT</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">QISTINA BATRISYA BINTI ROSMAN</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">NUR LIYANA BINTE AZAMI</td>
+  </tr>
+</tbody>
+</table></p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2">Class: 3A1,3A2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1ppo">1st</td>
+    <td class="tg-1ppo">NEO YUE XIN</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">NG GEOK TIN</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">2nd</td>
+    <td class="tg-ys2m">UMAIRAH BINTE ZAMZAM</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">NAYLI QISTINA BINTE IMRAN</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">NUR FILZAH NABIHAH BINTE MOHAMMAD YUSNI</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m">3rd</td>
+    <td class="tg-ys2m">BRYAN REYNARD KWAN</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">LEE TECK CHU</td>
+  </tr>
+  <tr>
+    <td class="tg-ys2m"></td>
+    <td class="tg-ys2m">MUHAMMAD RAZIN BIN HAIRUL ANWAR</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">ELGIN CHENG YEW HERN</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>  
 </ul>
-
-
