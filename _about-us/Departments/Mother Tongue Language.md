@@ -178,6 +178,7 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 				<li>Menengah 2 pula dapat belajar sambil bermain permainan tradisional dan permainan bahasa iaitu congkak, batu seremban, capteh, guli, gasing dan permainan papan; Sahibba dan Saidina serta permainan kad Fikir-fikir.</li>
 				<li>Menengah 3, telah menonton filem dan membuat kritikan tentang filem tersebut.</li>
 				<li>Bagi kohort pelajar aliran Normal Teknikal, aktiviti terjemahan telah dilakukan bagi menterjemah misi, visi serta sejarah sekolah di tempat-tempat tertentu di sekeliling sekolah.</li>
+				</ul>
 				<img src="/images/ml1.png"  style="width:70%">
 				<img src="/images/ml2.png"  style="width:70%">
 				<img src="/images/ml3.png"  style="width:70%">
@@ -187,8 +188,7 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 				<h4>Perkongsian Tip-tip Menjawab Soalan Perbualan Lisan oleh Pelajar Alumni – Sharing by an alumnus on tips for answering  Oral Examination questions.</h4>
 				<p>Pelajar-pelajar menengah empat berpeluang mengikuti perkongsian oleh pelajar alumni yang berkongsi tip-tip menjawab soalan perbualan lisan. Pelajar Alumni ini berkongsi mengenai ketrampilan berkomuniksai, cara-cara serta teknik untuk berbual dengan penuh keyakinan serta bagaimana memberikan jawapan yang meyakinkan. Pengalamannya sebagai seorng pelajar sedikit sebanyak memberi tip-tip yang bermanfaat kepada para pelajar.
 </p>
-			</ul>
+		<img src="/images/MLNOV15.jpg"  style="width:60%">
     </div>
 	</li>  
 </ul>
-
