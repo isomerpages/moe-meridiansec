@@ -181,6 +181,12 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 				<img src="/images/ml1.png"  style="width:70%">
 				<img src="/images/ml2.png"  style="width:70%">
 				<img src="/images/ml3.png"  style="width:70%">
+				<h4>April</h4>
+				<h4>Pembelajaran dalam Talian untuk pembelajaran di rumah – Online HBL Lessons</h4>
+				<img src="/images/ml4.png"  style="width:70%">
+				<h4>Perkongsian Tip-tip Menjawab Soalan Perbualan Lisan oleh Pelajar Alumni – Sharing by an alumnus on tips for answering  Oral Examination questions.</h4>
+				<p>Pelajar-pelajar menengah empat berpeluang mengikuti perkongsian oleh pelajar alumni yang berkongsi tip-tip menjawab soalan perbualan lisan. Pelajar Alumni ini berkongsi mengenai ketrampilan berkomuniksai, cara-cara serta teknik untuk berbual dengan penuh keyakinan serta bagaimana memberikan jawapan yang meyakinkan. Pengalamannya sebagai seorng pelajar sedikit sebanyak memberi tip-tip yang bermanfaat kepada para pelajar.
+</p>
 			</ul>
     </div>
 	</li>  
