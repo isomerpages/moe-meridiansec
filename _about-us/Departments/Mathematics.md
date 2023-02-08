@@ -795,8 +795,11 @@ The tasks were assigned to the students via SLS. Through the tasks, students had
 				<li>learn about measures to reduce the impact of global warming.
 </li>
 			</ol>
+			<img src="/images/oct-2020-m4.jpg" 
+     style="width:70%">
+		 <p>Three students from each class with the highest score received prizes for their outstanding efforts.<br><br>
+Warmest congratulations to the following students who received their certificates and prizes from their Form Teachers!</p>
     </div>
 	</li>  
 </ul>
-
 
