@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Meridians,
+
+With the easing of community Safe Management Measures, you may be engaged in various student activities during the June school holidays. Please note the joint school advisory from SPF, CNB, NCPC and NCADA. Take care and stay safe.
+
+Please click on the link for more details on the Advisory Note.
+
+[Joint SPF CNB MOE School Advisory – Jun 2022](/files/Joint-SPF-CNB-MOE-School-Advisory-Jun-2022.pdf)
+
