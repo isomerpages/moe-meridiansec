@@ -156,9 +156,12 @@ Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis
 			<p><b>September 2021</b> NDR Post Dialogue<br>Membincangkan isu-isu semasa yang ditekankan oleh Perdana Menteri Lee Hsien Loong dalam Rapat Umum Hari Kebangsaan 201. Itulah yang dilakukan oleh wakil pelajar dari Menengah 3 Mahirah, Syazwan, Arif, Ryan, dan Redha.<br>Kelima-lima pelajar ini menghadiri dialog Pasca Rapat Umum Hari Kebangsaan yang dianjurkan oleh MENDAKI, MESRA, dan MUIS (M3).  Panelis bagi sesi dialog ini terdiri dari Anggota Parlimen Rahayu Mahzam, Sharael Taha dan Nadia Samdin.</p>
 			<img src="/images/ml10-13.jpg"  style="width:60%"><br>
 			<img src="/images/ml10-14.jpg"  style="width:60%">
+			<p>Dialog yang dijalankan secara maya di tengah-tengah pandemik COVID-19
+</p>
+			<h4>Januari</h4>
+			<h4>Program Pengacaraan Dwi-Bahasa – Bilingual Emcees Programme</h4>
+			<p>Program Pengacaraan Dwi-Bahasa diperkenalkan buat julung-julung kalinya pada tahun ini bertujuan untuk memperkasa dan memberi keyakinan kepada para pelajar menggunakan Bahasa Ibunda. Pengacara telah dilatih untuk mengacarakan program-program Bahasa Ibunda. Dalam masa yang sama, penggunaan Bahasa Ibunda dalam acara-acara kelolaan Jabatan Bahasa Ibunda dapat memberikan pendedahan kepada penonton untuk mempelajari beberapa patah perkataan dalam Bahasa ibunda.</p>
     </div>
 	</li>  
 </ul>
-
-
 
