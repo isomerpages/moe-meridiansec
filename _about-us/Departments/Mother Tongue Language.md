@@ -166,6 +166,10 @@ Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis
 			<img src="/images/MLNOV2.jpg"  style="width:60%">
 			<p><center>Pelajar ini mengacarakan sambutan program kebudayaan seperti pesta Ponggal dalam Bahasa Tamil dan Inggeris.<br><br>
 Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya penularan penyakit Covid-19.</center></p>
+			<h4>Program Bacaan – Reading Programme</h4>
+			<p>Program Bacaan ini menggalakkan pelajar membaca dengan senyap. Pelajar akan ke perpustakaan pada waktu yang dikhaskan semasa waktu kokurikulum. Pelajar dapat menikmati suasana bacaan yang menenangkan tanpa gangguan di sudut-sudut khas perpustakaan. Setiap pelajar daripada pelbagai peringkat dan aliran akan melaksanakan tugasan sebagai aktiviti pengukuhan.</p>
+			<img src="/images/MLNOV3.jpg"  style="width:60%"><br>
+			<img src="/images/MLNOV4.jpg"  style="width:60%">
     </div>
 	</li>  
 </ul>
