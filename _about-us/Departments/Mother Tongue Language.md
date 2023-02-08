@@ -108,13 +108,12 @@ third_nav_title: Departments
 			<h4>April 2022- Rakan Bahasa</h4>
 			<p>Muhammad Rizq Aqasya dari 1E2 dan Luqman Nurhakeem dari 1E3 telah dilantik sebagai Rakan Bahasa di upacara yang berlangsung secara maya pada 1 April 2022. Pelantikan oleh Majlis Bahasa Melayu Singapura (MBMS) ini akan memberikan mereka peluang untuk mengikut serta dalam aktiviti-akvititi yang dijalankan sepanjang tahun seperti acara “Kembara Rakan Bahasa”.<br><br>
 Meski baru menjejaki alam persekolahan di peringkat sekolah Menengah, para pejuang bahasa ini diberi tugas untuk menggalak dan mengongsi keindahan bahasa Melayu bersama para pelajar menengah Meridian yang lain!  <br><br>
-Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian Kesihatan merangkap Perhubungan dan Penerangan, Cik Rahayu Mahzam.
-<p>
+Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian Kesihatan merangkap Perhubungan dan Penerangan, Cik Rahayu Mahzam.</p>
 	<img src="/images/malay03.jpg"  style="width:60%">
 	<img src="/images/malay04.jpg"  style="width:60%">
 			<h4>Mac 2022 – Perkhemahan Kebudayaan</h4>
 			<p>Pada 10 Mac lalu, para pelajar Menengah satu telah didedahkan dengan tiga aktiviti budaya iaitu persembahan Dikir Barat, Kompang dan Tarian Zapin. Menerusi sesi yang dijalankan pelajar diberi pendedahan terhadap sejarah dan kepentingan aktiviti kebudayaan itu dalam era moden. <br><br>
-Menjangkaui aspek teori dan teknikal, para pelajar juga diberi pendedahan untuk bermain alat-alat muzik tradisional, malah turut diberi peluang untuk menari serta berdikir barat.  
+Menjangkaui aspek teori dan teknikal, para pelajar juga diberi pendedahan untuk bermain alat-alat muzik tradisional, malah turut diberi peluang untuk menari serta berdikir barat.  <br><br>
 Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas mereka menjalani sesi sebegitu secara maya pada tahun-tahu lalu disebabkan pandemik COVID-19.</p>
 			<img src="/images/malay01.jpg"  style="width:60%">
 			<p>‘Pelapis’ seni kebudayaan mempelajari cara-cara menggendang dalam persembahan seni dikir barat.</p>
@@ -141,8 +140,7 @@ Selain mempelajari tentang teknik pembuatan tanjak, pelajar-pelajar Menengah 3 j
 Setiap tanjak dibuat dengan menggunakan helaian batik dan keratan suratkhabar.</p>
 			<img src="/images/ml10-5.jpg"  style="width:60%">
 			<img src="/images/ml10-6.jpg"  style="width:60%">
-			<p>‘Pendekar’ Sekolah Menengah Meridian yang menampilkan hasil buatan tanjak mereka.
-</p>
+			<p>‘Pendekar’ Sekolah Menengah Meridian yang menampilkan hasil buatan tanjak mereka.</p>
 			<h4>Julai 2021</h4>
 			<h4>(Aktiviti Dwi-Minggu Bahasa Ibunda bagi Pelajar Menengah 2 – MTL Fortnight Activities for Sec 2 students)</h4>
 			<p>Tirai program Dwi-Minggu Bahasa Ibunda ditutup dengan aktiviti mempelajari cara-cara menulis huruf Jawi bagi pelajar Menengah 2. Meski tidak pernah menulis tulisan Jawi sebelum ini, para pelajar telah berjaya untuk menulis nama-nama mereka dalam tulisan Jawi dengan penuh yakin selepas program dijalankan.<br><br>
@@ -150,5 +148,3 @@ Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis
     </div>
 	</li>  
 </ul>
-
-
