@@ -370,7 +370,11 @@ Calculate the total admission fees for the family to the two Conservatories.<br>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">2020</label>
     <div>
-      <p>This is a simple one line item</p>
+			<h4>Young Accountants Programme 2020</h4>
+      <p>In October this year, our Secondary Three POA students were involved in a project ‘Buy from me!’. They learned to plan for a business venture, source for inventory and market their products. In addition, they learned to analyse their results based on financial and non-financial information.<br><br>
+In teams of four, student took on the roles of the CEO, purchasing manager, sales manager or finance manager. To avoid inter-mingling of students, each team sourced for their products and put up their advertisements online. Instead of setting up physical stores, order forms and coupons were issued to each “consumer” class to enable this cashless and contactless but fun activity. Finally, each team was judged on their advertisement, sales performance and performance report.</p>
     </div>
 	</li>  
 </ul>
+
+
