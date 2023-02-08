@@ -224,9 +224,18 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/10OCT-MT-3.jpg"  style="width:60%">
 			<h4>Bengkel Penulisan Naratif</h4>
 			<p>Pada 3hb April 2018, para pelajar Menengah 4 dan 5 yang akan menduduki peperiksaan peringkat O telah menyertai sebuah bengkel penulisan naratif yang telah dikelolakan oleh Cikgu Djohan Rahman. Beliau telah berkongsi pelbagai cara dan stilistik dalam penulisan.</p>
+			<img src="/images/10OCT-MT-4.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-5.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-6.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-7.jpg"  style="width:60%"><br>
+			<h4>Peraduan Lumbuba anjuran MAEC Timur Bukit Batok</h4>
+			<p>Pada 14hb Julai 2018, 5 pelajar Menengah 2 Peringkat O telah mengambil bahagian dalam sebuah peraduan bahasa dan budaya ala _amazing race_. Peraduan anjuran Malay Activity Executive Committees Council (MAEC) Timur Bukit Batok ini disertai lebih 70 sekolah. Para pelajar meradu minda dan tenaga sambil belajar peljagai aspek Bahasa Melayu dan Budaya.</p>
+			<img src="/images/10OCT-MT-8.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-9.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-10.jpg"  style="width:60%"><br>
+			<img src="/images/10OCT-MT-11.jpg"  style="width:60%"><br>
     </div>
 	</li>  
 </ul>
-
 
 
