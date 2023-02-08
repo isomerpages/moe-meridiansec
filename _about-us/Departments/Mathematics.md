@@ -964,25 +964,26 @@ Warmest congratulations to the following students who received their certificate
     <div>
 			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2019</h4>
       <p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in this year’s SMO, which is a prestigious and challenging national mathematics competition. The following five Meridians have done our school proud in their respective competition categories.</p>
+			<p>(A)    Open Section</p>
+			<li>Bronze Award – Wang Xinrong    (4E2 / MFC)</li>
+			<p>(B)    Senior Section</p>
+			<li>Bronze Award – Diong Xiu Lin     (4E2 / MFC)</li>
+			<li>Honourable Mention Award – Koh Liang Han   (4E1 / MFC)</li>
+			<p>(C)    Junior Section</p>
+			<li>Honourable Mention Award – Se Yong Jun    (1E3 / MFC)</li>
+			<li> Honourable Mention Award – Lai Yude   (2E1)</li>
+			<p>Our five award winners have trained hard and done well. Wang Xinrong’s Bronze Award in the Open Section is quite a remarkable feat, as the Open Section is meant for Junior College and higher-level participants.<br><br>
+Congratulations to all award winners! We would also like to extend our heartfelt thanks to the other Meridian competitors for their effort and time!</p>
+			<img src="/images/math141101.jpg" 
+     style="width:70%"><br>
+			<img src="/images/math141102.jpg" 
+     style="width:70%">
+			<h4>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</h4>
+			<p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in UNSW’s ICAS Mathematics competition, which assesses skills and knowledge in various areas of mathematics.<br><br>
+Congratulations to the following 7 Meridians who achieved the ‘High Distinction’ and ‘Distinction’ awards, the top 2 award categories! In addition, Wang Xinrong achieved the rare honour of achieving the highest score among all upper secondary competitors in Singapore for this year and last year. He was presented with the Special Medal by UNSW.</p>
     </div>
 	</li>  
 </ul>
 
 
-(A)    Open Section
 
-*   Bronze Award – Wang Xinrong    (4E2 / MFC)
-
-(B)    Senior Section
-
-*   Bronze Award – Diong Xiu Lin     (4E2 / MFC)
-*   Honourable Mention Award – Koh Liang Han   (4E1 / MFC)
-
-(C)    Junior Section
-
-*   Honourable Mention Award – Se Yong Jun       (1E3 / MFC)
-*   Honourable Mention Award – Lai Yude              (2E1)
-
-Our five award winners have trained hard and done well. Wang Xinrong’s Bronze Award in the Open Section is quite a remarkable feat, as the Open Section is meant for Junior College and higher-level participants.
-
-Congratulations to all award winners! We would also like to extend our heartfelt thanks to the other Meridian competitors for their effort and time!
