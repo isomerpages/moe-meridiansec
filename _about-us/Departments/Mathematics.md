@@ -563,6 +563,142 @@ In teams of four, student took on the roles of the CEO, purchasing manager, sale
   </tr>
 </tbody>
 </table></p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Class: 3A3</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zr06">1st</td>
+    <td class="tg-zr06">MUHAMMAD SUFIAN BIN MOHAMAD</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">NATESH RUBEN S/O SANDRA KUMAR</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">IRFAN SYAUQI BIN SAHARUDIN</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">TEO WEI YE</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">2nd</td>
+    <td class="tg-faf8">LEE YONG EN, JOEL</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">SHAHRIL BIN MOHD ISA</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">GAN JIN SIAN</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8">3rd</td>
+    <td class="tg-faf8">MAANASA SUNIL KUMAR</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06">MUHAMAD AMMAR BIN NOOR AMDAM</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-faf8">BONAFE EPHREM DON CASIS</td>
+  </tr>
+</tbody>
+</table></p>
+			<p><b>Annual Meridian Mathematics Challenge</b><br><br>To create an opportunity for our students to develop an interest in competitive Mathematics and encourage out-of-the-box thinking skills, the Mathematics Department held the Annual Meridian Mathematics Challenge in Term 1 2020.<br><br>Congratulations to the following winners, who received their prizes from their Form Teachers!</p>
+			<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-hzdd{background-color:#E5E5E5;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5" colspan="3"><span style="font-weight:bold">Sec 1</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mdf1"><span style="font-weight:bold">1</span>st</td>
+    <td class="tg-mdf1" colspan="2"><span style="font-weight:bold">Joint 2</span>nd</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Leo Yoong Yih (1E2)</td>
+    <td class="tg-zr06">Chong Shao Wei (1E2)</td>
+    <td class="tg-zr06">Wesley Tiew Pek How (1E3)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5" colspan="3"><span style="font-weight:bold">Sec 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1"><span style="font-weight:bold">1</span>st</td>
+    <td class="tg-mdf1"><span style="font-weight:bold">2</span>nd</td>
+    <td class="tg-mdf1"><span style="font-weight:bold">3</span>rd</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Makoto Sueyoshi (2E3)</td>
+    <td class="tg-zr06">Anthony Ng (2E2)</td>
+    <td class="tg-zr06">Mohamad Qairul Iman Bin Mohamad Suhaimi (2E1)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf" colspan="3"><span style="font-weight:bold">Sec 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-hzdd"><span style="font-weight:bold">1</span>st</td>
+    <td class="tg-hzdd" colspan="2"><span style="font-weight:bold">Joint 2</span>nd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Lim Zhi En (3E3)</td>
+    <td class="tg-1ppo">David Lauw Kwai Yong (3E3)</td>
+    <td class="tg-1ppo">Koh Kai En Asher (3E3)</td>
+  </tr>
+</tbody>
+</table></p>
+			<p>The Mathematics Department would like to thank all participants and Mathematics teachers for their time and efforts!</p>
+			<h4>Meridian Math Olympiad 2020</h4>
+			<p>Modelled after national competitions which were cancelled due to the Covid-19 situation, the Mathematics department organized the Meridian Math Olympiad in Term 3 to develop students’ interest in competitive mathematics and nurture budding mathematical champions.<br><br>
+The Olympiad was open to all Secondary 1 to 3 students, and high-performing students from the Mathematics Challenge held in Term 1 Week 5 and members from our Mathematics, Financial Literacy and Chess Club (MFC) were specially invited to take part.  The preliminary round was held on 26th August 2020 using SLS (School Learning Space) and the finals was conducted via Zoom.</p>
+		<p>The winners from each level are:</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
