@@ -201,6 +201,21 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<h4>Perkhemahan Bahasa anjuran Jabatan Bahasa Ibunda</h4>
 			<p>Pada 4hb Januari 2018, pelajar kohort menengah satu daripada pelbagai aliran serta para pelajar yang tidak mengambil mata pelajaran Bahasa Ibunda di sekolah telah mengikuti Perkhemahan Bahasa. Pelajar-pelajar yang mengambil mata pelajaran Bahasa Melayu telah didedahkan kepada aspek teori dan praktikal seni tarian zapin, seni tangan tanjak dan pemakaian samping dan seni muzik angklung. Mereka melalui sesi amali selama tiga jam mengenali setiap seni ini menerusi sejarah ringkasnya, alat muzik yang digunakan serta gerak tari yang penuh bermakna. Perkhemahan ini berakhir dengan kemuncaknya iaitu persembahan ketiga-tiga seni.</p>
 			<h4>Sesi Tarian Zapin</h4>
+			<img src="/images/Malay-27aug-01.jpg"  style="width:60%">
+			<h4>Sesi Angklung</h4>
+			<img src="/images/malay-27aug-02.jpg"  style="width:60%">
+			<h4>Sesi Tanjak dan Samping</h4>
+			<img src="/images/Malay-27aug-03.jpg"  style="width:60%"><br>
+			<img src="/images/Malay-27aug-04.jpg"  style="width:60%">
+			<h4>Persembahan Kemuncak</h4>
+			<img src="/images/Malay-27aug-05.jpg"  style="width:60%">
+			<img src="/images/Malay-27aug-06.jpg"  style="width:60%">
+			<h4>Pementasan Nuri Terbang Malam di Esplanade</h4>
+			<p>Pada 21hb Mac 2018, para pelajar menengah dua aliran Normal Akademik telah menonton pementasan Nuri Terbang Malam di Esplanade. Pementasan tersebut membawa penonton merentasi peralihan genre muzik setempat. Mereka mempelajari tentang perkembangan dan pengaruh muzik dalam dunia seni tanah air. Pementasan tersebut memberi kesan kepada para pelajar yang juga seronok menikmati santapan muzik yang didendangkan sepanjang pementasan.</p>
     </div>
 	</li>  
 </ul>
+
+
+
+
