@@ -991,8 +991,12 @@ Congratulations to the following 7 Meridians who achieved the ‘High Distinctio
 			<li>Sarah Emily (2E3)</li>
 			<li>Koh Liang Han (4E1 / MFC)</li>
 			<p>We would also like to extend our special appreciation to the other Meridian competitors for their hard work and enthusiasm!</p>
+			<img src="/images/math141103.jpg" 
+     style="width:70%"><br>
+			<img src="/images/math141104.jpg" 
+     style="width:70%">
+			<h4>Secondary Two Interdisciplinary (Maths and Humanities) Trail @ Gardens by the Bay</h4>
     </div>
 	</li>  
 </ul>
-
 
