@@ -242,6 +242,18 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/10OCT-MT-13.jpg"  style="width:60%"><br>
 			<h4>Bengkel Pengacara dan DJ</h4>
 			<p>Pada 27hb September 2018, para pelajar menengah 3 aliran Normal Akademik dan Ekspres menjalani sebuah bengkel pengacaraan dan DJ sempena Dwiminggu Bahasa Ibunda. Para pelajar telah mengasah kemahiran bertutur dan sebutan sekaligus melatih tahap keyakinan menyampaikan ucapan secara rasmi di khalayak ramai.</p>
+			<h4>Sesi Kompang</h4>
+			<img src="/images/1-1.png"  style="width:60%"><br>
+			<img src="/images/2-1.png"  style="width:60%"><br>
+			<h4>Sesi DIkir Barat</h4>
+			<img src="/images/4-1.png"  style="width:60%"><br>
+			<img src="/images/3-1.png"  style="width:60%"><br>
+			<h4>Sesi Tarian Zapin</h4>
+			<img src="/images/5-1.png"  style="width:60%"><br>
+			<img src="/images/6-1.png"  style="width:60%"><br>
+			<img src="/images/7-1.png"  style="width:60%"><br>
+			<h4>Mother Tongue Fortnight Activity (Dikir Barat –CNY concert)</h4>
+			<p>Setelah mengikuti perkhemahan Bahasa pada 5hb Januari 2017, sekumpulan para pelajar menengah satu diberi peluang untuk mengadakan persembahan dikir barat sempena konsert sambutan Tahun Baru Cina pada 27hb Januari 2017. Para pelajar diberi kepercayaan serta autonomi untuk memilih lagu yang ingin dipersembahkan. Selain daripada lagu ‘Rakan Muda’ yang telah ditetapkan, pelajar memilih untuk mendendangkan lagu ‘Tahun Baru Cina’ dalam Bahasa Mandarin. Mereka telah membuat persembahan yang menarik dan menghiburkan.</p>
     </div>
 	</li>  
 </ul>
