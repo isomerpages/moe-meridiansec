@@ -234,8 +234,9 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/10OCT-MT-9.jpg"  style="width:60%"><br>
 			<img src="/images/10OCT-MT-10.jpg"  style="width:60%"><br>
 			<img src="/images/10OCT-MT-11.jpg"  style="width:60%"><br>
+			<h4>Bengkel Nasi Ambeng</h4>
+			<p>Pada 27hb September 2018, para pelajar menengah 1 dan 3 aliran Normal Teknikal telah menikmati juadah Nasi Ambeng. Sebuah bengkel Nasi Ambeng telah dijalankan sempena Dwiminggu Bahasa Ibunda. Para pelajar dihidangkan dengan bahan-bahan serta sejarah yang membentuk Nasi Ambeng. Mereka kemudian menjamu selera dengan makan berdulang.</p>
     </div>
 	</li>  
 </ul>
-
 
