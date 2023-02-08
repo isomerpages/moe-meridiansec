@@ -161,7 +161,13 @@ Selain daripada itu, pelajar-pelajar juga diberikan dengan beberapa alat melukis
 			<h4>Januari</h4>
 			<h4>Program Pengacaraan Dwi-Bahasa – Bilingual Emcees Programme</h4>
 			<p>Program Pengacaraan Dwi-Bahasa diperkenalkan buat julung-julung kalinya pada tahun ini bertujuan untuk memperkasa dan memberi keyakinan kepada para pelajar menggunakan Bahasa Ibunda. Pengacara telah dilatih untuk mengacarakan program-program Bahasa Ibunda. Dalam masa yang sama, penggunaan Bahasa Ibunda dalam acara-acara kelolaan Jabatan Bahasa Ibunda dapat memberikan pendedahan kepada penonton untuk mempelajari beberapa patah perkataan dalam Bahasa ibunda.</p>
+			<img src="/images/MLNOV1.jpg"  style="width:60%">
+			<p><center>Pelajar ini berkesempatan mengacarakan konsert sambutan Tahun Baru Cina dalam Bahasa Mandarin dan Inggeris.</center></p>
+			<img src="/images/MLNOV2.jpg"  style="width:60%">
+			<p><center>Pelajar ini mengacarakan sambutan program kebudayaan seperti pesta Ponggal dalam Bahasa Tamil dan Inggeris.<br><br>
+Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya penularan penyakit Covid-19.</center></p>
     </div>
 	</li>  
 </ul>
+
 
