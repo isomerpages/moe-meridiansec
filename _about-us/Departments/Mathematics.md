@@ -981,9 +981,18 @@ Congratulations to all award winners! We would also like to extend our heartfelt
 			<h4>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</h4>
 			<p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in UNSW’s ICAS Mathematics competition, which assesses skills and knowledge in various areas of mathematics.<br><br>
 Congratulations to the following 7 Meridians who achieved the ‘High Distinction’ and ‘Distinction’ awards, the top 2 award categories! In addition, Wang Xinrong achieved the rare honour of achieving the highest score among all upper secondary competitors in Singapore for this year and last year. He was presented with the Special Medal by UNSW.</p>
+			<p>(A)    First in Singapore (Sec 4) and High Distinction Award (Top 1% of competitors in Singapore)</p>
+			<li>Wang Xinrong (4E1 / MFC)</li>
+			<p>(B)    Distinction Award (Next 10% of competitors in Singapore)</p>
+			<li>Brittany Tan       (1E2 / MFC)</li>
+			<li>Yikov Yager (1E4)</li>
+			<li>Chen Kaixin (2E1)</li>
+			<li> Shavin Valen (2E1)</li>
+			<li>Sarah Emily (2E3)</li>
+			<li>Koh Liang Han (4E1 / MFC)</li>
+			<p>We would also like to extend our special appreciation to the other Meridian competitors for their hard work and enthusiasm!</p>
     </div>
 	</li>  
 </ul>
-
 
 
