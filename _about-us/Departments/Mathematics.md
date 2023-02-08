@@ -965,13 +965,19 @@ Warmest congratulations to the following students who received their certificate
 			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2019</h4>
       <p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in this year’s SMO, which is a prestigious and challenging national mathematics competition. The following five Meridians have done our school proud in their respective competition categories.</p>
 			<p>(A)    Open Section</p>
+			<ul>
 			<li>Bronze Award – Wang Xinrong    (4E2 / MFC)</li>
+			</ul>
 			<p>(B)    Senior Section</p>
+			<ul>
 			<li>Bronze Award – Diong Xiu Lin     (4E2 / MFC)</li>
 			<li>Honourable Mention Award – Koh Liang Han   (4E1 / MFC)</li>
+			</ul>
 			<p>(C)    Junior Section</p>
+			<ul>
 			<li>Honourable Mention Award – Se Yong Jun    (1E3 / MFC)</li>
 			<li> Honourable Mention Award – Lai Yude   (2E1)</li>
+			</ul>
 			<p>Our five award winners have trained hard and done well. Wang Xinrong’s Bronze Award in the Open Section is quite a remarkable feat, as the Open Section is meant for Junior College and higher-level participants.<br><br>
 Congratulations to all award winners! We would also like to extend our heartfelt thanks to the other Meridian competitors for their effort and time!</p>
 			<img src="/images/math141101.jpg" 
@@ -982,14 +988,18 @@ Congratulations to all award winners! We would also like to extend our heartfelt
 			<p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in UNSW’s ICAS Mathematics competition, which assesses skills and knowledge in various areas of mathematics.<br><br>
 Congratulations to the following 7 Meridians who achieved the ‘High Distinction’ and ‘Distinction’ awards, the top 2 award categories! In addition, Wang Xinrong achieved the rare honour of achieving the highest score among all upper secondary competitors in Singapore for this year and last year. He was presented with the Special Medal by UNSW.</p>
 			<p>(A)    First in Singapore (Sec 4) and High Distinction Award (Top 1% of competitors in Singapore)</p>
+			<ul>
 			<li>Wang Xinrong (4E1 / MFC)</li>
+			</ul>
 			<p>(B)    Distinction Award (Next 10% of competitors in Singapore)</p>
-			<li>Brittany Tan       (1E2 / MFC)</li>
+			<ul>
+			<li>Brittany Tan (1E2 / MFC)</li>
 			<li>Yikov Yager (1E4)</li>
 			<li>Chen Kaixin (2E1)</li>
 			<li> Shavin Valen (2E1)</li>
 			<li>Sarah Emily (2E3)</li>
 			<li>Koh Liang Han (4E1 / MFC)</li>
+			</ul>
 			<p>We would also like to extend our special appreciation to the other Meridian competitors for their hard work and enthusiasm!</p>
 			<img src="/images/math141103.jpg" 
      style="width:70%"><br>
@@ -1028,4 +1038,4 @@ We would like to extend our heartfelt thanks to the team of Meridians for their 
 	</li>  
 </ul>
 
-
+12333
