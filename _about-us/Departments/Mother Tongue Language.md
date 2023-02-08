@@ -212,10 +212,11 @@ Konsert Hari Raya yang telah dirancang terpaksa dibatalkan kerana berlakunya pen
 			<img src="/images/Malay-27aug-06.jpg"  style="width:60%">
 			<h4>Pementasan Nuri Terbang Malam di Esplanade</h4>
 			<p>Pada 21hb Mac 2018, para pelajar menengah dua aliran Normal Akademik telah menonton pementasan Nuri Terbang Malam di Esplanade. Pementasan tersebut membawa penonton merentasi peralihan genre muzik setempat. Mereka mempelajari tentang perkembangan dan pengaruh muzik dalam dunia seni tanah air. Pementasan tersebut memberi kesan kepada para pelajar yang juga seronok menikmati santapan muzik yang didendangkan sepanjang pementasan.</p>
+			<img src="/images/Malay-27aug-07.jpg"  style="width:60%"><br>
+			<img src="/images/Malay-27aug-08.jpg"  style="width:60%"><br>
+			<img src="/images/Malay-27aug-09.jpg"  style="width:60%"><br>
+			<img src="/images/Malay-27aug-10.jpg"  style="width:60%"><br>
+			<img src="/images/Malay-27aug-11.jpg"  style="width:60%">
     </div>
 	</li>  
 </ul>
-
-
-
-
