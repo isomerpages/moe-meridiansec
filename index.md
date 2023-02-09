@@ -4,7 +4,7 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/logo-resize.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: " "
 sections:
   - hero:
       title: Meridian Secondary School
@@ -44,4 +44,14 @@ sections:
         pursuit of excellence
       button: Read here
       url: /home/about-meridian/school-crest/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
