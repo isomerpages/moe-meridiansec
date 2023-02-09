@@ -45,7 +45,7 @@ sections:
       button: Read here
       url: /home/about-meridian/school-crest/
   - infobar:
-      title: Locate us
+      title: Visit Us
       description: "Address: 31 Pasir Ris Street 51, Singapore 518901"
       button: Location
       url: https://www.google.com/maps/place/Meridian+Secondary+School/@1.3675302,103.9470778,17z/data=!3m1!4b1!4m5!3m4!1s0x31da3da8a08e84d9:0xee2d8fd46ff8a46e!8m2!3d1.3675302!4d103.9492665?hl=en
