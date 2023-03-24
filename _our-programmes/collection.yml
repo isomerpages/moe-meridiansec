@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Full Subject–Based Banding (Full SBB).md
       - Applied Learning Programme (ALP) – Aesthetics.md
       - Learning for Life Programme (LLP) – Community Youth Leadership.md
       - Character Development/.keep
