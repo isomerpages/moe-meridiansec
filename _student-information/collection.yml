@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Full Subject–Based Banding (Full SBB).md
       - Student Timetable.md
       - Assessment Matters.md
       - E–Student Handbook.md
