@@ -12,7 +12,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: School's Calendar
+        - title: Calendar
           description: ""
           url: /calendar/
         - title: Portals & Links
@@ -22,16 +22,10 @@ sections:
           description: ""
           url: /lp-announcement/2023-school-letter/
   - infobar:
-      title: 2023 Secondary 1 Registration Information
-      description: Please Click on "Read" button to find out more on Secondary 1
-        Registration
-      button: Read here
-      url: /sec-1-registration-2023-cohort/
-  - infobar:
-      title: Full SBB
+      title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
-        Banding (SBB) from 2023. Click on "Read" to find out more.
-      button: Read here
+        Banding for our Secondary 1 students from 2023.
+      button: Find out more
       url: /full-subject-based-banding-full-sbb/
   - infobar:
       title: Our CCAs
