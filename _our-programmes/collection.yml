@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - English Language & Literature.md
       - Full Subject–Based Banding (Full SBB).md
       - Academic Programmes/Mother Tongue Language.md
       - Academic Programmes/Mathematics.md
