@@ -1,8 +1,0 @@
-collections:
-  cca:
-    output: true
-    order:
-      - Physical Sports/.keep
-      - Visual and Performing Arts/.keep
-      - Uniformed Groups/.keep
-      - Clubs and Societies/.keep
