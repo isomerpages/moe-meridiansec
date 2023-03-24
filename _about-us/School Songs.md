@@ -5,80 +5,52 @@ description: ""
 ---
 ### **Meridian School Song**
 
-**Verse One:**
+***Verse One:***<br>
+Joyful learners, seeking knowledge, <br>
+Reaching for the highest star. <br>
+Gifted minds, adding value, <br>
+Building our community. 
 
-Joyful learners, seeking knowledge,
-
-Reaching for the highest star.
-
-Gifted minds, adding value,
-
-Building our community.
-
-**Chorus:**
-
-Let’s unite and keep it true.
-
-Let Meridian guide us through.
-
-We will strive with all our hearts
-
+***Chorus:***<br>
+Let’s unite and keep it true.<br>
+Let Meridian guide us through.<br>
+We will strive with all our hearts<br>
 To make Meridian great.
 
-**Verse Two:**
-
-Caring people, daring leaders,
-
-Leading in the thoughtful path.
-
-Sharing arts, touching hearts,
-
+***Verse Two:***<br>
+Caring people, daring leaders,<br>
+Leading in the thoughtful path.<br>
+Sharing arts, touching hearts,<br>
 Enrich our humanity
 
-**Chorus:**
-
-Let’s unite and keep it true.
-
-Let Meridian guide us through.
-
-We will strive with all our hearts
-
+***Chorus:***<br>
+Let’s unite and keep it true.<br>
+Let Meridian guide us through.<br>
+We will strive with all our hearts<br>
 To make Meridian great.
+<br>
+<br>
+
 
 ### **Meridian Family Song**
 
-**Verse:**
-
-Meridian,
-
-You give us the key to discover.
-
-Our dreams, our goals,
-
-Through arts, our passion.
-
-Meridian,
-
-Guide to the tower of success.
-
-Leading with love, serving others,
-
+***Verse:***<br>
+Meridian,<br>
+You give us the key to discover.<br>
+Our dreams, our goals,<br>
+Through arts, our passion.<br>
+Meridian,<br>
+Guide to the tower of success.<br>
+Leading with love, serving others,<br>
 Doing our best.
 
-**Chorus:**
-
-This is the place where we belong,
-
-Where we’ll be strong as we unite.
-
-Reach for the grand horizon,
-
+***Chorus:***<br>
+This is the place where we belong,<br>
+Where we’ll be strong as we unite.<br>
+Reach for the grand horizon,<br>
 And soar above the sky (x2)
 
-**Coda:**
-
-Meridian’s where we belong,
-
-Where we’ll be strong,
-
+***Coda:***<br>
+Meridian’s where we belong,<br>
+Where we’ll be strong,<br>
 Here we belong (x3)
