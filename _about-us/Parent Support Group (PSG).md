@@ -30,6 +30,7 @@ Dedicated parents **partnering** with school and families to facilitate the to
 | Advisors | Mrs Margaret Shuek |
 |                   | Mdm Priscilla |
 |                   | Mdm Joyce Ng |
-| Alumni | Mrs Margaret Shuek |
-|                   | Mdm Priscilla |
-|                   | Mdm Joyce Ng |
+| Alumni | Mdm Annie Chiang |
+|                   | Mdm Eloisa Baysa |
+|                   | Mdm Norlidah Mohd Salleh |
+|                   | Mdm Azreena Binte Ahmad |
