@@ -9,39 +9,24 @@ sections:
   - hero:
       title: Meridian Secondary School
       background: /images/Homepage and Logos/School Foyer 01.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Calendar
-          description: ""
+          description: Click here for upcoming events
           url: /calendar/
         - title: Announcements
-          description: ""
+          description: Click here for announcements
           url: /lp-announcement/2023-school-letter/
-        - title: Portals & Links
-          description: ""
+        - title: Links
+          description: Click for links to portals
           url: /home/about-meridian/portals-links/
+      subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infobar:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
         Banding for our Secondary 1 students from 2023.
       button: Find out more
       url: /full-subject-based-banding-full-sbb/
-  - infobar:
-      title: Our CCAs
-      description: Click on "Read" to explore our range of CCAs
-      button: Read Here
-      url: /co-curricular-activities-cca-leaps-2-0/
-  - infobar:
-      title: School Mission
-      description: To nurture in Meridians inquiring minds and caring hearts for their
-        pursuit of excellence
-      button: Read here
-      url: /home/about-meridian/school-crest/
-  - infobar:
-      title: Contact Us
-      description: " Address: 31 Pasir Ris Street 51, Singapore
-        518901           Tel:65831387                        Fax: 65836467"
-      button: Location
-      url: https://www.google.com/maps/place/Meridian+Secondary+School/@1.3675302,103.9470778,17z/data=!3m1!4b1!4m5!3m4!1s0x31da3da8a08e84d9:0xee2d8fd46ff8a46e!8m2!3d1.3675302!4d103.9492665?hl=en
+  - resources:
+      title: Announcements
+      button: Access all announcements
 ---
