@@ -13,17 +13,20 @@ Since 2018, one of the signature programmes for the entire secondary three cohor
 *   Expose students to Asia with a greater focus on ASEAN countries, India and China, and sensitise them to the place of Singapore in the world; and
 *   Strengthen students’ commitment and rootedness to Singapore.
 
-In 2022, local-based internationalisation programmes were understood as modified programmes that continue to meet internationalisation objectives in lieu of physical overseas school trips which remained curtailed.  
-These programmes help our students stay connected to the region and the world despite travel restrictions.
+In 2022, local-based internationalisation programmes were understood as modified programmes that continue to meet internationalisation objectives in lieu of physical overseas school trips which remained curtailed.  These programmes help our students stay connected to the region and the world despite travel restrictions.
+
+![](/images/Internationalisation%20Programme/Internationalisation%20Programme%2001.jpg)
+In the photographs above, the Sec 3 students enjoyed a learning journey to Fort Canning Park/CBD/Botanic Gardens – local sites that have overseas connections.
+
+![](/images/Internationalisation%20Programme/Internationalisation%20Programme%2002.jpg)
+Back in the classroom, they also experienced a virtual tour in a park in Japan, a museum in Xi’an, China, and a forest in Malaysia. The hands-on activities in the classroom included trying their hands on a butterfly specimen, excavating fossils using tools of the trade – a chisel and brush, practicing barter trade through given scenarios. These were opportunities for the students to explore our connections with the neighbouring nations despite the travel restrictions. Our goal was simple – if we could not bring the students to the world, we would bring the world to them.
 
 
-
-
-
-
-
-
-
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">2018 Overseas Learning Journey to Ho Chi Minh, Vietnam</label>
+    <div>
 
 In 2019, a total of 6 OLJ destinations were organised from Malaysia to Thailand, Vietnam and China.
 
@@ -40,11 +43,11 @@ Annually, the school will identify various destinations with emphasis on ASEAN c
 *   Opportunities for interaction with Meridian schoolmates and overseas friends.
 
 At the end of each trip, through their reflections and feedback, students have recorded overwhelming support for the programme as they have gained much from the OLJ experience; from learning about themselves and others; about the culture and life of the places and countries they have visited and how much they have learnt about Singapore’s place in the world. The most priceless impact of the OLJ is that the students expressed a greater sense of appreciation for our country.
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">2018 Overseas Learning Journey to Ho Chi Minh, Vietnam</label>
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2018 Overseas Learning Journey to Ho Chi Minh, Vietnam</label>
     <div>
       <img src="/images/2018-Ho-Chi-Minh-1.jpg" 
      style="width:60%">
@@ -71,8 +74,8 @@ In addition, they also visited a local school where they interacted with local s
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">2018 Overseas Learning Journey to Chiang Mai, Thailand</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">2018 Overseas Learning Journey to Chiang Mai, Thailand</label>
     <div>
       <img src="/images/Slide1.jpg" 
      style="width:60%"><br>
@@ -113,8 +116,8 @@ In addition, they also visited a local school where they interacted with local s
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">2018 Overseas Learning Journey to Hanoi, Vietnam</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">2018 Overseas Learning Journey to Hanoi, Vietnam</label>
     <div>
       <img src="/images/2018-Hanoi-1.jpg" 
      style="width:60%">
@@ -142,8 +145,8 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     </div>
 	</li>
 	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">2017 Beijing, China Overseas Learning Journey</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2017 Beijing, China Overseas Learning Journey</label>
     <div>
       <img src="/images/2017-Beijing1.png" 
      style="width:75%"><br>
@@ -158,15 +161,15 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">2017 Kuching, Sarawak Overseas Learning Journey</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">2017 Kuching, Sarawak Overseas Learning Journey</label>
     <div>
       <a href="/files/Kuching-Sarawak-Overseas-Learning-Journey.pdf">Kuching, Sarawak Overseas Learning Journey</a>
 			</div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Ho Chi Minh City, Vietnam Overseas Learning Journey Trip May 2017</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Ho Chi Minh City, Vietnam Overseas Learning Journey Trip May 2017</label>
     <div>
       <img src="/images/2017-Ho%20Chi%20Minh%20City-1.png" 
      style="width:75%">
@@ -179,8 +182,8 @@ On the third day, we went for a cultural exchange at Le Quy Don High School, a f
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">2017 Hanoi, Vietnam Overseas Learning Journey</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">2017 Hanoi, Vietnam Overseas Learning Journey</label>
     <div>
       <p><b>5-day 4-night Immersion Programme to Hanoi, Vietnam</b></p>
 			<p>This overseas trip to Hanoi in Vietnam is aimed at expanding the world view of students through understanding the tumultuous and complex heritage of Vietnam’s history as well as appreciating its rich culture through understanding the country’s colonial influences from the Chinese, Khmer and French occupation.  Students would then better comprehend Singapore’s resilience in her own struggle to independence through understanding the Vietnamese’ strong value of nationalism in their efforts for peace in their country.  Also, through a cultural immersion programme with a local school, Le Quy Don Junior High School, the value of humility in learning from others is encouraged.  In the 5 days in Hanoi, the places visited included the Temple of Literature, Hanoi’s Old Quarter, Ho Chi Minh Mausoleum and Stilt House.  The students visited Dong Trieu Village where they undertook the role of farmers planting rice and catching fishes.  The group also visited Trang An Grottoes, a UNESCO World Heritage Site, and made comparison with Singapore Botanic Gardens to understand the significance of this award.</p>
