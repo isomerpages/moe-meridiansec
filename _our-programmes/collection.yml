@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Co Curriculum Activities (CCA)/.keep
       - Full Subject–Based Banding (Full SBB).md
       - Academic Programmes/.keep
       - Applied Learning Programme (ALP) – Aesthetics.md
