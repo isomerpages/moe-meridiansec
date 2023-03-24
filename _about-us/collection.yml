@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Our Organisation/Our Organisation.md
-      - Our Organisation/.keep
       - Principal's Message.md
       - Our History.md
       - Our Emblem, Vision and Mission.md
       - Our School Songs.md
+      - Our Organisation/.keep
+      - Our Organisation/Our Organisation.md
       - School Profile Information.md
       - Parent Support Group (PSG).md
       - E–Yearbook.md
