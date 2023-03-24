@@ -7,8 +7,8 @@ Dear parents and students,
 
 Please download the School Timetable for 2023 Semester 1 and a quick guide on how to read the timetable.
 
-* [2023 Semester 1 Timetable](/files/2023-Semester-1-Timetable.pdf)
-* [How to read the timetable guide](/files/How-to-read-the-timetable.pdf)
+* [2023 Semester 1 Timetable](/files/Timetable%20Matters/2023-Semester-1-Timetable.pdf)
+* [Guide to read timetable](/files/Timetable%20Matters/How-to-read-the-timetable.pdf)
 
 Please take note of the new dismissal time for 2023 Semester 1 lessons (excluding CCA and other programmes).
 
