@@ -3,9 +3,7 @@ title: School Emblem, Vision and Mission
 permalink: /home/about-meridian/school-emblem/
 description: ""
 ---
-
-
-## Our Emblem
+### School Emblem
 
 <img src="/images/Meridian-Sec-Logo-.jpg" 
      style="width:60%">
