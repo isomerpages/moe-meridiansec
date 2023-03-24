@@ -1,12 +1,12 @@
 logo: /images/logo-resize.jpg
 links:
-  - title: About Us
-    collection: about-us
   - title: Our Programmes
     collection: our-programmes
-  - title: CCA
-    collection: cca
-  - title: Student Information
-    collection: student-information
   - title: Our Achievements
     collection: our-achievements
+  - title: Student Information
+    collection: student-information
+  - title: About Us
+    collection: about-us
+  - title: CCA
+    collection: cca
