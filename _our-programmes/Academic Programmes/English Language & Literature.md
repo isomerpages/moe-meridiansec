@@ -11,7 +11,7 @@ Students are competent readers, speakers and writers who are able to use the Eng
 To equip students with competency and confidence in the English Language.
 <br>
 <br>
-#### Approach to English Language Teaching
+### Approach to English Language Teaching
 Teachers adopt a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.
 
 Key Programmes
@@ -37,7 +37,6 @@ We have a wide range of activities to encourage reading in our students this yea
 To build a strong reading culture within our classrooms, we provided our Sec One classes with a classroom library each. They can customise their own classroom library and pick up the habit of reading through a good book selection.
 			<p><img src="/images/EL-ERP-2.jpg"></p>
 			<br>
-			<br>
 			
 #### English Language & Literature Week
 			
@@ -57,12 +56,13 @@ To foster a love of the English Language in our students through different platf
 <figcaption> <strong>Poet for a Day</strong> </figcaption>
 </figure>
 </p>
+<br>
 
 #### Advanced Elective Module (AEM)
 During the March holidays, a group of selected Sec 3 students took part in Temasek Polytechnic’s Photojournalism and broadcasting module. They had fun learning the process in the creation of a radio programme. They fine-tuned their scripts, recorded their stinger, interviewed their guest and edited their podcast. Check out our Sec 3 students in action!</p>
 			<p><img src="/images/EL01.jpg"></p>
 			<p><img src="/images/EL02.jpg"></p>
-   
+ <br>
 	 
 #### Meridian Speakers Programme
 The Meridian Speakers Programme aims to develop confident and eloquent speakers who are able to command the attention of their audience. Despite the reduction of face-to-face public speaking events, our Meridian Speakers have pivoted to speak online by hosting school outreach sessions as well as e-Open Houses. At the same time, our team have developed our very own podcast, The Meridian Show!</p>
