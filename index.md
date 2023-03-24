@@ -8,19 +8,19 @@ notification: " "
 sections:
   - hero:
       title: Meridian Secondary School
-      background: /images/hero-banner.png
+      background: /images/Homepage and Logos/School Foyer 01.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Calendar
           description: ""
           url: /calendar/
-        - title: Portals & Links
-          description: ""
-          url: /home/about-meridian/portals-links/
         - title: Announcements
           description: ""
           url: /lp-announcement/2023-school-letter/
+        - title: Portals & Links
+          description: ""
+          url: /home/about-meridian/portals-links/
   - infobar:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
