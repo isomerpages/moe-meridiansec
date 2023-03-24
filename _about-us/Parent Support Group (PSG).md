@@ -28,6 +28,8 @@ Dedicated parents **partnering** with school and families to facilitate the to
 | Members  | Mr Selvaga | 
 |                   | Mr Kelvin Tan|
 | Advisors | Mrs Margaret Shuek |
-
-
-
+|                   | Mdm Priscilla |
+|                   | Mdm Joyce Ng |
+| Alumni | Mrs Margaret Shuek |
+|                   | Mdm Priscilla |
+|                   | Mdm Joyce Ng |
