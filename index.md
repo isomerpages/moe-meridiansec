@@ -16,8 +16,8 @@ sections:
         - title: Announcements
           description: Click here for announcements
           url: /lp-announcement/2023-school-letter/
-        - title: Links
-          description: Click for links to portals
+        - title: Resources
+          description: Click here to access to portals
           url: /home/about-meridian/portals-links/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infobar:
