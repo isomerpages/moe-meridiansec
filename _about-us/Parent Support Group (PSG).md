@@ -5,7 +5,7 @@ description: ""
 ---
 <img src="/images/psg.png" 
      style="width:20%">
-		 
+
 ### Our Vision 
 Dedicated parents **partnering** with school and families to facilitate the total development of our students.
 
