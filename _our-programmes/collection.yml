@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Full Subject–Based Banding (Full SBB).md
-      - Academic Programmes/Music.md
+      - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature.md
       - Academic Programmes/Mother Tongue Language.md
       - Academic Programmes/Mathematics.md
       - Academic Programmes/Science.md
       - Academic Programmes/Humanities.md
-      - Academic Programmes/Aesthetics.md
       - Academic Programmes/Art.md
+      - Academic Programmes/Music.md
+      - Academic Programmes/Aesthetics.md
       - Academic Programmes/Nutrition and Food Science.md
       - Academic Programmes/Design & Technology.md
       - Academic Programmes/Physical Education.md
-      - Academic Programmes/.keep
       - Co Curriculum Activities (CCA)/.keep
       - Co Curriculum Activities (CCA)/CCA LEAPS.md
       - Co Curriculum Activities (CCA)/Concert Band.md
