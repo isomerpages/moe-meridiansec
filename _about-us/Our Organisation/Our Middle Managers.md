@@ -4,7 +4,7 @@ permalink: /about-us/our-organization/our-middle-managers/
 description: ""
 third_nav_title: Our Organisation
 ---
-### Heads of Department
+### Heads of Department <br>
 
 | Designation | Staff | Contact Email |
 | -------- | -------- | -------- |
@@ -28,7 +28,7 @@ third_nav_title: Our Organisation
 
 ---
 
-### Subject/Level Heads
+### Subject/Level Heads <br>
 
 | Designation | Staff | Contact Email |
 | -------- | -------- | -------- |
