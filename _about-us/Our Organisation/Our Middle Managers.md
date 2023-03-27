@@ -24,8 +24,12 @@ third_nav_title: Our Organisation
 | SH Art<br>[Covering HOD Aesthetics]  | Ms Ong Yin Yin     | <ong_yin_yin@moe.edu.sg>     |
 | SH English Literature<br>[Covering HOD EL]     | Ms Lin I-Ju Yvonne   | <lin_i_ju@moe.edu.sg>     |
 
+<br>
+
+---
 
 ### Subject/Level Heads
+
 | Designation | Staff | Contact Email |
 | -------- | -------- | -------- |
 | SH Chemistry     | Mr Boon Jun Hao Joel     | <boon_jun_hao_joel@moe.edu.sg>     |
