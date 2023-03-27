@@ -4,7 +4,7 @@ permalink: /about-us/our-organization/our-form-teachers/
 description: ""
 third_nav_title: Our Organisation
 ---
-### Secondary 1 Form Teachers
+### Secondary 1 Form Teachers <br>
 
 | Class | Form Teachers | Contact Email |
 | -------- | -------- | -------- |
@@ -21,15 +21,18 @@ third_nav_title: Our Organisation
 | 1-6     | Mr Mei Yung Jian Joe     | <mei_yung_jian_joe@moe.edu.sg>     |
 | 1-6     | Mr Xia Shuang     | <xia_shuang@moe.edu.sg>     |
 | 1-7     | Mr Teo Wei Yang     | <teo_wei_yang@moe.edu.sg>    |
-| 1-7     | Ms Nur Ummirah Nasser     | <ummirah_nasser_nur@moe.edu.sg>    |
+| 1-7     | Ms Nur Ummirah Nasser     | <ummirah_nasser_nur@moe.edu.sg>    |<br>
+
+---
 
 
-### Secondary 2 Form Teachers
+### Secondary 2 Form Teachers <br>
 
 | Class | Form Teachers | Contact Email |
 | -------- | -------- | -------- |
 | 2A1    |  Miss Chan Qi Si Kate    | <chan_qi_si@moe.edu.sg>    |
 | 2A1    |  Miss Syafiqah Binte Md Anuar    | <syafiqah_md_anuar@moe.edu.sg>    |
+| 2A1    |  Mr Ernest Teo    | <teo_kang_zheng_ernest@moe.edu.sg>    |
 | 2A2     | Miss Chen Yi-Chun      | <chen_yi-chun@moe.edu.sg>    |
 | 2A2     |   Miss Lim Zhi Qi Joanne   | <lim_zhi_qi@moe.edu.sg>    |
 | 2E1     | Mr Lee Lea Khoon     | <lee_lea_khoon@moe.edu.sg>    |
@@ -41,10 +44,12 @@ third_nav_title: Our Organisation
 | 2E4     | Mdm Teng Xiuling     | <teng_xiuling@moe.edu.sg>    |
 | 2E5     |  Mr Tiah Tao Koon    | <tiah_tao_koon@moe.edu.sg>    |
 | 2T1     |  Ms Dhanya Magadevan    | <dhanya_magadevan@moe.edu.sg>    |
-| 2T1     | Mr Wong Ling Guan James     | <wong_ling_guan@moe.edu.sg>    |
+| 2T1     | Mr Wong Ling Guan James     | <wong_ling_guan@moe.edu.sg>    | <br>
+
+---
 
 
-### Secondary 3 Form Teachers
+### Secondary 3 Form Teachers <br>
 
 | Class | Form Teachers | Contact Email |
 | -------- | -------- | -------- |
@@ -61,10 +66,12 @@ third_nav_title: Our Organisation
 | 3E4     | Mr Chou Cher Hoong     | <chou_cher_hoong@moe.edu.sg>    |
 | 3E4    |  Mdm Nordiana Bte Daim    | <nordiana_daim@moe.edu.sg>    |
 | 3T1     | Mdm Noraishah Bte Mostapa     | <noraishah_mostapa@moe.edu.sg>    |
-| 3T1     | Mr Wee Sin Hock Brian     | <wee_sin_hock_brian@moe.edu.sg>    |
+| 3T1     | Mr Wee Sin Hock Brian     | <wee_sin_hock_brian@moe.edu.sg>    | <br>
+
+---
 
 
-### Secondary 4 Form Teachers
+### Secondary 4 Form Teachers <br>
 
 | Class | Form Teachers | Contact Email |
 | -------- | -------- | -------- |
@@ -81,7 +88,9 @@ third_nav_title: Our Organisation
 | 4E4     |  Mr Low Kok Hua Jeffrey    | <low_kok_hua@moe.edu.sg>    |
 | 4E4     | Ms Marini Bte Hassan     | <marini_hassan@moe.edu.sg>    |
 | 4T1     |  Mr Toh Choon Gee, Justin    | <toh_choon_gee_justin@moe.edu.sg>    |
-| 4T1     | Mdm Siti Zaidah Bte Abas     | <siti_zaidah_abas@moe.edu.sg>    |
+| 4T1     | Mdm Siti Zaidah Bte Abas     | <siti_zaidah_abas@moe.edu.sg>    | <br>
+
+---
 
 
 ### Secondary 5 Form Teachers
