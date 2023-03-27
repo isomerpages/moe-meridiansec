@@ -3,9 +3,9 @@ title: Parent Support Group (PSG)
 permalink: /psg/
 description: ""
 ---
-<img src="/images/psg.png" 
+<img src="/images/Parent%20Support%20Group%20(PSG)/psg.png" 
      style="width:20%">
-
+	
 ### Our Vision 
 Dedicated parents **partnering** with school and families to facilitate the total development of our students.
 
