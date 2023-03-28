@@ -2,12 +2,12 @@ collections:
   student-services:
     output: true
     order:
-      - National Digital Literacy Programme (NDLP).md
-      - Direct School Admission (DSA).md
       - Full Subject–Based Banding (Full SBB).md
+      - E–Student Handbook.md
       - Student Timetable.md
       - Assessment Matters.md
-      - E–Student Handbook.md
+      - Direct School Admission (DSA).md
+      - National Digital Literacy Programme (NDLP).md
       - School Letters.md
       - Booklist for Academic Year 2023.md
       - 2023 Secondary 1 Registration Information.md
