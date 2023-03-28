@@ -3,10 +3,11 @@ title: Our School Songs
 permalink: /about-us/our-school-songs/
 description: ""
 ---
-### School Emblem
+### Our Emblem
 
 
-< img src= "/images/Homepage%20and%20Logos/School%20Logo.png" width=100 >
+<img src="/images/Homepage%20and%20Logos/School%20Logo.png" style="width:35%">
+
 		
 
 The school crest is formed by the letter M for Meridian Secondary School and is designed with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School.
@@ -25,7 +26,7 @@ Together, they represent the strength and unity of Meridians to reach new height
 
 <br>
 
-### Meridian School Song
+### Our School Song
 
 ***Verse One:***<br>
 Joyful learners, seeking knowledge, <br>
@@ -54,7 +55,7 @@ To make Meridian great.
 <br>
 
 
-### **Meridian Family Song**
+### Our Family Song
 
 ***Verse:***<br>
 Meridian,<br>
