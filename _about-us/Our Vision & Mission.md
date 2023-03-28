@@ -3,8 +3,6 @@ title: Our Vision & Mission
 permalink: /about-us/our-vision-mission/
 description: ""
 ---
-
-
 ## School Vision
 
 > Joyful Learners, Creative Thinkers, Compassionate Leaders
@@ -13,10 +11,10 @@ description: ""
 
 > To nurture in Meridians inquiring minds and caring hearts for their pursuit of excellence
 
-## School Values
+### School Values
 
 > Humility, Compassion, Integrity and Resilience
 
-## School Motto
+### School Motto
 
 > Unite to Reach New Heights
