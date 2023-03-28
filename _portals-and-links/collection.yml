@@ -1,5 +1,4 @@
 collections:
   portals-and-links:
     output: true
-    order:
-      - Resources.md
+    order: []
