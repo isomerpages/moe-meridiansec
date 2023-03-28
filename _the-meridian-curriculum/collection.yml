@@ -2,7 +2,6 @@ collections:
   the-meridian-curriculum:
     output: true
     order:
-      - Full Subject–Based Banding (Full SBB).md
       - Academic Programmes/.keep
       - Academic Programmes/English Language & Literature.md
       - Academic Programmes/Mother Tongue Language.md
