@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Student Leaders.md
       - Principal's Message.md
       - Our History.md
       - Our Vision & Mission.md
@@ -12,5 +11,6 @@ collections:
       - Our Organisation/Our Middle Managers.md
       - Our Organisation/Our Teacher Leaders.md
       - Our Organisation/Our Form Teachers.md
+      - Our Student Leaders.md
       - Our Parent Support Group (PSG).md
       - School Profile Information.md
