@@ -2,5 +2,5 @@ collections:
   the-meridian-stories:
     output: true
     order:
-      - Achievements.md
       - Success Stories.md
+      - Achievements.md
