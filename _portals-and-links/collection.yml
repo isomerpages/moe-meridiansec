@@ -2,4 +2,4 @@ collections:
   portals-and-links:
     output: true
     order:
-      - Portals & Links.md
+      - Resources.md
