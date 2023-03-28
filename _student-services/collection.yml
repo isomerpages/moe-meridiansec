@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Full Subject–Based Banding (Full SBB).md
       - Student Timetable.md
       - Assessment Matters.md
