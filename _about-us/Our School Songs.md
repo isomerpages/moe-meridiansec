@@ -6,7 +6,8 @@ description: ""
 ### School Emblem
 
 
-![](/images/Homepage%20and%20Logos/School%20Logo.png)
+< img src= "/images/Homepage%20and%20Logos/School%20Logo.png" width=100 >
+		
 
 The school crest is formed by the letter M for Meridian Secondary School and is designed with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School.
 
