@@ -2,7 +2,7 @@
 layout: homepage
 title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/logo-resize.jpg
+image: /images/Homepage and Logos/School Logo.png
 permalink: /
 notification: " "
 sections:
