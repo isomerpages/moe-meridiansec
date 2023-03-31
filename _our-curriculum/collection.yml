@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Music.md
       - Art.md
       - Humanities.md
       - Science.md
