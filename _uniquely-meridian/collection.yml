@@ -2,7 +2,7 @@ collections:
   uniquely-meridian:
     output: true
     order:
-      - Learning for Life Programme (LLP) – Community Youth Leadership.md
-      - Internationalisation Programme.md
-      - Design Thinking.md
       - Applied Learning Programme (ALP) – Aesthetics.md
+      - Design Thinking.md
+      - Internationalisation Programme.md
+      - Learning for Life Programme (LLP) – Community Youth Leadership.md
