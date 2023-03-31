@@ -4,7 +4,7 @@ permalink: /home/programmes/design-thinking/
 description: ""
 ---
 ## DESIGN THINKING
-<img src="/images/Design-thinking01.jpg" style="width:60%">
+![](/images/Programmes/Design%20Thinking/Design-thinking01.jpg)
 			
 In Meridian Secondary School, we have identified Design Thinking (DT) as one of the key programmes from 2017 onwards.
 
@@ -22,8 +22,7 @@ DT will be incorporated progressively into the school processes and programmes f
 ### STUDENT LEADERS
 
 A group of Sec 3 student leaders go through further DT training to apply their skills in various school needs and in the community.
-			<img src="/images/Design-thinking02.jpg" style="width:60%">
- <br>
+![](/images/Programmes/Design%20Thinking/Design-thinking02.jpg)
  
  
  ---
@@ -35,7 +34,7 @@ All staff are trained in Design Thinking through an in-house workshop conducted 
 At the beginning of the year, all staff went through a Design Thinking (DT) Refresher Workshop. This workshop aims to strengthen teachers’ knowledge on DT processes, focusing on the ‘Empathy’ stage.
 
 With the enhanced knowledge in DT, which is a tool for innovation, staff will then apply the processes into their various areas of work for improvements and innovation.
-			<img src="/images/Design-thinking03.jpg" style="width:60%">
+![](/images/Programmes/Design%20Thinking/Design-thinking03.jpg)
 
 Staff submit their ideas via the Changemakers Challenge and the best ideas are shared with all staff via video and recognised during Staff Contact Time and social media.
-			<img src="/images/Design-thinking04.jpg" style="width:60%">
+![](/images/Programmes/Design%20Thinking/Design-thinking04.jpg)
