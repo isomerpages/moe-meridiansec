@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Nutrition and Food Science.md
       - Music.md
       - Art.md
       - Humanities.md
