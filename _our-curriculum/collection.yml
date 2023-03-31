@@ -1,5 +1,5 @@
 collections:
-  the-meridian-curriculum:
+  our-curriculum:
     output: true
     order:
       - Academic Programmes/.keep
