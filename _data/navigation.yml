@@ -2,11 +2,7 @@ logo: /images/Homepage and Logos/School Logo.png
 links:
   - title: Our Curriculum
     collection: our-curriculum
-  - title: The Meridian Stories
-    collection: the-meridian-stories
   - title: Student Information
     collection: student-information
   - title: About Us
     collection: about-us
-  - title: Contact us
-    url: /contact-us
