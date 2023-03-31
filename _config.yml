@@ -1,6 +1,6 @@
 title: Meridian Secondary School
 url: https://www.meridiansec.moe.edu.sg
-favicon: /images/logo-resize.jpg
+favicon: /images/Homepage and Logos/School Logo.png
 colors:
   primary-color: "#0000a6"
   secondary-color: "#3e7603"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.ddo69uruzv4wc.amplifyapp.com
 prod: https://master.ddo69uruzv4wc.amplifyapp.com
-shareicon: /images/logo-resize.jpg
+shareicon: /images/Homepage and Logos/School Logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
