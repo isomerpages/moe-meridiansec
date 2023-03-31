@@ -2,16 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Physical Education.md
-      - Design & Technology.md
-      - Nutrition and Food Science.md
-      - Music.md
       - Art.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue Language.md
-      - English Language & Literature.md
+      - Character Development/.keep
+      - Character Development/About Character & Citizenship Development.md
+      - Character Development/Sexuality Education.md
+      - Character Development/Values in Action (VIA).md
+      - Character Development/National Education.md
+      - Character Development/Education and Career Guidance.md
       - Co Curriculum Activities (CCA)/.keep
       - Co Curriculum Activities (CCA)/CCA LEAPS.md
       - Co Curriculum Activities (CCA)/Concert Band.md
@@ -31,9 +28,12 @@ collections:
       - Co Curriculum Activities (CCA)/Red Cross Youth.md
       - Co Curriculum Activities (CCA)/Media Club.md
       - Co Curriculum Activities (CCA)/Robotics Club.md
-      - Character Development/.keep
-      - Character Development/About Character & Citizenship Development.md
-      - Character Development/Sexuality Education.md
-      - Character Development/Values in Action (VIA).md
-      - Character Development/National Education.md
-      - Character Development/Education and Career Guidance.md
+      - Design & Technology.md
+      - English Language & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Language.md
+      - Music.md
+      - Nutrition and Food Science.md
+      - Physical Education.md
+      - Science.md
