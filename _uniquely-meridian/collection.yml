@@ -2,5 +2,6 @@ collections:
   uniquely-meridian:
     output: true
     order:
+      - Internationalisation Programme.md
       - Design Thinking.md
       - Applied Learning Programme (ALP) – Aesthetics.md
