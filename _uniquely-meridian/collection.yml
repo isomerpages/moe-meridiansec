@@ -1,4 +1,5 @@
 collections:
   uniquely-meridian:
     output: true
-    order: []
+    order:
+      - Applied Learning Programme (ALP) – Aesthetics.md
