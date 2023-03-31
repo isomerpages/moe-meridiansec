@@ -3,7 +3,7 @@ title: Resources
 permalink: /resources/
 description: ""
 ---
-| For Students |  | 
+| For Students |   | 
 | -------- | -------- | 
 | Student Learning Space (SLS)    | [Click Here](https://vle.learning.moe.edu.sg/login)    | 
 | Student iCON email    | [Click Here](https://workspace.google.com/u/0/dashboard)   | 
@@ -12,7 +12,7 @@ description: ""
 <br>
 <br>
 
-| For Parents |  | 
+| For Parents |   | 
 | -------- | -------- | 
 | MOE Financial Assistance Scheme (FAS) Form    | [Click Here](https://go.gov.sg/moe-efas)    | 
 |Link to download PG | -------- | 
@@ -21,7 +21,7 @@ description: ""
 <br>
 <br>
 
-| For Staff |  | 
+| For Staff |   | 
 | -------- | -------- | 
 | MOE Intranet* | [Click Here](https://intranet.moe.gov.sg/Pages/Home.aspx) | 
 | MIMS Portal* | [Click Here](https://idp.mims.moe.gov.sg/) | 
