@@ -10,14 +10,14 @@ sections:
       title: Meridian Secondary School
       background: /images/Homepage and Logos/School Foyer 01.jpg
       key_highlights:
-        - title: Calendar
-          description: Click here for upcoming events
-          url: /calendar/
         - title: Announcements
           description: Click here for announcements
           url: /lp-announcement/2023-school-letter/
+        - title: Calendar
+          description: Click here for upcoming events
+          url: /calendar/
         - title: Resources
-          description: Click here to access to portals
+          description: Click here for access to portals
           url: /home/about-meridian/portals-links/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infobar:
