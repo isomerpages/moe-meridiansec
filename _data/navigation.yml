@@ -6,3 +6,5 @@ links:
     collection: student-information
   - title: About Us
     collection: about-us
+  - title: Contact Us
+    url: /permalink
