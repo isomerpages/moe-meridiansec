@@ -7,7 +7,7 @@ description: ""
 | -------- | -------- | 
 | Student Learning Space (SLS)    | [Click Here](https://vle.learning.moe.edu.sg/login)    | 
 | Student iCON email    | [Click Here](https://workspace.google.com/u/0/dashboard)   | 
-| MySkillsFuture for students   | [Click Here](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html)   | 
+| MySkillsFuture for Students   | [Click Here](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html)   | 
 
 <br>
 <br>
@@ -15,7 +15,8 @@ description: ""
 | For Parents |   | 
 | -------- | -------- | 
 | MOE Financial Assistance Scheme (FAS) Form    | [Click Here](https://go.gov.sg/moe-efas)    | 
-|Link to download PG | -------- | 
+|Parents Gateway (PG) App Download for iOS devices | [Click Here](https://itunes.apple.com/sg/app/parents-gateway/id1267198708) | 
+|Parents Gateway (PG) App Download for Android devices| [Click Here](https://play.google.com/store/apps/details?id=com.moe.pgp) | 
 
 
 <br>
