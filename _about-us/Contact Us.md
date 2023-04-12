@@ -14,11 +14,14 @@ Fax: 6583 6467 <br>
 E-mail:  <br>
 <br>
 ##### **General Office Operating Hours**
-| Day | Operating Hours during School Term  |
-| -------- | --------- |
-| Monday to Thursday     | 7:00 am to 5:00 pm   |
-| Friday    | 7:00 am to 4:30 pm   |
-| Sat, Sun and Public Holidays    | Closed   |
+
+| Day | Operating Hours during School Term |
+| -------- | -------- |
+| Monday to Thursday | 7:00 am to 5:00 pm |
+| Friday | 7:00 am to 4:30 pm |
+| Sat, Sun and Public Holidays | Closed     |
+
+
 
 <br>
 
