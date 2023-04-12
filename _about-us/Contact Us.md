@@ -32,8 +32,9 @@ Pasir Ris
 <br>
 
 ##### **Nearest Buses Services**
+
 | Bus Stop Location | Bus Services |
-| ------- | ------- |
+|---|---|
 | Blk 562, <br> Pasir Ris St 51 <br> (Bus Stop No. 77351)     | 359   |
 | Blk 564, <br> Pasir Ris St 51 <br> (Bus Stop No. 77359)     | 359   |
 | Blk 528C, <br> Pasir Ris Dr 1 <br> (Bus Stop No. 77031)       | 39, 53, 81, 89, 109, 403, 518   |
