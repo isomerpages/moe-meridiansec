@@ -8,7 +8,7 @@ description: ""
 ##### **Meridian Secondary School**
 31 Pasir Ris Street 51<br>
 Singapore 518901<br>
-[VIEW MAP](https://goo.gl/maps/UGSABadBzw7hiVVa7)
+<a target="_blank" href="https://goo.gl/maps/UGSABadBzw7hiVVa7"> VIEW MAP  </a>
 
 Tel: 6583 1387 <br>
 Fax: 6583 6467 <br>
