@@ -7,11 +7,12 @@ description: ""
 
 ##### **Meridian Secondary School**
 31 Pasir Ris Street 51<br>
-Singapore 518901
+Singapore 518901<br>
+[VIEW MAP](https://goo.gl/maps/UGSABadBzw7hiVVa7)
 
 Tel: 6583 1387 <br>
 Fax: 6583 6467 <br>
-E-mail:  <br>
+E-mail: [meridian_sec@moe.edu.sg](mailto:meridian_sec@moe.edu.sg) <br> 
 <br>
 ##### **General Office Operating Hours**
 
@@ -32,7 +33,7 @@ Pasir Ris
 
 ##### **Nearest Buses Services**
 | Bus Stop Location | Bus Services |
-
+| ------- | ------- |
 | Blk 562, <br> Pasir Ris St 51 <br> (Bus Stop No. 77351)     | 359   |
 | Blk 564, <br> Pasir Ris St 51 <br> (Bus Stop No. 77359)     | 359   |
 | Blk 528C, <br> Pasir Ris Dr 1 <br> (Bus Stop No. 77031)       | 39, 53, 81, 89, 109, 403, 518   |
