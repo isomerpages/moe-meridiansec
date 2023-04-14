@@ -6,12 +6,6 @@ description: ""
 ### Vision
 Confident and successful problem solvers, striving for excellence
 
-### Values
-* Resilience
-* Integrity
-* Compassion
-* Humility
-
 ### Curriculum
 The Mathematics curriculum is designed to enable students to:
 * acquire the necessary mathematical concepts and skills for continuous learning in mathematics and related discipline, and for applications to the real world;
