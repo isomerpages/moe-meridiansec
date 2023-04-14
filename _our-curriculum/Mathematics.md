@@ -23,6 +23,9 @@ The Mathematics curriculum is designed to enable students to:
 * produce imaginative and creative work arising from mathematical ideas;
 * develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
 
+### Highlights in 2023
+
+
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2022</label>
     <div>
