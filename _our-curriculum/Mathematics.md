@@ -3,37 +3,28 @@ title: Mathematics
 permalink: /home/departments/mathematics/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-  <li>
+### Vision
+Confident and successful problem solvers, striving for excellence
+
+### Values
+* Resilience
+* Integrity
+* Compassion
+* Humility
+
+### Curriculum
+The Mathematics curriculum is designed to enable students to:
+* acquire the necessary mathematical concepts and skills for continuous learning in mathematics and related discipline, and for applications to the real world;
+* develop the necessary process skills for the acquisition and application of mathematical concepts and skills;
+* develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems;
+* recognise and use connections among mathematical ideas, and between mathematics and other disciplines;
+* develop positive attitudes towards mathematics;
+* make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of mathematics;
+* produce imaginative and creative work arising from mathematical ideas;
+* develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
+
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">About Mathematics</label>
-    <div>
-			<h4>Vision</h4>
-      <p>Confident and successful problem solvers, striving for excellence</p>
-			<h4>Values</h4>
-			<ul>
-				<li>Resilience</li>
-				<li>Integrity</li>
-				<li>Compassion</li>
-				<li>Humility</li>
-			</ul>
-			<h4>Curriculum</h4>
-			<p>The Mathematics curriculum is designed to enable students to:</p>
-			<ol>
-				<li>acquire the necessary mathematical concepts and skills for continuous learning in mathematics and related discipline, and for applications to the real world;</li>
-				<li>develop the necessary process skills for the acquisition and application of mathematical concepts and skills;</li>
-				<li>develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems;</li>
-				<li>recognise and use connections among mathematical ideas, and between mathematics and other disciplines;</li>
-				<li>develop positive attitudes towards mathematics;</li>
-				<li>make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of mathematics;</li>
-				<li>produce imaginative and creative work arising from mathematical ideas;</li>
-				<li>develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.</li>
-			</ol>
-    </div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">2022</label>
+    <label for="accordion1">2022</label>
     <div>
 			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2022</h4>
       <p>Selected Meridians participated in the Singapore Mathematical Olympiad (SMO) national competition after learning advanced skills in solving competitive Mathematics problems.<br><br>
@@ -257,10 +248,10 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 </table></p>
 			<img src="/images/Maths-14.jpg" style="width:75%">
     </div>
-	</li>  
+	  
 	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">2021</label>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2021</label>
     <div>
       <p></p><center><b>Meridian Secondary School<br><br>Sec 2 Virtual Learning Journey 2021 – Gardens by the Bay<br><br>Monday 6 September 2021, 9 am to 2:30 pm</b></center><p></p>
 			<p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:</p>
@@ -346,8 +337,8 @@ Calculate the total admission fees for the family to the two Conservatories.<br>
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">2020</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">2020</label>
     <div>
 			<h4>Young Accountants Programme 2020</h4>
       <p>In October this year, our Secondary Three POA students were involved in a project ‘Buy from me!’. They learned to plan for a business venture, source for inventory and market their products. In addition, they learned to analyse their results based on financial and non-financial information.<br><br>
@@ -934,128 +925,4 @@ Warmest congratulations to the following students who received their certificate
     </div>
 	</li>  
 	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">2019</label>
-    <div>
-			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2019</h4>
-      <p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in this year’s SMO, which is a prestigious and challenging national mathematics competition. The following five Meridians have done our school proud in their respective competition categories.</p>
-			<p>(A)&nbsp;&nbsp;&nbsp; Open Section</p>
-			<ul>
-			<li>Bronze Award – Wang Xinrong&nbsp;&nbsp;&nbsp; (4E2 / MFC)</li>
-			</ul>
-			<p>(B)&nbsp;&nbsp;&nbsp; Senior Section</p>
-			<ul>
-			<li>Bronze Award – Diong Xiu Lin&nbsp;&nbsp;&nbsp;&nbsp; (4E2 / MFC)</li>
-			<li>Honourable Mention Award – Koh Liang Han&nbsp;&nbsp; (4E1 / MFC)</li>
-			</ul>
-			<p>(C)&nbsp;&nbsp;&nbsp; Junior Section</p>
-			<ul>
-			<li>Honourable Mention Award – Se Yong Jun &nbsp;&nbsp;&nbsp;(1E3 / MFC)</li>
-			<li> Honourable Mention Award – Lai Yude&nbsp;&nbsp;&nbsp;(2E1)</li>
-			</ul>
-			<p>Our five award winners have trained hard and done well. Wang Xinrong’s Bronze Award in the Open Section is quite a remarkable feat, as the Open Section is meant for Junior College and higher-level participants.<br><br>
-Congratulations to all award winners! We would also like to extend our heartfelt thanks to the other Meridian competitors for their effort and time!</p>
-			<img src="/images/math141101.jpg" style="width:70%"><br>
-			<img src="/images/math141102.jpg" style="width:70%">
-			<h4>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</h4>
-			<p>Selected students and members from our Mathematics, Financial Literacy and Chess Club (MFC) CCA took part in UNSW’s ICAS Mathematics competition, which assesses skills and knowledge in various areas of mathematics.<br><br>
-Congratulations to the following 7 Meridians who achieved the ‘High Distinction’ and ‘Distinction’ awards, the top 2 award categories! In addition, Wang Xinrong achieved the rare honour of achieving the highest score among all upper secondary competitors in Singapore for this year and last year. He was presented with the Special Medal by UNSW.</p>
-			<p>(A)&nbsp;&nbsp;&nbsp; First in Singapore (Sec 4) and High Distinction Award (Top 1% of competitors in Singapore)</p>
-			<ul>
-			<li>Wang Xinrong (4E1 / MFC)</li>
-			</ul>
-			<p>(B)&nbsp;&nbsp;&nbsp; Distinction Award (Next 10% of competitors in Singapore)</p>
-			<ul>
-			<li>Brittany Tan (1E2 / MFC)</li>
-			<li>Yikov Yager (1E4)</li>
-			<li>Chen Kaixin (2E1)</li>
-			<li> Shavin Valen (2E1)</li>
-			<li>Sarah Emily (2E3)</li>
-			<li>Koh Liang Han (4E1 / MFC)</li>
-			</ul>
-			<p>We would also like to extend our special appreciation to the other Meridian competitors for their hard work and enthusiasm!</p>
-			<img src="/images/math141103.jpg" style="width:70%"><br>
-			<img src="/images/math141104.jpg" style="width:70%">
-			<h4>Secondary Two Interdisciplinary (Maths and Humanities) Trail @ Gardens by the Bay</h4>
-			<img src="/images/2019-maths-1.png" style="width:70%"><br>
-			<img src="/images/2019-maths-2.png" style="width:70%">
-			<h4>Financial Expedition (Finex) 2019 – National 1st Runner-Up</h4>
-			<p>A group of Mathematics, Financial Literacy and Chess Club (MFC) members as well as POA scholars took part in a national financial literacy competition known as Financial Expedition (Finex) 2019. Finex is a team competition that involved a gruelling 4-hour amazing race around the Central Business District.<br><br>
-Despite taking part in Finex for the first time, a team of three POA Scholars from Mathematics Department displayed teamwork and tenacity to become National 1st runner-up! The members of the winning team are</p>
-			<ol>
-				<li>Ashley Tan Jing Wen, 3A2  </li>
-				<li>Ian Tan Yi En, 3A2  </li>
-				<li>Raffles Lim Jian Wei, 3A2</li>
-			</ol>
-			<p>Congratulations ! We would like to thank all the participants for their endurance and team spirit !</p>
-			<img src="/images/FE2019-2.jpg" style="width:70%"><br>
-			<img src="/images/FE2019-1.jpg" style="width:70%">
-			<h4>National CashFlow Competition (NCF) 2019 – National 1st Runner-Up</h4>
-			<p>A team of Meridians from Mathematics, Financial Literacy and Chess Club (MFC) and the POA Scholars Programme under Mathematics Department, participated in the National CashFlow Competition (NCF) 2019. The MFC CCA members and POA scholars had the opportunity to learn and gain financial literacy skills, and apply their knowledge via an interesting board game with iPad app.<br><br>
-After a competitive preliminary round, 13 Meridians entered the Finals! From MFC, they were Cleaven Tay (1E3), He Si (2E2), Clement Kee (2E3), Hong Zi Xuan (3E3), Kho Wei Shan and Patrick Liu (4E1), and Pan Yiao Shing (4E4). The finalists from POA scholars programme were Jaser Kek (3A1), Ashley Tan, Ian Tan and Raffles Lim (3A2), as well as Bryan Tee and Ryan Chan (3E1). Congratulations to the following students for clinching top honours:</p>
-			<ol>
-				<li>Hong Zi Xuan (3E3, MFC) – national 2nd position</li>
-				<li>Ryan Chan (3E1, POA scholar) – national 3rd position</li>
-			</ol>
-			<p>In addition, our school was crowned the overall 1st runner-up in the Secondary School category!<br><br>
-Well done, Team Meridian !<br><br>
-Our students acquired financial literacy life skills, and enjoyed the exciting learning experience while having lots of fun playing the board game. They also displayed our school values of resilience and humility, as well as camaraderie throughout the experience.<br><br>
-We would like to extend our heartfelt thanks to the team of Meridians for their efforts and doing our school proud, our teachers-in-charge, as well as fellow Meridians who stayed on to support our school’s finalists till well after 9pm! Thank you!</p>
-			<img src="/images/ncfc2019-1.jpg" style="width:70%"><br>
-			<img src="/images/ncfc2019-2.jpg" style="width:70%">
-			<h4>Inaugural Meridian Mathematics Challenge</h4>
-			<p>To create an opportunity for our students to develop an interest in competitive Mathematics and encourage out-of-the-box thinking skills, the Mathematics Department held the inaugural Meridian Mathematics Challenge in April 2019.<br><br>
-The results for the top three positions in each level were very close. Congratulations to the following winners, who received their prizes at an award presentation on 29 April 2019!</p>
-			<p><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">Sec 1</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">1st – Gabriel Teo Yi Yang (1E3)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Joint 2nd – Reina Chua Hui Ci (1E2) and Anthony Ng (1E2)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Sec 2</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1st – Asher Koh Kai En (2E2)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2nd – You Linhao (2E2)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3rd – Sarah Emily Ong Xin Wei (2E3)</td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Sec 3</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1st – Ganzon Lyka Plaza (3E3)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2nd – Ignatius Lee Koi Yin (3E3)</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3rd – Nazura Binte Saini (3E1)</td>
-  </tr>
-</tbody>
-			</table></p>
-	<p>The Mathematics Department would like to thank all participants and Mathematics teachers for their time and efforts!</p>
-	<img src="/images/IMMC-2019-1.jpg" style="width:70%">
-    </div>
-	</li>  
-</ul>
+   </li>
