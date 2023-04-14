@@ -3,15 +3,12 @@ title: Science
 permalink: /home/departments/science/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Our Approach</label>
-    <div>
-      <p>The experiential nature of science through authentic learning tasks, performance tasks, experiments and projects cannot be dissected from the learning process of the subject area. Science lessons in Meridian Secondary School are conducted to elicit students’ sense of inquiry and discovery as well as to inculcate learning using all their senses. As part of the nation-wide Personalised Digital Learning Programme (PDLP), our science tasks and activities are designed with the use of students’ personal learning devices to support their out-of-classroom Science teaching and learning experiences.</p>
-			<h4>Transforming Teaching &amp; Learning to ICT-based Lesson Packages</h4>
-			<p>The Science department continues to develop lesson resources for bite-sized learning for both the lower and upper secondary Science levels. ICT and bite-sized checkpoints for Assessments for Learning (AfL) are conscientiously included with the aim of positive student outcomes.<br><br>
-With the push for 21st Century Competencies (21CC), it is necessary to prepare students to be able to develop:</p>
+### Our Approach
+The experiential nature of science through authentic learning tasks, performance tasks, experiments and projects cannot be dissected from the learning process of the subject area. Science lessons in Meridian Secondary School are conducted to elicit students’ sense of inquiry and discovery as well as to inculcate learning using all their senses. As part of the nation-wide Personalised Digital Learning Programme (PDLP), our science tasks and activities are designed with the use of students’ personal learning devices to support their out-of-classroom Science teaching and learning experiences.
+
+### Transforming Teaching &amp; Learning to ICT-based Lesson Packages
+The Science department continues to develop lesson resources for bite-sized learning for both the lower and upper secondary Science levels. ICT and bite-sized checkpoints for Assessments for Learning (AfL) are conscientiously included with the aim of positive student outcomes.<br><br>
+With the push for 21st Century Competencies (21CC), it is necessary to prepare students to be able to develop:<p></p>
 			<ul>
 				<li><b>effective communication</b>, sharing ideas and expressing opinions</li>
 				<li><b>collaborative skills</b>through group work learning and project-based learning</li>
@@ -26,15 +23,16 @@ The department continues to provide opportunities for students from all classes 
 			<p><b>Objective</b>: To inculcate passion in Science and provide a progressive and holistic Science education which extends beyond the classroom and curriculum.
 </p>
 			<img src="/images/02.png" style="width:70%">
-    </div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Highlights (2022)</label>
-    <div>
-			<h4><u>Meridian Science Enrichment</u></h4>
-			<p><b>Science Centre Workshops</b></p>
-      <p>Our Sec 1 students were engaged in a Science Centre Singapore workshop called “The Science of Making Candy” during the Term 2 Week 10 Experiential Learning Programme. The students learned about the different types of sugar and how they are made into candies using interfering agents.</p>
+
+	
+### Highlights
+#### 2022
+	
+#### Meridian Science Enrichment
+
+**Science Centre Workshops**
+
+Our Sec 1 students were engaged in a Science Centre Singapore workshop called “The Science of Making Candy” during the Term 2 Week 10 Experiential Learning Programme. The students learned about the different types of sugar and how they are made into candies using interfering agents.<p></p>
 			<img src="/images/Science01.jpg" style="width:60%">
 			<h4>Learning Journey to Greensproutz and Kok Fah Technology Farm</h4>
 			<p>All Sec 1 students went on a learning journey to Singapore’s modern agricultural farms as part of their Term 2 Week 10 Experiential Learning Programme. A few classes went on a tour at Kok Fah Technology Farm and learned the science behind hydroponics. The remaining classes went on a sustainable journey at Greensproutz to learn how recycled items are used to make terrariums. At the end of their learning journeys, students brought home new science knowledge and souvenirs!</p>
@@ -77,8 +75,8 @@ In 2022, the Meridian Young Scientist is renewed and updated with more exciting 
 			</ul>
 			<p>During the Science Discovery Week, daily online quizzes were released over the four days. For each quiz, students who had accurate answers had the opportunity to be randomly selected for a prize!</p>
 			<img src="/images/Science-19.jpg" style="width:60%">
-    </div>
-	</li>  
+    
+	  
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Highlights (2021)</label>
@@ -121,4 +119,3 @@ In 2021, the Meridian Young Scientist was introduced. Using the Meridian Young S
 			<img src="/images/Science-14.jpg" style="width:60%">
     </div>
 	</li>  
-</ul>
