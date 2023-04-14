@@ -24,9 +24,25 @@ The Mathematics curriculum is designed to enable students to:
 * develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
 
 ### Highlights in 2023
+#### Code for Fun Programme
+
+Sec 1 students enjoyed an enriching learning experience through the Code for Fun Programme from 20 to 21 March 2023.  During the two-day workshop, students get to put on their thinking hats as scientists and engineers as they work on real-life problems. The students learnt how to code and create their own smart home using micro:bit technology, integrating various sensors and devices into their projects. The use of recycled materials to construct smart homes encouraged students to think creatively and sustainably. The programme not only equipped the students with valuable coding skills, but also instilled a sense of responsibility towards the environment.
+
+![](/images/Departments/Mathematics/maths-code-for-fun-01.jpg)
+Learning new coding skills and making awesome projects with micro:bit through the Code for Fun workshop.
+
+![](/images/Departments/Mathematics/maths-code-for-fun-02.jpg)
+With micro:bit V2 Smart Home Kit, Secondary 1 students dived deep into the use of technology to develop sustainable solutions.
+
+---
+
+#### National CashFlow Competition
+A group of our Secondary Three students took part in the National CashFlow Competition organised by NTU on the 11 March 2023. Many schools from all over Singapore participated in this event.  Our students enjoyed learning together and have made new friends as they played against students from other schools at the same table. In the process, they acquired valuable financial literacy skills. 
+![](/images/Departments/Mathematics/maths-poa-01.jpg)
 
 
-    <input type="checkbox" id="accordion1">
+
+   <input type="checkbox" id="accordion1">
     <label for="accordion1">2022</label>
     <div>
 			<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2022</h4>
