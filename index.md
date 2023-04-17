@@ -20,12 +20,6 @@ sections:
           description: Click here for access to portals
           url: /home/about-meridian/portals-links/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
-  - infobar:
-      title: Full Subject-Based Banding (Full SBB)
-      description: Meridian Secondary School will be embarking on a Full Subject-Based
-        Banding for our Secondary 1 students from 2023.
-      button: Find out more
-      url: /full-subject-based-banding-full-sbb/
   - infopic:
       title: Direct Admission Exercise (DSA) Open House 2023
       button: Find out more
@@ -33,6 +27,19 @@ sections:
       image: /images/Announcements/dsa2023eposter.jpg
       alt: Image alt text
       description: "Join us at our DSA Open House on 13 May 2023.  "
+  - infopic:
+      title: Full Subject-Based Banding (Full SBB)
+      description: Meridian Secondary School will be embarking on a Full Subject-Based
+        Banding for our Secondary 1 students from 2023.
+      button: Find out more
+      url: /
+      alt: Image alt text
+  - infobar:
+      title: Full Subject-Based Banding (Full SBB)
+      description: Meridian Secondary School will be embarking on a Full Subject-Based
+        Banding for our Secondary 1 students from 2023.
+      button: Find out more
+      url: /full-subject-based-banding-full-sbb/
   - resources:
       title: Announcements
       button: Access all announcements
