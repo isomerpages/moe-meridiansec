@@ -34,6 +34,7 @@ sections:
       button: Find out more
       url: student-information/full-sbb/
       alt: Image alt text
+      image: /images/Homepage and Logos/teacher and students.jpg
   - resources:
       title: Announcements
       button: Access all announcements
