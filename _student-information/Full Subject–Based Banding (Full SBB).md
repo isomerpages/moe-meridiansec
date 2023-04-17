@@ -15,3 +15,5 @@ _What this means is that:_
 *   There will no longer be separate Express, N(A), and N(T) courses, and our Secondary One students will be placed in&nbsp;**mixed form classes**&nbsp;where they can interact with peers of different strengths and interests.
 *   All students will learn a set of common curriculum subjects together in their lower secondary form classes. The common curriculum subjects includes Character and Citizenship Education, Art, Design &amp; Technology, Food &amp; Consumer Education, Music and Physical Education.
 *   Under Full SBB, Subject-Based Banding (SBB) will be expanded beyond the four PSLE subjects, to allow eligible students to offer Humanities subjects at a more demanding level from Secondary 2.
+
+For more information on Full SBB, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/about-full-sbb.html) to access the MOE Full SBB microsite.
