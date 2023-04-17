@@ -30,10 +30,10 @@ sections:
       title: Announcements
       button: Access all announcements
   - infopic:
-      title: DSA-Sec 2023
-      subtitle: Infopic Subtitle
-      button: Click here to find out more
-      url: /da
+      title: Direct Admission Exercise (DSA) Open House 2023
+      button: Find out more
+      url: /student-information/dsa/
       image: /images/Announcements/dsa2023eposter.jpg
       alt: Image alt text
+      description: "Join us at our DSA Open House on 13 May 2023.  "
 ---
