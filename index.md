@@ -34,12 +34,6 @@ sections:
       button: Find out more
       url: student-information/full-sbb/
       alt: Image alt text
-  - infobar:
-      title: Full Subject-Based Banding (Full SBB)
-      description: Meridian Secondary School will be embarking on a Full Subject-Based
-        Banding for our Secondary 1 students from 2023.
-      button: Find out more
-      url: /full-subject-based-banding-full-sbb/
   - resources:
       title: Announcements
       button: Access all announcements
