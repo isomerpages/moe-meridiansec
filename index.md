@@ -29,4 +29,11 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
+  - infopic:
+      title: DSA-Sec 2023
+      subtitle: Infopic Subtitle
+      button: Click here to find out more
+      url: /da
+      image: /images/Announcements/dsa2023eposter.jpg
+      alt: Image alt text
 ---
