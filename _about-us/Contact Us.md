@@ -18,8 +18,7 @@ E-mail: [meridian_sec@moe.edu.sg](mailto:meridian_sec@moe.edu.sg) <br>
 
 | Day | Operating Hours during School Term |
 | -------- | -------- |
-| Monday to Thursday | 7:00 am to 5:00 pm |
-| Friday | 7:00 am to 4:30 pm |
+| Monday to Friday | 7:30 am to 5:00 pm |
 | Sat, Sun and Public Holidays | Closed     |
 
 
