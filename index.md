@@ -26,14 +26,14 @@ sections:
         Banding for our Secondary 1 students from 2023.
       button: Find out more
       url: /full-subject-based-banding-full-sbb/
-  - resources:
-      title: Announcements
-      button: Access all announcements
   - infopic:
       title: Direct Admission Exercise (DSA) Open House 2023
       button: Find out more
-      url: /student-information/dsa/
+      url: announcements/announcements/dsa-open-house-2023/
       image: /images/Announcements/dsa2023eposter.jpg
       alt: Image alt text
       description: "Join us at our DSA Open House on 13 May 2023.  "
+  - resources:
+      title: Announcements
+      button: Access all announcements
 ---
