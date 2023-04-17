@@ -34,7 +34,7 @@ The general criteria for selection are as follows:
 	* Obtained a Conduct Grade of ‘Good’ or better in Primary 5 (Overall) &amp; Primary 6 (Mid-year)
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE-DSA website [here](https://www.moe.gov.sg.dsa-sec)
-
+<br><br>
 ***
 
 ### For DSA Enquiries
@@ -43,6 +43,6 @@ For general enquiries, you may contact:
 
 Mr Quaide Millath (Subject Head / PE &amp; CCA)
 <br> Tel: 6583 1387 (ext. 303)
-<br> Email: 
+<br> Email: [quaide_millath@schools.gov.sg](mailto:quaide_millath@schools.gov.sg)  
 
-**Thank you and we look forward to meeting you soon!** 
+**Thank you and we look forward to meeting you soon!**
