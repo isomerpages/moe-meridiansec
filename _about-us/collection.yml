@@ -1,0 +1,21 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our History.md
+      - Our Vision & Mission.md
+      - Our Emblem & School Songs.md
+      - Our Organisation/.keep
+      - Our Organisation/Our School Leaders.md
+      - Our Organisation/Our Middle Managers.md
+      - Our Organisation/Our Teacher Leaders.md
+      - Our Organisation/Our Form Teachers.md
+      - Our Student Leaders.md
+      - Our Parent Support Group (PSG).md
+      - Our Stories/.keep
+      - Our Stories/Meridians Making Waves.md
+      - Our Stories/Our Social Media Platforms.md
+      - Our Stories/e Yearbook (Archive).md
+      - School Profile Information.md
+      - Contact Us.md

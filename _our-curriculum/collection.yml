@@ -1,0 +1,39 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Art.md
+      - Character Development/.keep
+      - Character Development/About Character & Citizenship Development.md
+      - Character Development/Sexuality Education.md
+      - Character Development/Values in Action (VIA).md
+      - Character Development/National Education.md
+      - Character Development/Education and Career Guidance.md
+      - Co Curriculum Activities (CCA)/.keep
+      - Co Curriculum Activities (CCA)/CCA LEAPS.md
+      - Co Curriculum Activities (CCA)/Badminton.md
+      - Co Curriculum Activities (CCA)/Basketball.md
+      - Co Curriculum Activities (CCA)/Floorball.md
+      - Co Curriculum Activities (CCA)/Football.md
+      - Co Curriculum Activities (CCA)/Netball.md
+      - Co Curriculum Activities (CCA)/Choir.md
+      - Co Curriculum Activities (CCA)/Drama Club.md
+      - Co Curriculum Activities (CCA)/Malay Dance.md
+      - Co Curriculum Activities (CCA)/Modern Dance.md
+      - Co Curriculum Activities (CCA)/Concert Band.md
+      - Co Curriculum Activities (CCA)/Nusantara Orchestra.md
+      - Co Curriculum Activities (CCA)/National Cadet Corps NCC (Land).md
+      - Co Curriculum Activities (CCA)/National Civil Defence Cadet Corps
+        (NCDCC).md
+      - Co Curriculum Activities (CCA)/Red Cross Youth.md
+      - Co Curriculum Activities (CCA)/Media Club.md
+      - Co Curriculum Activities (CCA)/Robotics Club.md
+      - Design & Technology.md
+      - English Language & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Language.md
+      - Music.md
+      - Nutrition and Food Science.md
+      - Physical Education.md
+      - Science.md

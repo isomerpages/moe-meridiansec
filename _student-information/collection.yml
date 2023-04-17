@@ -1,0 +1,11 @@
+collections:
+  student-information:
+    output: true
+    order:
+      - Full Subject–Based Banding (Full SBB).md
+      - e–Student Handbook and School Letter.md
+      - Student Timetable.md
+      - Student Assessment.md
+      - Direct School Admission (DSA).md
+      - National Digital Literacy Programme (NDLP).md
+      - Booklist for Academic Year 2023.md

@@ -1,0 +1,6 @@
+collections:
+  draft-webpages:
+    output: true
+    order:
+      - N–Level 2022 – Post–Secondary Admission Exercises and Key Information.md
+      - 2023 Secondary 1 Registration Information.md
