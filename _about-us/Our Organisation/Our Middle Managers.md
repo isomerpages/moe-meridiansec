@@ -10,19 +10,19 @@ third_nav_title: Our Organisation
 | -------- | -------- | -------- |
 | Admin Manager     | Mr Halim Bin Hassan     | [halim_hassan@moe.edu.sg](mailto:halim_hassan@moe.edu.sg)     |
 | Operations Manager  | Mr Sam Meng Chong    | [sam_meng_chong@moe.edu.sg](mailto:sam_meng_chong@moe.edu.sg)     |
-| Year Head (Lower Sec)     | Mdm Sitinorzahurin Bte Sudin     |      |
-| Year Head (Upper Sec)     | Mr Anwar B Omar     |      |
-| School Staff Developer     | Ms Norita Ali     |      |
-| HOD Character and Citizenship Education     | Mdm Norul Ashiqin Bte Rashid     |      |
-| HOD Humanities    | Ms Noraidah A Rahim     |      |
-| HOD ICT  | Mr Lee Kwok Wei     |      |
-| HOD Mathematics     | Mr Loo Liat Siang     |      |
-| HOD Mother Tongue Language     | Mr Yuan Li Hong     |      |
-| HOD PE / CCA    | Mr Roskhaider Bin Mohamed Saat     |      |
-| HOD Science     | Miss Tan Bee Ling     |      |
-| HOD Student Management    | Mr Muhammad Khaliq S/O Mohamed Saleem     |      |
-| SH Art<br>[Covering HOD Aesthetics]  | Ms Ong Yin Yin     |      |
-| SH English Literature<br>[Covering HOD EL]     | Ms Lin I-Ju Yvonne   |      |
+| Year Head (Lower Sec)     | Mdm Sitinorzahurin Bte Sudin     |  [sitinorzahurin_sudin@moe.edu.sg](mailto:sitinorzahurin_sudin@moe.edu.sg) |
+| Year Head (Upper Sec)     | Mr Anwar B Omar     | [anwar_b_omar@moe.edu.sg](mailto:anwar_b_omar@moe.edu.sg)    |
+| School Staff Developer     | Ms Norita Ali     |  [norita_ali@moe.edu.sg](mailto:norita_ali@moe.edu.sg)    |
+| HOD Character and Citizenship Education     | Mdm Norul Ashiqin Bte Rashid     |  [norul_ashiqin_rashid@moe.edu.sg](mailto:norul_ashiqin_rashid@moe.edu.sg)    |
+| HOD Humanities    | Ms Noraidah A Rahim     |  [noraidah_a_rahim@moe.edu.sg](mailto:noraidah_a_rahim@moe.edu.sg)    |
+| HOD ICT  | Mr Lee Kwok Wei     | [lee_kwok_wei@moe.edu.sg](mailto:lee_kwok_wei@moe.edu.sg)     |
+| HOD Mathematics     | Mr Loo Liat Siang     |  [loo_liat_siang@moe.edu.sg](mailto:loo_liat_siang@moe.edu.sg)    |
+| HOD Mother Tongue Language     | Mr Yuan Li Hong     |  [yuan_lihong@moe.edu.sg](mailto:yuan_lihong@moe.edu.sg)    |
+| HOD PE / CCA    | Mr Roskhaider Bin Mohamed Saat     | [roskhaider_mohamed_saat@moe.edu.sg](mailto:roskhaider_mohamed_saat@moe.edu.sg)     |
+| HOD Science     | Miss Tan Bee Ling     |  [tan_bee_ling@moe.edu.sg](mailto:tan_bee_ling@moe.edu.sg)    |
+| HOD Student Management    | Mr Muhammad Khaliq S/O Mohamed Saleem     |  [muhammad_khaliq_mohamed_saleem@moe.edu.sg](mailto:muhammad_khaliq_mohamed_saleem@moe.edu.sg)    |
+| SH Art<br>(Covering HOD Aesthetics)  | Ms Ong Yin Yin     |  [ong_yin_yin@moe.edu.sg](mailto:ong_yin_yin@moe.edu.sg)    |
+| SH English Literature<br>(Covering HOD EL)     | Ms Lin I-Ju Yvonne   |  [lin_i_ju@moe.edu.sg](mailto:lin_i_ju@moe.edu.sg)    |
 
 <br>
 
@@ -32,12 +32,12 @@ third_nav_title: Our Organisation
 
 | Designation | Staff | Contact Email |
 | -------- | -------- | -------- |
-| SH Chemistry     | Mr Boon Jun Hao Joel     |      |
-| SH Design &amp; Technology    | Mrs Koh-Lee Y-Lyn Wendy    |      |
-| SH English Language     | Ms Moon Jia Yuan   |      |
-| SH Food &amp; Nutrition     | Ms Ong Swee Lian Amy    |      |
-| SH Malay Language    | Mdm Norazisza Bte Mohamed Taib    |      |
-| SH PE &amp; CCA  | Mr Quaide Millath    |      |
-| SH Student Leadership    | Miss Jasmin Tan Jiemin     |      |
-| SH Student Well-Being    | Ms Ida Murni Ismail    |      |
-| Covering LH Student Management  | Ms Kahbini Raj    |      |
+| SH Chemistry     | Mr Boon Jun Hao Joel     |  [boon_jun_hao_joel@moe.edu.sg](mailto:boon_jun_hao_joel@moe.edu.sg)    |
+| SH Design &amp; Technology    | Mrs Koh-Lee Y-Lyn Wendy    | [lee_y-lyn_wendy@moe.edu.sg](mailto:lee_y-lyn_wendy@moe.edu.sg)     |
+| SH English Language     | Ms Moon Jia Yuan   |  [moon_jia_yuan@moe.edu.sg](mailto:moon_jia_yuan@moe.edu.sg)    |
+| SH Food &amp; Nutrition     | Ms Ong Swee Lian Amy    |  [ong_swee_lian_amy@moe.edu.sg](mailto:ong_swee_lian_amy@moe.edu.sg)    |
+| SH Malay Language    | Mdm Norazisza Bte Mohamed Taib    |  [norazisza_mohamed_taib@moe.edu.sg](mailto:norazisza_mohamed_taib@moe.edu.sg)    |
+| SH PE &amp; CCA  | Mr Quaide Millath    |  [quaide_millath@moe.edu.sg](mailto:quaide_millath@moe.edu.sg)    |
+| SH Student Leadership    | Miss Jasmin Tan Jiemin     |  [jasmin_tan_jiemin@moe.edu.sg](mailto:jasmin_tan_jiemin@moe.edu.sg)    |
+| SH Student Well-Being    | Ms Ida Murni Ismail    |  [ida_murni_ismail@moe.edu.sg](mailto:ida_murni_ismail@moe.edu.sg)    |
+| Covering LH Student Management  | Ms Kahbini Raj    |   [kahbini_raj@moe.edu.sg](mailto:kahbini_raj@moe.edu.sg)   |
