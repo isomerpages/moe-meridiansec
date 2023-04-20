@@ -10,4 +10,6 @@ Click [here](https://www.straitstimes.com/sport/schools/school-sports-meridian-w
 
 ***
 
+![](/images/Meridians%20Making%20Waves/meridian%20making%20waves%2002.jpg)
+
 Click [here](https://www.straitstimes.com/sport/schools/school-sports-nisreen-and-liyana-star-as-meridian-clinch-first-girls-c-div-football-title) to read more about it.
