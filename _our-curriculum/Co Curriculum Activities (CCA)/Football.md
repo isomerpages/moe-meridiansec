@@ -4,78 +4,55 @@ permalink: /home/cca/physical-sports/football/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
+### About US
+Meridian Football is a young team founded in 2017 and we have grown into a formidable force under the leadership of Coach Fabio.
 
-The winning spirit is not just about goal scoring. It is about the values we cherish and uphold as footballers – teamwork, resilience, and sportsmanship. It also means growing as a team in a respectful, positive and healthy environment.
+Our footballers are developed to their full potential in a respectful and supportive environment.
 
-  
-Under the leadership of Coach Fabio, we have performed admirably since our founding days in 2017, when we won the Schools National C Division football title.
+Our B Division boys have proved themselves through great efforts in training and gained much experience competing against strong teams in the recent NSG 2023. 
 
-  
-In 2019, we emerged as National Champions for the Boys and Girls Inter School Futsal Competition. Both our C Division boys and girls have clinched the 2nd Runners-Up place in the National School Games. Our strong performance has earned our team a place in the elite Under-15 League competition, in which we emerged as the runner up in 2019.
+Our B Division girls are proud to be champions in 2023 after their continuous effort in improving their skills during their school and personal training too. 
 
-  
-Even when the pandemic put a pause on the National School Games, our footballers continued to hone their technical skills and improve their appreciation of team play and in April 2021, an intra-school tournament was organised.
 
-  
-Meridian Football is a young team. This year we have come back hungry for the win. We will continue to work hard to be able to achieve greater heights this year and in the years to come.
+### Schedule and Venue
+|Day|Time|Venue|
+|---|---|---|
+|Twice a week| 3:00pm to 5:30pm| Meridian Football Pitch 
 
-### Student Experience
+### Teachers-in-charge
+* Ms Kahbini Raj
+* Mr James Wong Ling Guan
+* Mr Noor Azhar Bin Sarman
+* Ms Carol Eng Siam Ngeng 
+* Mr Teo Kang Zheng Ernest
 
-_“The strength of the team is each individual member. The strength of each member is the team.”_
+### Coach
+* Coach Fabio Da Silva
 
-  
-Our main objective is to develop the love and interest of football in students. Fast footwork, agility and endurance are just a few of the essentials for playing football. It is also our key goal to help students maximise their full potential and hone their technical skills.
+### Highlights in 2023
 
-  
-Other values such as commitment, perseverance, confidence, respect and camaraderie are inculcated in the students to develop them to be a competent player and a better individual. More importantly, our footballers learn more than just the rules of play. They gain the tools, values and attitudes to be on the front foot in life.
+#### **<center> National Championship 'B' (Girls) - CHAMPION </center>**
 
-### Teachers In-charge
 
-*   Kahbini Raj
-*   Nurhidayah Binte Mohammad Ibrahim
-*   Lee Jia Qi Arthur
-*   Noor Azhar Bin Sarman
-*   Mohamed Zaid
-*   James Wong Ling Guan
+#### **<center> National Championship 'B' (Boys) - FINALIST </center>**
+	
 
-### Head Coach
+### Highlights in 2022
+2022 was our strongest showing yet, with all four teams entering the NSG semi-finals and emerging as:
+* National Championship 'C' (Girls) - Champion
+* National Championship 'B' (Girls) - Finalist
+* National Championship 'C' (Boys) - Semi Finalist
+* National Championship 'B' (Boys) - Finalist
+* Player of the Match - Liyana Indah Rickit (1E3)
+* Player of the Match - Mohammad Andry Akimi (2A1)
+* Top Scorer: Nisreen Aziz (2E1)
 
-*   Fabio Da Silva
+### Our CCA Experience
 
-### Achievements (2017-2019)
+&gt; I feel extremely proud of my team. We put in a lot of effort and went all out. We really deserved it as we were all very determined and disciplined.
+&gt;
+&gt; Nisreen Aziz
 
-**(No competitions in 2020 to 2021 due to COVID-19)**
-
-**National School Games**
-
-*   Top 4 in SSSC National Football ‘C’ Division Boys’ Championships 2019
-*   Top 4 in SSSC National Football ‘C’ Division Girls’ Championships 2019
-*   Champions in SSSC National Football ‘C’ Division Boys’ Championships 2017
-*   Finalists in SSSC National Football ‘B’ Division Boys’ Championships 2017-2018
-
-**Other Achievements**
-
-*   Joint-Top Placing in Centre of Excellence (_COE_) Under-15 Challenge 2019
-*   FAS Inter-School Futsal Challenge 2019
-    *   Champions (Boys U-14 Cup)
-    *   Champions (Girls U-14 Cup)
-    *   2nd Runners-Up (Boys U-14 Bowl)
-*   EPSON Youth Challenge 2019
-    *   First Runners-Up (Boys U-13)
-    *   Third Runners-Up (Boys U-15)
-
-### 2022 Highlights!
-
-![](/images/Football-5.jpg)
-
-![](/images/Football-6.jpg)
-
-### Highlights from previous years
-
-![](/images/Football-1.jpg)
-
-![](/images/Football-2.jpg)
-
-![](/images/Football-3.jpg)
-
-![](/images/Football-4.jpg)
+&gt; MSS football has many potential players and a great coach. It was a good experience to play for the school as it has taught me teamwork and responsibility. I am proud to be developed as a striker and to have scored many goals for the school.
+&gt; 
+&gt; Muhammad Syazwan
