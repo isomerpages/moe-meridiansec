@@ -23,7 +23,7 @@ description: ""
 <br>
 
 | For Staff |   | 
-| -------- | -------- | 
+|---|---|
 | MOE Intranet* | [Click Here](https://intranet.moe.gov.sg/Pages/Home.aspx) | 
 | MIMS Portal* | [Click Here](https://idp.mims.moe.gov.sg/) | 
 | iCON email | [Click Here](https://workspace.google.com/u/0/dashboard)   | 
