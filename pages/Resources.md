@@ -33,5 +33,6 @@ description: ""
 | School Cockpit - Results Entry (CSR)* | [Click Here](https://schoolcockpit.moe.gov.sg/academic) |
 | SC Mobile | [Click Here](https://scmobile.moe.edu.sg/login) | 
 | All Ears - Form Builder | [Click Here](https://forms.moe.edu.sg/) | 
-| Resource/Room Booking (Edupage) | [Click Here](https://meridiansec.edupage.org/) | <br>
+| Resource/Room Booking (Edupage) | [Click Here](https://meridiansec.edupage.org/) | 
+
 **Requires SSOE Network or VPN*
