@@ -9,6 +9,7 @@ third_nav_title: Our Stories
 Click [here](https://www.straitstimes.com/sport/schools/school-sports-meridian-win-first-b-division-girls-football-title) to read more about it.
 
 ***
+<br>
 
 ![](/images/Meridians%20Making%20Waves/meridian%20making%20waves%2002.jpg)
 
