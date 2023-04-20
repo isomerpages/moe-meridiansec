@@ -18,7 +18,7 @@ sections:
           url: /calendar/
         - title: Resources
           description: Click here for access to portals
-          url: /home/about-meridian/portals-links/
+          url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
       title: Direct Admission Exercise (DSA) Open House 2023
