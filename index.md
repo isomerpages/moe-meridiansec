@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /lp-announcement/2023-school-letter/
+          url: /announcements
         - title: Calendar
           description: Click here for upcoming events
           url: /calendar/
