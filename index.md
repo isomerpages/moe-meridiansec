@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /lp-announcement/2023-school-letter/
+          url: /announcements
         - title: Calendar
           description: Click here for upcoming events
           url: /calendar/
         - title: Resources
           description: Click here for access to portals
-          url: /home/about-meridian/portals-links/
+          url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
       title: Direct Admission Exercise (DSA) Open House 2023

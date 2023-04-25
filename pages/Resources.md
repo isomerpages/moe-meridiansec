@@ -23,7 +23,7 @@ description: ""
 <br>
 
 | For Staff |   | 
-| -------- | -------- | 
+|---|---|
 | MOE Intranet* | [Click Here](https://intranet.moe.gov.sg/Pages/Home.aspx) | 
 | MIMS Portal* | [Click Here](https://idp.mims.moe.gov.sg/) | 
 | iCON email | [Click Here](https://workspace.google.com/u/0/dashboard)   | 
@@ -33,5 +33,6 @@ description: ""
 | School Cockpit - Results Entry (CSR)* | [Click Here](https://schoolcockpit.moe.gov.sg/academic) |
 | SC Mobile | [Click Here](https://scmobile.moe.edu.sg/login) | 
 | All Ears - Form Builder | [Click Here](https://forms.moe.edu.sg/) | 
-| Resource/Room Booking (Edupage) | [Click Here](https://meridiansec.edupage.org/) | <br>
+| Resource/Room Booking (Edupage) | [Click Here](https://meridiansec.edupage.org/) | 
+
 **Requires SSOE Network or VPN*
