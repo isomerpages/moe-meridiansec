@@ -18,4 +18,4 @@ Please take note of the new dismissal time for 2023 Semester 1 lessons (excludin
 
 Independent Learning Day / Self Study Day are scheduled on even week Friday. You may download the schedule of subjects on Independent Learning Day below. Students will be informed by their respective subject teachers and form teachers about the details of the curriculum task prior to each Independent Learning Day.
 
-* [2023 Semester 1 ILD Schedule](/files/2023-Semester-1-ILD-Schedule.pdf)
+* [2023 Semester 1 ILD Schedule](/files/Timetable%20Matters/2023-Semester-1-ILD-Schedule.pdf)
