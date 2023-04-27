@@ -29,5 +29,5 @@ The Chromebook is chosen for the following reasons:
 
 ### Resources for Parents
 
-- [Parent Handbook (I) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Parent-Handbook-I-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
-- [Parent Handbook (II) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Parent-Handbook-II-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
+- [Parent Handbook (I) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Handbooks%20and%20Letters/Parent-Handbook-I-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
+- [Parent Handbook (II) on Learning with a PLD (Updated on 8 Dec 2021)](/files/Handbooks%20and%20Letters/Parent-Handbook-II-on-Learning-with-a-PLD-Updated-on-8-Dec-2021.pdf)
