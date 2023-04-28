@@ -15,9 +15,11 @@ Our B Division girls are proud to be champions in 2023 after their continuous ef
 
 
 ### Schedule and Venue
-|Day|Time|Venue|
-|---|---|---|
-|Twice a week| 3:00pm to 5:30pm| Meridian Football Pitch 
+<br>
+
+|  Day  |  Time  |  Venue  |
+| ----- | ----- | ----- |
+|  Twice a week  | 3:00pm to 5:30pm  |  Meridian Football Pitch  |
 
 ### Teachers-in-charge
 * Ms Kahbini Raj

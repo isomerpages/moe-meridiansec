@@ -4,6 +4,15 @@ permalink: /home/cca/physical-sports/floorball/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
+### Goal
+
+To develop students into effective channels of sports enthusiasts who have a passion for floorball and applying life skills into their daily lives
+
+### Approach
+
+Using floorball training as a platform to develop their physical, emotional and social cognitive as well as physical skills. This provides students not only with a context for the application of skills but provides opportunities for teachers and coaches to bring out current affairs and relevant issues into their daily lives through the trainings, providing for a more holistic education.
+
+In addition, student athletes will also be challenged beyond the physical training to understand the importance of being a student athlete and balancing that between their passion in sports with their studies. Meridian Floorball Team has always been in the Top 4 for nationals all these years.
 
 ### CCA Schedule
 
@@ -59,7 +68,7 @@ third_nav_title: Co Curriculum Activities (CCA)
 *   Mr Justin Toh (Overall IC)
 *   Mr Teo Wei Yang (2IC)
 *   Miss Quek Ser Hwee
-*   Miss Nur Fadhlin Sakina Ismail
+
 
 ### Coaches
 
@@ -70,17 +79,9 @@ The school’s Floorball CCA were formed in 2006. It has 4 teams participating i
 
 The school has established itself as one of the strong contenders of the Top 4 positions in the National School Games. The school players have also been selected previously to play for the Singapore Schools Teams as well as established clubs in the Singapore Floorball League. Our alumni has been involved with the various National set-up.
 
-### **Goal**
 
-To develop students into effective channels of sports enthusiasts who have a passion for floorball and applying life skills into their daily lives
 
-### **Approach**
-
-Using floorball training as a platform to develop their physical, emotional and social cognitive as well as physical skills. This provides students not only with a context for the application of skills but provides opportunities for teachers and coaches to bring out current affairs and relevant issues into their daily lives through the trainings, providing for a more holistic education.
-
-In addition, student athletes will also be challenged beyond the physical training to understand the importance of being a student athlete and balancing that between their passion in sports with their studies. Meridian Floorball Team has always been in the Top 4 for nationals all these years.
-
-### **Our CCA Experience:**
+### Our CCA Experience:
 
 ![](/images/Floorball-sem2-01-.jpg)
 
@@ -97,12 +98,12 @@ _“4 years in Meridian Floorball and there is only two words to describe it, SI
 ### Achievements
 
 
-#### **2022 – National Inter-School Floorball Championship**
+#### 2022 – National Inter-School Floorball Championship
 
 *   B Division Girls – 2nd
 *   B Division Boys – 3rd
 
-#### **2019 – National Inter-School Floorball Championship**
+#### 2019 – National Inter-School Floorball Championship
 
 *   B Division Girls – 2nd
 *   C Division Boys – 2nd
@@ -113,21 +114,13 @@ _“4 years in Meridian Floorball and there is only two words to describe it, SI
 *   B Division Girls – 3rd
 *   C Division Boys – 3rd
 
-#### **2017 – National Inter-School Floorball Championship**
 
-*   B Division Boys – 2nd
-*   C Division Boys – 4th
-*   C Division Girls – 3rd
 
-#### 2016- National Inter-School Floorball Championship
-
-*   B Division Boys – 4th
-*   B Division Girls – 4th
-
-<img src="/images/instagram.png" 
-     style="width:10%">
+<img src="/images/instagram.png" style="width:10%">
 FOLLOW US @meridian.floorball FOR THE LATEST UPDATES ON INSTAGRAM.
 
-![](/images/f1.jpg)
-![](/images/f2.jpg)
-![](/images/f3.jpg)
+![](/images/CCA/Floorball/2023floorball01.jpg)
+<br>
+![](/images/CCA/Floorball/2023floorball02.jpg)
+<br>
+![](/images/CCA/Floorball/2023floorball03.jpg)
