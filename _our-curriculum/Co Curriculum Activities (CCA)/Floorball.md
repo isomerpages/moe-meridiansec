@@ -81,7 +81,7 @@ The school has established itself as one of the strong contenders of the Top 4 p
 
 
 
-### **Our CCA Experience:**
+### Our CCA Experience:
 
 ![](/images/Floorball-sem2-01-.jpg)
 
@@ -98,12 +98,12 @@ _“4 years in Meridian Floorball and there is only two words to describe it, SI
 ### Achievements
 
 
-#### **2022 – National Inter-School Floorball Championship**
+#### 2022 – National Inter-School Floorball Championship
 
 *   B Division Girls – 2nd
 *   B Division Boys – 3rd
 
-#### **2019 – National Inter-School Floorball Championship**
+#### 2019 – National Inter-School Floorball Championship
 
 *   B Division Girls – 2nd
 *   C Division Boys – 2nd
@@ -114,20 +114,13 @@ _“4 years in Meridian Floorball and there is only two words to describe it, SI
 *   B Division Girls – 3rd
 *   C Division Boys – 3rd
 
-#### **2017 – National Inter-School Floorball Championship**
 
-*   B Division Boys – 2nd
-*   C Division Boys – 4th
-*   C Division Girls – 3rd
-
-#### 2016- National Inter-School Floorball Championship
-
-*   B Division Boys – 4th
-*   B Division Girls – 4th
 
 <img src="/images/instagram.png" style="width:10%">
 FOLLOW US @meridian.floorball FOR THE LATEST UPDATES ON INSTAGRAM.
 
-![](/images/f1.jpg)
-![](/images/f2.jpg)
-![](/images/f3.jpg)
+![](/images/CCA/Floorball/2023floorball01.jpg)
+<br>
+![](/images/CCA/Floorball/2023floorball02.jpg)
+<br>
+![](/images/CCA/Floorball/2023floorball03.jpg)
