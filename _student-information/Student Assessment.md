@@ -14,6 +14,7 @@ description: ""
 
 
 #### For Secondary 4 to 5
+
 |**Term**|  Term 1  |  Term 2  |  Term 3  |
 |---|---|---|---|
 |**Assessment**|Weighted Assessment (WA 1)|Weighted Assessment (WA 2)|Preliminary Examination|
