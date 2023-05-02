@@ -30,6 +30,6 @@ Click [here](https://go.gov.sg/2018meridianchronicles) to view 2018 Yearbook - T
 
 ### 2017 Yearbook
 
-Click here to view 2017 Yearbook - The Meridian Chronicles I
+Click [here](https://go.gov.sg/2017meridianchroniclespart1) to view Part 1 and [here](https://go.gov.sg/2017meridianchroniclespart2) to view Part 2 of the 2017 Yearbook - The Meridian Chronicles I
 
 ![](/images/Yearbook/yearbook%202017.jpg)
