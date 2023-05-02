@@ -68,7 +68,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected throughout their secondary school years.
 
-*For students NOT studying in MOE mainstream primary schools*
+***For students NOT studying in MOE mainstream primary schools***
 <br>Students not studying in MOE schools will require to obtain a Registration Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can apply through the DSA-Sec Portal. For more information, please refer to MOE website at [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
 <br><br>
 * * * 
