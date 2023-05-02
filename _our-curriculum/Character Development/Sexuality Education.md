@@ -8,24 +8,24 @@ third_nav_title: Character Development
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2.  The **Goals** of Sexuality Education are to:
+2.  The&nbsp;**Goals**&nbsp;of Sexuality Education are to:
 
-*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-*   To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-*   (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+*   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
+*   To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+*   (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
-3.  The **Key Messages** of Sexuality Education are:
+3.  The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:
 
 *   Love and respect yourself as you love and respect others;
 *   Build positive relationships based on love and respect (which are the foundation for strong families);
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
- **Overview of Meridian Secondary School’s Sexuality Education Programme for 2023**
+&nbsp;**Overview of Meridian Secondary School’s Sexuality Education Programme for 2023**
  
- 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+ 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 5.  The subjects that incorporate topics on sexuality include:<br>
     a.  Science<br>
     b.  Character and Citizenship Education (CCE)
@@ -36,7 +36,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Meridian Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+**At Meridian Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -265,7 +265,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
     <td class="tg-1ppo"><span style="background-color:#FFF">This is Where I Draw the Line</span><br><br>(60 mins)<br> </td>
     <td class="tg-1ppo"><span style="background-color:#FFF">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.</span><br><br> </td>
     <td class="tg-tsok">understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
-    <td class="tg-1ppo"><span style="background-color:#FFF">Term 1 Week 6</span></td>
+    <td class="tg-1ppo"><span style="background-color:#FFF">Term 2 Week 7</span></td>
   </tr>
 </tbody>
 </table>
@@ -275,7 +275,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 8.  _eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme_.
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Meridian Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Meridian Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -312,6 +312,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 **Information for Parents**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63babe52c5b41d0012c99da8). The completed form is to be submitted by 17/01/2023.
-12.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://form.gov.sg/63bbb39a5fc94a00126da8fd). The completed form is to be submitted by 17/01/2023.
+11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://form.gov.sg/63babe52c5b41d0012c99da8). The completed form is to be submitted by 17/01/2023.
+12.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://form.gov.sg/63bbb39a5fc94a00126da8fd). The completed form is to be submitted by 17/01/2023.
 13.  Parents can contact the school at 65831387 or email us at meridian_sec@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
