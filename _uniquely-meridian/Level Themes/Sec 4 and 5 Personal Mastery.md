@@ -4,7 +4,7 @@ permalink: /uniquely-meridian/level-themes/sec-4-and-5/
 description: ""
 third_nav_title: Level Themes
 ---
-### Learning Outcomes for Secondary 3
+### Learning Outcomes for Secondary 4 and 5
 
 *   Students are able to work purposefully to achieve their goals and constantly seek to improve. 
 *   Students are resilient and able to overcome challenges.
