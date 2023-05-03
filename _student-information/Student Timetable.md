@@ -7,8 +7,8 @@ Dear parents and students,
 
 Please download the School Timetable for 2023 Semester 1 and a quick guide on how to read the timetable.
 
-* [2023 Semester 1 Timetable](/files/Timetable%20Matters/2023-Semester-1-Timetable.pdf)
-* [Guide to read timetable](/files/Timetable%20Matters/How-to-read-the-timetable.pdf)
+* <a target="_blank" href="/files/Timetable%20Matters/2023-Semester-1-Timetable.pdf"> 2023 Semester 1 Timetable  </a>
+* <a target="_blank" href="/files/Timetable%20Matters/How-to-read-the-timetable.pdf"> Guide to read timetable  </a>
 
 Please take note of the new dismissal time for 2023 Semester 1 lessons (excluding CCA and other programmes).
 
@@ -18,4 +18,4 @@ Please take note of the new dismissal time for 2023 Semester 1 lessons (excludin
 
 Independent Learning Day / Self Study Day are scheduled on even week Friday. You may download the schedule of subjects on Independent Learning Day below. Students will be informed by their respective subject teachers and form teachers about the details of the curriculum task prior to each Independent Learning Day.
 
-* [2023 Semester 1 ILD Schedule](/files/Timetable%20Matters/2023-Semester-1-ILD-Schedule.pdf)
+* <a target="_blank" href="/files/Timetable%20Matters/2023-Semester-1-ILD-Schedule.pdf"> 2023 Semester 1 ILD Schedule  </a>

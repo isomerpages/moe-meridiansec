@@ -4,7 +4,9 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: " "
+notification: The DSA exercise for admission to secondary schools in 2024 will
+  open for applications from 4 May 2023. Find out more at our DSA-Open House on
+  13 May 2023.
 sections:
   - hero:
       title: Meridian Secondary School
@@ -17,7 +19,7 @@ sections:
           description: Click here for upcoming events
           url: /calendar/
         - title: Resources
-          description: Click here for access to portals
+          description: Click here for access to portals/resources
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
