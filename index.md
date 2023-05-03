@@ -19,7 +19,7 @@ sections:
           description: Click here for upcoming events
           url: /calendar/
         - title: Resources
-          description: Click here for access to portals
+          description: Click here for access to portals/resources
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
