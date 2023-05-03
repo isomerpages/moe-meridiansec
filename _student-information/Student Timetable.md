@@ -7,6 +7,7 @@ Dear parents and students,
 
 Please download the School Timetable for 2023 Semester 1 and a quick guide on how to read the timetable.
 
+* <a target="_blank" href="/files/Timetable%20Matters/2023-Semester-1-Timetable.pdf"> 2023 Semester 1 Timetable  </a>
 * [2023 Semester 1 Timetable](/files/Timetable%20Matters/2023-Semester-1-Timetable.pdf)
 * [Guide to read timetable](/files/Timetable%20Matters/How-to-read-the-timetable.pdf)
 
