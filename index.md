@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Direct Admission Exercise (DSA)
       button: Find out more
-      url: announcements/announcements/dsa-open-house-2023/
+      url: /student-information/dsa/
       image: /images/Homepage and Logos/students in circle.jpg
       alt: Image alt text
   - infopic:
