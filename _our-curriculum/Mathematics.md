@@ -42,11 +42,11 @@ A group of our Secondary Three students took part in the National CashFlow Compe
 
 Selected Meridians participated in the Singapore Mathematical Olympiad (SMO) national competition after learning advanced skills in solving competitive Mathematics problems.
 <br><br>
-The school was awarded the SMO School Commendation Award in recognition of overall participation and performance. 11 Meridians have done well and clinched the Bronze Awards and Honourable Mention Awards in their respective competition categories.<p></p>
-			<ul>
-				<li><b>SENIOR SECTION</b></li>
-				<ul>
-					<li>BRONZE AWARDS</li>
+The school was awarded the SMO School Commendation Award in recognition of overall participation and performance. 11 Meridians have done well and clinched the Bronze Awards and Honourable Mention Awards in their respective competition categories.
+<ul>
+	<li><b>SENIOR SECTION</b></li>
+<ul>
+	<li>BRONZE AWARDS</li>
 					<ul>
 						<li>Anthony Ng, 4E4</li>
 						<li>Makoto Sueyoshi, 4E4</li>
@@ -358,5 +358,3 @@ Meridian Mathematics and Financial Literacy Week is a week-long celebration from
 		<img src="/images/m10.jpg" style="width:75%"><br>
 		<img src="/images/m11.jpg" style="width:75%"><br>
 		<img src="/images/m12.jpg" style="width:75%">
-    
-	  

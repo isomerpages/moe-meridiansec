@@ -16,4 +16,4 @@ _What this means is that:_
 *   All students will learn a set of common curriculum subjects together in their lower secondary form classes. The common curriculum subjects includes Character and Citizenship Education, Art, Design &amp; Technology, Food &amp; Consumer Education, Music and Physical Education.
 *   Under Full SBB, Subject-Based Banding (SBB) will be expanded beyond the four PSLE subjects, to allow eligible students to offer Humanities subjects at a more demanding level from Secondary 2.
 
-For more information on Full SBB, please click [here](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/about-full-sbb.html) to access the MOE Full SBB microsite.
+For more information on Full SBB, please click <a target="_blank" href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html"> here  </a> to access the MOE Full SBB microsite.
