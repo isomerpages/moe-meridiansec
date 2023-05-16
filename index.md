@@ -24,7 +24,7 @@ sections:
       title: Direct Admission Exercise (DSA)
       button: Find out more
       url: announcements/announcements/dsa-open-house-2023/
-      image: /images/Announcements/dsa2023eposter.jpg
+      image: /images/Homepage and Logos/students in circle.jpg
       alt: Image alt text
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
