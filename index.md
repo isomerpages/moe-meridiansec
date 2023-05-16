@@ -21,12 +21,11 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
-      title: Direct Admission Exercise (DSA) Open House 2023
+      title: Direct Admission Exercise (DSA)
       button: Find out more
       url: announcements/announcements/dsa-open-house-2023/
       image: /images/Announcements/dsa2023eposter.jpg
       alt: Image alt text
-      description: "Join us at our DSA Open House on 13 May 2023.  "
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
