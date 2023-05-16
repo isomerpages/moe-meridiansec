@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Direct Admission Exercise (DSA)
       button: Find out more
-      url: /student-information/dsa/
+      url: student-information/dsa/
       image: /images/Homepage and Logos/students in circle.jpg
       alt: Image alt text
   - infopic:
