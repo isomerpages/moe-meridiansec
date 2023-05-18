@@ -30,7 +30,6 @@ third_nav_title: Our Organisation
 
 | Class | Form Teachers | Contact Email |
 | -------- | -------- | -------- |
-| 2A1    |  Miss Chan Qi Si Kate    |  [chan_qi_si@moe.edu.sg](mailto:chan_qi_si@moe.edu.sg)   |
 | 2A1    |  Miss Syafiqah Binte Md Anuar    |  [syafiqah_md_anuar@moe.edu.sg](mailto:syafiqah_md_anuar@moe.edu.sg)   |
 | 2A1    |  Mr Ernest Teo    | [teo_kang_zheng_ernest@moe.edu.sg](mailto:teo_kang_zheng_ernest@moe.edu.sg)    |
 | 2A2     | Miss Chen Yi-Chun      |  [chen_yi-chun@moe.edu.sg](mailto:chen_yi-chun@moe.edu.sg)   |
@@ -42,7 +41,7 @@ third_nav_title: Our Organisation
 | 2E3     |  Mdm Norzalina Bte Bohari    |  [norzalina_bohari@moe.edu.sg](mailto:norzalina_bohari@moe.edu.sg)   |
 | 2E3     |  Miss Phang Yan See    | [phang_yan_see@moe.edu.sg](mailto:phang_yan_see@moe.edu.sg)    |
 | 2E4     | Mdm Teng Xiuling     | [teng_xiuling@moe.edu.sg](mailto:teng_xiuling@moe.edu.sg)    |
-| 2E5     |  Mr Tiah Tao Koon    |  [tiah_tao_koon@moe.edu.sg](mailto:tiah_tao_koon@moe.edu.sg)   |
+| 2E4     |  Mr Tiah Tao Koon    |  [tiah_tao_koon@moe.edu.sg](mailto:tiah_tao_koon@moe.edu.sg)   |
 | 2T1     |  Ms Dhanya Magadevan    | [dhanya_magadevan@moe.edu.sg](mailto:dhanya_magadevan@moe.edu.sg)    |
 | 2T1     | Mr Wong Ling Guan James     |  [wong_ling_guan@moe.edu.sg](mailto:wong_ling_guan@moe.edu.sg)   | <br>
 
