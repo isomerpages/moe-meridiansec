@@ -4,7 +4,9 @@ permalink: /about-us/our-stories/meridians-making-waves/
 description: ""
 third_nav_title: Our Stories
 ---
+Former Meridian student awarded the Capital 
 
+![](/images/Meridians%20Making%20Waves/lim%20jie%20ying.jpg)
 
 <br>
 
