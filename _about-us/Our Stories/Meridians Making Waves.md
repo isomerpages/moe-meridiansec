@@ -4,7 +4,7 @@ permalink: /about-us/our-stories/meridians-making-waves/
 description: ""
 third_nav_title: Our Stories
 ---
-Our alumnus, Lim Jie Ying from Class of 2019, has excelled at Temasek Polytechnic. She recently graduated with a Diploma in Biomedical Engineering, and was presented with the **CapitaLand Award for All-Round Excellence**.
+Our alumnus, Lim Jie Ying from Class of 2019, has excelled at Temasek Polytechnic. She recently graduated with a Diploma in Biomedical Engineering in 2023, and was presented with the **CapitaLand Award for All-Round Excellence**.
 
 ![](/images/Meridians%20Making%20Waves/lim%20jie%20ying.jpg)
 
