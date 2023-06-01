@@ -23,11 +23,13 @@ description: ""
 
 
 
-### 2023 Semester 2 Weighted Assessment (WA) and Preliminary Examination Plan
+### 2023 Term 3 Weighted Assessment (WA) plan and End-of-Year Topics for Secondary 1 to 3
 
-|Level|Assessment Plans|
-|---|---|
-| Secondary 1 | [Click here for Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%201%20weighted%20assessment%20plan.pdf) |
+The End-of-Year Examination Timetable for Secondary 1 to 3 will be provided in Term 3.
+
+|Level|Term 3 WA <br> Assessment Plans| End-of-Year Exam Topics|
+|---|---|---|
+| Secondary 1 | [Click here for Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%201%20weighted%20assessment%20plan.pdf) | 
 |Secondary 2 | [Click here for Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%202%20weighted%20assessment%20plan.pdf) |
 |Secondary 3 |  [Click here for Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%203%20weighted%20assessment%20plan.pdf) |
 |Secondary 4 and 5 |   |
