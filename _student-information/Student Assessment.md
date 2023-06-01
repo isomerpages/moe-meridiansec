@@ -23,7 +23,7 @@ description: ""
 
 
 
-### 2023 Semester 1 Weighted Assessment (WA) Plan
+### 2023 Semester 2 Weighted Assessment (WA) and Preliminary Examination Plan
 
 |Level|Assessment Plans|
 |---|---|
