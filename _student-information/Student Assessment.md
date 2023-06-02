@@ -20,15 +20,22 @@ description: ""
 |**Assessment**|Weighted Assessment (WA 1)|Weighted Assessment (WA 2)|Preliminary Examination|
 |**Weighting**|15%|15%|70%|
 
+<br>
+<br>
 
+### 2023 Term 3 Weighted Assessment (WA) plan and Topics tested for End-of-Year (EoY) Examination for Secondary 1 to 3
 
+The End-of-Year Examination Timetable for Secondary 1 to 3 will be provided in Term 3.
 
-### 2023 Semester 1 Weighted Assessment (WA) Plan
+|Level|Term 3 WA <br> Assessment Plans| Topics tested for EoY Exam Topics|
+|---|---|---|
+| Secondary 1 | [Sec 1 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%201%20weighted%20assessment%20plan.pdf) | [Topics for Sec 1 EoY Exam](/files/Assessment%20Matters/sec%201%20eoy%20topics.pdf) |
+|Secondary 2 | [Sec 2 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%202%20weighted%20assessment%20plan.pdf) | [Topics for Sec 2 EoY Exam](/files/Assessment%20Matters/sec%202%20eoy%20topics.pdf) |
+|Secondary 3 |  [Sec 3 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%203%20weighted%20assessment%20plan.pdf) | [Topics for Sec 3 EoY Exam](/files/Assessment%20Matters/sec%203%20eoy%20topics.pdf) |
 
-|Level|Assessment Plans|
-|---|---|
-| Secondary 1 | [Click here for Assessment Plan](/files/Assessment%20Matters/Weighted-Assessment-Plan-Sem-1-2023-Sec-1.pdf) |
-|Secondary 2 | [Click here for Assessment Plan](/files/Assessment%20Matters/Weighted-Assessment-Plan-Sem-1-2023-Sec-2.pdf) |
-|Secondary 3 |  [Click here for Assessment Plan](/files/Assessment%20Matters/Weighted-Assessment-Plan-Sem-1-2023-Sec-3.pdf) |
-|Secondary 4 |  [Click here for Assessment Plan](/files/Assessment%20Matters/Weighted-Assessment-Plan-Sem-1-2023-Sec-4.pdf) |
-|Secondary 5 |  [Click here for Assessment Plan](/files/Assessment%20Matters/Weighted-Assessment-Plan-Sem-1-2023-Sec-5.pdf) |
+<br>
+<br>
+
+### 2023 Preliminary Examination Timetable for Secondary 4 and 5
+
+Please click [here](/files/Assessment%20Matters/2023%20sec%204%20and%205%20prelim%20exam%20timetable.pdf) for the Preliminary Examination Timetable for Secondary 4 and 5.
