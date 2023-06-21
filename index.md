@@ -21,12 +21,6 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
   - infopic:
-      title: Direct Admission Exercise (DSA)
-      button: Find out more
-      url: student-information/dsa/
-      image: /images/Homepage and Logos/students in circle.jpg
-      alt: Image alt text
-  - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
         Banding for our Secondary 1 students from 2023.
