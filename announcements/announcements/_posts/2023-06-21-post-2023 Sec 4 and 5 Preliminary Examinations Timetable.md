@@ -17,4 +17,4 @@ The Preliminary Examinations for Secondary 4 and 5 students will be conducted du
 | O Level Preliminary Examination | 14 to 30 August 2023 |
 
 
-For more information on the timetable for the examinations, please click [here](https://staging.ddo69uruzv4wc.amplifyapp.com/files/Assessment%20Matters/2023%20sec%204%20and%205%20prelim%20exam%20timetable.pdf).
+For more information on the timetable for the examinations, please click [here](/files/Assessment%20Matters/2023%20sec%204%20and%205%20prelim%20exam%20timetable.pdf)
