@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents/Guardians and Students,
+
+Please refer to the following [page](https://www.meridiansec.moe.edu.sg/student-information/student-timetable/) for Semester 2 Timetable.
+
