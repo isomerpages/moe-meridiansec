@@ -38,4 +38,4 @@ The End-of-Year Examination Timetable for Secondary 1 to 3 will be provided in T
 
 ### 2023 Preliminary Examination Timetable for Secondary 4 and 5
 
-Please click [here](/files/Assessment%20Matters/2023%20sec%204%20and%205%20prelim%20exam%20timetable.pdf) for the Preliminary Examination Timetable for Secondary 4 and 5.
+Please click [here](/files/Assessment%20Matters/2023%20sec%204%20and%205%20prelim%20exam%20timetable.pdf) for the Preliminary Examinations Timetable.
