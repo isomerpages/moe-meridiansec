@@ -14,7 +14,7 @@ description: ""
 
 ### Application Procedure
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the [application form](/files/formbf7%20-%20canteen%20stall%20application%20form.pdf). You may also request for a hardcopy from the School’s General Office.
 <br>
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -39,13 +39,13 @@ description: ""
 
 * Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see \[link\](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the ["Healthy Meals in Schools Programme (HMSP)" guidelines](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
 * Able to maintain high standard of food safety and personal hygiene.
 
 * Healthy and fit to operate the stall.
 
-### Applicants should preferably fulfil the following criteria:
+### Applicants should preferably fulfill the following criteria:
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
