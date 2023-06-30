@@ -7,7 +7,7 @@ description: ""
 
 **Type of Stall**: Chinese Mixed Rice Stall.
 
-**Closing Date**: 7 Jul 2023
+**Closing Date**: 14 Jul 2023
 
 **Requirements**: Chicken rice is acceptable.&nbsp;&nbsp;&nbsp; 
 
