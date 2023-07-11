@@ -152,16 +152,21 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 #### Meridian Mathematics and Financial Literacy Week
 			
 <img src="/images/Maths-Poster.png" style="width:60%">
-			<p>The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.</p>
+<br>
+The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.
+<br>
 			<img src="/images/math%201.png" style="width:80%"><br>
 			<img src="/images/math%202.png" style="width:80%"><br>
 			<img src="/images/math%203.png" style="width:80%"><br>
 			<img src="/images/math%204.png" style="width:80%"><br>
 			<img src="/images/math%205.png" style="width:80%"><br>
-			<p>On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.</p>
-			<img src="/images/Maths-13.png" style="width:80%"><br>
-			<p>Congratulations to put top 10 winners.</p>
-			<p><style type="text/css">
+<br>
+On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.
+<br>
+			<img src="/images/Maths-13.png" style="width:80%">
+<br>
+Congratulations to put top 10 winners.
+			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -225,9 +230,11 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <td class="tg-ys2m">2E3</td>
   </tr>
 </tbody>
-			</table></p>
-		<p>In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!</p>
-		<p><style type="text/css">
+			</table>
+
+<br> In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!
+
+<br><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -286,9 +293,10 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <td class="tg-1ppo">3E4</td>
   </tr>
 </tbody>
-</table></p>
+</table>
+<br>
 			<img src="/images/Maths-14.jpg" style="width:75%">
-    <br>
+<br>
 
 ---
 
@@ -296,8 +304,8 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 ### Highlights in 2021
 #### Sec 2 Virtual Learning Journey – Gardens by the Bay
 
-This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:<p></p>
-			<p><style type="text/css">
+This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:<br><br>
+		<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -357,7 +365,7 @@ This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by 
     <td class="tg-7rem">MUHAMMAD ILMAN HAZIQ – Sec 2T1</td>
   </tr>
 </tbody>
-			</table></p>
+			</table><p></p>
 		<p>Here is a sample of a real-life question that students had to answer, and students’ responses.</p>
 		<img src="/images/m10-1.png" style="width:75%">
 		<img src="/images/m10-2.png" style="width:75%">
