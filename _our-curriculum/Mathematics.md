@@ -18,6 +18,26 @@ The Mathematics curriculum is designed to enable students to:
 * develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
 
 ### Highlights in 2023
+
+#### STEM Playground Challenge
+
+On 23 May 2023, the Mathematics and Science department conducted the STEM Playground Challenge for Secondary 2 students, a challenge bringing together the disciplines of Science, Technology, Engineering, and Mathematics (STEM) through a collaboration among the Mathematics, Design and Technology, and Science departments. The objectives are to foster students' curiosity, and creativity in STEM activities, while providing opportunities for team learning and practical applications of knowledge. 
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2001.jpg)
+
+Students formed groups of 2 to 4 and were tasked with designing and constructing a boat using mainly cardboard and recycled materials. The boat would need to support a mass of 1 kg and stay afloat for 20 seconds. This challenge not only encouraged teamwork but also pushed students to think creatively and find innovative solutions.  Students were encouraged to inject their own creative inputs into the boat design challenge. The use of recyclable materials was required, promoting sustainability and environmental consciousness among the students. 
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2002.jpg)
+
+The students' enthusiasm and engagement during the STEM Playground were remarkable. At the end of the Challenge, 2 groups were awarded the top prizes for outstanding achievement in the cardboard boat challenge. The STEM Playground witnessed a high level of engagement and enjoyment from all Sec 2 students.  Students eagerly embraced the tasks, applying their creativity, critical thinking and diverse skills. This collaborative approach not only fostered effective communication and teamwork but appreciation for the application of knowledge from multiple disciplines in real-world tasks. 
+Hopefully, our students will be inspired to become responsible designers and engineers in the future.
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2003.jpg)
+
+
+
+
+
 #### Code for Fun Programme
 
 Sec 1 students enjoyed an enriching learning experience through the Code for Fun Programme from 20 to 21 March 2023.  During the two-day workshop, students get to put on their thinking hats as scientists and engineers as they work on real-life problems. The students learnt how to code and create their own smart home using micro:bit technology, integrating various sensors and devices into their projects. The use of recycled materials to construct smart homes encouraged students to think creatively and sustainably. The programme not only equipped the students with valuable coding skills, but also instilled a sense of responsibility towards the environment.
