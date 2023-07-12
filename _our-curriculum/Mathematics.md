@@ -18,6 +18,26 @@ The Mathematics curriculum is designed to enable students to:
 * develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
 
 ### Highlights in 2023
+
+#### STEM Playground Challenge
+
+On 23 May 2023, the Mathematics and Science department conducted the STEM Playground Challenge for Secondary 2 students, a challenge bringing together the disciplines of Science, Technology, Engineering, and Mathematics (STEM) through a collaboration among the Mathematics, Design and Technology, and Science departments. The objectives are to foster students' curiosity, and creativity in STEM activities, while providing opportunities for team learning and practical applications of knowledge. 
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2001.jpg)
+
+Students formed groups of 2 to 4 and were tasked with designing and constructing a boat using mainly cardboard and recycled materials. The boat would need to support a mass of 1 kg and stay afloat for 20 seconds. This challenge not only encouraged teamwork but also pushed students to think creatively and find innovative solutions.  Students were encouraged to inject their own creative inputs into the boat design challenge. The use of recyclable materials was required, promoting sustainability and environmental consciousness among the students. 
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2002.jpg)
+
+The students' enthusiasm and engagement during the STEM Playground were remarkable. At the end of the Challenge, 2 groups were awarded the top prizes for outstanding achievement in the cardboard boat challenge. The STEM Playground witnessed a high level of engagement and enjoyment from all Sec 2 students.  Students eagerly embraced the tasks, applying their creativity, critical thinking and diverse skills. This collaborative approach not only fostered effective communication and teamwork but appreciation for the application of knowledge from multiple disciplines in real-world tasks. 
+Hopefully, our students will be inspired to become responsible designers and engineers in the future.
+
+![](/images/Departments/Mathematics/maths%20stem%202023%20-%2003.jpg)
+
+
+
+
+
 #### Code for Fun Programme
 
 Sec 1 students enjoyed an enriching learning experience through the Code for Fun Programme from 20 to 21 March 2023.  During the two-day workshop, students get to put on their thinking hats as scientists and engineers as they work on real-life problems. The students learnt how to code and create their own smart home using micro:bit technology, integrating various sensors and devices into their projects. The use of recycled materials to construct smart homes encouraged students to think creatively and sustainably. The programme not only equipped the students with valuable coding skills, but also instilled a sense of responsibility towards the environment.
@@ -71,14 +91,16 @@ The school was awarded the SMO School Commendation Award in recognition of overa
 					</ul>
 				</ul>
 			</ul>
-			<p>Congratulations to the award winners for their hard work and performance. We would also like to extend our appreciation to all the other Meridian competitors!</p>
+
+Congratulations to the award winners for their hard work and performance. We would also like to extend our appreciation to all the other Meridian competitors!
+<br>
 			<img src="/images/Maths-01-1.jpg" style="width:80%">
 <br>
 
 #### UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS
 
 Selected Meridians took part in the UNSW ICAS national Mathematics competition, which assesses advanced concepts and critical-thinking skills in various areas of Mathematics.<br><br>
-Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards and 10 Merit Awards! Congratulations to the following Meridians for their perseverance and performance. We would also like to extend our special appreciation to the other Meridian competitors!<p></p>
+Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards and 10 Merit Awards! Congratulations to the following Meridians for their perseverance and performance. We would also like to extend our special appreciation to the other Meridian competitors!<br>
 			<ul>
 				<li><b>DISTINCTION AWARDS</b></li>
 				<ul>
@@ -130,16 +152,21 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 #### Meridian Mathematics and Financial Literacy Week
 			
 <img src="/images/Maths-Poster.png" style="width:60%">
-			<p>The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.</p>
+<br>
+The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.
+<br>
 			<img src="/images/math%201.png" style="width:80%"><br>
 			<img src="/images/math%202.png" style="width:80%"><br>
 			<img src="/images/math%203.png" style="width:80%"><br>
 			<img src="/images/math%204.png" style="width:80%"><br>
 			<img src="/images/math%205.png" style="width:80%"><br>
-			<p>On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.</p>
-			<img src="/images/Maths-13.png" style="width:80%"><br>
-			<p>Congratulations to put top 10 winners.</p>
-			<p><style type="text/css">
+<br>
+On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.
+<br>
+			<img src="/images/Maths-13.png" style="width:80%">
+<br>
+Congratulations to put top 10 winners.
+			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -203,9 +230,11 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <td class="tg-ys2m">2E3</td>
   </tr>
 </tbody>
-			</table></p>
-		<p>In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!</p>
-		<p><style type="text/css">
+			</table>
+
+<br> In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!
+
+<br><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -264,9 +293,10 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
     <td class="tg-1ppo">3E4</td>
   </tr>
 </tbody>
-</table></p>
+</table>
+<br>
 			<img src="/images/Maths-14.jpg" style="width:75%">
-    <br>
+<br>
 
 ---
 
@@ -274,8 +304,8 @@ Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards a
 ### Highlights in 2021
 #### Sec 2 Virtual Learning Journey – Gardens by the Bay
 
-This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:<p></p>
-			<p><style type="text/css">
+This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:<br><br>
+		<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -335,7 +365,7 @@ This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by 
     <td class="tg-7rem">MUHAMMAD ILMAN HAZIQ – Sec 2T1</td>
   </tr>
 </tbody>
-			</table></p>
+			</table><p></p>
 		<p>Here is a sample of a real-life question that students had to answer, and students’ responses.</p>
 		<img src="/images/m10-1.png" style="width:75%">
 		<img src="/images/m10-2.png" style="width:75%">
