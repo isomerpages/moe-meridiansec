@@ -1,6 +1,6 @@
 ---
 title: 2023 Semester 2 Timetable
-permalink: /announcements/announcements/permalink/
+permalink: /announcements/announcements/2023-semester-2-timetable/
 date: 2023-06-22
 layout: post
 description: ""
