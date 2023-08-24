@@ -23,7 +23,7 @@ description: ""
 <br>
 <br>
 
-### 2023 Term 3 Weighted Assessment (WA) plan and Topics tested for End-of-Year (EoY) Examination for Secondary 1 to 3
+### 2023 Term 3 Weighted Assessment (WA) plan and Topics tested for End-of-Year Examination for Secondary 1 to 3
 
 
 |Level|Term 3 WA <br> Assessment Plans| Topics tested for EoY Exam Topics|
