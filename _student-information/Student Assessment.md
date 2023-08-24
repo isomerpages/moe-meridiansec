@@ -25,13 +25,25 @@ description: ""
 
 ### 2023 Term 3 Weighted Assessment (WA) plan and Topics tested for End-of-Year (EoY) Examination for Secondary 1 to 3
 
-The End-of-Year Examination Timetable for Secondary 1 to 3 will be provided in Term 3.
 
 |Level|Term 3 WA <br> Assessment Plans| Topics tested for EoY Exam Topics|
 |---|---|---|
 | Secondary 1 | [Sec 1 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%201%20weighted%20assessment%20plan.pdf) | [Topics for Sec 1 EoY Exam](/files/Assessment%20Matters/sec%201%20eoy%20topics.pdf) |
 |Secondary 2 | [Sec 2 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%202%20weighted%20assessment%20plan.pdf) | [Topics for Sec 2 EoY Exam](/files/Assessment%20Matters/sec%202%20eoy%20topics.pdf) |
 |Secondary 3 |  [Sec 3 WA3 Assessment Plan](/files/Assessment%20Matters/semester%202%20sec%203%20weighted%20assessment%20plan.pdf) | [Topics for Sec 3 EoY Exam](/files/Assessment%20Matters/sec%203%20eoy%20topics.pdf) |
+
+<br>
+<br>
+
+### 2023 End-of-Year Examinations Timetable for Secondary 1 to 3
+
+The End-of-Year Written Examination for Secondary 1 to 3 students will be conducted during the following period.
+
+|Level|Period|Exam Timetable|
+|---|---|---|
+|Sec 1|3 Oct (Tue) to 12 Oct (Thu)|[Sec 1 Exam Timetable](/files/Assessment%20Matters/sec%201%20eoy%20exam%20timetable%202023.pdf)|
+|Sec 2|3 Oct (Tue) to 12 Oct (Thu)|[Sec 2 Exam Timetable](/files/Assessment%20Matters/sec%202%20eoy%20exam%20timetable%202023.pdf)|
+|Sec 3| 2 Oct (Mon) to 12 Oct (Fri)|[Sec 3 Exam Timetable](/files/Assessment%20Matters/sec%203%20eoy%20exam%20timetable%202023.pdf)|
 
 <br>
 <br>
