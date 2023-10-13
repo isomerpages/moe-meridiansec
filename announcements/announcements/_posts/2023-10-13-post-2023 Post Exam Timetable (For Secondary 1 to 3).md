@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents/Guardians,
+
+Below are the post exam activities taking place from 16 to 27 October. You may refer to the attached documents below for the detailed timetable.
+
+The reporting time will be as per normal at 7.30am for morning assembly.
+
+
