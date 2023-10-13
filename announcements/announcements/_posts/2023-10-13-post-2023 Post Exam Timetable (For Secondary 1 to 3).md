@@ -8,8 +8,11 @@ image: ""
 ---
 Dear Parents/Guardians,
 
-Below are the post exam activities taking place from 16 to 27 October. You may refer to the attached documents below for the detailed timetable.
+Post exam activities/lessons are planned for Secondary 1 to 3 students from 16 to 27 October 2023. You may refer to the table and attached documents below for the detailed schedule.
 
 The reporting time will be as per normal at 7.30am for morning assembly.
 
-
+![](/images/Announcements/16%20to%2027%20oct%202023%20timetable.jpg)
+<br>
+* [16 to 17 Oct Timetable](/files/Annoucements%20Attachments/16%20to%2017%20oct%20timetable.pdf) <br>
+* [18 to 27 Oct Timetable](/files/Annoucements%20Attachments/18%20to%2027%20oct%20timetable.pdf)
