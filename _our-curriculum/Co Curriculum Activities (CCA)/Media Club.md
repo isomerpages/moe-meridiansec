@@ -10,6 +10,7 @@ These dedicated students serve the school in a multitude of ways, ensuring the s
 
 To enhance their skills, the club organizes professional training sessions in photography and videography, enabling members to expand their expertise. Additionally, they eagerly participate in competitions like the 'Our Schools, Our Stories' Photo and Video contest and the Ngee Ann Kongsi Photographic exhibition to push their creative boundaries further."
 
+
 #### Schedule and Venue
 |Day|Time|Venue|
 |---|---|---|
