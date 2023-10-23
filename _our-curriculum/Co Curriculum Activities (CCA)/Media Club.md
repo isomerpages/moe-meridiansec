@@ -15,7 +15,7 @@ To enhance their skills, the club organizes professional training sessions in ph
 |*Media Club students and teachers working hard to support events*|
 
 
-#### Schedule and Venue
+### Schedule and Venue
 |Day|Time|Venue|
 |---|---|---|
 |Tuesday|3 pm to 5 pm|Computer Lab 1 and 2|
@@ -66,7 +66,7 @@ To enhance their skills, the club organizes professional training sessions in ph
 ---
 #### 2021
 * **16th Ngee Ann Photography Exhibition 2021**<br>
-    Malcolm Pong of 1A1 and Royce Li of 3E1 have been selected to exhibit their works in Lasalle College of Arts.
+    Malcolm Pong (1A1) and Royce Li (3E1) have been selected to exhibit their works in Lasalle College of Arts.
 
 * **Our Schools, Our Stories photo and video contest 2021**
 
@@ -85,13 +85,6 @@ To enhance their skills, the club organizes professional training sessions in ph
 
 
 
-
-### Follow us on Instagram
-
-<img src="/images/instagram.png" style="width:10%">
-
-<center><a href="https://www.instagram.com/meridianmediaclub/">https://www.instagram.com/meridianmediaclub/</a></center>
-
 |![Secondary 1 CCA Orientation](/images/CCA/Media%20Club/mediaclub_04.jpg)|
 |:---:|
 | *Secondary 1 CCA Orientation* |
@@ -104,3 +97,9 @@ To enhance their skills, the club organizes professional training sessions in ph
 |:---:|
 | *Media Club supporting staff photo taking* |
 
+
+
+### Follow us on Instagram
+
+<img src="/images/instagram.png" style="width:10%">
+<center><a href="https://www.instagram.com/meridianmediaclub/">https://www.instagram.com/meridianmediaclub/</a></center>
