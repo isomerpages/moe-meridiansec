@@ -61,6 +61,19 @@ To enhance their skills, the club organizes professional training sessions in ph
 
 * **Our Schools, Our Stories photo and video contest 2021**
 
+---
+
+### Our CCA Experience
+
+*Media club is truly amazing and teaches me the ropes of Photography. It is a place of bonding, learning and of nurturing of the minds. The skills I’ve acquired cannot be acquired simply by reading.*
+<br>**- Malcolm Pong Jia Le (S3-E1)**
+
+*It is a vibrant hub of creativity and collaboration, where ideas come to life and voices found resonance.* 
+<br>**- Javier Mok 3E1**
+
+*Media Club is definitely the CCA to be in if you're interested in anything Media related. With both amazing teachers and opportunities, I have thoroughly enjoyed my time in this CCA.*
+<br>**- Dionne Pang 3E2**
+
 
 
 
