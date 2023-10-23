@@ -32,16 +32,16 @@ To enhance their skills, the club organizes professional training sessions in ph
 
 *  **18th Ngee Ann Photographic Exhibition 2023**
     <br>10 students were selected to exhibit their works at the Lasalle College of Arts.
-    * Muhammad Rusyaidi Bin Jamari (S1-4)
-    * Tsoi Ho Chit (S1-4)
-    * Muhammad Nasri Bin Mohammad Sukor (S2-E1)
-    * Nurlaila Aaqilah Binte Mohammad Ismail (S2-E3)
-    * Audrey Ng May Qi (S3-A1)
-    * Muhammad Darwisy Bin Muhammad Aidil (S3-A1)
-    * Mok Yu Xi (S3-A2)
-    * Malcolm Pong Jia Le (S3-E1)
-    * Dionne Pang Lin Kai (S3-E2)
-    * Wong Geng Huum (S3-E3).
+    * Muhammad Rusyaidi Bin Jamari (1-4)
+    * Tsoi Ho Chit (1-4)
+    * Muhammad Nasri Bin Mohammad Sukor (2E1)
+    * Nurlaila Aaqilah Binte Mohammad Ismail (2E3)
+    * Audrey Ng May Qi (3A1)
+    * Muhammad Darwisy Bin Muhammad Aidil (3A1)
+    * Mok Yu Xi (3A2)
+    * Malcolm Pong Jia Le (3E1)
+    * Dionne Pang Lin Kai (3E2)
+    * Wong Geng Huum (3E3).
 
     Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's work have been selected to be permanently exhibited at the organization’s venue. <br><br>
 
@@ -66,13 +66,13 @@ To enhance their skills, the club organizes professional training sessions in ph
 ### Our CCA Experience
 
 *Media club is truly amazing and teaches me the ropes of Photography. It is a place of bonding, learning and of nurturing of the minds. The skills I’ve acquired cannot be acquired simply by reading.*
-<br>**- Malcolm Pong Jia Le (S3-E1)**
+<br>**- Malcolm Pong Jia Le (3E1)**
 
 *It is a vibrant hub of creativity and collaboration, where ideas come to life and voices found resonance.* 
-<br>**- Javier Mok 3E1**
+<br>**- Javier Mok Sing Lam (3E1)**
 
 *Media Club is definitely the CCA to be in if you're interested in anything Media related. With both amazing teachers and opportunities, I have thoroughly enjoyed my time in this CCA.*
-<br>**- Dionne Pang 3E2**
+<br>**- Dionne Pang Lin Kai (3E2)**
 
 
 
