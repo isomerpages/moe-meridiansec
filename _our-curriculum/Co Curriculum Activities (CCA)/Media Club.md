@@ -30,26 +30,24 @@ To enhance their skills, the club organizes professional training sessions in ph
 ### Highlights
 #### 2023
 
-##### 18th Ngee Ann Photographic Exhibition 2023
+*  **18th Ngee Ann Photographic Exhibition 2023**
+    <br>10 students were selected to exhibit their works at the Lasalle College of Arts.
+    * Muhammad Rusyaidi Bin Jamari (S1-4)
+    * Tsoi Ho Chit (S1-4)
+    * Muhammad Nasri Bin Mohammad Sukor (S2-E1)
+    * Nurlaila Aaqilah Binte Mohammad Ismail (S2-E3)
+    * Audrey Ng May Qi (S3-A1)
+    * Muhammad Darwisy Bin Muhammad Aidil (S3-A1)
+    * Mok Yu Xi (S3-A2)
+    * Malcolm Pong Jia Le (S3-E1)
+    * Dionne Pang Lin Kai (S3-E2)
+    * Wong Geng Huum (S3-E3).
 
-10 students were selected to exhibit their works at the Lasalle College of Arts.
-* Muhammad Rusyaidi Bin Jamari (S1-4)
-* Tsoi Ho Chit (S1-4)
-* Muhammad Nasri Bin Mohammad Sukor (S2-E1)
-* Nurlaila Aaqilah Binte Mohammad Ismail (S2-E3)
-* Audrey Ng May Qi (S3-A1)
-* Muhammad Darwisy Bin Muhammad Aidil (S3-A1)
-* Mok Yu Xi (S3-A2)
-* Malcolm Pong Jia Le (S3-E1)
-* Dionne Pang Lin Kai (S3-E2)
-* Wong Geng Huum (S3-E3).
-
-Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's work have been selected to be permanently exhibited at the organization’s venue. 
+    Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's work have been selected to be permanently exhibited at the organization’s venue. <br><br>
 
 
-##### Our Schools, Our Stories photo and video contest 2023.
-
-Dionne Pang Lin Kai (S3-E2) has won the Honorable Mention award for the Youth Category under “priceless moments” story. You can find her work [here](https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth).
+* **Our Schools, Our Stories photo and video contest 2023**
+    Dionne Pang Lin Kai (S3-E2) has won the Honorable Mention award for the Youth Category under “priceless moments” story. You can find her work [here](https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth).
 <br>
 
 ---
