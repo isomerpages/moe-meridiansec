@@ -7,16 +7,13 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 
 ![](/images/LLP-01.jpg)
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Principles of Leadership</label>
-    <div>
+#### 1. Principles of Leadership
+
       <p><img src="/images/llp3.jpg" style="width:60%"></p>
 			<p>The school integrates the Five K&amp;P Practices of Exemplary Leadership in developing student leaders.</p>
 			<p>The Five Practices of Exemplary Leadership® is a functional leadership model offered by James Kouzes and Barry Posner (1987) in their book, “The Leadership Challenge.” It reveals a cluster of behaviours identified through a thematic analysis of what people did when they were at their “personal best” in leading others. The Five Practices of Exemplary Leadership are namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act and Encourage the Heart.</p>
-    </div>
-	</li>  
+    
+	  
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Student Leadership Tiered Model</label>
@@ -109,4 +106,3 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 			</ul>
     </div>
 	</li>  
-</ul>
