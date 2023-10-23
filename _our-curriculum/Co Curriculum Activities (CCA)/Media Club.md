@@ -50,6 +50,22 @@ Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's w
 ##### Our Schools, Our Stories photo and video contest 2023.
 
 Dionne Pang Lin Kai (S3-E2) has won the Honorable Mention award for the Youth Category under “priceless moments” story. You can find her work [here](https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth).
+<br>
+
+---
+#### 2022
+* Ibuildsg photography competition 2022
+* Our Schools, Our Stories photo and video contest 2022.
+<br>
+
+---
+#### 2021
+* 16th Ngee Ann Photography Exhibition 2021
+
+Malcolm Pong of 1A1 and Royce Li of 3E1 have been selected to exhibit their works in Lasalle College of Arts.
+
+* Our Schools, Our Stories photo and video contest 2021.
+
 
 
 
