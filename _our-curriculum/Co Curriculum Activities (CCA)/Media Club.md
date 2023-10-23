@@ -16,6 +16,7 @@ To enhance their skills, the club organizes professional training sessions in ph
 
 
 ### Schedule and Venue
+
 |Day|Time|Venue|
 |---|---|---|
 |Tuesday|3 pm to 5 pm|Computer Lab 1 and 2|
