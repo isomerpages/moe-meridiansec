@@ -11,7 +11,7 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_02.jpg)
 
-The school integrates the **Five K&P Practices of Exemplary Leadership** in nurturing compassionate leaders.
+The school integrates the **Five K&amp;P Practices of Exemplary Leadership** in nurturing compassionate leaders.
 
 The Five Practices of Exemplary Leadership® is a functional leadership model offered by James Kouzes and Barry Posner (1987) in their book, “The Leadership Challenge.” It reveals a cluster of behaviours identified through a thematic analysis of what people did when they were at their “personal best” in leading others. The Five Practices of Exemplary Leadership are namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act and Encourage the Heart.
 
@@ -33,7 +33,7 @@ Meridian Secondary adopts an age-appropriate and progressive three-stage leaders
 * Thought Leadership
 
 ##### Tier 1
-Cohort leadership reaches out to the masses. Students will be equipped with the knowledge of K&P principles through a foundational programme during their Lower Secondary years. Subsequently, they will have a chance to apply and refine their leadership skills through various platforms such as CCAs and VIA activities.
+Cohort leadership reaches out to the masses. Students will be equipped with the knowledge of K&amp;P principles through a foundational programme during their Lower Secondary years. Subsequently, they will have a chance to apply and refine their leadership skills through various platforms such as CCAs and VIA activities.
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_05.jpg)
 
 ##### TIER 2 
@@ -74,7 +74,7 @@ At Tier 3, the ExCo Student Council members inspire a shared student leadership 
 |---|---|
 |Ms Jasmin Tan Jiemin|SH Student Leadership|
 |Ms Ida Murni|SH Student Well-Being|
-|Mr Quaide Millath|SH PE & CCA|
+|Mr Quaide Millath|SH PE &amp; CCA|
 |Ms Astri Nur Rissa|Teacher|
 |Ms Chen Yi-Chun|Teacher|
 |Mdm Choo Wui Kee Vicki|Teacher|
@@ -97,8 +97,7 @@ At Tier 3, the ExCo Student Council members inspire a shared student leadership 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_14.jpg)
 
 * National Cyber Wellness Advocacy Challenge (NCAC) 2022 Advocacy Module
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_15.jpg)
-
+![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_15.jpg)<br>
 * National Cyber Wellness Advocacy Challenge (NCAC) 2022 Enrichment Module
 ---
 #### 2021
