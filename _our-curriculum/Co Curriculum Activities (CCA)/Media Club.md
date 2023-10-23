@@ -15,11 +15,12 @@ To enhance their skills, the club organizes professional training sessions in ph
 |*Media Club students and teachers working hard to support events*|
 
 
-### Schedule and Venue <br>
-|Day|Time|Venue|
-|---|---|---|
-|Tuesday|3 pm to 5 pm|Computer Lab 1 and 2|
-|Thursday*|3pm to 5 pm|Computer Lab 1 and 2|
+### Schedule and Venue
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Tuesday | 3 pm to 5 pm | Computer Lab 1 and 2 |
+| Thursday* | 3 pm to 5 pm | Computer Lab 1 and 2 |
 
 *In-house training / event based training
 
@@ -32,45 +33,42 @@ To enhance their skills, the club organizes professional training sessions in ph
 ### Instructor
 * Mr Mohd Ferdaus Bin Salleh
 
-### Highlights
-#### 2023
+### Yearly Highlights
+*  **2023**
 
-*  **18th Ngee Ann Photographic Exhibition 2023**
+    *  **18th Ngee Ann Photographic Exhibition 2023**
     <br>10 students were selected to exhibit their works at the Lasalle College of Arts.
-    * Muhammad Rusyaidi Bin Jamari (1-4)
-    * Tsoi Ho Chit (1-4)
-    * Muhammad Nasri Bin Mohammad Sukor (2E1)
-    * Nurlaila Aaqilah Binte Mohammad Ismail (2E3)
-    * Audrey Ng May Qi (3A1)
-    * Muhammad Darwisy Bin Muhammad Aidil (3A1)
-    * Mok Yu Xi (3A2)
-    * Malcolm Pong Jia Le (3E1)
-    * Dionne Pang Lin Kai (3E2)
-    * Wong Geng Huum (3E3).
+        * Muhammad Rusyaidi Bin Jamari (1-4)
+        * Tsoi Ho Chit (1-4)
+        * Muhammad Nasri Bin Mohammad Sukor (2E1)
+        * Nurlaila Aaqilah Binte Mohammad Ismail (2E3)
+        * Audrey Ng May Qi (3A1)
+        * Muhammad Darwisy Bin Muhammad Aidil (3A1)
+        * Mok Yu Xi (3A2)
+        * Malcolm Pong Jia Le (3E1)
+        * Dionne Pang Lin Kai (3E2)
+        * Wong Geng Huum (3E3).
 
-    Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's work have been selected to be permanently exhibited at the organization’s venue. 
+        Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad Ismail's work have been selected to be permanently exhibited at the organization’s venue. 
 		![](/images/CCA/Media%20Club/mediaclub_02.jpg)
 		<br>
 
 
-* **Our Schools, Our Stories photo and video contest 2023**<br>
+    * **Our Schools, Our Stories photo and video contest 2023**<br>
     Dionne Pang Lin Kai (S3-E2) has won the Honorable Mention award for the Youth Category under “priceless moments” story. You can find her work [here](https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth).
 		![](/images/CCA/Media%20Club/mediaclub_03.jpg)
-		
 
----
-#### 2022
-* **Ibuildsg photography competition 2022**
-* **Our Schools, Our Stories photo and video contest 2022**
+* **2022**
+    * **Ibuildsg photography competition 2022**
+    * **Our Schools, Our Stories photo and video contest 2022**
 
----
-#### 2021
-* **16th Ngee Ann Photography Exhibition 2021**<br>
+* **2021**
+    * **16th Ngee Ann Photography Exhibition 2021**<br>
     Malcolm Pong (1A1) and Royce Li (3E1) have been selected to exhibit their works in Lasalle College of Arts.
 
-* **Our Schools, Our Stories photo and video contest 2021**
+    * **Our Schools, Our Stories photo and video contest 2021**
 
----
+
 
 ### Our CCA Experience
 
