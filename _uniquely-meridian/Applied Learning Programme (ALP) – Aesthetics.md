@@ -3,98 +3,66 @@ title: Applied Learning Programme (ALP) – Aesthetics
 permalink: /home/programmes/applied-learning-programme-visual-communication/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">MSS ALP Learning Experiences</label>
-    <div>
-			<p></p><h2>Applied Learning Programme (ALP) in Aesthetics</h2><p></p>
-			<p>The Applied Learning Programme in Aesthetics is offered to all students at Meridian Secondary School.</p>
-		<p></p><h3>The MSS ALP in Aesthetics Learning Experiences</h3><p></p>
-		<p>Students who are keen on the Arts will have the opportunity to unleash their interest and creativity through Meridian Secondary School’s Applied Learning Programme (ALP) in Aesthetics.</p>
-		<p>Our ALP in Aesthetics provides opportunities for all students to explore various art forms – visual, performative, and musical to communicate thoughts and ideas. The programme focuses on developing students who understand the value of learning Arts and are confident in communicating through the Arts. Students are exposed to a range of learning experiences – appreciation of the Arts, acquisition of Arts knowledge and skills, and Arts creation.</p>
-		<p><img src="/images/ALP01.jpg"></p>
-		<p></p><h3>Objectives</h3><p></p>
-		<ul>
-		<li>Nurture in students a keen sense of aesthetics and an appreciation for the arts</li>
-		<li>Provide students with breadth and depth of experience in traditional and contemporary arts practices</li>
-		<li>Develop students’ social and emotional competencies through the practice of the arts</li>
-		<li>Equip students with knowledge, skills and dispositions needed in their pursuit of educational and career pathways in the arts</li>
-		</ul>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">The Committee</label>
-    <div>
-			<p></p><h2>ALP in Aesthetics
-The Committee</h2><p></p>
-		<p><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gzd1{background-color:#FFF;color:#F90;font-weight:bold;text-align:right;vertical-align:top}
-.tg .tg-dgz3{background-color:#FFF;color:#936;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-gzd1"><span style="color:#F90">Ms Ong Yin Yin </span></th>
-    <th class="tg-dgz3"><span style="color:#936"> SH/Art (Covering HOD/ Aesthetics)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Ms Lin I Ju Yvonne </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> SH/Lit (Covering HOD/EL)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Ms Ong Swee Lian Amy </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> SH/Nutrition &amp; Food Science</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Miss Tan Jiemin Jasmin</span></td>
-    <td class="tg-dgz3"><span style="color:#936"> SH/Student Leadership</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Ms Lee Su Yin Rosalind </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> Lead Teacher / EL</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Mr Mei Yung Jian </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> Art Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Mdm Norzalina Bohari </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> Art Teacher</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gzd1"><span style="color:#F90">Mr Tay Zhiyong </span></td>
-    <td class="tg-dgz3"><span style="color:#936"> Art Teacher</span></td>
-  </tr>
-</tbody>
-</table></p>
-    </div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">TIER 1</label>
-    <div>
-			<p></p><h2>TIER 1</h2><p></p>
-			<p>Our ALP Tier-1 programme allows all students to gain arts knowledge and skills through a range of arts experiences. Students will learn Photography, Gamelan, and Violin at Secondary 1 and Videography, Drama, Poetry Slam, Music, and Hip Hop at Secondary 2. All students will also be exposed to different Art forms through our ARTS Assembly Programme.</p>
-		<p><img src="/images/ALP2.jpg"></p>
-		<p><img src="/images/ALP3.jpg"></p>
-    </div>
-	</li>  
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">TIER 2</label>
-    <div>
-			<p></p><h2>TIER 2</h2><p></p>
-			<p>Our ALP Tier-2 programme allows students who are highly passionate in Arts to specialise and have more in-depth learning which includes the Master classes, Music Festivals, Meridian Artistes Programme, Arts Week, Enhanced Art Programme (EAP), Media Club and other Performing Arts CCA.</p>
-			<p>The programme also includes collaborations with our stakeholders and peer institutions such as Temasek Polytechnic and Nanyang Polytechnic</p>
-    </div>
-	</li>  
-</ul>
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_01.jpg)
+
+The Applied Learning Programme (ALP) in Aesthetics is offered to all students at Meridian Secondary School.
+
+The programme aims to develop students’ appreciation and understanding of aesthetics, which encompasses the study of art, design, dance, media, music and culture. Through various activities and projects, students are encouraged to explore and express their creativity and develop their critical thinking skills. The programme also provides opportunities for students to showcase their artistic talents and participate in competitions and exhibitions. By participating in the Applied Learning Programme in Aesthetics, students will gain a deeper understanding and appreciation of the role that aesthetics plays in our daily lives and society.
+
+### Objectives
+* Nurture in students a **keen sense of aesthetics and an appreciation for the arts**
+* Provide students with **breadth and depth of experience** in traditional and contemporary arts practices
+* Develop students' **social and emotional competencies** through the practice of the arts
+* Equip students with **knowledge, skills and dispositions** needed in their pursuit of educational and career pathways in the arts
+
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_02.jpg)
+
+### The MSS ALP in Aesthetics Learning Experiences
+
+Students who are keen on the Arts will have the opportunity to unleash their interest and creativity through Meridian Secondary School’s Applied Learning Programme (ALP) in Aesthetics.
+
+
+For students who have a passion for the Arts, our ALP in Aesthetics offers an exceptional opportunity to unleash their creativity. The programme provides a platform for all students to explore various art forms such as visual, performative, and musical to help them effectively communicate their thoughts and ideas. With a focus on developing students who appreciate the value of Arts and feel conﬁdent in communicating through it, the ALP in Aesthetics exposes students to a range of learning experiences, including appreciation of Arts, acquisition of Arts knowledge and skills, and Arts creation.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_03.jpg)
+
+### Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme
+
+Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts,
+students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_04.jpg)
+
+#### Tier 1 ALP Programme
+Our ALP Tier-1 programme is designed to provide students with a broad range of arts experiences and knowledge. At Secondary 1, students will have the opportunity to explore the fascinating world of digital photography, and learn about Music from the Southeast Asian region, as well as Western Classical Music. These subjects are carefully chosen to provide students with a strong foundation in the arts, and to help them develop their creativity and critical thinking skills.
+
+Secondary 2 students will have the chance to delve even deeper into the arts, with areas such as Media, Visual Art, Music, and Dance. These subjects are carefully chosen to provide students with a well-rounded arts education, and to help them develop their skills in a variety of artistic disciplines. To foster student autonomy, Secondary 2 students will have the chance to select which area they are most interested in and want to explore in greater depth.
+
+In addition to these subject-speciﬁc offerings, all students will also be exposed to different art forms through our ARTS Assembly Programme. This programme is designed to provide students with a glimpse into the world of arts beyond their classroom, and to help them appreciate the rich cultural heritage of different art forms.
+
+Overall, our ALP Tier-1 programme is an exciting opportunity for students to explore the arts, develop their creativity, and gain valuable skills that will serve them well in the future.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_05.jpg)
+
+#### Tier 2 ALP Programme
+We're proud to offer our ALP Tier-2 programme, specially designed for students who are passionate about the Arts. This programme provides a unique opportunity for students to delve deeper into their chosen ﬁeld of study. Students will beneﬁt from an array of workshops, including the Art Elective Programme, Enhanced Art Programme (EAP), Media Club, and other Performing Arts CCAs.
+
+Moreover, the programme includes collaborations with our stakeholders and peer institutions such as Temasek Polytechnic and Nanyang Polytechnic. This will enable students to have a more comprehensive understanding of the industry and provide them with valuable networking opportunities.
+
+Finally, students will get a chance to showcase their talents through Arts Day and SYF. These are holistic learning experiences that nurtures artistic talents and provides students with a solid foundation for a career in the Arts.
+
+Arts Day is an event that showcases students' artistic skills through performances and exhibitions. It marks the culmination of learning in Aesthetics through the ALP and empowers students to take charge of their artistic development. Meridians' participation in this event demonstrates their abilities and conﬁdence, fostering unity and collaboration among students and staff. The event promotes the nurturing of students who understand the value of learning Arts and are conﬁdent in communicating through the Arts, ultimately shaping them into well-rounded individuals with essential 21st-century competencies.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_06.jpg)
+
+### The ALP Team <br>
+|Name|Designation|
+|---|---|
+|Ms Ong Yin Yin|Subject Head for Art <br>(Covering HOD Aesthetics)|
+|Miss Tan Jiemin Jasmin|Subject Head for Student Leadership|
+|Ms Moon Jia Yuan|Subject Head for English Language|
+|Ms Ong Swee Lian Amy|Subject Head for Nutrition &amp; Food Sciences|
+|Mr Mei Yung Jian|Art Teacher|
+|Mdm Norzalina Bohari|Art Teacher|
+|Mr Tay Zhiyong|Art Teacher|

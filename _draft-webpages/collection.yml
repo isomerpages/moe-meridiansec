@@ -2,5 +2,7 @@ collections:
   draft-webpages:
     output: true
     order:
+      - 2024 Secondary 1 Registration/Secondary 1 Booklist.md
+      - 2024 Secondary 1 Registration/Secondary 1 eRegistration.md
+      - 2024 Secondary 1 Registration/.keep
       - N–Level 2022 – Post–Secondary Admission Exercises and Key Information.md
-      - 2023 Secondary 1 Registration Information.md

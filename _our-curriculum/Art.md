@@ -18,7 +18,7 @@ description: ""
 
 ### General Art Programme
 ![](/images/Departments/Art/Art10.jpg)
-![](/images/Departments/Art/Art09.jpg)<br>
+<br>
 
 ---
 
