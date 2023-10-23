@@ -41,13 +41,21 @@ At Tier 2, students undergo further training and participate in a wider range of
 
 Student Leaders continue to attend developmental training programmes which are more specialized such as the Proposal Writing workshop and Events Facilitation workshop. Regular check-in sessions are also conducted to provide guidance and support to the Student Leaders. To stretch their abilities, Student Leaders are provided with opportunities to participate in events and/or are nominated for awards at the national level (e.g. Our Singapore Leadership Programme and National Youth Environment Conference). What is unique to our school is that students are encouraged to step forward and nominate themselves to take on these leadership roles. 
 
-![Student Councillors](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_06.jpg)
+|![Student Councillors](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_06.jpg)|
+|:---:|
+| *Student Councillors* |
 
-![CCA Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_07.jpg)
+|![CCA Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_07.jpg)|
+|:---:|
+|*CCA Leaders*|
 
-![Class Chairpersons](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_08.jpg)
+|![Class Chairpersons](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_08.jpg)|
+|:---:|
+|*Class Chairpersons*|
 
-![Peer Support Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_09.jpg)
+|![Peer Support Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_09.jpg)|
+|:---:|
+|*Peer Support Leaders*|
 
 ##### TIER 3 
 At Tier 3, the ExCo Student Council members inspire a shared student leadership vision that resonates across all Meridians. They take charge of organizing school events, such as Staff Appreciation Day and Graduation Day, and play a pivotal role in nurturing the leadership growth of Student Councillors.
@@ -97,5 +105,3 @@ At Tier 3, the ExCo Student Council members inspire a shared student leadership 
 * OPMUN 2022 Chair Training
 * OPMUN 2022 Delegates Involvement
 * Heartware Network Student Leader Trainings
-
-
