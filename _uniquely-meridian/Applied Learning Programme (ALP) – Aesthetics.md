@@ -27,12 +27,42 @@ For students who have a passion for the Arts, our ALP in Aesthetics offers an ex
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_03.jpg)
 
-#### Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme
+### Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme
 
 Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts,
 students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_04.jpg)
 
+#### Tier 1 ALP Programme
+Our ALP Tier-1 programme is designed to provide students with a broad range of arts experiences and knowledge. At Secondary 1, students will have the opportunity to explore the fascinating world of digital photography, and learn about Music from the Southeast Asian region, as well as Western Classical Music. These subjects are carefully chosen to provide students with a strong foundation in the arts, and to help them develop their creativity and critical thinking skills.
 
+Secondary 2 students will have the chance to delve even deeper into the arts, with areas such as Media, Visual Art, Music, and Dance. These subjects are carefully chosen to provide students with a well-rounded arts education, and to help them develop their skills in a variety of artistic disciplines. To foster student autonomy, Secondary 2 students will have the chance to select which area they are most interested in and want to explore in greater depth.
 
+In addition to these subject-speciﬁc offerings, all students will also be exposed to different art forms through our ARTS Assembly Programme. This programme is designed to provide students with a glimpse into the world of arts beyond their classroom, and to help them appreciate the rich cultural heritage of different art forms.
+
+Overall, our ALP Tier-1 programme is an exciting opportunity for students to explore the arts, develop their creativity, and gain valuable skills that will serve them well in the future.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_05.jpg)
+
+#### Tier 2 ALP Programme
+We're proud to offer our ALP Tier-2 programme, specially designed for students who are passionate about the Arts. This programme provides a unique opportunity for students to delve deeper into their chosen ﬁeld of study. Students will beneﬁt from an array of workshops, including the Art Elective Programme, Enhanced Art Programme (EAP), Media Club, and other Performing Arts CCAs.
+
+Moreover, the programme includes collaborations with our stakeholders and peer institutions such as Temasek Polytechnic and Nanyang Polytechnic. This will enable students to have a more comprehensive understanding of the industry and provide them with valuable networking opportunities.
+
+Finally, students will get a chance to showcase their talents through Arts Day and SYF. These are holistic learning experiences that nurtures artistic talents and provides students with a solid foundation for a career in the Arts.
+
+Arts Day is an event that showcases students' artistic skills through performances and exhibitions. It marks the culmination of learning in Aesthetics through the ALP and empowers students to take charge of their artistic development. Meridians' participation in this event demonstrates their abilities and conﬁdence, fostering unity and collaboration among students and staff. The event promotes the nurturing of students who understand the value of learning Arts and are conﬁdent in communicating through the Arts, ultimately shaping them into well-rounded individuals with essential 21st-century competencies.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_06.jpg)
+
+### The ALP Team
+|Name|Designation|
+|---|---|
+|Ms Ong Yin Yin|Subject Head for Art <br>(Covering HOD Aesthetics)|
+|Miss Tan Jiemin Jasmin|Subject Head for Student Leadership|
+|Ms Moon Jia Yuan|Subject Head for English Language|
+|Ms Ong Swee Lian Amy|Subject Head for Nutrition &amp; Food Sciences|
+|Mr Mei Yung Jian|Art Teacher|
+|Mdm Norzalina Bohari|Art Teacher|
+|Mr Tay Zhiyong|Art Teacher|
