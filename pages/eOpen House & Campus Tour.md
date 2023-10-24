@@ -3,7 +3,7 @@ title: eOpen House & Campus Tour
 permalink: /open-house-and-campus-tour/
 description: ""
 ---
-## <p align="center">Unlocking Student Potential: <br>The MSS Experience </p>
+## Unlocking Student Potential: <br>The MSS Experience
 
 ### e-Open House 2023
 
