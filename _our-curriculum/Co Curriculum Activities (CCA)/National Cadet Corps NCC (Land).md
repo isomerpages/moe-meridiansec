@@ -74,55 +74,51 @@ It is one of the country's oldest youth organisations, formed in 1901.
 		|:---:|
 		|Cadets in their Camouflage lesson|
 		
-	 |![NCC![NCC 2023 - Laser Run](/images/CCA/NCC/ncc_2023_10.jpg) 2023 - NDP](/images/CCA/NCC/ncc_2023_09.jpg)|
+	 |![NCC 2023 - NDP](/images/CCA/NCC/ncc_2023_09.jpg)|
 		|:---:|
 		|*National Day Parade 2023*|
 		
 	 |![NCC 2023 - Laser Run](/images/CCA/NCC/ncc_2023_10.jpg)|
 		|:---:|
 		|*Our cadets participating in Laser Run*|
+		
+	 |![NCC 2023 - NCC Alumni](/images/CCA/NCC/ncc_2023_11.jpg)|
+		|:---:|
+		|*Our Alumni receiving MSS Alumni Award*|
 
-#### Events from 2021 to 2022
+   * 2021 to 2022
+   |![](/images/NCC0.jpg)|
+		|:---:|
+		|*ASM Ethan receiving Drills Instructor Certificate*|
+		
+	|![](/images/NCC1.jpg)|
+    |:---:|
+    |*Passing-Out Parade*|
 
-<figure>
-<img src="/images/NCC0.jpg" style="width:50%">
-<figcaption> <strong> Our ASM Ethan receiving Drills Instructor Certificate from Mr Chris Poh</strong> </figcaption>
-</figure>
+	|![](/images/NCC2.jpg)|
+    |:---:|
+    |*Total Defence Day 2022 facilitation*|
 
-<figure>
-<img src="/images/NCC1.jpg" style="width:50%">
-<figcaption> <strong>Passing-Out Parade conducted in March 2022 for our graduating cadets and handing over command to the Sec 3 leaders.</strong> </figcaption>
-</figure>
+	|![](/images/NCC3.jpg)|
+    |:---:|
+    |*Preparation for Total Defence Day 2022*|
 
-<figure>
-<img src="/images/NCC2.jpg" style="width:50%">
-<figcaption> <strong>Our cadets facilitating the Total Defence Day 2022 activities.</strong> </figcaption>
-</figure>
+	|![](/images/NCC4.jpg)|
+    |:---:|
+    |*Kindness Badge Award Project 2021*|
 
-<figure>
-<img src="/images/NCC3.jpg" style="width:50%">
-<figcaption> <strong>Preparation to facilitate Total Defence Day, using Chromebooks to research on how to play GOTC.</strong> </figcaption>
-</figure>
+	|![](/images/NCC5.jpg)|
+    |:---:|
+    |*Sec 1 CCA Showcase*|
 
-<figure>
-<img src="/images/NCC4.jpg" style="width:50%">
-<figcaption> <strong>A combined UGs session held for the Kindness Badge Award Project 2021.</strong> </figcaption>
-</figure>
+	|![](/images/ncc-01-1.jpg)|
+    |:---:|
+    |*NCC Affirmation Ceremony*|
 
-<figure>
-<img src="/images/NCC5.jpg" style="width:50%">
-<figcaption> <strong>Our Senior Cadets explaining the NCC (Land) CCA during the Sec 1 CCA Showcase</strong> </figcaption>
-</figure>
+	|![](/images/ncc-02.jpg)|
+    |:---:|
+    |*NCC Sports Championship at Loyang View Secondary School*|
 
-<figure>
-<img src="/images/ncc-01-1.jpg" style="width:50%">
-<figcaption> <strong>Our Junior Cadets saying the NCC pledge during NCC Affirmation Ceremony.</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/ncc-02.jpg" style="width:50%">
-<figcaption> <strong>Our cadets participating in the NCC Sports Championship at Loyang View Secondary School.</strong> </figcaption>
-</figure>
 
 #### Selected highlights from our past activities
 
