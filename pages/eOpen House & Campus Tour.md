@@ -21,7 +21,7 @@ Additionally, we will also open our school to parents and their P6 children who 
 <p align="center"> Date: 14 to 16 November 2023 (Tuesday to Thursday)
 <br> Time: 9:00 am to 2:00 pm </p>
 
-**Scan the QR code** in the poster or **click on the link**: https://go.gov.sg/mssexperience23 to register for each of the above events.
+**Scan the QR code** in the poster or **click on the link**: [https://go.gov.sg/mssexperience23](https://go.gov.sg/mssexperience23) to register for each of the above events.
 
 |![](/images/Homepage%20and%20Logos/open%20house%20poster.jpg)|
 |:---:|
