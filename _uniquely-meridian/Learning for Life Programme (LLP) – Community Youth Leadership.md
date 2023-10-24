@@ -50,26 +50,22 @@ Meridian Secondary adopts an age-appropriate and progressive three-stage leaders
     |![CCA Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_07.jpg)|
     |:---:|
     |*CCA Leaders*|
-		
-    |![Peer Support Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_08.jpg)|
-    |:---:|
-    |*Peer Support Leaders*|
 
 
 
     ##### TIER 3 
     At Tier 3, members of the Student Leader Executive Committee inspire a shared student leadership vision that resonates across all Meridians. They play a pivotal role in nurturing the leadership growth of their fellow Meridians and initiate innovation to create value to the community.
 
-    ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_09.jpg)
+
 
 
 #### 4. 	Student Leadership Functional Titles
 
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_10.jpg)
-*All Student Leaders strive to be positive influencers for fellow Meridians
+![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_11.jpg)
+
 
 #### 5. 	Leaders Room
-The Leaders Room serves as a dedicated space for Student Leaders to convene, collaborate, and strategize. It provides an environment where the leaders can brainstorm innovative ideas and foster a sense of unity among their peers. This room functions as a hub for nurturing leadership skills, enabling students to chart a course for positive change within the school by fostering creativity, teamwork, and the development of initiatives that benefit the broader Meridian community.
+The Leaders Room serves as a dedicated space for Student Leaders to convene, collaborate, and strategize. It provides an environment where the leaders can brainstorm innovative ideas and foster a sense of unity among their peers. This room functions as a hub for nurturing leadership skills, enabling students to chart a course for positive change within the school by fostering creativity, teamwork, and the development of initiatives that benefit the broader Meridian community
 
 ### Programme Teachers
 
