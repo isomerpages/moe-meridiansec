@@ -47,11 +47,12 @@ Our dance goes beyond just learning the steps and movements, as we also focus on
      ![Super 24 Secondary School Exhibition 2022](/images/CCA/Modern%20Dance/dance_2022_01.jpg)
 
     * School Performance: Chinese New Year Celebration, National Day Concert
-     ![Outdoor Performance-CNY 2022](/images/CCA/Modern%20Dance/dance_2022_03.jpg)
+     
 
 * **2021**
 
     * SYF Arts Presentation 2021 – Certificate of Distinction
+     ![SYF Arts Presentation 2021 ](/images/CCA/Modern%20Dance/dance_2021_01.jpg)
     * Top 3 Winner of the GetActive! Singapore Workout 2021 School Competition
     * School Performance: Chinese New Year Celebration, Performing Arts SYF Presentation, Speech Day Concert
 
