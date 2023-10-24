@@ -29,6 +29,7 @@ sections:
       button: FIND OUT MORE
       url: /open-house-and-campus-tour/
       image: /images/Homepage and Logos/open house poster.jpg
+      alt: e-Open House Poster
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
@@ -36,6 +37,7 @@ sections:
       button: Find out more
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
+      alt: FSBB Poster
   - resources:
       title: Announcements
       button: Access all announcements
