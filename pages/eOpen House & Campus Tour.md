@@ -3,7 +3,7 @@ title: eOpen House & Campus Tour
 permalink: /open-house-and-campus-tour/
 description: ""
 ---
-## Unlocking Student Potential: The MSS Experience
+## <p align="center">Unlocking Student Potential: <br>The MSS Experience </p>
 
 ### e-Open House 2023
 
@@ -32,4 +32,3 @@ We look forward to meeting you!
 If you are unable to attend any of our events above, you are welcome to visit our school’s General Office to collect our publicity materials. Alternatively, you can explore our school website and social media channels to discover more about our school programmes and students’ experiences. 
 
 Please visit our official [Facebook](https://www.facebook.com/meridiansec/) page and [Instagram](https://www.instagram.com/meridian_sec/) page for the latest happening in our school.
-
