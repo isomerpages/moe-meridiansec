@@ -9,7 +9,7 @@ The school’s Learning for Life Programme (LLP), Community Youth Leadership, is
 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_01.jpg)
 
-#### 1. Principles of Leadership
+### 1. Principles of Leadership
 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_02.jpg)
 
@@ -18,14 +18,14 @@ The school integrates the **Five K&amp;P Practices of Exemplary Leadership** in 
 The Five Practices of Exemplary Leadership® is a functional leadership model offered by James Kouzes and Barry Posner (1987) in their book, “The Leadership Challenge.” It reveals a cluster of behaviours identified through a thematic analysis of what people did when they were at their “personal best” in leading others. The Five Practices of Exemplary Leadership are namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act and Encourage the Heart.
 
 
-#### 2. 	Student Leadership Model
+### 2. 	Student Leadership Model
 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_03.jpg)
 
 The Student Leadership Model at Meridian Secondary School is designed to be aligned with the Kouzes and Posner’s Five Practices of Exemplary Leadership, the four beliefs, and The Meridian Way. At every tier of leadership development, students are provided with opportunities to make meaningful contributions to both the school community and the wider community.
 
 
-#### 3. 	Student Leadership Progressive Development Model
+### 3. 	Student Leadership Progressive Development Model
 
 ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_04.jpg)
 
@@ -34,37 +34,41 @@ Meridian Secondary adopts an age-appropriate and progressive three-stage leaders
 * Team Leadership
 * Thought Leadership
 
-    ##### Tier 1
-    Cohort leadership reaches out to the masses. Students will be equipped with the knowledge of K&amp;P principles through a foundational programme. Subsequently, they will have a chance to apply and enhance their leadership skills through various platforms such as CCAs and VIA activities.
-    ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_05.jpg)
+#### Tier 1 - Self Leadership
+Cohort leadership reaches out to the masses. Students will be equipped with the knowledge of K&amp;P principles through a foundational programme. Subsequently, they will have a chance to apply and enhance their leadership skills through various platforms such as CCAs and VIA activities.
+![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_05.jpg)
 
-    ##### TIER 2 
-    At Tier 2, students undergo further training and participate in a wider range of community projects to develop their skills through their roles as Student Councillors, CCA Leaders, or Peer Support Leaders. This frequently involves conducting activities for peers of their level (e.g. Peer Support Leaders conducting class bonding games) or for their juniors (e.g. Sec 3 Student Councillors facilitating Sec 2 VIA projects). 
+#### Tier 2 - Team Leadership
+At Tier 2, students undergo further training and participate in a wider range of community projects to develop their skills through their roles as Student Councillors, CCA Leaders, or Peer Support Leaders. This frequently involves conducting activities for peers of their level (e.g. Peer Support Leaders conducting class bonding games) or for their juniors (e.g. Sec 3 Student Councillors facilitating Sec 2 VIA projects). 
 
-    Student Leaders continue to attend developmental training programmes which are more specialized such as Public Speaking and Events Facilitation workshop. Regular check-in sessions are also conducted to provide guidance and support to the Student Leaders. To stretch their abilities, Student Leaders are provided with opportunities to participate in events and/or are nominated for awards at the national level (e.g. National Youth Environment Conference). What is unique to our school is that students are encouraged to step forward and nominate themselves to take on these leadership roles. 
+Student Leaders continue to attend developmental training programmes which are more specialized such as Public Speaking and Events Facilitation workshop. Regular check-in sessions are also conducted to provide guidance and support to the Student Leaders. To stretch their abilities, Student Leaders are provided with opportunities to participate in events and/or are nominated for awards at the national level (e.g. National Youth Environment Conference). What is unique to our school is that students are encouraged to step forward and nominate themselves to take on these leadership roles. 
 
-    |![Student Councillors](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_06.jpg)|
-    |:---:|
-    | *Student Councillors* |
+|![Student Councillors](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_06.jpg)|
+|:---:|
+| *Student Councillors* |
 
-    |![CCA Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_07.jpg)|
-    |:---:|
-    |*CCA Leaders*|
+|![CCA Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_07.jpg)|
+|:---:|
+|*CCA Leaders*|
 
-
-
-    ##### TIER 3 
-    At Tier 3, members of the Student Leader Executive Committee inspire a shared student leadership vision that resonates across all Meridians. They play a pivotal role in nurturing the leadership growth of their fellow Meridians and initiate innovation to create value to the community.
-
+|![Peer Support Leaders](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_08.jpg)|
+|:---:|
+|*Peer Support Leaders*|
 
 
 
-#### 4. 	Student Leadership Functional Titles
+#### Tier 3 - Thought Leadership 
+At Tier 3, members of the Student Leader Executive Committee inspire a shared student leadership vision that resonates across all Meridians. They play a pivotal role in nurturing the leadership growth of their fellow Meridians and initiate innovation to create value to the community.
+![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_09.jpg)
 
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_11.jpg)
 
 
-#### 5. 	Leaders Room
+
+### 4. 	Student Leadership Functional Titles
+![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_10.jpg)
+*All Student Leaders strive to be positive influencers for fellow Meridians
+
+### 5. 	Leaders Room
 The Leaders Room serves as a dedicated space for Student Leaders to convene, collaborate, and strategize. It provides an environment where the leaders can brainstorm innovative ideas and foster a sense of unity among their peers. This room functions as a hub for nurturing leadership skills, enabling students to chart a course for positive change within the school by fostering creativity, teamwork, and the development of initiatives that benefit the broader Meridian community
 
 ### Programme Teachers
