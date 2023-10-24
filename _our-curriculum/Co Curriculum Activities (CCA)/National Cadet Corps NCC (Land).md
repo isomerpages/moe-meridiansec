@@ -41,7 +41,7 @@ It is one of the country's oldest youth organisations, formed in 1901.
    * 2019 NCC Unit Recognition – Distinction Award
 
 * Events
-   * 2023
+   * 2023<br>
     |![NCC 2023 - Promotion to Master Sergeant](/images/CCA/NCC/ncc_2023_01.jpg)|
 		|:---:|
 		|*Outgoing USM Aiman receiving his promotion to Master Sergeant Rank*|
@@ -86,7 +86,7 @@ It is one of the country's oldest youth organisations, formed in 1901.
 		|:---:|
 		|*Our Alumni receiving MSS Alumni Award*|
 
-   * 2021 to 2022
+   * 2021 to 2022<br>
    |![](/images/NCC0.jpg)|
 		|:---:|
 		|*ASM Ethan receiving Drills Instructor Certificate*|
@@ -119,7 +119,7 @@ It is one of the country's oldest youth organisations, formed in 1901.
     |:---:|
     |*NCC Sports Championship at Loyang View Secondary School*|
 
-   * Selected highlights from our past events
+   * Selected highlights from our past events<br>
    ![](/images/NCC6.jpg)
 	 ![](/images/NCC7.jpg)
 	 ![](/images/NCC8.jpg)
