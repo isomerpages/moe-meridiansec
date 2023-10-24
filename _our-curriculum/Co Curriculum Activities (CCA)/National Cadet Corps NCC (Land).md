@@ -42,7 +42,8 @@ It is one of the country's oldest youth organisations, formed in 1901.
 
 * Events
    * 2023<br>
-    |![NCC 2023 - Promotion to Master Sergeant](/images/CCA/NCC/ncc_2023_01.jpg)|
+
+     |![NCC 2023 - Promotion to Master Sergeant](/images/CCA/NCC/ncc_2023_01.jpg)|
 		|:---:|
 		|*Outgoing USM Aiman receiving his promotion to Master Sergeant Rank*|
 		
@@ -87,7 +88,8 @@ It is one of the country's oldest youth organisations, formed in 1901.
 		|*Our Alumni receiving MSS Alumni Award*|
 
    * 2021 to 2022<br>
-   |![](/images/NCC0.jpg)|
+   
+     |![](/images/NCC0.jpg)|
 		|:---:|
 		|*ASM Ethan receiving Drills Instructor Certificate*|
 		
