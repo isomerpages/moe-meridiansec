@@ -4,7 +4,8 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: ""
+notification: Register for our e-Open House and Campus Tour at
+  https://go.gov.sg/mssexperience23
 sections:
   - hero:
       title: Meridian Secondary School
