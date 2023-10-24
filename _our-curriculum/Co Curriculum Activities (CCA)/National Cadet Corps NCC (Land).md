@@ -40,6 +40,27 @@ It is one of the country's oldest youth organisations, formed in 1901.
    * 2021 NCC Unit Recognition – Distinction Award
    * 2019 NCC Unit Recognition – Distinction Award
 
+* Events
+   * 2023
+    |![NCC 2023 - Promotion to Master Sergeant](/images/CCA/NCC/ncc_2023_01.jpg)|
+		|:---:|
+		|*Outgoing USM Aiman receiving his promotion to Master Sergeant Rank*|
+		
+	 |![NCC 2023 - Sec 1 Orientation](/images/CCA/NCC/ncc_2023_02.jpg)|
+		|:---:|
+		|*Our cadets sharing their experiences during Sec 1 CCA Orientation*|
+		
+	 |![NCC 2023 - Orienteering Competition](/images/CCA/NCC/ncc_2023_03.jpg)|
+		|:---:|
+		|*Award Ceremony for Orienteering Competition*|
+		
+	 |![NCC 2023 - Air Rifle Shooting](/images/CCA/NCC/ncc_2023_04.jpg)|
+		|:---:|
+		|*Senior Cadets honing their skills through Air Rifle Shooting activity*|
+		
+	 |![NCC 2023 - CPR Course](/images/CCA/NCC/ncc_2023_05.jpg)|
+		|:---:|
+		|*Cadet Leaders learning new skills on CPR*|
 
 #### Events from 2021 to 2022
 
