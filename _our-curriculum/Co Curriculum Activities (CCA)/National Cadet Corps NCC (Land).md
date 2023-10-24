@@ -4,18 +4,14 @@ permalink: /home/cca/uniformed-groups/national-cadet-corps-ncc-land/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
+The National Cadet Corps (NCC) is a military cadet corps youth organisation supported by the Ministry of Defence and the Ministry of Education. 
 
-### About Us
+It is one of the country's oldest youth organisations, formed in 1901.
 
-The National Cadet Corps (NCC) is a military cadet corps youth organisation supported by the Ministry of Defence and the Ministry of Education. It is one of the country’s oldest youth organisations, formed in 1901.
 
-#### **Mission**
+**Mission**<br>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-related Activities
 
-To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-related Activities
-
-#### Vision
-
-Extraordinary Youth Leaders
+**Vision** <br>Extraordinary Youth Leaders
 
 * * *
 
