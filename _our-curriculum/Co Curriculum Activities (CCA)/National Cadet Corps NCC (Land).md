@@ -119,19 +119,17 @@ It is one of the country's oldest youth organisations, formed in 1901.
     |:---:|
     |*NCC Sports Championship at Loyang View Secondary School*|
 
+   * Selected highlights from our past events
+   ![](/images/NCC6.jpg)
+	 ![](/images/NCC7.jpg)
+	 ![](/images/NCC8.jpg)
+	 ![](/images/NCC9.jpg)
+	 ![](/images/NCC10.jpg)
+	 ![](/images/NCC11.jpg)
+	 ![](/images/NCC12.jpg)
+	 ![](/images/NCC13.jpg)
+	 
 
-#### Selected highlights from our past activities
-
-<img src="/images/NCC6.jpg" style="width:50%">
-<img src="/images/NCC7.jpg" style="width:50%">
-<img src="/images/NCC8.jpg" style="width:50%">
-<img src="/images/NCC9.jpg" style="width:50%">
-<img src="/images/NCC10.jpg" style="width:50%">
-<img src="/images/NCC11.jpg" style="width:50%">
-<img src="/images/NCC12.jpg" style="width:50%">
-<img src="/images/NCC13.jpg" style="width:50%">
-
-* * *
 
 ### Our CCA Experience
 
