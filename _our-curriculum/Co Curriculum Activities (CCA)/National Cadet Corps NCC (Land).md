@@ -4,51 +4,22 @@ permalink: /home/cca/uniformed-groups/national-cadet-corps-ncc-land/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
+The National Cadet Corps (NCC) is a military cadet corps youth organisation supported by the Ministry of Defence and the Ministry of Education. 
 
-### About Us
+It is one of the country's oldest youth organisations, formed in 1901.
 
-The National Cadet Corps (NCC) is a military cadet corps youth organisation supported by the Ministry of Defence and the Ministry of Education. It is one of the country’s oldest youth organisations, formed in 1901.
 
-#### **Mission**
+**Mission**<br>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-related Activities
 
-To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-related Activities
+**Vision** <br>Extraordinary Youth Leaders
 
-#### Vision
-
-Extraordinary Youth Leaders
-
-* * *
 
 ### Schedule and Venue
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6s2o{background-color:#A6D3F7;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-6s2o"><span style="font-weight:bold">Day</span></th>
-    <th class="tg-6s2o"><span style="font-weight:bold">Time</span></th>
-    <th class="tg-6s2o"><span style="font-weight:bold">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Tuesday</span></td>
-    <td class="tg-f4yw" rowspan="2"><span style="background-color:#FFF">2.30 pm to 5.00 pm</span></td>
-    <td class="tg-f4yw" rowspan="2"><span style="background-color:#FFF">Central Staircase</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"><span style="background-color:#FFF">Thursday</span></td>
-  </tr>
-</tbody>
-</table>
+|Day|Time|Venue|
+|---|---|---|
+|Tuesday|2:30 pm to 5:00 pm| Central Staircase|
+|Thursday|2:30 pm to 5:00 pm| Central Staircase|
 
 ### Teachers-in-charge
 
@@ -58,84 +29,114 @@ Extraordinary Youth Leaders
 
 ### UG Volunteers
 
-*   Mr Hadi Furqan Bin Mohamad Hairi
-*   Mr Haziq Mikhail Nalpon Bmy
 *   Mr Tham Keng Cong
-*   Mr Chee Le Siang, Aaron Matthews
-*   Mr Oh Zhe Qi
-*   Mr Shawn Ang
+*   Mr Aiman Shah Bin Anwar
 
-* * *
 
-### Highlights
+### Yearly Highlights
 
-#### Achievements
+* Achievements
+   * 2022 NCC Unit Recognition – Distinction Award
+   * 2021 NCC Unit Recognition – Distinction Award
+   * 2019 NCC Unit Recognition – Distinction Award
 
-*   2021 NCC Unit Recognition – Distinction Award
-*   2019 NCC Unit Recognition – Distinction Award
-*   2018 NCC Unit Recognition – Distinction Award
+* Events
+   * 2023<br>
 
-#### Events from 2021 to 2022
+     |![NCC 2023 - Promotion to Master Sergeant](/images/CCA/NCC/ncc_2023_01.jpg)|
+		|:---:|
+		|*Outgoing USM Aiman receiving his promotion to Master Sergeant Rank*|
+		
+	 |![NCC 2023 - Sec 1 Orientation](/images/CCA/NCC/ncc_2023_02.jpg)|
+		|:---:|
+		|*Our cadets sharing their experiences during Sec 1 CCA Orientation*|
+		
+	 |![NCC 2023 - Orienteering Competition](/images/CCA/NCC/ncc_2023_03.jpg)|
+		|:---:|
+		|*Award Ceremony for Orienteering Competition*|
+		
+	 |![NCC 2023 - Air Rifle Shooting](/images/CCA/NCC/ncc_2023_04.jpg)|
+		|:---:|
+		|*Senior Cadets honing their skills through Air Rifle Shooting activity*|
+		
+	 |![NCC 2023 - CPR Course](/images/CCA/NCC/ncc_2023_05.jpg)|
+		|:---:|
+		|*Cadet Leaders learning new skills on CPR*|
+		
+	 |![NCC 2023 - Affirmation Ceremony](/images/CCA/NCC/ncc_2023_06.jpg)|
+		|:---:|
+		|*Junior Cadets participating at their Affirmation Ceremony*|
+		
+	 |![NCC 2023 - Promotion to 3SG](/images/CCA/NCC/ncc_2023_07.jpg)|
+		|:---:|
+		|*Cadet Leaders receiving their new 3rd Sergeant Rank*|
+		
+	 |![NCC 2023 - Camouflage](/images/CCA/NCC/ncc_2023_08.jpg)|
+		|:---:|
+		|Cadets in their Camouflage lesson|
+		
+	 |![NCC 2023 - NDP](/images/CCA/NCC/ncc_2023_09.jpg)|
+		|:---:|
+		|*National Day Parade 2023*|
+		
+	 |![NCC 2023 - Laser Run](/images/CCA/NCC/ncc_2023_10.jpg)|
+		|:---:|
+		|*Our cadets participating in Laser Run*|
+		
+	 |![NCC 2023 - NCC Alumni](/images/CCA/NCC/ncc_2023_11.jpg)|
+		|:---:|
+		|*Our Alumni receiving MSS Alumni Award*|
 
-<figure>
-<img src="/images/NCC0.jpg" style="width:50%">
-<figcaption> <strong> Our ASM Ethan receiving Drills Instructor Certificate from Mr Chris Poh</strong> </figcaption>
-</figure>
+   * 2021 to 2022<br>
+   
+     |![](/images/NCC0.jpg)|
+		|:---:|
+		|*ASM Ethan receiving Drills Instructor Certificate*|
+		
+	|![](/images/NCC1.jpg)|
+    |:---:|
+    |*Passing-Out Parade*|
 
-<figure>
-<img src="/images/NCC1.jpg" style="width:50%">
-<figcaption> <strong>Passing-Out Parade conducted in March 2022 for our graduating cadets and handing over command to the Sec 3 leaders.</strong> </figcaption>
-</figure>
+	|![](/images/NCC2.jpg)|
+    |:---:|
+    |*Total Defence Day 2022 facilitation*|
 
-<figure>
-<img src="/images/NCC2.jpg" style="width:50%">
-<figcaption> <strong>Our cadets facilitating the Total Defence Day 2022 activities.</strong> </figcaption>
-</figure>
+	|![](/images/NCC3.jpg)|
+    |:---:|
+    |*Preparation for Total Defence Day 2022*|
 
-<figure>
-<img src="/images/NCC3.jpg" style="width:50%">
-<figcaption> <strong>Preparation to facilitate Total Defence Day, using Chromebooks to research on how to play GOTC.</strong> </figcaption>
-</figure>
+	|![](/images/NCC4.jpg)|
+    |:---:|
+    |*Kindness Badge Award Project 2021*|
 
-<figure>
-<img src="/images/NCC4.jpg" style="width:50%">
-<figcaption> <strong>A combined UGs session held for the Kindness Badge Award Project 2021.</strong> </figcaption>
-</figure>
+	|![](/images/NCC5.jpg)|
+    |:---:|
+    |*Sec 1 CCA Showcase*|
 
-<figure>
-<img src="/images/NCC5.jpg" style="width:50%">
-<figcaption> <strong>Our Senior Cadets explaining the NCC (Land) CCA during the Sec 1 CCA Showcase</strong> </figcaption>
-</figure>
+	|![](/images/ncc-01-1.jpg)|
+    |:---:|
+    |*NCC Affirmation Ceremony*|
 
-<figure>
-<img src="/images/ncc-01-1.jpg" style="width:50%">
-<figcaption> <strong>Our Junior Cadets saying the NCC pledge during NCC Affirmation Ceremony.</strong> </figcaption>
-</figure>
+	|![](/images/ncc-02.jpg)|
+    |:---:|
+    |*NCC Sports Championship at Loyang View Secondary School*|
 
-<figure>
-<img src="/images/ncc-02.jpg" style="width:50%">
-<figcaption> <strong>Our cadets participating in the NCC Sports Championship at Loyang View Secondary School.</strong> </figcaption>
-</figure>
+   * Selected highlights from our past events<br>
+   ![](/images/NCC6.jpg)
+	 ![](/images/NCC7.jpg)
+	 ![](/images/NCC8.jpg)
+	 ![](/images/NCC9.jpg)
+	 ![](/images/NCC10.jpg)
+	 ![](/images/NCC11.jpg)
+	 ![](/images/NCC12.jpg)
+	 ![](/images/NCC13.jpg)
+	 
 
-#### Selected highlights from our past activities
-
-<img src="/images/NCC6.jpg" style="width:50%">
-<img src="/images/NCC7.jpg" style="width:50%">
-<img src="/images/NCC8.jpg" style="width:50%">
-<img src="/images/NCC9.jpg" style="width:50%">
-<img src="/images/NCC10.jpg" style="width:50%">
-<img src="/images/NCC11.jpg" style="width:50%">
-<img src="/images/NCC12.jpg" style="width:50%">
-<img src="/images/NCC13.jpg" style="width:50%">
-
-* * *
 
 ### Our CCA Experience
 
-_I have learnt a lot from NCC. This CCA has taught me a lot of life lessons and skills that I can apply in my everyday life. They also give me important values for me to hold on in NCC such as being Confident or taking initiative. An example of the values I have learnt is that while I was taking a key role in NCC as a CCA Leader, I have learnt to be more confident in myself and take in initiative as my role in NCC is supposed to teach and let the others bond together. I learnt on how to be more open and to speak up as I must be the one to do so to guide the others in learning. I have always been a quiet person back when I was young, and I barely speak up for myself back then. But, due to NCC pushing my limits and teaching me values I hold onto till this day, I was able to speak up with confidence and pride while helping to guide the Juniors in my CCA throughout some activities like foot drills to oversee or bonding to tell my experiences and to pass down what I have learnt during my time in NCC. For the skills I have learnt, I learn how to tie a knot which can be applied to making a tent from scratch and learn how to do urban ops where I learn the different methods of moving with a rifle such as the leopard crawl or the baby crawl with the rifle. Although some of the skills I have learnt do not need to be applied in my everyday life, to me it is still fun to learn new things and maybe one day use it to my advantage when the situation calls for that certain skill._
+*My experience throughout the 3 years in the National Cadet Corps (NCC) has been transformative, shaping my character and instilling essential life skills and values. One of the key takeaways has been resilience and perseverance. NCC taught me the value of not giving up, pushing through solutions even in tough situations and communicating efficiently with my platoon mates. Through demanding foot and rifle drills training and even my own expectations, I learned discipline, focus and attention to detail — qualities that extend far beyond my CCA session. In addition to my mental fortitude, I also learned how to tie different knots and construct a tent which honed my problem-solving abilities and teamwork with my platoon mates. It taught me the importance of clear communication and cooperation with one another to achieve a common goal. Additionally, the shared experience during the various NCC activities strengthen the bonds of friendship among peers. As a CCA leader in NCC, I have built confidence overtime and taken initiative in guiding my peers to forge a stronger bond amongst this family. With NCC, I can speak up with confidence to peers and guide my juniors through different activities. Overall, my NCC journey has not only equipped me with practical skills but also nurtured values that I can carry into all aspects of my life. It has always been a joyful journey and will always be an unforgettable one.*<br>
+**–Javan Neo Aik Yong, Unit Sergeant Major (3E3, 2023)**
 
-**– Aiman Shah Bin Anwar, 3E1, 2022**
-
-_In my 3 years in NCC, I have learnt a lot of things like resilience, hard work, working together as a team and many more. This CCA has pushed me to limits that I have not gone to before, both mentally and physically, and has made me a stronger person in general._
-
-**– Perillo Ethan De Jesus, 3A1, 2022**
+*These years in NCC to me have been one of the best times in my life, it will always be a journey that I will never forget. The friends and skills that I have gained in NCC will never be forgotten. The friends that I had made will have a lasting impact on myself. During the days when I was still a cadet and going through the hard yet fun days of my CCA, my friends and I will push each other to do our best. Some of my batch mates have also become some of the closest friends I will ever have. From this, I have realised that NCC is not just a CCA but also a place where I will build long lasting friendships. I have even managed to maintain and foster friendships with my juniors and seniors in the CCA. My seniors as taught me almost all the things that I have learnt in NCC, like my values and other life skills. As for my juniors in NCC, although I make sure they know that NCC is not a time to play and to be serious, after CCA I would go the extra mile to play a game of football with them to foster and build on our friendship. I will make sure that I can be someone that they will not fear but instead be someone that must be respected but also someone that they can have fun with and can confide in. NCC has also taught me values that has shaped me into what I am today. The core values of NCC, Loyalty to Country, uprightness, leadership, discipline, commitment and responsibility, care for fellow cadets, adventurous spirit, and safety, serves as my moral compass in life. Being a CCA leader in this CCA makes me want to do better every day. NCC has taught me to overcome any challenges that I might face, showing resilience and I will do my best to excel in everything that I do. This was really put to test during our weekly foot drills, I would always put in the effort to do my best. Even though sometimes the foot drills get hard and tiring I will still push on and not falter. Another way my resilience was tested was through the hard physical training. We would do many hard and gruelling activities that will really work our muscles as well as put our mental strength to the test, during these times I will push on and try my hardest. Another value that has helped me is discipline. Through the weekly foot drills, I have learnt discipline like eye discipline and not moving in a file. This has helped me in my everyday life as I would always think about my actions before I act and not do anything reckless. Being a CCA leader, I can safely say that I have learnt to be more assertive and braver to voice out my opinion. I remember back when I was in Secondary 1, I was a very timid boy who feared saying what’s on his mind and would be what is known as a ‘pushover’ but over the years in NCC, it has built my confidence in leading and serving others. I will definitely assure you that you will not regret choosing NCC as your CCA as I know that you will have a enjoyable and memorable yet a fulfilling and enriching time in this CCA.*<br>
+**– John Tan, Assistant Sergeant Major (3E2, 2023)**
