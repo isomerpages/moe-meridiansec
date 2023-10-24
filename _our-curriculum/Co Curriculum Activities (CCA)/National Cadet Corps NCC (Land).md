@@ -61,6 +61,26 @@ It is one of the country's oldest youth organisations, formed in 1901.
 	 |![NCC 2023 - CPR Course](/images/CCA/NCC/ncc_2023_05.jpg)|
 		|:---:|
 		|*Cadet Leaders learning new skills on CPR*|
+		
+	 |![NCC 2023 - Affirmation Ceremony](/images/CCA/NCC/ncc_2023_06.jpg)|
+		|:---:|
+		|*Junior Cadets participating at their Affirmation Ceremony*|
+		
+	 |![NCC 2023 - Promotion to 3SG](/images/CCA/NCC/ncc_2023_07.jpg)|
+		|:---:|
+		|*Cadet Leaders receiving their new 3rd Sergeant Rank*|
+		
+	 |![NCC 2023 - Camouflage](/images/CCA/NCC/ncc_2023_08.jpg)|
+		|:---:|
+		|Cadets in their Camouflage lesson|
+		
+	 |![NCC![NCC 2023 - Laser Run](/images/CCA/NCC/ncc_2023_10.jpg) 2023 - NDP](/images/CCA/NCC/ncc_2023_09.jpg)|
+		|:---:|
+		|*National Day Parade 2023*|
+		
+	 |![NCC 2023 - Laser Run](/images/CCA/NCC/ncc_2023_10.jpg)|
+		|:---:|
+		|*Our cadets participating in Laser Run*|
 
 #### Events from 2021 to 2022
 
