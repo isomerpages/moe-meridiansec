@@ -86,28 +86,28 @@ The Leaders Room serves as a dedicated space for Student Leaders to convene, col
 |Miss See Xin Er Evelyn|Teacher|
 |Ms Tan Hock Kiang Belinda|Teacher|
 
+
+
 ### Yearly Highlights
-#### 2023
+*  **2023**
 
-* Our Singapore Leadership Programme (OSLP) Shortlisted Participant – Gwenn Tan Yi En
-* National Youth Environment Conference 2023 – Delegates In Action (Ng Mun Heng Hazel)
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_12.jpg)
+    *  Our Singapore Leadership Programme (OSLP) Shortlisted Participant – Gwenn Tan Yi En
+    *  National Youth Environment Conference 2023 – Delegates In Action (Ng Mun Heng Hazel)
+      ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_12.jpg)
+    *  GoGreen SG
+      ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_13.jpg)
 
-* GoGreen SG
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_13.jpg)
+*  **2022**
 
-#### 2022
-* Our Singapore Leadership Programme (OSLP) Shortlisted Participant – Ng Shi Ying, Shannen
+    *  Our Singapore Leadership Programme (OSLP) Shortlisted Participant – Ng Shi Ying, Shannen
+    *  National Youth Environment Conference 2022 – Outstanding Delegate (Daphne Lim Huey Xin and Siti Aisyah Mahirah Binte Zulkifli)
+      ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_14.jpg)
+    *  National Cyber Wellness Advocacy Challenge (NCAC) 2022 Advocacy Module
+      ![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_15.jpg)
+    *  National Cyber Wellness Advocacy Challenge (NCAC) 2022 Enrichment Module
 
-* National Youth Environment Conference 2022 – Outstanding Delegate (Daphne Lim Huey Xin and Siti Aisyah Mahirah Binte Zulkifli)
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_14.jpg)
+*  **2021**
 
-* National Cyber Wellness Advocacy Challenge (NCAC) 2022 Advocacy Module
-![](/images/Uniquely%20Meridian/LLP%20Community%20Youth%20Leadership/llp_15.jpg)
-
-* National Cyber Wellness Advocacy Challenge (NCAC) 2022 Enrichment Module
-
-#### 2021
-* OPMUN 2022 Chair Training
-* OPMUN 2022 Delegates Involvement
-* Heartware Network Student Leader Trainings
+    *  OPMUN 2022 Chair Training
+    *  OPMUN 2022 Delegates Involvement
+    *  Heartware Network Student Leader Trainings
