@@ -56,7 +56,9 @@ Arts Day is an event that showcases students' artistic skills through performanc
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_06.jpg)
 
-### The ALP Team <br>
+### The ALP Team 
+<br>
+
 |Name|Designation|
 |---|---|
 |Ms Ong Yin Yin|Subject Head for Art <br>(Covering HOD Aesthetics)|
