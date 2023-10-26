@@ -28,13 +28,21 @@ The Choir actively performs in school events. Other performances include the Nat
 
 *   Ms Ho Lian-Ian
 
-<img src="/images/choir-01.jpg" style="width:50%">
+<img src="/images/CCA/Choir/choir-01.jpg" style="width:50%">
 		 
 Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in January 2022. She graduated with a Master of Music Studies from The University of Queensland, with specialisation in choral conducting. She is a seasoned Music Director and Conductor. She brings with her a vast wealth of experience in leading and developing school choirs in various primary and secondary schools. Over the years, she has successfully led numerous schools in achieving awards in local and international events, such as the Singapore Youth Festival Central Judging of Choirs, Singapore International Choral Festival and Hong Kong Winter Choral Festival. Ms Ho believes in building a strong foundation in music education through providing musical guidance and direction to choir members. She also advocates developing strong choir leaders and self-discipline among choir members, as well as creating an enjoyable learning environment during every choir session. With Ms Ho’s strong leadership, professional experience and accomplishments, we are working as a cohesive team to inspire and motivate our MSS Choir to reach new heights!
 
 
 
 ### Yearly Highlights
+
+* 2023
+  * **Singapore Youth Festival Arts Presentation 2023**
+  <br>  The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight of the year for the Choir, especially because many of us were participating in such an event for the very first time. It was certainly an occasion to remember as the Choir worked hard to reach vocal perfection after many months of relentless practice.  The transformation of the Choir was complete, from the first moments members received the scores for the various pieces to the moment they stepped on to the stage for their performance. The Choir presented three songs, namely:
+     *  Morning Rain
+     *  O Magnum Mysterium
+     *  The Goslings
+  * |
 
 The MSS Choir has established itself as a pivotal Performing Arts group in Meridian Secondary School with its track record of offering its members a comprehensive programme that promotes the holistic development of its members. Besides equipping its members with the technical skills of singing and developing their sense of musicality, the Choir also provides its members with a unique and valuable opportunity to experience the intricacies of working with a group of fellow musicians.
 
