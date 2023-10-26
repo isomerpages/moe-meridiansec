@@ -69,4 +69,6 @@ At Meridian Secondary, our library is not just a place to check out books; it's 
 4. **Technology Integration**: Our library embraces technology with a touch screen for you to browse the book titles at your own pace. 
 5. **Supportive Learning Environment**: The library is a place for not just individual study but also collaborative learning. It's a space where students can come together to share ideas, explore new horizons, and grow academically.
 
+![](/images/Departments/English/el_2023_library.jpg)
+
 We believe that a library should be a space that encourages curiosity, fuels creativity, and supports the intellectual growth of our students. Our lively and vibrant school library is here to empower you on your educational journey. Come, explore, and let your imagination soar at our library!
