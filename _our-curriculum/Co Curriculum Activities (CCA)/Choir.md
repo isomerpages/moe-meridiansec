@@ -4,62 +4,37 @@ permalink: /home/cca/visual-performing-arts/choir/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
-
-### About Us
-
-The Meridian Secondary School (MSS) Choir was formed in 1999 by the late Madam Ong Foon. The Choir aims to bring out the best in all members through rigorous training in vocal techniques and musicality. Opportunities are also given to develop students’ leadership skills. As a whole, MSS Choir provides students with avenues to develop their interpersonal skills when working together, and also areas to build their personal confidence and self-esteem when they perform regularly on stage. The Choir has grown to a proud strength of 60 singers. Since 2019, we have recruited male voices and are now a full SATB Choir (Sopranos, Altos, Tenors and Basses)!
+The Meridian Secondary School (MSS) Choir was formed in 1999 by the late Madam Ong Foon. The Choir aims to bring out the best in all members through rigorous training in vocal techniques and musicality. Opportunities are also given to develop students’ leadership skills. MSS Choir provides students with avenues to develop their interpersonal skills when working together, and areas to build their personal confidence and self-esteem when they perform regularly on stage. The Choir has grown to a proud strength of 60 singers. Since 2019, we have recruited male voices and are now a full SATB Choir (Sopranos, Altos, Tenors and Basses)!
 
 The Choir actively performs in school events. Other performances include the National Day Parade as part of the Combined Secondary School Choir, charitable concerts at Changi General Hospital, and Pasir Ris West CC events.
 
-* * *
+
 
 ### Schedule and Venue
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-92cm{background-color:#A6D3F7;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-92cm">Day</th>
-    <th class="tg-92cm">Time</th>
-    <th class="tg-92cm">Venue</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-a3j2">Tuesday</td>
-    <td class="tg-a3j2">2.45 pm to 5.15 pm</td>
-    <td class="tg-a3j2">Netball Court</td>
-  </tr>
-</tbody>
-</table>
+|Day|Time|Venue|
+|---|---|---|
+|Tuesday|2:30 pm to 5:30 pm| AVA and Leaders' Room|
+|Tuesday|2:30 pm to 5:30 pm| AVA and Leaders' Room|
 
 ### Teachers-in-charge
 
-*   Mdm Shermane Yeo
-*   Ms Astri
-*   Mr Cheong Kim Gin
-*   Mr Chou Cher Hoong
+* Miss Astri Nur Rissa Binte Abdul Razak 
+* Mr Cheong Kim Gin
+* Mr Chou Cher Hoong
+* Miss Jow Li Yan
 
 ### Instructor
 
 *   Ms Ho Lian-Ian
 
-<img src="/images/choir-01.jpg" 
-     style="width:20%">
+<img src="/images/choir-01.jpg" style="width:50%">
 		 
-Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in this year. She graduated with a Master of Music Studies from The University of Queensland, with specialisation in choral conducting. She is a seasoned Music Director and Conductor. She brings with her a vast wealth of experience in leading and developing school choirs in various primary and secondary schools. Over the years, she has successfully led numerous schools in achieving awards in local and international events, such as the Singapore Youth Festival Central Judging of Choirs, Singapore International Choral Festival and Hong Kong Winter Choral Festival. Ms Ho believes in building a strong foundation in music education through providing musical guidance and direction to choir members. She also advocates developing strong choir leaders and self-discipline among choir members, as well as creating an enjoyable learning environment during every choir session. With Ms Ho’s strong leadership, professional experience and accomplishments, we are working as a cohesive team to inspire and motivate our MSS Choir to reach new heights!
+Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in January 2022. She graduated with a Master of Music Studies from The University of Queensland, with specialisation in choral conducting. She is a seasoned Music Director and Conductor. She brings with her a vast wealth of experience in leading and developing school choirs in various primary and secondary schools. Over the years, she has successfully led numerous schools in achieving awards in local and international events, such as the Singapore Youth Festival Central Judging of Choirs, Singapore International Choral Festival and Hong Kong Winter Choral Festival. Ms Ho believes in building a strong foundation in music education through providing musical guidance and direction to choir members. She also advocates developing strong choir leaders and self-discipline among choir members, as well as creating an enjoyable learning environment during every choir session. With Ms Ho’s strong leadership, professional experience and accomplishments, we are working as a cohesive team to inspire and motivate our MSS Choir to reach new heights!
 
-* * *
 
-### Highlights
+
+### Yearly Highlights
 
 The MSS Choir has established itself as a pivotal Performing Arts group in Meridian Secondary School with its track record of offering its members a comprehensive programme that promotes the holistic development of its members. Besides equipping its members with the technical skills of singing and developing their sense of musicality, the Choir also provides its members with a unique and valuable opportunity to experience the intricacies of working with a group of fellow musicians.
 
@@ -80,17 +55,17 @@ Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to
 
 _**Training and Exposure**_
 
-*Concerts & Workshop*
+*Concerts &amp; Workshop*
 
 Choir aims to provide our members with a platform to develop their passion for singing through learning different genres of music and sing well with confidence while performing. What better to way is there to learn than by attending concerts and participating in related workshops? Members made use of the June and September school holidays to attend a concert, Nelson’s Voyage, held at the Victoria Concert Hall as well as participated in two workshops held under the auspice of the Voices of Singapore Festival 2022.
 
 ![](/images/choir-08.jpg)
 
-*Audio & Video Recording ~ Can You Feel The Love Tonight*
+*Audio &amp; Video Recording ~ Can You Feel The Love Tonight*
 
 To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight!
 
-<"video here">
+&lt;"video here"&gt;
 
 ![](/images/choir-11.jpg)
 
@@ -170,50 +145,22 @@ Our outgoing vice-president, Zhi En, recording his SYF piece and aiming for musi
 
 Choir students ventured into other musical talents which do not require singing, as the school adheres to the safety management measures. Here is a percussion workshop led by Ms Sng. Our students definitely have fun beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian Samba!
 
-### 2020
 
-– Performed for CNY
-
-– Performed during Sec 1 CCA selection day
-
-–  Joined virtual choir event “Night of Choirs” with a choir in Hungary.
-
-![](/images/c3.jpg)
-
-Our choir members serenading the secondary 1s during the CCA selection day (2020)
-
-![](/images/c4.jpg)
-
-Our choir members enjoying themselves during the sec 1s CCA selection day (2020).
-
-![](/images/c5.jpg)
-
-Meridian Choir singing their hearts out during the recent CNY celebrations (2020)
-
-![](/images/c6.jpg)
-
-Our dedicated Ms Tham training our choir members for the virtual choir over video conferencing.
-
-* * *
 
 **Our CCA Experience**
 
-<img src="/images/choir-02.jpg" 
-     style="width:50%">
+<img src="/images/choir-02.jpg" style="width:50%">
 
-_Because of Choir, I was able to grow and improve my confidence on stage. I have made numerous friends in Choir, with many supportive seniors and juniors. I have picked up many exciting new songs such as “A Million Dreams”, singing and enjoying them with my friends. I have most definitely improved my singing techniques._
+*Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.*<br>
+**– Eaty Shyam Sheetal, Student Conductor (3E4, 2023)**
 
-**– Eaty Shyam Sheetal, 2E4, 2022 (Assistant Section Leader)**
 
-<img src="/images/choir-03.jpg" 
-     style="width:50%">
+<img src="/images/choir-03.jpg" style="width:50%">
 		 
-_To me, Choir is not just a CCA, it is a time when I can relax, have fun, and learn at the same time. Choir is also a place where I get to make friends with people from other classes and levels. Through Choir, I have learnt to be a better team player and understand music better. I have joined the Choir with an open mind and am glad to be able to pick up quickly the music theory that our conductor has taught us. Choir also further enhanced my interest in music and singing._
-
+*I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!*<br>
 **– Lim Ming Hui Sonia 2E2, 2022**
 		 
-<img src="/images/choir-04.jpg" 
-     style="width:50%">
+<img src="/images/choir-04.jpg" style="width:50%">
 		 
 _I thought joining choir was just about singing but I was so wrong. I went in with an opened-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different races, languages, and cultures. It has been indeed an enriching experience._
 
