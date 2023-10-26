@@ -36,8 +36,8 @@ Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in 
 
 ### Yearly Highlights
 
-* 2023
-  * **Singapore Youth Festival Arts Presentation 2023**
+* 2023 <br>
+ **Singapore Youth Festival Arts Presentation 2023**
   <br>  The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight of the year for the Choir, especially because many of us were participating in such an event for the very first time. It was certainly an occasion to remember as the Choir worked hard to reach vocal perfection after many months of relentless practice.  The transformation of the Choir was complete, from the first moments members received the scores for the various pieces to the moment they stepped on to the stage for their performance. The Choir presented three songs, namely:
      *  Morning Rain
      *  O Magnum Mysterium
@@ -58,24 +58,35 @@ Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in 
   |![](/images/CCA/Choir/choir_2023_04.jpg)|
    |:---:|
    | *Getting due recognition for a job well done at our Viva La VPA!* |
+ 
+ **Schools Events &amp; Performances** 
+  <br>School events would never be complete without the Choir, which added much joy to the celebrations and festivities. This year, the Choir once again took the stage during the celebrations for Chinese New Year and National Day. The Choir also performed during the Meridian’s Arts Day.
+   
+|![](/images/CCA/Choir/choir_2023_05.jpg)|
+   |:---:|
+   | *Ushering in the Year of the Rabbits with energy in song!* |
+	 
+  |![](/images/CCA/Choir/choir_2023_06.jpg)|
+   |:---:|
+   | *Choir leading the school in songs to celebrate National Day.* |
+	 
 
 
-The MSS Choir has established itself as a pivotal Performing Arts group in Meridian Secondary School with its track record of offering its members a comprehensive programme that promotes the holistic development of its members. Besides equipping its members with the technical skills of singing and developing their sense of musicality, the Choir also provides its members with a unique and valuable opportunity to experience the intricacies of working with a group of fellow musicians.
 
-#### **2022**
 
-_**Sec 4 Values in Action – Showing Appreciation to Support Staff**_  
+* 2022 <br>
+**Sec 4 Values in Action – Showing Appreciation to Support Staff**  
 To show appreciation to our school’s non-teaching support staff for their hard work and dedicated service, as well as to bring joy, positivity and sense of community to them, our Sec 4 Choir members embarked on a VIA project to produce a video recording of the song “Evening Rise”. Kudos to our Sec 4s for their months of unyielding practice, rehearsals, and a wonderful studio recording!
 
-![](/images/choir-05-1.jpg)
+   ![](/images/CCA/Choir/choir-05-1.jpg)
 
-With detailed planning and preparations, Choir successfully executed a smooth Sec 1 CCA Experience-cum-Trial programme over a few weeks. Through lively and interesting presentations, interactions and trials, our members were able to fully engage the Sec 1s and pique their interest to joining Choir.
+  With detailed planning and preparations, Choir successfully executed a smooth Sec 1 CCA Experience-cum-Trial programme over a few weeks. Through lively and interesting presentations, interactions and trials, our members were able to fully engage the Sec 1s and pique their interest to joining Choir.
 
-![](/images/choir-06.jpg)
+  ![](/images/CCA/Choir/choir-06.jpg)
 
-Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to show their appreciation to their seniors and organised a most wonderous event. The seniors were pampered with food and snacks, and taken down the memory lane with games and quizzes. A big shout-out to Sec 4s for your leadership, your dedication and most importantly for your tender love and care of the juniors. You will be sorely missed!
+   Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to show their appreciation to their seniors and organised a most wonderous event. The seniors were pampered with food and snacks, and taken down the memory lane with games and quizzes. A big shout-out to Sec 4s for your leadership, your dedication and most importantly for your tender love and care of the juniors. You will be sorely missed!
 
-![](/images/choir-07-2.jpg)
+   ![](/images/CCA/Choir/choir-07-2.jpg)
 
 _**Training and Exposure**_
 
