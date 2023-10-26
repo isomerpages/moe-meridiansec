@@ -36,7 +36,7 @@ Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in 
 
 ### Yearly Highlights
 
-* 2023 <br>
+#### 2023
  **Singapore Youth Festival Arts Presentation 2023**
   <br>  The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight of the year for the Choir, especially because many of us were participating in such an event for the very first time. It was certainly an occasion to remember as the Choir worked hard to reach vocal perfection after many months of relentless practice.  The transformation of the Choir was complete, from the first moments members received the scores for the various pieces to the moment they stepped on to the stage for their performance. The Choir presented three songs, namely:
      *  Morning Rain
@@ -70,11 +70,8 @@ Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in 
    |:---:|
    | *Choir leading the school in songs to celebrate National Day.* |
 	 
+#### 2022
 
-
-
-
-* 2022 <br>
 **Sec 4 Values in Action – Showing Appreciation to Support Staff**  
 To show appreciation to our school’s non-teaching support staff for their hard work and dedicated service, as well as to bring joy, positivity and sense of community to them, our Sec 4 Choir members embarked on a VIA project to produce a video recording of the song “Evening Rise”. Kudos to our Sec 4s for their months of unyielding practice, rehearsals, and a wonderful studio recording!
 
@@ -88,37 +85,26 @@ To show appreciation to our school’s non-teaching support staff for their hard
 
    ![](/images/CCA/Choir/choir-07-2.jpg)
 
-_**Training and Exposure**_
 
-*Concerts &amp; Workshop*
-
+**Concerts &amp; Workshop** <br>
 Choir aims to provide our members with a platform to develop their passion for singing through learning different genres of music and sing well with confidence while performing. What better to way is there to learn than by attending concerts and participating in related workshops? Members made use of the June and September school holidays to attend a concert, Nelson’s Voyage, held at the Victoria Concert Hall as well as participated in two workshops held under the auspice of the Voices of Singapore Festival 2022.
 
-![](/images/choir-08.jpg)
+  ![](/images/CCA/Choir/choir-08.jpg)
 
-*Audio &amp; Video Recording ~ Can You Feel The Love Tonight*
+**Audio &amp; Video Recording ~ Can You Feel The Love Tonight** <br> To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight! <br> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/niQes5PBO34?si=gDrShFfYGvUzkoOF" height="315" width="560"></iframe>
 
-To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight!
+  ![](/images/CCA/Choir/choir-11.jpg)
+  ![](/images/CCA/Choir/choir-12.jpg)
+  ![](/images/CCA/Choir/choir-13.jpg)
 
-&lt;"video here"&gt;
-
-![](/images/choir-11.jpg)
-
-![](/images/choir-12.jpg)
-
-![](/images/choir-13.jpg)
-
-_**National Day performance**_  
-
+**National Day performance** <br>
 The highlight of this Term 3 was most definitely the National Day Celebrations where Choir finally had the chance to perform “live”. Choir was the first item of the day. With our rendition of “The Road Ahead”, Choir managed to engage the students and draw them into celebrating the nation’s birthday.
 
-![](/images/choir-09.jpg)
+![](/images/CCA/Choir/choir-09.jpg)
 
-_**Jubilate – Joint Concert with Band**_  
+**Jubilate – Joint Concert with Band**  <br> There is no better way to wrap up the year than a joint concert with Band. Jubilate – there were certainly good reasons to rejoice and celebrate our performance with a “live” audience in many years. It was certainly a feather in the cap, with parents here to witness the fruits of all the hours of hard work and practices. Well done, Choir!
 
-There is no better way to wrap up the year than a joint concert with Band. Jubilate – there were certainly good reasons to rejoice and celebrate our performance with a “live” audience in many years. It was certainly a feather in the cap, with parents here to witness the fruits of all the hours of hard work and practices. Well done, Choir!
-
-![](/images/choir-10.jpg)
+![](/images/CCA/Choir/choir-10.jpg)
 
 #### **2021**
 
