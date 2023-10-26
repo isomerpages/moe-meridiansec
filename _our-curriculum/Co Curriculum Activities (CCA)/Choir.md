@@ -42,7 +42,23 @@ Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in 
      *  Morning Rain
      *  O Magnum Mysterium
      *  The Goslings
-  * |
+   
+|![](/images/CCA/Choir/choir_2023_01.jpg)|
+   |:---:|
+   | *The size of the hall doesn’t daunt us. We shall fill it up with our voices and melodies.* |
+	 
+  |![](/images/CCA/Choir/choir_2023_02.jpg)|
+   |:---:|
+   | *One last rehearsal before showtime!* |
+   
+|![](/images/CCA/Choir/choir_2023_03.jpg)|
+   |:---:|
+   | *The joy of singing and performing when you know you are giving it your best shot!* |
+	 
+  |![](/images/CCA/Choir/choir_2023_04.jpg)|
+   |:---:|
+   | *Getting due recognition for a job well done at our Viva La VPA!* |
+
 
 The MSS Choir has established itself as a pivotal Performing Arts group in Meridian Secondary School with its track record of offering its members a comprehensive programme that promotes the holistic development of its members. Besides equipping its members with the technical skills of singing and developing their sense of musicality, the Choir also provides its members with a unique and valuable opportunity to experience the intricacies of working with a group of fellow musicians.
 
