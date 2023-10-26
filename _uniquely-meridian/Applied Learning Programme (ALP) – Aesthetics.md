@@ -63,6 +63,7 @@ Our school is proud to offer a state-of-the-art media room that empowers student
 
 Our media room is not just a space for technology; it's a space for imagination, storytelling, and expression. It's a place where students can turn their ideas into reality, whether it's producing a documentary, creating a movie, or delivering the news. We believe that nurturing these skills in our students prepares them for success in a media-driven world and encourages their creativity to flourish.
 
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_07.jpg)
 
 
 ### The ALP Team <br>
