@@ -1,24 +1,36 @@
 ---
-title: English Language &amp; Literature
+title: English Language & Literature
 permalink: /home/departments/english-literature/
 description: ""
 ---
-### Vision
-Students are competent readers, speakers and writers who are able to use the English Language to enrich their lives.
+### Our Approach
+Our department adopts a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.
 
-### Mission
-To equip students with competency and confidence in the English Language.
-<br>
-<br>
-### Approach to English Language Teaching
-Teachers adopt a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.
-
-Key Programmes
+### Key Programmes
 * Extensive Reading Programme
 * Meridian Speakers Programme
-* English Language and Literature Week
-<br>
-<br>
+
+### Department Teachers
+
+|Name|Designation|
+|---|---|
+|Ms Lin I Ju Yvonne|Head of Department|
+|Ms Norita Ali|School Staff Developer|
+|Ms Rosalind Lee|Lead Teacher for English Language|
+|Ms Moon Jia Yuan|Subject Head for English Language|
+|Ms Evonne Tham|Senior Teacher for English Language|
+|Ms Astri Nur Rissa Razak|Teacher|
+|Mrs Dawn Santa Maria|Teacher|
+|Mrs Yvonne Chng|Teacher|
+|Ms Veronica Lee|Teacher|
+|Mrs Sarala Thiyagarajan|Teacher|
+|Mdm Nordiana Daim|Teacher|
+|Mrs Vicki Choo|Teacher|
+|Mr Cheong Kim Gin|Teacher|
+|Mrs Dhanya Magadevan|Teacher|
+|Mr Lee Chin Han|Teacher|
+
+### Highlights
 
 #### Extensive Reading Programme - #MeridianReads
 At Meridian Secondary, we aim to awaken the inner reader in every Meridian. As the library is an oasis of knowledge and resources that opens up the imagination of our students, the English Language Department partnered the National Library Board in 2018 to revamp our school library.
@@ -37,35 +49,11 @@ To build a strong reading culture within our classrooms, we provided our Sec One
 			<p><img src="/images/EL-ERP-2.jpg"></p>
 			<br>
 			
-#### English Language &amp; Literature Week
-			
-To foster a love of the English Language in our students through different platforms and to celebrate the joy of reading and writing, the English Language &amp; Literature Week features a number of activities to nurture creativity among the students. For example, there is a Book Character Dress Up Day for students to dress up and represent a character from a book they have read. For the Lower Sec, we also have a Spelling Bee Competition, and for the Upper Sec, a Creative Writing Competition. The English Language &amp; Literature Week is always a buzzing week of exciting activities!
-			<p></p><figure>
-<img src="/images/EL05.jpg">
-<figcaption> <strong>Character Quiz</strong> </figcaption>
-</figure>
-<p></p>
-			<p></p><figure>
-<img src="/images/EL06.jpg">
-<figcaption> <strong>Character Dress Up</strong> </figcaption>
-</figure>
-<p></p>
-			<p></p><figure>
-<img src="/images/EL07.jpg">
-<figcaption> <strong>Poet for a Day</strong> </figcaption>
-</figure>
-<p></p>
-<br>
 
-#### Advanced Elective Module (AEM)
-During the March holidays, a group of selected Sec 3 students took part in Temasek Polytechnic’s Photojournalism and broadcasting module. They had fun learning the process in the creation of a radio programme. They fine-tuned their scripts, recorded their stinger, interviewed their guest and edited their podcast. Check out our Sec 3 students in action!<p></p>
-			<p><img src="/images/EL01.jpg"></p>
-			<p><img src="/images/EL02.jpg"></p>
- <br>
 	 
 #### Meridian Speakers Programme
 The Meridian Speakers Programme aims to develop confident and eloquent speakers who are able to command the attention of their audience. Despite the reduction of face-to-face public speaking events, our Meridian Speakers have pivoted to speak online by hosting school outreach sessions as well as e-Open Houses. At the same time, our team have developed our very own podcast, The Meridian Show!<p></p>
 			<p>Check out the speakers in action:</p>
 			<p><img src="/images/EL03.jpg"></p>
 			<p><img src="/images/EL04.jpg"></p>
-			<p><img src="/images/social-media.png"></p>
+			
