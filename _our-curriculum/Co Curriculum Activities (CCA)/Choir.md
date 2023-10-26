@@ -106,11 +106,12 @@ The highlight of this Term 3 was most definitely the National Day Celebrations w
 
 ![](/images/CCA/Choir/choir-10.jpg)
 
-#### **2021**
+
+#### 2021
 
 **Sing-a-Song**
 
-![](/images/c300521.jpg)
+![](/imagess/CCA/Choir/c300521.jpg)
 
 Our passionate Choir members took part in “Sing-a-Song”, a VIA project in collaboration with Pathlight school to encourage Pathlight students to read. It was truly an enjoyable experience singing and recording this sing along session while referring to the digital book.
 
@@ -124,64 +125,65 @@ Our student leaders, Zhi En (top photo), Axel, Isaiah, Ignatius and Emmarae, int
 
 **In-house Training Workshops**
 
-![](/images/c300527.jpg)
+![](/images/CCA/Choir/c300527.jpg)
 
 Our Secondary 4 student leaders carried out ice breaker activities to allow our Choir members to get to know one another better. In this photo and venue, we have Isaiah testing the Choir members on their musical knowledge using Kahoot.
 
-![](/images/c300528.jpg)
+![](/images/CCA/Choir/c300528.jpg)
 
 This is a workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Soundtrap and learnt how to make music together online. The seniors were able to engage the members well and went through a guided series of steps on how to create musical content like an artiste. In this photo, we have Emmarae, our outgoing president, and Jahnavi, Alto section leader.
 
-![](/images/c300529.jpg)
+![](/images/CCA/Choir/c300529.jpg)
 
 This is another workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Video Editing 101. The seniors were able to engage the members well and went through a guided series of steps on how to edit videos like a professional. In this photo, we have Zhi En, our outgoing vice-president, and Ignatius, our student conductor.
 
 **Makeup/Grooming for Music Video Creation**
 
-![](/images/c300533.jpg)
+![](/images/CCA/Choir/c300533.jpg)
 
 Our multi-talented Choir members, Elfa and Alya, leading a workshop to share with fellow members on face makeup and video taking techniques in preparations for VIA music video group project.
 
-![](/images/c300532.jpg)
+![](/images/CCA/Choir/c300532.jpg)
 
 Darshini eagerly trying out her makeup skills on Mia.
 
 **SYF recording**
 
-![](/images/c300531.jpg)
+![](/images/CCA/Choir/c300531.jpg)
 
 SYF Arts Presentation 2021 took on a different format this year. Our very dedicated teacher-in-charge Ms Jasmin Tan has been working hard recording our selected choristers who are taking part in the SYF. Here is our student conductor, Ignatius, recording his piece and working alongside our in-house sound engineer genius.
 
-![](/images/c300530.jpg)
+![](/images/CCA/Choir/c300530.jpg)
 
 This is Ernest, recording his SYF piece and being very focused in the process to ensure no mistakes will be made.
 
-![](/images/c300526.jpg)
+![](/images/CCA/Choir/c300526.jpg)
 
 Our outgoing vice-president, Zhi En, recording his SYF piece and aiming for musical perfection.
 
 **Percussion Workshop**
 
-![](/images/c300525.jpg)
+![](/images/CCA/Choir/c300525.jpg)
 
 Choir students ventured into other musical talents which do not require singing, as the school adheres to the safety management measures. Here is a percussion workshop led by Ms Sng. Our students definitely have fun beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian Samba!
 
 
 
-**Our CCA Experience**
+### Our CCA Experience
 
-<img src="/images/choir-02.jpg" style="width:50%">
+<img src="/images/CCA/Choir/choir-02.jpg" style="width:50%">
 
 *Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.*<br>
 **– Eaty Shyam Sheetal, Student Conductor (3E4, 2023)**
 
 
-<img src="/images/choir-03.jpg" style="width:50%">
+<img src="/images/CCA/Choir/choir-03.jpg" style="width:50%">
+
 *To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.*<br>
 **– Lim Ming Hui Sonia, President (3E4, 2024)**
 		 
 		 
-<img src="/images/choir-04.jpg" style="width:100%">
+<img src="/images/CCA/Choir/choir-04.jpg" style="width:100%">
 		 
 *I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!*<br>
 **– Chong Yong Yu, Student Conductor (4E1, 2023)**
