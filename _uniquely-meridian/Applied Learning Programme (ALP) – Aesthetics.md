@@ -56,6 +56,15 @@ Arts Day is an event that showcases students' artistic skills through performanc
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_06.jpg)
 
+
+### Our ALP Room
+
+Our school is proud to offer a state-of-the-art media room that empowers students to explore the world of multimedia production, from video creation to green screen magic. The heart of our media room is the cutting-edge equipment it houses. We have professional-grade cameras, camcorders, and accessories to ensure students have the tools they need for quality video production. Whether you're a beginner or an experienced videographer, you'll find the equipment you need to bring your creative vision to life. One of the standout features of our media room is the green screen studio. This studio is equipped with a large green screen backdrop, professional lighting, and chroma key technology, allowing students to transport themselves to any location or create fantastic visual effects for their videos. It's the perfect place to film weather forecasts, historical reenactments, or imaginative storytelling.
+
+Our media room is not just a space for technology; it's a space for imagination, storytelling, and expression. It's a place where students can turn their ideas into reality, whether it's producing a documentary, creating a movie, or delivering the news. We believe that nurturing these skills in our students prepares them for success in a media-driven world and encourages their creativity to flourish.
+
+
+
 ### The ALP Team <br>
 
 |Name|Designation|
