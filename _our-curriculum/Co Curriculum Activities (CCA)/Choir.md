@@ -109,16 +109,16 @@ The highlight of this Term 3 was most definitely the National Day Celebrations w
 
 #### 2021
 
-**Sing-a-Song**
+**Sing-a-Song**<br>
 ![](/images/CCA/Choir/c300521.jpg)
 Our passionate Choir members took part in “Sing-a-Song”, a VIA project in collaboration with Pathlight school to encourage Pathlight students to read. It was truly an enjoyable experience singing and recording this sing along session while referring to the digital book.
 
-**Sec 1 CCA Showcase**
+**Sec 1 CCA Showcase**<br>
 ![](/images/CCA/Choir/c300522.jpg)
 ![](/images/CCA/Choir/c300523.jpg)
 Our student leaders, Zhi En (top photo), Axel, Isaiah, Ignatius and Emmarae, introduced the Choir CCA to the Secondary 1 students during the Sec 1 CCA Showcase. One of the items shared to the Secondary 1 students was the Sing-a-Song VIA collaboration project, as shown on the projector screen.
 
-**In-house Training Workshops**
+**In-house Training Workshops**<br>
 ![](/images/CCA/Choir/c300527.jpg)
 Our Secondary 4 student leaders carried out ice breaker activities to allow our Choir members to get to know one another better. In this photo and venue, we have Isaiah testing the Choir members on their musical knowledge using Kahoot.
 
@@ -128,7 +128,7 @@ This is a workshop planned and conducted by our Secondary 4 student leaders. Cho
 ![](/images/CCA/Choir/c300529.jpg)
 This is another workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Video Editing 101. The seniors were able to engage the members well and went through a guided series of steps on how to edit videos like a professional. In this photo, we have Zhi En, our outgoing vice-president, and Ignatius, our student conductor.
 
-**Makeup/Grooming for Music Video Creation**
+**Makeup/Grooming for Music Video Creation**<br>
 ![](/images/CCA/Choir/c300533.jpg)
 Our multi-talented Choir members, Elfa and Alya, leading a workshop to share with fellow members on face makeup and video taking techniques in preparations for VIA music video group project.
 
