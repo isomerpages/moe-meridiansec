@@ -156,12 +156,11 @@ Choir students ventured into other musical talents which do not require singing,
 
 
 <img src="/images/choir-03.jpg" style="width:50%">
+*To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.*<br>
+**– Lim Ming Hui Sonia, President (3E4, 2024)**
+		 
+		 
+<img src="/images/choir-04.jpg" style="width:100%">
 		 
 *I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!*<br>
-**– Lim Ming Hui Sonia 2E2, 2022**
-		 
-<img src="/images/choir-04.jpg" style="width:50%">
-		 
-_I thought joining choir was just about singing but I was so wrong. I went in with an opened-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different races, languages, and cultures. It has been indeed an enriching experience._
-
-**– Chong Yong Yu, 3E1, 2022 (Student Conductor)**
+**– Chong Yong Yu, Student Conductor (4E1, 2023)**
