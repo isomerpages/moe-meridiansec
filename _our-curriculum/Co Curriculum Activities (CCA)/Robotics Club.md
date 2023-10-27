@@ -4,57 +4,40 @@ permalink: /home/cca/clubs-societies/robotics-club/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
+The Robotics Club was set up in March 2001 specifically as another avenue whereby our pupils could channel their creative and innovative energies. Currently, the club has evolved the knowledge to a few programs such as LEGO-EV3, LEGO- Spike, Micro Bit/Strawbees program and the recent Intel AI for Youth program. The club has also involved with glider making which was based on student interest to participate in the annual Singapore Amazing Flying Machine Competition in the last 6 years.
 
-### About Us
+The Robotics members are creative, inquisitive and passionate young people who have desire to learn the latest development of robotics technology which will benefit the environment and mankind. With strong foundation in STEM (Science, Technology, Engineering and Mathematics) coupled with good research and presentation skills, the Robotics Club members believed in being a holistic life-long students of the 21st century and gearing towards Smart nation.
 
-The Robotics Club was set up in March 2001 to allow our students to channel their creative and innovative energies. Currently, the club has evolved the knowledge to a few coding programs from MicroBit, Lego EV3 and the latest one, Lego Spike Prime. We also have an interest group who does coding Anaconda – Python and Cloud computing to make the Robotics sessions more inclusive and engaging.
-
-The Robotics members are creative, inquisitive, and enthusiastic young people who have desire to learn the latest development of robotics technology which will promote sustainability or green technology. With solid foundation in STEM (Science, Technology, Engineering and Mathematics) coupled with good research and presentation skills, the Robotics Club members believed in being a holistic life-long students of the 21st century and gearing towards Smart nation.
-
-* * *
 
 ### Schedule and Venue
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-92cm{background-color:#A6D3F7;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-92cm"><span style="font-weight:bold">Day</span></th>
-    <th class="tg-92cm"><span style="font-weight:bold">Time</span></th>
-    <th class="tg-92cm"><span style="font-weight:bold">Venue</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="background-color:#FFF">Tuesday</span></td>
-    <td class="tg-a3j2" rowspan="2"><span style="background-color:#FFF">2.50 pm to 5.00 pm</span></td>
-    <td class="tg-a3j2" rowspan="2"><span style="background-color:#FFF">IT Room 3 and Computer Laboratory 3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="background-color:#FFF">Thursday</span></td>
-  </tr>
-</tbody>
-</table>
+|Day|Time|Venue|
+|---|---|---|
+|Tuesday|2:30 pm to 4:30 pm|IT Room 3 and Computer Lab 3|
+|Thursday|2:30 pm to 5 pm|IT Room 3 and Computer Lab 3|
 
 ### Teachers-in-charge
 
 *   Mdm Siti Zaidah Abas
-*   Mr. Zaid Rudy Bin Mohamad Taib
-*   Ms. Yvonne Ng Ee Hong
+*   Mr Zaid Rudy Bin Mohamad Taib
+*   Ms Yvonne Ng Ee Hong
 
-* * *
 
-### Highlights
+### Yearly Highlights
 
-#### **2022**
+#### 2023
+These are the competitions and activities that our students have participated in.
+
+1.	Singapore Amazing Flying machine 2023
+2.	First Lego League 2023
+3.	National Robotics Competition 2023
+4.	Infocomm Media Club – Leadership workshops, conference.
+5.	VIA activities
+* Smart Ambassador in the national program, Healthier SG
+* TechSat : Teach underprivileged children to code and make artefacts using StrawBees and MicroBit
+
+
+#### 2022
 
 *   Sec 1 and 2 members were introduced to program and build the latest Lego robot – Spike Prime sets apart from the Lego EV3. Other soft skills that the members learnt are researching, presentation and video recording skills.
 
@@ -84,7 +67,7 @@ The Robotics members are creative, inquisitive, and enthusiastic young people wh
 
 <figure>
 <img src="/images/robotics-04.jpg" style="width:50%">
-	<figcaption><ul><li>Singapore Energy Grand Challenge 2021 (SEGC) – Qualified for the Semi-finals. Using Minecraft, the team designed how sustainability are implemented in Meridian Sec School in 2050.</li><li>Bootcamp Data Science in the AWS Cloud- Python Anaconda Coding – 2 teams participated in the 22-hour of Python Anaconda and Cloud computing.</li></ul></figcaption>
+	<figcaption><ul><li>Singapore Energy Grand Challenge 2021 (SEGC) – Qualified for the Semi-finals. Using Minecraft, the team&nbsp;designed how sustainability are implemented in Meridian Sec School&nbsp;in 2050.</li><li>Bootcamp Data Science in the AWS Cloud- Python Anaconda Coding – 2&nbsp;teams participated in the 22-hour of Python Anaconda and Cloud computing.</li></ul></figcaption>
 </figure>
 
 <figure>
@@ -107,7 +90,7 @@ _
 
 **– Chan Hao Yang, 3E3, 2022 (Chairman of Robotics Club 2022)**
 
-_When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._ _I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!  
+_When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._&nbsp;_I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!  
 _
 
 **– Seah Yang En, 3E3, 2022 (Vice Chairman of Robotics Club 2022)**
