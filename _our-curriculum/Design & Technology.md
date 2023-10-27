@@ -44,36 +44,16 @@ Pitching Session for D&amp;T Award
 
 #### 2022
 
-**Bridge-Building Competition for the Sec. 3 D&amp;T students**
-
+**Bridge-Building Competition for the Sec. 3 D&amp;T students**<br>
 Students applied the concepts that they had learnt in class to design and make a model bridge that can satisfy a given set of criteria. The competition offers the students a “real-world” experience and they got to witness how their bridges fared during the testing process.
-
-![](/images/DnT-01.jpg)
-
+![](/images/Departments/D&amp;T/DnT-01.jpg)
 
 
-##### 2021
+#### 2021
 
-**“Designing a Water Dispensing System” Competition for Lower Sec students**
+"Designing a Water Dispensing System” Competition for Lower Secondary students. Students were given the brief to design and make a water dispensing system to help to water the plants in the schools during the holidays.
+![](/images/Departments/D&amp;T/DnT-02.jpg)
 
-Students were given the brief to design and make a water dispensing system to help to water the plants in the schools during the holidays.
+Embarking on digital sketching with students’ personal learning devices (PLDs)<br>
+![](/images/Departments/D&amp;T/DnT-03.jpg)
 
-![](/images/DnT-02.jpg)
-
-**Embarking on digital sketching with students’ personal learning devices (PLDs)**
-
-![](/images/DnT-03.jpg)
-
-##### 2020
-
-**Lower Sec Design-and-Make projects**
-
-![](/images/DnT-04.jpg)
-
-##### 2019
-
-**D&amp;T Award 2019**
-
-Student Danish Qayyum Putra Shahrin A’s project (Boots Cleaning Kit) received “Adaption” Award
-
-![](/images/DnT-05.jpg)
