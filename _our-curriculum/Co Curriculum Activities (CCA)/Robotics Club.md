@@ -68,60 +68,14 @@ These are the competitions and activities that our students have participated in
 |*Prize presentation for Singapore Amazing Flying Machine 2022 and National Robotics Competition 2022*|
 
 
-<figure>
-<img src="/images/robotics-01.jpg">
-<figcaption>Singapore Amazing Flying Machine (SAFMC 2022) – Unpowered Glider and Radio Control categories. All four teams qualify for the Finals.</figcaption>
-</figure>
-
-<figure>
-<img src="/images/robotics-02.jpg">
-<figcaption>
-<ul><li>First Lego League (FLL 2022).</li><li>Singapore Grand Energy Challenge (Youth) 2022.</li><li>National Robotics Competition (NRC 2022) – All members participated in the World RoboMission and two teams managed to qualify for the Finals.</li></ul></figcaption>
-</figure>
-
-
-<figure>
-<img src="/images/robotics-03.jpg">
-<figcaption>Our VIA program includes assisting with the Code for Fun for all Sec 1 and 2 Meridians.
-</figcaption>
-</figure>
-
-#### 2021
-
-*   Singapore Amazing Flying Machine 2021 (SAFMC 2021) – Participated in the Unpowered Glider category. Achieved 2nd and 3rd placing in Most Creative and Aesthetic Award.
-
-
-
-<figure>
-<img src="/images/robotics-04.jpg" style="width:50%">
-	<figcaption><ul><li>Singapore Energy Grand Challenge 2021 (SEGC) – Qualified for the Semi-finals. Using Minecraft, the team&nbsp;designed how sustainability are implemented in Meridian Sec School&nbsp;in 2050.</li><li>Bootcamp Data Science in the AWS Cloud- Python Anaconda Coding – 2&nbsp;teams participated in the 22-hour of Python Anaconda and Cloud computing.</li></ul></figcaption>
-</figure>
-
-<figure>
-<img src="/images/robotics-05.jpg">
-<figcaption><ul><li>First Lego League 2021 (FLL)</li><li>National Robotic Competitions 2021 (NRC) – Participated in the WRO(Sec) and CoderZ categories.</li></ul></figcaption>
-</figure>
-
-#### 2020
-
-*   ITE Robotics Challenge 2020 – Participated in the three categories, Obstacle, Line Tracing and Creative
-*   MicroBit and StrawBees Workshop and Challenge
-*   National Robotics Competition 2020 – Participated in the World RoboMission (Open) category and CoderZ.
-
-* * *
 
 ### Our CCA Experience
 
-_In my three years of being in Robotics Club, I am glad to have great seniors who were patient in guiding me through the steps of coding even when I was still new, I am also truly fortunate to have friendly members in the CCA whom I can communicate with to build better experiences for the juniors in the CCA. Overall, Robotics was a great experience for me, throughout the time in Meridian.  
-_
-
+*In my three years of being in Robotics Club, I am glad to have great seniors who were patient in guiding me through the steps of coding even when I was still new, I am also truly fortunate to have friendly members in the CCA whom I can communicate with to build better experiences for the juniors in the CCA. Overall, Robotics was a great experience for me, throughout the time in Meridian.* <br>
 **– Chan Hao Yang, 3E3, 2022 (Chairman of Robotics Club 2022)**
 
-_When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._&nbsp;_I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!  
-_
-
+*When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._&nbsp;_I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!*<br>
 **– Seah Yang En, 3E3, 2022 (Vice Chairman of Robotics Club 2022)**
 
-_My experience in Robotics has been great, I have been able to experience a lot of new things for the first time. From interacting with my CCA mates to build and program robots, to even entering competitions with them, Robotics Club has provided me with many opportunities. I am forever grateful for the memories I have made in this CCA and I sincerely recommend everyone to give this CCA a shot._
-
+*My experience in Robotics has been great, I have been able to experience a lot of new things for the first time. From interacting with my CCA mates to build and program robots, to even entering competitions with them, Robotics Club has provided me with many opportunities. I am forever grateful for the memories I have made in this CCA and I sincerely recommend everyone to give this CCA a shot.*<br>
 **– Shine Min Hlaing, 3E4, 2022 (Vice Chairman of Robotics Club 2022)**
