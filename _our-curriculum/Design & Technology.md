@@ -5,20 +5,34 @@ description: ""
 ---
 ### Our Approach
 
-Our D&T curriculum includes a variety of learner-centred activities for our students to better understand concepts. There is a progression from teacher-controlled structured projects at Lower Sec to pupil-driven open-ended projects at Upper Sec.
+Our D&T curriculum includes a variety of learner-centred activities for our students to better understand concepts.  There is a progression from teacher-controlled structured projects at lower secondary to pupil-driven open-ended projects at upper secondary. 
 
-For our lower secondary curriculum, students will get to learn the skills required through specially crafted “Design-and-Make” projects. These projects are guided by the design process which entails identifying design needs from real-world experiences. We also focus on the development of students’ freehand sketching skills and students are also taught the techniques to generate ideas.  
-Students will acquire related knowledge and develop skills to turn ideas into reality which makes their learning meaningful.
+For our lower secondary curriculum, students will get to learn the skills required through specially crafted "Design-and-Make" projects.  These projects are guided by the design process which entails identifying design needs from real-world experiences.  Emphasis is being placed on the development of students’ freehand sketching skills and students are also taught the techniques to generate ideas.  Students will acquire related knowledge and develop skills to turn ideas into reality which makes their learning meaningful.  
 
-For the Secondary 3 level, the students will embark on project task which is pupil-driven open-ended project. Through this project, they will go through one trial run of the coursework requirements from journal to making of the mock-ups. During the process, they are required to conduct their own research and consolidate findings to solve real-world ill-defined problems.
+For the Secondary 3 level, the students will embark on project tasks which are pupil-driven open-ended project.  Through the projects, students are required to conduct their own research and consolidate findings to solve real-world ill-defined problems.
 
-Our D&T curriculum aims to help our students to grow the confidence in sketching and making to create and innovate. They will acquire the necessary skills to explore real world design opportunities and develop ideas to solve problems.
+Our D&T curriculum aims to help our students to grow the confidence in sketching and making to create and innovate.  They will acquire the necessary skills to explore real world design opportunities and develop ideas to solve problems.
 
-* * *
+### Department Teachers
 
-### Highlights
+|Name|Designation|
+|---|---|
+|Mrs Koh-Lee Y-Lyn Wendy|Subject Head for Design & Technology|
+|Ms Phang Yan See|Teacher|
+|Mr Poh Wei Khim Chris|Teacher|
+|Mr Zaid Rudy Mohamad Taib|Teacher|
+|Mr Abdul Jalil Bin Kasman|Education Workshop Instructor|
 
-##### 2022
+### Yearly Highlights
+
+#### 2023
+
+**STEM Challenge**
+Our D&T students displayed their creativity and problem-solving skills by participating in the STEM Playground Challenge organized by Singapore Science Centre and the James Dyson Foundation (JDF).
+
+
+
+#### 2022
 
 **Bridge-Building Competition for the Sec. 3 D&T students**
 
