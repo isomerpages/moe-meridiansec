@@ -91,7 +91,7 @@ Choir aims to provide our members with a platform to develop their passion for s
 
   ![](/images/CCA/Choir/choir-08.jpg)
 
-**Audio &amp; Video Recording ~ Can You Feel The Love Tonight** <br> To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight! <br> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/niQes5PBO34?si=gDrShFfYGvUzkoOF" height="315" width="560"></iframe>
+**Audio &amp; Video Recording ~ Can You Feel The Love Tonight** <br> To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight! <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/niQes5PBO34?si=gDrShFfYGvUzkoOF" height="315" width="560"></iframe><br>
 
   ![](/images/CCA/Choir/choir-11.jpg)
   ![](/images/CCA/Choir/choir-12.jpg)
