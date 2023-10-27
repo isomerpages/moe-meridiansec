@@ -27,7 +27,7 @@ To enhance their skills, the club organizes professional training sessions in ph
 ### Teachers-in-charge
 * Mr Jeffrey Low Kok Hua
 * Mdm Dewi Haryanti Hussein
-* Mr Tan Toon Wuay
+* Mr Tan Toong Wuay
 * Mdm Marini Bte Hassan
 
 ### Instructor

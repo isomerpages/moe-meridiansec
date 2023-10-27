@@ -29,8 +29,7 @@ For students who have a passion for the Arts, our ALP in Aesthetics offers an ex
 
 ### Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme
 
-Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts,
-students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
+Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts, students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_04.jpg)
 
@@ -56,6 +55,16 @@ Arts Day is an event that showcases students' artistic skills through performanc
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_06.jpg)
 
+
+### Our ALP Room
+
+Our school is proud to offer a state-of-the-art media room that empowers students to explore the world of multimedia production, from video creation to green screen magic. The heart of our media room is the cutting-edge equipment it houses. We have professional-grade cameras, camcorders, and accessories to ensure students have the tools they need for quality video production. Whether you're a beginner or an experienced videographer, you'll find the equipment you need to bring your creative vision to life. One of the standout features of our media room is the green screen studio. This studio is equipped with a large green screen backdrop, professional lighting, and chroma key technology, allowing students to transport themselves to any location or create fantastic visual effects for their videos. It's the perfect place to film weather forecasts, historical reenactments, or imaginative storytelling.
+
+Our media room is not just a space for technology; it's a space for imagination, storytelling, and expression. It's a place where students can turn their ideas into reality, whether it's producing a documentary, creating a movie, or delivering the news. We believe that nurturing these skills in our students prepares them for success in a media-driven world and encourages their creativity to flourish.
+
+![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_07.jpg)
+
+
 ### The ALP Team <br>
 
 |Name|Designation|
@@ -64,6 +73,8 @@ Arts Day is an event that showcases students' artistic skills through performanc
 |Miss Tan Jiemin Jasmin|Subject Head for Student Leadership|
 |Ms Moon Jia Yuan|Subject Head for English Language|
 |Ms Ong Swee Lian Amy|Subject Head for Nutrition &amp; Food Sciences|
-|Mr Mei Yung Jian|Art Teacher|
-|Mdm Norzalina Bohari|Art Teacher|
-|Mr Tay Zhiyong|Art Teacher|
+|Mr Mei Yung Jian|Teacher|
+|Mdm Norzalina Bohari|Teacher|
+|Mr Tay Zhiyong|Teacher|
+|Mr Low Kok Hua Jeffrey|Teacher|
+|Mdm Wang Dan|Teacher|

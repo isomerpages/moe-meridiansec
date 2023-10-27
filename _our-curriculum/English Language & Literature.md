@@ -1,71 +1,74 @@
 ---
-title: English Language &amp; Literature
+title: English Language & Literature
 permalink: /home/departments/english-literature/
 description: ""
 ---
-### Vision
-Students are competent readers, speakers and writers who are able to use the English Language to enrich their lives.
+### Our Approach
+Our department adopts a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.
 
-### Mission
-To equip students with competency and confidence in the English Language.
-<br>
-<br>
-### Approach to English Language Teaching
-Teachers adopt a systematic approach to teaching language skills with an emphasis on grammar and spoken English, using rich texts and a variety of language resources to help students achieve effective use of English.
-
-Key Programmes
+### Key Programmes
 * Extensive Reading Programme
 * Meridian Speakers Programme
-* English Language and Literature Week
-<br>
-<br>
+
+### Department Teachers
+
+|Name|Designation|
+|---|---|
+|Ms Lin I Ju Yvonne|Head of Department|
+|Ms Norita Ali|School Staff Developer|
+|Ms Rosalind Lee|Lead Teacher for English Language|
+|Ms Moon Jia Yuan|Subject Head for English Language|
+|Ms Evonne Tham|Senior Teacher for English Language|
+|Ms Astri Nur Rissa Razak|Teacher|
+|Mrs Dawn Santa Maria|Teacher|
+|Mrs Yvonne Chng|Teacher|
+|Ms Veronica Lee|Teacher|
+|Mrs Sarala Thiyagarajan|Teacher|
+|Mdm Nordiana Daim|Teacher|
+|Mrs Vicki Choo|Teacher|
+|Mr Cheong Kim Gin|Teacher|
+|Mrs Dhanya Magadevan|Teacher|
+|Mr Lee Chin Han|Teacher|
+
+### Highlights
 
 #### Extensive Reading Programme - #MeridianReads
 At Meridian Secondary, we aim to awaken the inner reader in every Meridian. As the library is an oasis of knowledge and resources that opens up the imagination of our students, the English Language Department partnered the National Library Board in 2018 to revamp our school library.
-			<p><img src="/images/e1.png"></p>
-			<p><img src="/images/e2.png"></p>
-			<p><img src="/images/e3.png"></p>
-			<p><img src="/images/e4.png"></p>
-			<p><img src="/images/e5.png"></p>
+![](/images/Departments/English/e1.png)
+![](/images/Departments/English/e2.png)
+![](/images/Departments/English/e3.png)
+![](/images/Departments/English/e4.png)
+![](/images/Departments/English/e5.png)
 
-Our teachers are reading models who promote extensive reading by giving Meridians the time, encouragement and books to read pleasurably, at their own level.<br>
+Our teachers are reading models who promote extensive reading by giving Meridians the time, encouragement and books to read pleasurably, at their own level.
 
 We have a wide range of activities to encourage reading in our students this year. On top of regular visits to the library during curriculum time, activities include ‘Redesign a Book Cover’, ‘Book Fairy Giveaway’, ‘Go on a Blind Date with a Book’, ‘Print to Reel’, ‘Book Recommendation for you’.&nbsp; Lower Secondary students can look forward to attaining the “Best Reader Award” by completing their reading logs as well.
-			<p><img src="/images/EL-ERP-1.jpg"></p>
+
+![](/images/Departments/English/EL-ERP-1.jpg)
 
 To build a strong reading culture within our classrooms, we provided our Sec One classes with a classroom library each. They can customise their own classroom library and pick up the habit of reading through a good book selection.
-			<p><img src="/images/EL-ERP-2.jpg"></p>
-			<br>
-			
-#### English Language &amp; Literature Week
-			
-To foster a love of the English Language in our students through different platforms and to celebrate the joy of reading and writing, the English Language &amp; Literature Week features a number of activities to nurture creativity among the students. For example, there is a Book Character Dress Up Day for students to dress up and represent a character from a book they have read. For the Lower Sec, we also have a Spelling Bee Competition, and for the Upper Sec, a Creative Writing Competition. The English Language &amp; Literature Week is always a buzzing week of exciting activities!
-			<p></p><figure>
-<img src="/images/EL05.jpg">
-<figcaption> <strong>Character Quiz</strong> </figcaption>
-</figure>
-<p></p>
-			<p></p><figure>
-<img src="/images/EL06.jpg">
-<figcaption> <strong>Character Dress Up</strong> </figcaption>
-</figure>
-<p></p>
-			<p></p><figure>
-<img src="/images/EL07.jpg">
-<figcaption> <strong>Poet for a Day</strong> </figcaption>
-</figure>
-<p></p>
-<br>
 
-#### Advanced Elective Module (AEM)
-During the March holidays, a group of selected Sec 3 students took part in Temasek Polytechnic’s Photojournalism and broadcasting module. They had fun learning the process in the creation of a radio programme. They fine-tuned their scripts, recorded their stinger, interviewed their guest and edited their podcast. Check out our Sec 3 students in action!<p></p>
-			<p><img src="/images/EL01.jpg"></p>
-			<p><img src="/images/EL02.jpg"></p>
- <br>
+![](/images/Departments/English/EL-ERP-2.jpg)
+
+			
 	 
 #### Meridian Speakers Programme
-The Meridian Speakers Programme aims to develop confident and eloquent speakers who are able to command the attention of their audience. Despite the reduction of face-to-face public speaking events, our Meridian Speakers have pivoted to speak online by hosting school outreach sessions as well as e-Open Houses. At the same time, our team have developed our very own podcast, The Meridian Show!<p></p>
-			<p>Check out the speakers in action:</p>
-			<p><img src="/images/EL03.jpg"></p>
-			<p><img src="/images/EL04.jpg"></p>
-			<p><img src="/images/social-media.png"></p>
+The Meridian Speakers Programme aims to develop confident and eloquent speakers who are able to command the attention of their audience. Despite the reduction of face-to-face public speaking events, our Meridian Speakers have pivoted to speak online by hosting school outreach sessions as well as e-Open Houses. At the same time, our team have developed our very own podcast, The Meridian Show!
+
+Check out the speakers in action:
+
+![](/images/Departments/English/EL03.jpg)
+![](/images/Departments/English/EL04.jpg)
+
+#### Our Library
+At Meridian Secondary, our library is not just a place to check out books; it's a hub of knowledge, creativity, and imagination. Our school library is a dynamic and vibrant space that fosters a love for learning and reading. Here's what you can expect when you step into our library:
+
+1. **A Welcoming Atmosphere**: As you enter our library, you'll be greeted by warm colours, comfortable seating, and natural light that creates an inviting and comfortable environment. Our friendly librarian is always ready to assist you.
+2. **Extensive Collection**: Our library boasts a diverse and extensive collection of books, from classic literature to the latest bestsellers. 
+3. **Reading Nooks**: Cozy reading nooks with plush chairs, and soft cushions provide the perfect spot to dive into a good book, whether you're studying, doing research, or simply enjoying a novel.
+4. **Technology Integration**: Our library embraces technology with a touch screen for you to browse the book titles at your own pace. 
+5. **Supportive Learning Environment**: The library is a place for not just individual study but also collaborative learning. It's a space where students can come together to share ideas, explore new horizons, and grow academically.
+
+![](/images/Departments/English/el_2023_library.jpg)
+
+We believe that a library should be a space that encourages curiosity, fuels creativity, and supports the intellectual growth of our students. Our lively and vibrant school library is here to empower you on your educational journey. Come, explore, and let your imagination soar at our library!

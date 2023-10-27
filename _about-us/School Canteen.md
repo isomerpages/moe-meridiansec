@@ -5,11 +5,14 @@ description: ""
 ---
 ## School Canteen Advertisement 
 
-**Type of Stall**: Chinese Mixed Rice Stall.
 
-**Closing Date**: 14 Jul 2023
+Meridian Secondary School would like to invite interested applicants to operate the following stalls in our college canteen with effect from 2 January 2024. 
 
-**Requirements**: Chicken rice is acceptable.&nbsp;&nbsp;&nbsp; 
+|Type of Stall|Requirement|
+|---|---|
+|Hot Beverages and Snacks|Halal|
+|Chinese/Korean Chicken Rice and Porridge|Non-halal|
+|Mee Goreng/Bee Hoon/Kuay Teow/Macaroni|Halal|
 
 
 ### Application Procedure
@@ -24,8 +27,11 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 * Address: 31 Pasir Ris Street 51 S518901
 * Contact No: 65831387
-* Email: sam_meng_chong@moe.edu.sg
-* Contact Person: Mr Sam
+* Email: [meridian_sec@moe.edu.sg](mailto:meridian_sec@moe.edu.sg)
+* Contact Persons:<br>         
+  * Mr Sam Meng Chong (Operation Manager) 
+  * Mr Chandramohan Arumugam (Operation Manager)
+
 
 ### How to get there to Meridian Secondary School?
 
@@ -44,14 +50,12 @@ description: ""
 * Able to maintain high standard of food safety and personal hygiene.
 
 * Healthy and fit to operate the stall.
+* School/Catering experience preferred.
+* Successful applicant must personally operate the stall during canteen operation hours.
+* Proposed menu with price list must be attached to the application form for our consideration.
+* Successful candidates (and their helpers) will have to register and pass the Basic Food Hygiene Course (WSQ BFHC) and then apply for a food stall license from Singapore Food Agency (SFA).
 
-### Applicants should preferably fulfill the following criteria:
 
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-
-* Possess catering experience or experience operating in a school environment.
-
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
