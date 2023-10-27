@@ -56,4 +56,3 @@ Students applied the concepts that they had learnt in class to design and make a
 
 Embarking on digital sketching with students’ personal learning devices (PLDs)<br>
 ![](/images/Departments/D&amp;T/DnT-03.jpg)
-
