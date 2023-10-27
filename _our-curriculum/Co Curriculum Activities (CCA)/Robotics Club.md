@@ -26,20 +26,39 @@ The Robotics members are creative, inquisitive and passionate young people who h
 ### Yearly Highlights
 
 #### 2023
-These are the competitions and activities that our students have participated in.
+These are the competitions and activities that our students have participated in 2023.
 
 1.	Singapore Amazing Flying machine 2023
 2.	First Lego League 2023
 3.	National Robotics Competition 2023
-4.	Infocomm Media Club – Leadership workshops, conference.
+4.	Infocomm Media Club – Leadership workshops, conference
 5.	VIA activities
 * Smart Ambassador in the national program, Healthier SG
 * TechSat : Teach underprivileged children to code and make artefacts using StrawBees and MicroBit
 
+|![](/images/CCA/Robotics/robotics_2023_01.jpg)|
+|:---:|
+|*First Lego League 2023*|
+
+|![](/images/CCA/Robotics/robotics_2023_02.jpg)|
+|:---:|
+|*Singapore Amazing Flying Machine Competition 2023*|
+
+|![](/images/CCA/Robotics/robotics_2023_03.jpg)|
+|:---:|
+|*National Robotics Competition 2023*|
+
 
 #### 2022
 
-*   Sec 1 and 2 members were introduced to program and build the latest Lego robot – Spike Prime sets apart from the Lego EV3. Other soft skills that the members learnt are researching, presentation and video recording skills.
+These are the competitions and activities that our students have participated in 2022.
+
+1.	Singapore Amazing Flying machine 2022
+2.	First Lego League 2022
+3.	National Robotics Competition 2022
+4.  Singapore Energy Grand Challenge 2022
+5.	Infocomm Media Club – Leadership workshops
+
 
 <figure>
 <img src="/images/robotics-01.jpg">
