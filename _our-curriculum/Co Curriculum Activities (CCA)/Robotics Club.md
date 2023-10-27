@@ -28,7 +28,7 @@ The Robotics members are creative, inquisitive and passionate young people who h
 #### 2023
 These are the competitions and activities that our students have participated in 2023.
 
-1.	Singapore Amazing Flying machine 2023
+1.	Singapore Amazing Flying Machine 2023
 2.	First Lego League 2023
 3.	National Robotics Competition 2023
 4.	Infocomm Media Club – Leadership workshops, conference
@@ -53,11 +53,19 @@ These are the competitions and activities that our students have participated in
 
 These are the competitions and activities that our students have participated in 2022.
 
-1.	Singapore Amazing Flying machine 2022
+1.	Singapore Amazing Flying Machine 2022
 2.	First Lego League 2022
 3.	National Robotics Competition 2022
 4.  Singapore Energy Grand Challenge 2022
 5.	Infocomm Media Club – Leadership workshops
+
+|![](/images/CCA/Robotics/robotics_2023_04.jpg)|
+|:---:|
+|*First Lego League 2022*|
+
+|![](/images/CCA/Robotics/robotics_2023_05.jpg)|
+|:---:|
+|*Prize presentation for Singapore Amazing Flying Machine 2022 and National Robotics Competition 2022*|
 
 
 <figure>
