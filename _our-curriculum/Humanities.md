@@ -33,9 +33,9 @@ Assessment in the Humanities curriculum includes Assessment for Learning and Ass
 
 
 ### Highlights
-#### Sec 1 History Enrichment Programme - Learning Journey to Fort Canning
+#### Developing Geographical knowledge and skills
 
-Students learn best when they are involved and this field trip offers them an ideal opportunity for experiential learning. The learning journey to Fort Canning enabled the students to understand and appreciate the 700 years of Singapore’s recorded existence, which they visualised and presented in the form of sketches.<p></p>
+Through the study of Geography, we strive to develop our students into confident persons who are discerning in judgment, able to think independently and critically and communicate effectively. He/ She is also a self-directed learner and an active contributor who is able to work in teams and strives for excellence. In Meridian, fieldwork activities is one platform where such attributes are nurtured. In teams, students are actively engaged in inquiry related to their chosen environmental issue. They formulate hypotheses, collect, analyse and present data collected using appropriate presentation tools. Our lower secondary students had investigated issues related to tropical forests and housing while upper secondary students had focussed on neighbourhood and tourism in Singapore. For greater exposure and application of their learning, students also participate in national competitions.<p></p>
 	<img src="/images/humanities%201.png" style="width:65%">
 <br>
 
