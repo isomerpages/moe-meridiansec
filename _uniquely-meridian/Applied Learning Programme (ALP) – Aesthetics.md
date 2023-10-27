@@ -29,8 +29,7 @@ For students who have a passion for the Arts, our ALP in Aesthetics offers an ex
 
 ### Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme
 
-Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts,
-students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
+Our two-tiered programme is designed to help students connect their knowledge and skills in arts with the real world. By participating in activities and platforms that promote a deeper appreciation of the arts, students will gain a better understanding of its value and develop newfound conﬁdence in communicating through the arts. Not only that, but our programme also aims to develop 21st Century Competencies among students, while providing opportunities for them to showcase their artistic abilities.
 
 ![](/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_04.jpg)
 
@@ -74,6 +73,8 @@ Our media room is not just a space for technology; it's a space for imagination,
 |Miss Tan Jiemin Jasmin|Subject Head for Student Leadership|
 |Ms Moon Jia Yuan|Subject Head for English Language|
 |Ms Ong Swee Lian Amy|Subject Head for Nutrition &amp; Food Sciences|
-|Mr Mei Yung Jian|Art Teacher|
-|Mdm Norzalina Bohari|Art Teacher|
-|Mr Tay Zhiyong|Art Teacher|
+|Mr Mei Yung Jian|Teacher|
+|Mdm Norzalina Bohari|Teacher|
+|Mr Tay Zhiyong|Teacher|
+|Mr Low Kok Hua Jeffrey|Teacher|
+|Mdm Wang Dan|Teacher|
