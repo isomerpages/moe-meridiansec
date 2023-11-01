@@ -10,10 +10,10 @@ Meridian Secondary School would like to invite interested applicants to operate 
 
 |Type of Stall|Requirement|
 |---|---|
-|Hot Beverages and Snacks|Halal|
 |Chinese/Korean Chicken Rice and Porridge|Non-halal|
 |Mee Goreng/Bee Hoon/Kuay Teow/Macaroni|Halal|
 
+All applications must be submitted by **Mon, 13 Nov 2023**.
 
 ### Application Procedure
 
