@@ -14,6 +14,7 @@ The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October 2022. Du
 
 
 ### The Care Team<br>
+
 |Name|Designation|
 |---|---|
 |Mr Abu Bakar Bin Agil|Special Educational Needs Officer (SENO)|
@@ -21,6 +22,7 @@ The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October 2022. Du
 |Mr Mohammad Azmi Bin Ismail|Student Welfare Officer (SWO)|
 |Ms Wendy Lauw Mei Ling|School Counsellor (SC)|
 |Mr Shu Shi Rong|School Counsellor (SC)|
+
 
 ### Yearly Highlight
 Several nature-based workshops were conducted for our students using the natural materials from the garden. We have received many positive feedback from students. Many has expressed their interests to participate in future therapeutic workshops. 
