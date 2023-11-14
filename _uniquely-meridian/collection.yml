@@ -2,7 +2,6 @@ collections:
   uniquely-meridian:
     output: true
     order:
-      - Woopsie Daisie – Horticultural Therapy Garden.md
       - Applied Learning Programme (ALP) – Aesthetics.md
       - Design Thinking.md
       - Internationalisation Programme.md
@@ -12,3 +11,4 @@ collections:
       - Level Themes/Sec 2 Team Learning and Empathy.md
       - Level Themes/Sec 3 Leading With Care.md
       - Level Themes/Sec 4 and 5 Personal Mastery.md
+      - Woopsie Daisie – Horticultural Therapy Garden.md
