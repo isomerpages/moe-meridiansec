@@ -13,7 +13,7 @@ The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October 2022. Du
 ![](/images/Uniquely%20Meridian/Woopsie%20Daise/Care_01.jpg)
 
 
-### The Care Team
+### The Care Team<br>
 |Name|Designation|
 |---|---|
 |Mr Abu Bakar Bin Agil|Special Educational Needs Officer (SENO)|
