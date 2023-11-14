@@ -10,6 +10,8 @@ The objective of building the garden is to provide nature-based intervention sup
 
 The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October 2022. During the meaningful event, our students shared their experience on how the garden has helped them and parents as well as the SAC members also planted daisies in the garden as part of the opening ceremony. 
 
+![](/images/Uniquely%20Meridian/Woopsie%20Daise/Care_01.jpg)
+
 
 ### The Care Team
 |Name|Designation|
@@ -24,7 +26,9 @@ The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October 2022. Du
 Several nature-based workshops were conducted for our students using the natural materials from the garden. We have received many positive feedback from students. Many has expressed their interests to participate in future therapeutic workshops. 
 
 #### 2023
+![](/images/Uniquely%20Meridian/Woopsie%20Daise/Care_2023_01.jpg)
 The school collaborated with Wild Dot to organize a 2-day workshop called the Living with Colours. Students were able to make their own colours using the natural materials from the garden and explore their artistic side by painting on their blank canvas. Students thoroughly enjoyed this workshop as they get to discover colours through unconventional method which make this workshop unique and interesting for them. 
 
 #### 2022
-For many, this was their first time getting in touch with nature. They used their 5 senses to create their very own Terrarium. Students enjoyed getting their hands dirty while decorating their jar. At the end of the workshop, many left feeling happy and satisfied with their final product. 
+![](/images/Uniquely%20Meridian/Woopsie%20Daise/Care_2022_01.jpg)
+For many, this was their first time getting in touch with nature. They used their 5 senses to create their very own Terrarium. Students enjoyed getting their hands dirty while decorating their jar. At the end of the workshop, many left feeling happy and satisfied with their final product.
