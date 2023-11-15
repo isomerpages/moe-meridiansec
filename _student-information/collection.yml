@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - The Meridian Student Leadership Challenge Guidebook.md
       - Full Subject–Based Banding (Full SBB).md
       - e–Student Handbook and School Letter.md
       - Student Timetable.md
