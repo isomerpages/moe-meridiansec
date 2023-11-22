@@ -39,7 +39,7 @@ sections:
       description: Missed our e-Open House on 20 November? Click below to access the
         recording of the e-Open House.
       button: FIND OUT MORE
-      url: e-open-house-recording
+      url: /e-open-house-recording
       image: /images/Homepage and Logos/open house poster.jpg
       alt: Image alt text
   - infopic:
