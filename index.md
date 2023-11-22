@@ -4,8 +4,9 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: Register for our e-Open House and Campus Tour at
-  https://go.gov.sg/mssexperience23
+notification: Our School is open daily from 9am to 3pm till 29 Nov for school
+  tour. Do drop by for a free & easy walk around the school to take a look at
+  our facilities.
 sections:
   - hero:
       title: Meridian Secondary School
@@ -21,14 +22,16 @@ sections:
           description: Click here for access to portals/resources
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
+      variant: center
   - infopic:
-      title: e-Open House & Campus Tour
+      title: School Tour
       id: infopic
-      description: We are having our e-Open House and Campus Tour in November. Click
-        below to find out more on how you can register for the events.
+      description: Miss our e-Open House or Campus Tour? Don’t worry!  You can still
+        drop by for a free & easy walk around the school to take a look at our
+        facilities!
       button: FIND OUT MORE
-      url: /open-house-and-campus-tour/
-      image: /images/Homepage and Logos/open house poster.jpg
+      url: /school-tour
+      image: /images/Homepage and Logos/School_Tour_2023_Poster.jpeg
       alt: e-Open House Poster
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
