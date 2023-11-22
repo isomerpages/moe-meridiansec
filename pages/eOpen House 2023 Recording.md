@@ -1,6 +1,6 @@
 ---
 title: eOpen House 2023 Recording
 permalink: /e-open-house-recording/
-variant: tiptap
+variant: markdown
 description: ""
 ---
