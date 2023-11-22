@@ -34,6 +34,15 @@ sections:
       image: /images/Homepage and Logos/School_Tour_2023_Poster.jpeg
       alt: e-Open House Poster
   - infopic:
+      title: e-Open House
+      id: infopic
+      description: Missed our e-Open House on 20 November? Click below to access the
+        recording of the e-Open House.
+      button: FIND OUT MORE
+      url: e-open-house-recording
+      image: /images/Homepage and Logos/open house poster.jpg
+      alt: Image alt text
+  - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
         Banding for our Secondary 1 students from 2023.
