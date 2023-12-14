@@ -1,0 +1,8 @@
+---
+title: Secondary 1 Posting & Registration Information
+permalink: /student-information/2024-sec-1-registration/secondary-1-registration/
+description: ""
+third_nav_title: 2024 Secondary 1 Registration
+variant: tiptap
+---
+<p>Dear Parents/Guardian and Secondary 1 Students,</p><p>Welcome to our Meridian Family. The school would like to extend a warm welcome to all Secondary 1 students and parents.</p><p>Registration and all application will be done online, hence you and your child/ware are <strong>not required</strong> to report in person to Meridian Secondary School following the release of S1 Posting Results.</p><p>On this page, you will find relevant information that will be useful for you as you and child to begin your Meridian journey with us.</p><p></p><ol data-tight="true" class="tight"><li><p><strong>e-Registration Form</strong></p><p>We would like you to complete the following form as the information gathered would be used for our Secondary 1 Orientation Programme and other administrative purposes.</p><p>The online registration will open on Registration Day, <strong>21 December 2023 (Thursday), 8am</strong>.</p><p>It is compulsory for parents/guardians to complete the online registration. Please complete this form by <strong>26 December 2023 (Tuesday), 5pm</strong>.</p><p></p></li><li><p><strong>Purchase of School Uniform and Textbooks</strong></p><p>Click on the following links for the Sec 1 booklist and instructions for the purchase of textbooks and uniform.</p><p><a href="/files/Booklists/meridian secondary school booklist 2024 - sec 1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a></p><p></p><p></p></li><li><p>sd</p></li><li><p></p></li></ol><p></p><p></p>
