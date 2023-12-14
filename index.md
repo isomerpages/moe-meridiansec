@@ -28,8 +28,7 @@ sections:
         information to begin your journey with Meridian.
       button: Online Registration
       url: /school-tour
-      image: /images/Homepage and Logos/School_Tour_2023_Poster.jpeg
-      alt: e-Open House Poster
+      image: /images/Homepage and Logos/students in circle.jpg
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
