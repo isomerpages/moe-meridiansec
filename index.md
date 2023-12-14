@@ -4,9 +4,7 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: Our School is open daily from 9am to 3pm till 29 Nov for school
-  tour. Do drop by for a free & easy walk around the school to take a look at
-  our facilities.
+notification: ""
 sections:
   - hero:
       title: Meridian Secondary School
@@ -24,24 +22,14 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
-      title: School Tour
+      title: Secondary 1 Registration Information
       id: infopic
-      description: Miss our e-Open House or Campus Tour? Don’t worry!  You can still
-        drop by for a free & easy walk around the school to take a look at our
-        facilities!
-      button: FIND OUT MORE
-      url: /school-tour
-      image: /images/Homepage and Logos/School_Tour_2023_Poster.jpeg
-      alt: e-Open House Poster
-  - infopic:
-      title: e-Open House
-      id: infopic
-      description: Missed our e-Open House on 20 November? Click below to access the
-        recording of the e-Open House.
-      button: FIND OUT MORE
-      url: /e-open-house-recording
-      image: /images/Homepage and Logos/open house poster.jpg
-      alt: Image alt text
+      description: Welcome to our Meridian Family. Click below to find relevant
+        information to begin your journey with Meridian.
+      button: Online Registration
+      url: /student-information/2024-sec-1-registration/secondary-1-registration/
+      image: /images/Homepage and Logos/students in circle.jpg
+      alt: Students United
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
