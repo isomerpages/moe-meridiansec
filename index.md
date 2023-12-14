@@ -27,7 +27,7 @@ sections:
       description: Welcome to our Meridian Family. Click below to find relevant
         information to begin your journey with Meridian.
       button: Online Registration
-      url: /school-tour
+      url: /student-information/2024-sec-1-registration/secondary-1-registration/
       image: /images/Homepage and Logos/students in circle.jpg
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
