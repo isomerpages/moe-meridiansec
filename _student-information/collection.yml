@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - 2024 Secondary 1 Registration/Booklist and Uniform.md
       - 2024 Secondary 1 Registration/Secondary 1 eRegistration.md
       - 2024 Secondary 1 Registration/.keep
       - Full Subject–Based Banding (Full SBB).md
