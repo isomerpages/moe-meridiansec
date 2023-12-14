@@ -2,9 +2,9 @@ collections:
   student-information:
     output: true
     order:
-      - 2024 Secondary 1 Registration/Booklist and Uniform.md
-      - 2024 Secondary 1 Registration/Secondary 1 eRegistration.md
       - 2024 Secondary 1 Registration/.keep
+      - 2024 Secondary 1 Registration/Secondary 1 eRegistration.md
+      - 2024 Secondary 1 Registration/Booklist and Uniform.md
       - Full Subject–Based Banding (Full SBB).md
       - e–Student Handbook and School Letter.md
       - The Meridian Student Leadership Challenge Guidebook.md
