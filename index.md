@@ -29,6 +29,7 @@ sections:
       button: Online Registration
       url: /student-information/2024-sec-1-registration/secondary-1-registration/
       image: /images/Homepage and Logos/students in circle.jpg
+      alt: Students United
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
