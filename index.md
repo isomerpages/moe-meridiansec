@@ -22,7 +22,7 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
-      title: Secondary 1 Posting & Registration Information
+      title: Secondary 1 Registration Information
       id: infopic
       description: Welcome to our Meridian Family. Click below to find relevant
         information to begin your journey with Meridian.
