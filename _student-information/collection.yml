@@ -2,6 +2,8 @@ collections:
   student-information:
     output: true
     order:
+      - 2024 Secondary 1 Registration/First Day of School and Orientation
+        Programme.md
       - 2024 Secondary 1 Registration/.keep
       - 2024 Secondary 1 Registration/Secondary 1 Posting & Registration
         Information.md
