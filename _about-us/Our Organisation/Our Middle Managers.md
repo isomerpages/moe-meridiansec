@@ -11,6 +11,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Admin Manager     | Mr Halim Bin Hassan     | [halim_hassan@moe.edu.sg](mailto:halim_hassan@moe.edu.sg)     |
 | Operations Manager  | Mr Sam Meng Chong    | [sam_meng_chong@moe.edu.sg](mailto:sam_meng_chong@moe.edu.sg)     |
+| Operations Manager  | Mr Chandramohan Arumugam    | [chandramohan_arumugam@moe.edu.sg](mailto:chandramohan_arumugam@moe.edu.sg)     |
 | Year Head (Lower Sec)     | Mdm Sitinorzahurin Bte Sudin     |  [sitinorzahurin_sudin@moe.edu.sg](mailto:sitinorzahurin_sudin@moe.edu.sg) |
 | Year Head (Upper Sec)     | Mr Anwar B Omar     | [anwar_b_omar@moe.edu.sg](mailto:anwar_b_omar@moe.edu.sg)    |
 | School Staff Developer     | Ms Norita Ali     |  [norita_ali@moe.edu.sg](mailto:norita_ali@moe.edu.sg)    |
