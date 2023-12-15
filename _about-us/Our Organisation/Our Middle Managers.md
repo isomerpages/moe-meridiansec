@@ -42,3 +42,4 @@ variant: markdown
 | SH Student Leadership    | Miss Jasmin Tan Jiemin     |  [jasmin_tan_jiemin@moe.edu.sg](mailto:jasmin_tan_jiemin@moe.edu.sg)    |
 | LH Student Management  | Ms Kahbini Raj    |   [kahbini_raj@moe.edu.sg](mailto:kahbini_raj@moe.edu.sg)   |
 | SH Student Well-Being    | Ms Ida Murni Ismail    |  [ida_murni_ismail@moe.edu.sg](mailto:ida_murni_ismail@moe.edu.sg)    |
+| Covering SH ICT     | Miss Tan Hock Kiang Belinda     |  [tan_hock_kiang@moe.edu.sg](mailto:tan_hock_kiang@moe.edu.sg)    |
