@@ -38,6 +38,7 @@ sections:
       button: FIND OUT MORE
       url: /about-us/our-stories/meridians-making-waves/
       alt: Image alt text
+      image: /images/Meridians Making Waves/ST___18_Dec_2023.jpg
   - infopic:
       title: Secondary 1 Registration Information
       id: infopic
