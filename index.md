@@ -23,7 +23,6 @@ sections:
       variant: center
   - infopic:
       title: 2023 N Level Post Secondary Admission Exercise Information
-      subtitle: Add an image and text
       id: infopic
       description: Find out more on the various post-secondary admission exercise
         after your N Level.
