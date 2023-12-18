@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Our Stories
 variant: markdown
 ---
-
-
 ![](/images/Meridians%20Making%20Waves/ST___18_Dec_2023.jpg)
 
 Click [here](https://www.straitstimes.com/singapore/normal-technical-student-rejects-transfer-to-normal-academic-stream-scores-three-as-for-n-level-exams) to read more about Wallace Seow's story.
