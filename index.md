@@ -33,7 +33,7 @@ sections:
   - infopic:
       title: Meridian Making Waves
       id: infopic
-      description: Click below to find out more about our meridians who have been
+      description: Click below to find out more about our Meridians who have been
         making waves.
       button: FIND OUT MORE
       url: /about-us/our-stories/meridians-making-waves/
