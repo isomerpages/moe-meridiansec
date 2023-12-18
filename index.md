@@ -31,6 +31,14 @@ sections:
       image: /images/Homepage and Logos/Hand_in_Hand.jpg
       alt: Image alt text
   - infopic:
+      title: Meridian Making Waves
+      id: infopic
+      description: Click below to find out more about our meridians who have been
+        making waves.
+      button: FIND OUT MORE
+      url: /about-us/our-stories/meridians-making-waves/
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 Registration Information
       id: infopic
       description: Welcome to our Meridian Family. Click below to find relevant
