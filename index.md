@@ -22,6 +22,15 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: Secondary 1 Registration Information
+      id: infopic
+      description: Welcome to our Meridian Family. Click below to find relevant
+        information to begin your journey with Meridian.
+      button: Online Registration
+      url: /student-information/2024-sec-1-registration/secondary-1-registration/
+      image: /images/Homepage and Logos/students in circle.jpg
+      alt: Students United
+  - infopic:
       title: 2023 N Level Post Secondary Admission Exercise Information
       id: infopic
       description: Find out more on the various post-secondary admission exercise
@@ -39,15 +48,6 @@ sections:
       url: /about-us/our-stories/meridians-making-waves/
       alt: Image alt text
       image: /images/Meridians Making Waves/ST___18_Dec_2023.jpg
-  - infopic:
-      title: Secondary 1 Registration Information
-      id: infopic
-      description: Welcome to our Meridian Family. Click below to find relevant
-        information to begin your journey with Meridian.
-      button: Online Registration
-      url: /student-information/2024-sec-1-registration/secondary-1-registration/
-      image: /images/Homepage and Logos/students in circle.jpg
-      alt: Students United
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
