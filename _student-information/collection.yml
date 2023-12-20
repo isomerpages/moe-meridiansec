@@ -2,9 +2,9 @@ collections:
   student-information:
     output: true
     order:
-      - 2024 Secondary 1 Registration/2024 Secondary 1 Registration Form.md
       - 2024 Secondary 1 Registration/.keep
       - 2024 Secondary 1 Registration/Secondary 1 Registration Information.md
+      - 2024 Secondary 1 Registration/2024 Secondary 1 Registration Form.md
       - 2024 Secondary 1 Registration/Sales and Collection of Books and
         Uniform.md
       - 2024 Secondary 1 Registration/Secondary 1 Orientation Programme.md
