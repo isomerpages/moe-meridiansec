@@ -3,24 +3,6 @@ title: Our Teacher Leaders
 permalink: /about-us/our-organization/our-teacher-leaders/
 description: ""
 third_nav_title: Our Organisation
+variant: tiptap
 ---
-#### Lead Teachers <br>
-
-| Designation | Staff | Contact Email |
-| -------- | -------- | -------- |
-| LT / English Language     | Ms Lee Su Yin Rosalind     |  [lee_su_yin_rosalind@moe.edu.sg](mailto:lee_su_yin_rosalind@moe.edu.sg)    |
-| LT / History   | Mdm Norharyati Bte Hassan     |   [norharyati_hassan@moe.edu.sg](mailto:norharyati_hassan@moe.edu.sg)   |<br>
-
----
-
-
-#### Senior Teachers <br>
-
-| Designation | Staff | Contact Email |
-| -------- | -------- | -------- |
-| ST / Chinese Language     | Mr Xia Shuang     |  [xia_shuang@moe.edu.sg](mailto:xia_shuang@moe.edu.sg)    |
-| ST / English Language   | Ms Tham Wai Mun Evonne     | [tham_wai_mun_evonne@moe.edu.sg](mailto:tham_wai_mun_evonne@moe.edu.sg)     |
-| ST / Geography    | Mdm Jamilah Sukimi     | [jamilah_sukimi@moe.edu.sg](mailto:jamilah_sukimi@moe.edu.sg)     |
-| ST / Malay Language   | Mdm Noraishah Bte Mostapa     | [noraishah_mostapa@moe.edu.sg](mailto:noraishah_mostapa@moe.edu.sg)     |
-| ST / Mathematics     | Mr Cheang Cheng Guan Geoffrey    | [cheang_cheng_guan_geoffrey@moe.edu.sg](mailto:cheang_cheng_guan_geoffrey@moe.edu.sg)     |
-| ST / Mathematics     | Miss Fong Pui Theng Ritina    |  [fong_pui_theng_ritina@moe.edu.sg](mailto:fong_pui_theng_ritina@moe.edu.sg)    |
+<h4>Lead Teachers <br></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Staff</p></th><th rowspan="1" colspan="1"><p>Contact Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>LT / English Language</p></td><td rowspan="1" colspan="1"><p>Ms Lee Su Yin Rosalind</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lee_su_yin_rosalind@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_su_yin_rosalind@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>LT / History</p></td><td rowspan="1" colspan="1"><p>Mdm Norharyati Bte Hassan</p></td><td rowspan="1" colspan="1"><p><a href="mailto:norharyati_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norharyati_hassan@moe.edu.sg</a></p></td></tr></tbody></table><hr><h4>Senior Teachers <br></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Staff</p></th><th rowspan="1" colspan="1"><p>Contact Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>ST / English Language</p></td><td rowspan="1" colspan="1"><p>Ms Tham Wai Mun Evonne</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tham_wai_mun_evonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_wai_mun_evonne@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ST / Geography</p></td><td rowspan="1" colspan="1"><p>Mdm Jamilah Sukimi</p></td><td rowspan="1" colspan="1"><p><a href="mailto:jamilah_sukimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jamilah_sukimi@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ST / Malay Language</p></td><td rowspan="1" colspan="1"><p>Mdm Noraishah Bte Mostapa</p></td><td rowspan="1" colspan="1"><p><a href="mailto:noraishah_mostapa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noraishah_mostapa@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ST / Mathematics</p></td><td rowspan="1" colspan="1"><p>Mr Cheang Cheng Guan Geoffrey</p></td><td rowspan="1" colspan="1"><p><a href="mailto:cheang_cheng_guan_geoffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheang_cheng_guan_geoffrey@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ST / Mathematics</p></td><td rowspan="1" colspan="1"><p>Miss Fong Pui Theng Ritina</p></td><td rowspan="1" colspan="1"><p><a href="mailto:fong_pui_theng_ritina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fong_pui_theng_ritina@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>ST / CCE</p></td><td rowspan="1" colspan="1"><p>Mrs Yvonne Chng</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ng_ee_hong_yvonne@moe.edu.sg</a> </p></td></tr></tbody></table><p></p>
