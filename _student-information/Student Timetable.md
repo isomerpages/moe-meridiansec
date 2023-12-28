@@ -2,21 +2,6 @@
 title: Student Timetable
 permalink: /student-information/student-timetable/
 description: ""
+variant: tiptap
 ---
-Dear parents and students,
-
-Please download the School Timetable for 2023 Semester 2 and a quick guide on how to read the timetable.
-
-* <a target="_blank" href="/files/Timetable%20Matters/2023%20semester%202%20timetable.pdf"> 2023 Semester 2 Timetable  </a>
-* <a target="_blank" href="/files/Timetable%20Matters/How-to-read-the-timetable.pdf"> Guide to read timetable  </a>
-
-Please take note of the dismissal time for 2023 Semester 2 lessons (excluding CCA and other programmes).
-
-*   Secondary 1 to 2 students will be dismissed at 1.25pm from Monday to Thursday.
-*   Secondary 3 to 5 students (excluding Sec 4NT) will be dismissed at 2.00pm from Monday to Thursday.
-*   Secondary 4NT students will be dismissed at 2.00pm from Monday to Tuesday and 1.25pm from Wednesday to Thursday.
-*   All students will be dismissed at 12.15pm on odd week Fridays.
-
-Independent Learning Day / Self Study Day are scheduled on even week Friday. You may download the schedule of subjects on Independent Learning Day below. Students will be informed by their respective subject teachers and form teachers about the details of the curriculum task prior to each Independent Learning Day.
-
-* <a target="_blank" href="/files/Timetable%20Matters/2023%20semester%202%20ild%20schedule.pdf"> 2023 Semester 2 ILD Schedule  </a>
+<p>Dear parents and students,</p><p>Please download the School Timetable for 2024 Semester 1 and a quick guide on how to read the timetable.</p><ul data-tight="true" class="tight"><li><p><a href="/files/Timetable Matters/Secondary_1_Timetable_for_2024_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 2024 Semester 1 Timetable</a></p></li><li><p><a href="/files/Timetable Matters/Secondary_2_Timetable_for_2024_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 2024 Semester 1 Timetable</a></p></li><li><p><a href="/files/Timetable Matters/Secondary_3_Timetable_for_2024_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 2024 Semester 1 Timetable</a></p></li><li><p><a href="/files/Timetable Matters/Secondary_4_and_5_Timetable_for_2024_Semester_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 2024 Semester 1 Timetable</a></p><p></p></li></ul><p>Please take note of the dismissal time for 2024 Semester 1 lessons (excluding CCA and other programmes).</p><ul data-tight="true" class="tight"><li><p>Secondary 1 students will be dismissed at </p><ul data-tight="true" class="tight"><li><p>1.25pm on Monday, Wednesday and odd week Thursday;</p></li><li><p>2.00pm on Tuesday and even week Thursday;</p></li><li><p>12.15pm on odd week Fridays;</p></li><li><p>Students taking G1 MTL will be dismissed at 12:50pm on Odd Week Tuesday.</p></li></ul></li><li><p>Secondary 2 students will be dismissed at </p><ul data-tight="true" class="tight"><li><p>1.25pm on Monday and Wednesday; </p></li><li><p>2.00pm on Tuesday and Thursday;</p></li><li><p>12.15pm on odd week Fridays</p></li><li><p>Students taking G1 MTL will be dismissed at 12:50pm on Odd Week Thursday.</p></li></ul></li><li><p>Secondary 3 to 5 students will be dismissed at </p><ul data-tight="true" class="tight"><li><p>2.00pm from Monday to Thursday;</p></li><li><p>12.15pm on odd week Fridays.</p></li></ul></li></ul><p>Independent Learning Day / Self Study Day are scheduled on even week Friday. You may download the schedule of subjects on Independent Learning Day below. Students will be informed by their respective subject teachers and form teachers about the details of the curriculum task prior to each Independent Learning Day.</p><ul data-tight="true" class="tight"><li><p><a href="/files/Timetable Matters/ILD_2024_Semester_1_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1 ILD Schedule</a></p></li></ul><p></p>
