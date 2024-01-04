@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Homework Policy.md
       - 2024 Secondary 1 Registration/.keep
       - 2024 Secondary 1 Registration/Secondary 1 Registration Information.md
       - 2024 Secondary 1 Registration/Secondary 1 Online Registration Form.md
@@ -17,5 +16,6 @@ collections:
       - The Meridian Student Leadership Challenge Guidebook.md
       - Student Timetable.md
       - Student Assessment.md
+      - Homework Policy.md
       - National Digital Literacy Programme (NDLP).md
       - Booklist for Academic Year 2024.md
