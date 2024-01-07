@@ -27,7 +27,7 @@ sections:
       description: Find out more on the details of the various post-secondary
         admission exercise after your O Level.
       button: Find out more
-      url: /student-information/2023-n-level-post-secondary-admission-exercises-and-key-information/
+      url: /student-information/2023-o-level-release-of-results/
       image: /images/Homepage and Logos/Hand_in_Hand.jpg
       alt: Image alt text
   - infopic:
