@@ -22,6 +22,15 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: 2023 O Level Release of Results and Information
+      id: infopic
+      description: Find out more on the details of the various post-secondary
+        admission exercise after your O Level.
+      button: Find out more
+      url: /student-information/2023-n-level-post-secondary-admission-exercises-and-key-information/
+      image: /images/Homepage and Logos/Hand_in_Hand.jpg
+      alt: Image alt text
+  - infopic:
       title: Meridian Making Waves
       id: infopic
       description: Click below to find out more about our Meridians who have been
