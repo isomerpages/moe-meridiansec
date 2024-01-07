@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - 2024 Secondary 1 Matters/Principal Meet Parent Engagement Session.md
       - 2024 Secondary 1 Matters/.keep
       - 2024 Secondary 1 Matters/Sales and Collection of Books and Uniform.md
       - Full Subject–Based Banding (Full SBB).md
