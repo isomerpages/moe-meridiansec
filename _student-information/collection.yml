@@ -2,15 +2,11 @@ collections:
   student-information:
     output: true
     order:
-      - 2024 Secondary 1 Registration/.keep
-      - 2024 Secondary 1 Registration/Secondary 1 Registration Information.md
-      - 2024 Secondary 1 Registration/Secondary 1 Online Registration Form.md
-      - 2024 Secondary 1 Registration/Sales and Collection of Books and
-        Uniform.md
-      - 2024 Secondary 1 Registration/Secondary 1 Orientation Programme.md
-      - 2024 Secondary 1 Registration/Secondary 1 Appeal (Waiting List)
-        Application.md
-      - 2023 N Level Post Secondary Admission Exercises and Key Information.md
+      - 2024 Secondary 1 Matters/.keep
+      - 2024 Secondary 1 Matters/Principal Meet Parent Engagement Session.md
+      - 2024 Secondary 1 Matters/Sales and Collection of Books and Uniform.md
+      - 2023 O Level Release of Results and Post Secondary Application
+        Information.md
       - Full Subject–Based Banding (Full SBB).md
       - e–Student Handbook and School Letter.md
       - The Meridian Student Leadership Challenge Guidebook.md
@@ -19,3 +15,4 @@ collections:
       - Homework Policy.md
       - National Digital Literacy Programme (NDLP).md
       - Booklist for Academic Year 2024.md
+      - 2023 N Level Post Secondary Admission Exercises and Key Information.md

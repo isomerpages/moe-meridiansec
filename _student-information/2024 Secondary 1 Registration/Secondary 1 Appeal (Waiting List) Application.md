@@ -1,8 +1,0 @@
----
-title: Secondary 1 Appeal (Waiting List) Application
-permalink: /student-information/2024-secondary-1-registration/sec-1-waiting-list/
-variant: tiptap
-description: ""
-third_nav_title: 2024 Secondary 1 Registration
----
-<p>Student transfers are subjected to the availability of vacancies of the school.</p><p>Your child’s PSLE score must meet the school’s cut-off point (COP) of the posting year before they can be considered for transfer.</p><p><strong><u>2024 Secondary 1 COP</u></strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Posting Group 1</p></th><th rowspan="1" colspan="1"><p>Posting Group 2</p></th><th rowspan="1" colspan="1"><p>Posting Group 3</p></th></tr><tr><td rowspan="1" colspan="1"><p>27</p></td><td rowspan="1" colspan="1"><p>24</p></td><td rowspan="1" colspan="1"><p>22</p></td></tr></tbody></table><p>Students successfully allocated to their DSA school will not be allowed to transfer to another school. They are expected to honour their commitment to the allocated DSA school for the entire duration of the programme.</p><p>Please submit your application via the following online application form <strong>before 26 December 2023 (Tuesday), 12pm</strong></p><p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/65768a54acf6ae0012e80e0a" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p><div class="iframe-wrapper"><iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/65768a54acf6ae0012e80e0a"></iframe></div><p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a></p><p></p><p></p>
