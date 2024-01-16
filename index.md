@@ -4,8 +4,7 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: The O Level Results will be released on Thursday, 11 January 2024.
-  Refer to the information bar below for more details.
+notification: ""
 sections:
   - hero:
       title: Meridian Secondary School
@@ -23,6 +22,15 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: Meridian Making Waves
+      id: infopic
+      description: Click below to find out more about our Meridians who have been
+        making waves.
+      button: FIND OUT MORE
+      url: /about-us/our-stories/meridians-making-waves/
+      alt: Image alt text
+      image: /images/Meridians Making Waves/Zulhilmi.jpg
+  - infopic:
       title: 2023 O Level Release of Results and Information
       id: infopic
       description: Find out more on the details of the various post-secondary
@@ -31,15 +39,6 @@ sections:
       url: /student-information/2023-o-level-release-of-results/
       image: /images/Homepage and Logos/Hand_in_Hand.jpg
       alt: Image alt text
-  - infopic:
-      title: Meridian Making Waves
-      id: infopic
-      description: Click below to find out more about our Meridians who have been
-        making waves.
-      button: FIND OUT MORE
-      url: /about-us/our-stories/meridians-making-waves/
-      alt: Image alt text
-      image: /images/Meridians Making Waves/ST___18_Dec_2023.jpg
   - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School will be embarking on a Full Subject-Based
