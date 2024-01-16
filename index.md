@@ -4,8 +4,7 @@ title: Meridian Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/Homepage and Logos/meridian logo with text.png
 permalink: /
-notification: The O Level Results will be released on Thursday, 11 January 2024.
-  Refer to the information bar below for more details.
+notification: ""
 sections:
   - hero:
       title: Meridian Secondary School
