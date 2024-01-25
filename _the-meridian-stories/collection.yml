@@ -1,0 +1,6 @@
+collections:
+  the-meridian-stories:
+    output: true
+    order:
+      - Our Success Stories.md
+      - Our Achievements.md

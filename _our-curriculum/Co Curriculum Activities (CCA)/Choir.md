@@ -1,0 +1,170 @@
+---
+title: Choir
+permalink: /home/cca/visual-performing-arts/choir/
+description: ""
+third_nav_title: Co Curriculum Activities (CCA)
+---
+The Meridian Secondary School (MSS) Choir was formed in 1999 by the late Madam Ong Foon. The Choir aims to bring out the best in all members through rigorous training in vocal techniques and musicality. Opportunities are also given to develop students’ leadership skills. MSS Choir provides students with avenues to develop their interpersonal skills when working together, and areas to build their personal confidence and self-esteem when they perform regularly on stage. The Choir has grown to a proud strength of 60 singers. Since 2019, we have recruited male voices and are now a full SATB Choir (Sopranos, Altos, Tenors and Basses)!
+
+The Choir actively performs in school events. Other performances include the National Day Parade as part of the Combined Secondary School Choir, charitable concerts at Changi General Hospital, and Pasir Ris West CC events.
+
+
+
+### Schedule and Venue
+
+|Day|Time|Venue|
+|---|---|---|
+|Tuesday|2:30 pm to 5:30 pm| AVA and Leaders' Room|
+|Tuesday|2:30 pm to 5:30 pm| AVA and Leaders' Room|
+
+### Teachers-in-charge
+
+* Miss Astri Nur Rissa Binte Abdul Razak 
+* Mr Cheong Kim Gin
+* Mr Chou Cher Hoong
+* Miss Jow Li Yan
+
+### Instructor
+
+*   Ms Ho Lian-Ian
+
+<img src="/images/CCA/Choir/choir-01.jpg" style="width:50%">
+		 
+Our Music Director and Conductor, Ms Ho Lian-Ian joined our MSS Choir family in January 2022. She graduated with a Master of Music Studies from The University of Queensland, with specialisation in choral conducting. She is a seasoned Music Director and Conductor. She brings with her a vast wealth of experience in leading and developing school choirs in various primary and secondary schools. Over the years, she has successfully led numerous schools in achieving awards in local and international events, such as the Singapore Youth Festival Central Judging of Choirs, Singapore International Choral Festival and Hong Kong Winter Choral Festival. Ms Ho believes in building a strong foundation in music education through providing musical guidance and direction to choir members. She also advocates developing strong choir leaders and self-discipline among choir members, as well as creating an enjoyable learning environment during every choir session. With Ms Ho’s strong leadership, professional experience and accomplishments, we are working as a cohesive team to inspire and motivate our MSS Choir to reach new heights!
+
+
+
+### Yearly Highlights
+
+#### 2023
+ **Singapore Youth Festival Arts Presentation 2023**
+  <br>  The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight of the year for the Choir, especially because many of us were participating in such an event for the very first time. It was certainly an occasion to remember as the Choir worked hard to reach vocal perfection after many months of relentless practice.  The transformation of the Choir was complete, from the first moments members received the scores for the various pieces to the moment they stepped on to the stage for their performance. The Choir presented three songs, namely:
+     *  Morning Rain
+     *  O Magnum Mysterium
+     *  The Goslings
+   
+|![](/images/CCA/Choir/choir_2023_01.jpg)|
+   |:---:|
+   | *The size of the hall doesn’t daunt us. We shall fill it up with our voices and melodies.* |
+	 
+  |![](/images/CCA/Choir/choir_2023_02.jpg)|
+   |:---:|
+   | *One last rehearsal before showtime!* |
+   
+|![](/images/CCA/Choir/choir_2023_03.jpg)|
+   |:---:|
+   | *The joy of singing and performing when you know you are giving it your best shot!* |
+	 
+  |![](/images/CCA/Choir/choir_2023_04.jpg)|
+   |:---:|
+   | *Getting due recognition for a job well done at our Viva La VPA!* |
+ 
+ **Schools Events &amp; Performances** 
+  <br>School events would never be complete without the Choir, which added much joy to the celebrations and festivities. This year, the Choir once again took the stage during the celebrations for Chinese New Year and National Day. The Choir also performed during the Meridian’s Arts Day.
+   
+|![](/images/CCA/Choir/choir_2023_05.jpg)|
+   |:---:|
+   | *Ushering in the Year of the Rabbits with energy in song!* |
+	 
+  |![](/images/CCA/Choir/choir_2023_06.jpg)|
+   |:---:|
+   | *Choir leading the school in songs to celebrate National Day.* |
+	 
+#### 2022
+
+**Sec 4 Values in Action – Showing Appreciation to Support Staff**  
+To show appreciation to our school’s non-teaching support staff for their hard work and dedicated service, as well as to bring joy, positivity and sense of community to them, our Sec 4 Choir members embarked on a VIA project to produce a video recording of the song “Evening Rise”. Kudos to our Sec 4s for their months of unyielding practice, rehearsals, and a wonderful studio recording!
+
+   ![](/images/CCA/Choir/choir-05-1.jpg)
+
+  With detailed planning and preparations, Choir successfully executed a smooth Sec 1 CCA Experience-cum-Trial programme over a few weeks. Through lively and interesting presentations, interactions and trials, our members were able to fully engage the Sec 1s and pique their interest to joining Choir.
+
+  ![](/images/CCA/Choir/choir-06.jpg)
+
+   Term 3 started with a formal farewell for the Sec 4s. The Sec 1-3s were eager to show their appreciation to their seniors and organised a most wonderous event. The seniors were pampered with food and snacks, and taken down the memory lane with games and quizzes. A big shout-out to Sec 4s for your leadership, your dedication and most importantly for your tender love and care of the juniors. You will be sorely missed!
+
+   ![](/images/CCA/Choir/choir-07-2.jpg)
+
+
+**Concerts &amp; Workshop** <br>
+Choir aims to provide our members with a platform to develop their passion for singing through learning different genres of music and sing well with confidence while performing. What better to way is there to learn than by attending concerts and participating in related workshops? Members made use of the June and September school holidays to attend a concert, Nelson’s Voyage, held at the Victoria Concert Hall as well as participated in two workshops held under the auspice of the Voices of Singapore Festival 2022.
+
+  ![](/images/CCA/Choir/choir-08.jpg)
+
+**Audio &amp; Video Recording ~ Can You Feel The Love Tonight** <br> To increase members’ musical sensitivity and hone their vocal skills in attaining accuracy in pitch, tune and melody, all members were exposed to music video production process – small group audio recording and on-site video recording. So sit back and enjoy MSS Choir’s performance of The Lion King Theme song – Can you feel the love tonight! <br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/niQes5PBO34?si=gDrShFfYGvUzkoOF" height="315" width="560"></iframe><br>
+
+  ![](/images/CCA/Choir/choir-11.jpg)
+  ![](/images/CCA/Choir/choir-12.jpg)
+  ![](/images/CCA/Choir/choir-13.jpg)
+
+**National Day performance** <br>
+The highlight of this Term 3 was most definitely the National Day Celebrations where Choir finally had the chance to perform “live”. Choir was the first item of the day. With our rendition of “The Road Ahead”, Choir managed to engage the students and draw them into celebrating the nation’s birthday.
+
+![](/images/CCA/Choir/choir-09.jpg)
+
+**Jubilate – Joint Concert with Band**  <br> There is no better way to wrap up the year than a joint concert with Band. Jubilate – there were certainly good reasons to rejoice and celebrate our performance with a “live” audience in many years. It was certainly a feather in the cap, with parents here to witness the fruits of all the hours of hard work and practices. Well done, Choir!
+
+![](/images/CCA/Choir/choir-10.jpg)
+
+
+#### 2021
+
+**Sing-a-Song**<br>
+![](/images/CCA/Choir/c300521.jpg)
+Our passionate Choir members took part in “Sing-a-Song”, a VIA project in collaboration with Pathlight school to encourage Pathlight students to read. It was truly an enjoyable experience singing and recording this sing along session while referring to the digital book.
+
+**Sec 1 CCA Showcase**<br>
+![](/images/CCA/Choir/c300522.jpg)
+![](/images/CCA/Choir/c300523.jpg)
+Our student leaders, Zhi En (top photo), Axel, Isaiah, Ignatius and Emmarae, introduced the Choir CCA to the Secondary 1 students during the Sec 1 CCA Showcase. One of the items shared to the Secondary 1 students was the Sing-a-Song VIA collaboration project, as shown on the projector screen.
+
+**In-house Training Workshops**<br>
+![](/images/CCA/Choir/c300527.jpg)
+Our Secondary 4 student leaders carried out ice breaker activities to allow our Choir members to get to know one another better. In this photo and venue, we have Isaiah testing the Choir members on their musical knowledge using Kahoot.
+
+![](/images/CCA/Choir/c300528.jpg)
+This is a workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Soundtrap and learnt how to make music together online. The seniors were able to engage the members well and went through a guided series of steps on how to create musical content like an artiste. In this photo, we have Emmarae, our outgoing president, and Jahnavi, Alto section leader.
+
+![](/images/CCA/Choir/c300529.jpg)
+This is another workshop planned and conducted by our Secondary 4 student leaders. Choir members, split into two venues, underwent a session on Video Editing 101. The seniors were able to engage the members well and went through a guided series of steps on how to edit videos like a professional. In this photo, we have Zhi En, our outgoing vice-president, and Ignatius, our student conductor.
+
+**Makeup/Grooming for Music Video Creation**<br>
+![](/images/CCA/Choir/c300533.jpg)
+Our multi-talented Choir members, Elfa and Alya, leading a workshop to share with fellow members on face makeup and video taking techniques in preparations for VIA music video group project.
+
+![](/images/CCA/Choir/c300532.jpg)
+Darshini eagerly trying out her makeup skills on Mia.
+
+**SYF recording**
+![](/images/CCA/Choir/c300531.jpg)
+SYF Arts Presentation 2021 took on a different format this year. Our very dedicated teacher-in-charge Ms Jasmin Tan has been working hard recording our selected choristers who are taking part in the SYF. Here is our student conductor, Ignatius, recording his piece and working alongside our in-house sound engineer genius.
+
+![](/images/CCA/Choir/c300530.jpg)
+This is Ernest, recording his SYF piece and being very focused in the process to ensure no mistakes will be made.
+
+![](/images/CCA/Choir/c300526.jpg)
+Our outgoing vice-president, Zhi En, recording his SYF piece and aiming for musical perfection.
+
+**Percussion Workshop**
+![](/images/CCA/Choir/c300525.jpg)
+Choir students ventured into other musical talents which do not require singing, as the school adheres to the safety management measures. Here is a percussion workshop led by Ms Sng. Our students definitely have fun beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian Samba!
+
+
+
+### Our CCA Experience
+
+<img src="/images/CCA/Choir/choir-02.jpg" style="width:50%"><br>
+*Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.*<br>
+**– Eaty Shyam Sheetal, Student Conductor (3E4, 2023)** <br>
+
+
+<img src="/images/CCA/Choir/choir-03.jpg" style="width:50%">
+
+*To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.*<br>
+**– Lim Ming Hui Sonia, President (3E4, 2024)** <br>
+		 
+		 
+<img src="/images/CCA/Choir/choir-04.jpg" style="width:100%">
+		 
+*I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!*<br>
+**– Chong Yong Yu, Student Conductor (4E1, 2023)**
