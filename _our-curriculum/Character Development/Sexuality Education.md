@@ -123,7 +123,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br>
 <br>At the end of the lesson, students will be able to:</p>
 </td>
@@ -256,7 +256,7 @@ etc.)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br>
 <br>At the end of the lesson, students will be able to:</p>
 </td>
@@ -386,7 +386,7 @@ both offline and online</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br>
 <br>At the end of the lesson, students will be able to:</p>
 </td>
@@ -519,7 +519,7 @@ alignment with our beliefs</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br>
 <br>At the end of the lesson, students will be able to:</p>
 </td>
@@ -689,7 +689,7 @@ alignment with our beliefs</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives</strong>
+<p><strong>Lesson Objectives</strong> 
 <br>
 <br>At the end of the lesson, students will be able to:</p>
 </td>
