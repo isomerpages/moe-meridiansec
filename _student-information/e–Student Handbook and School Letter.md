@@ -11,7 +11,6 @@ helpful details.</p>
 download the 2024 E-Student Handbook.</p>
 <p>
 <br>
-<br>
 </p>
 <p>The annual school letter provides information for student before the start
 of the year.</p>
