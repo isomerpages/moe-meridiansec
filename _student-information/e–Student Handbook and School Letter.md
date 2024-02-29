@@ -7,8 +7,8 @@ variant: tiptap
 <p>The e-Student Handbook provides important information such as school rules
 and regulations, student progression criteria to the next level, and other
 helpful details.</p>
-<p>Click <a href="/files/Handbooks and Letters/Student_Handbook_2024__revised_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<a href="/files/Handbooks and Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to download the 2024 E-Student Handbook.</p>
+<p>Click <a href="/files/Handbooks and Letters/Student_Handbook_2024__revised_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+download the 2024 E-Student Handbook.</p>
 <p>
 <br>
 <br>
