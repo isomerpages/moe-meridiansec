@@ -2,389 +2,822 @@
 title: Mathematics
 permalink: /home/departments/mathematics/
 description: ""
+variant: tiptap
 ---
-### Vision
-Confident and successful problem solvers, striving for excellence
-
-### Curriculum
-The Mathematics curriculum is designed to enable students to:
-* acquire the necessary mathematical concepts and skills for continuous learning in mathematics and related discipline, and for applications to the real world;
-* develop the necessary process skills for the acquisition and application of mathematical concepts and skills;
-* develop the mathematical thinking and problem solving skills and apply these skills to formulate and solve problems;
-* recognise and use connections among mathematical ideas, and between mathematics and other disciplines;
-* develop positive attitudes towards mathematics;
-* make effective use of a variety of mathematical tools (including information and communication technology tools) in the learning and application of mathematics;
-* produce imaginative and creative work arising from mathematical ideas;
-* develop the abilities to reason logically, to communicate mathematically, and to learn cooperatively and independently.
-
-### Highlights in 2023
-
-#### STEM Playground Challenge
-
-On 23 May 2023, the Mathematics and Science department conducted the STEM Playground Challenge for Secondary 2 students, a challenge bringing together the disciplines of Science, Technology, Engineering, and Mathematics (STEM) through a collaboration among the Mathematics, Design and Technology, and Science departments. The objectives are to foster students' curiosity, and creativity in STEM activities, while providing opportunities for team learning and practical applications of knowledge. 
-
-![](/images/Departments/Mathematics/maths%20stem%202023%20-%2001.jpg)
-
-Students formed groups of 2 to 4 and were tasked with designing and constructing a boat using mainly cardboard and recycled materials. The boat would need to support a mass of 1 kg and stay afloat for 20 seconds. This challenge not only encouraged teamwork but also pushed students to think creatively and find innovative solutions.  Students were encouraged to inject their own creative inputs into the boat design challenge. The use of recyclable materials was required, promoting sustainability and environmental consciousness among the students. 
-
-![](/images/Departments/Mathematics/maths%20stem%202023%20-%2002.jpg)
-
-The students' enthusiasm and engagement during the STEM Playground were remarkable. At the end of the Challenge, 2 groups were awarded the top prizes for outstanding achievement in the cardboard boat challenge. The STEM Playground witnessed a high level of engagement and enjoyment from all Sec 2 students.  Students eagerly embraced the tasks, applying their creativity, critical thinking and diverse skills. This collaborative approach not only fostered effective communication and teamwork but appreciation for the application of knowledge from multiple disciplines in real-world tasks. 
-Hopefully, our students will be inspired to become responsible designers and engineers in the future.
-
-![](/images/Departments/Mathematics/maths%20stem%202023%20-%2003.jpg)
-
-
-
-
-
-#### Code for Fun Programme
-
-Sec 1 students enjoyed an enriching learning experience through the Code for Fun Programme from 20 to 21 March 2023.  During the two-day workshop, students get to put on their thinking hats as scientists and engineers as they work on real-life problems. The students learnt how to code and create their own smart home using micro:bit technology, integrating various sensors and devices into their projects. The use of recycled materials to construct smart homes encouraged students to think creatively and sustainably. The programme not only equipped the students with valuable coding skills, but also instilled a sense of responsibility towards the environment.
+<h3>Vision</h3>
+<p>Confident and successful problem solvers, striving for excellence</p>
+<h3>Curriculum</h3>
+<p>The Mathematics curriculum is designed to enable students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>acquire the necessary mathematical concepts and skills for continuous
+learning in mathematics and related discipline, and for applications to
+the real world;</p>
+</li>
+<li>
+<p>develop the necessary process skills for the acquisition and application
+of mathematical concepts and skills;</p>
+</li>
+<li>
+<p>develop the mathematical thinking and problem solving skills and apply
+these skills to formulate and solve problems;</p>
+</li>
+<li>
+<p>recognise and use connections among mathematical ideas, and between mathematics
+and other disciplines;</p>
+</li>
+<li>
+<p>develop positive attitudes towards mathematics;</p>
+</li>
+<li>
+<p>make effective use of a variety of mathematical tools (including information
+and communication technology tools) in the learning and application of
+mathematics;</p>
+</li>
+<li>
+<p>produce imaginative and creative work arising from mathematical ideas;</p>
+</li>
+<li>
+<p>develop the abilities to reason logically, to communicate mathematically,
+and to learn cooperatively and independently.</p>
+</li>
+</ul>
+<p></p>
+<h3>Highlights in 2024</h3>
+<p>Our Secondary Three POA students took part in the Regional Cashflow Competition
+at St. Anthony’s Canossian Secondary on 22 February 2024 and the National
+Cashflow Competition at National Technological University on 9 March 2024.</p>
+<p>&nbsp;The competitions broadened our students’ learning of POA as they
+explored topics such as financial literacy and personal financial planning.</p>
+<p>&nbsp;We would like to congratulate Arin Ariana from 3E3 for clinching
+the 3<sup>rd</sup> Prize in the Regional Cashflow Competition.&nbsp; 4 of
+our students also emerged as top scorers and competed in the finals in
+the National Cashflow Competition.</p>
+<p>&nbsp;Well done, students!&nbsp; Keep up your passion for learning!</p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Highlights in 2023</h3>
+<h4>STEM Playground Challenge</h4>
+<p>On 23 May 2023, the Mathematics and Science department conducted the STEM
+Playground Challenge for Secondary 2 students, a challenge bringing together
+the disciplines of Science, Technology, Engineering, and Mathematics (STEM)
+through a collaboration among the Mathematics, Design and Technology, and
+Science departments. The objectives are to foster students' curiosity,
+and creativity in STEM activities, while providing opportunities for team
+learning and practical applications of knowledge.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths%20stem%202023%20-%2001.jpg">
+</div>
+<p>Students formed groups of 2 to 4 and were tasked with designing and constructing
+a boat using mainly cardboard and recycled materials. The boat would need
+to support a mass of 1 kg and stay afloat for 20 seconds. This challenge
+not only encouraged teamwork but also pushed students to think creatively
+and find innovative solutions. Students were encouraged to inject their
+own creative inputs into the boat design challenge. The use of recyclable
+materials was required, promoting sustainability and environmental consciousness
+among the students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths%20stem%202023%20-%2002.jpg">
+</div>
+<p>The students' enthusiasm and engagement during the STEM Playground were
+remarkable. At the end of the Challenge, 2 groups were awarded the top
+prizes for outstanding achievement in the cardboard boat challenge. The
+STEM Playground witnessed a high level of engagement and enjoyment from
+all Sec 2 students. Students eagerly embraced the tasks, applying their
+creativity, critical thinking and diverse skills. This collaborative approach
+not only fostered effective communication and teamwork but appreciation
+for the application of knowledge from multiple disciplines in real-world
+tasks. Hopefully, our students will be inspired to become responsible designers
+and engineers in the future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths%20stem%202023%20-%2003.jpg">
+</div>
+<h4>Code for Fun Programme</h4>
+<p>Sec 1 students enjoyed an enriching learning experience through the Code
+for Fun Programme from 20 to 21 March 2023. During the two-day workshop,
+students get to put on their thinking hats as scientists and engineers
+as they work on real-life problems. The students learnt how to code and
+create their own smart home using micro:bit technology, integrating various
+sensors and devices into their projects. The use of recycled materials
+to construct smart homes encouraged students to think creatively and sustainably.
+The programme not only equipped the students with valuable coding skills,
+but also instilled a sense of responsibility towards the environment.
 <br>
-
-![](/images/Departments/Mathematics/maths-code-for-fun-01.jpg)
-Learning new coding skills and making awesome projects with micro:bit through the Code for Fun workshop.
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-01.jpg">
+</div>
+<p>Learning new coding skills and making awesome projects with micro:bit
+through the Code for Fun workshop.
 <br>
-
-![](/images/Departments/Mathematics/maths-code-for-fun-02.jpg)
-With micro:bit V2 Smart Home Kit, Secondary 1 students dived deep into the use of technology to develop sustainable solutions.
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-02.jpg">
+</div>
+<p>With micro:bit V2 Smart Home Kit, Secondary 1 students dived deep into
+the use of technology to develop sustainable solutions.
 <br>
-
-#### National CashFlow Competition
-A group of our Secondary Three students took part in the National CashFlow Competition organised by NTU on the 11 March 2023. Many schools from all over Singapore participated in this event.  Our students enjoyed learning together and have made new friends as they played against students from other schools at the same table. In the process, they acquired valuable financial literacy skills. 
-![](/images/Departments/Mathematics/maths-poa-01.jpg)
+</p>
+<h4>National CashFlow Competition</h4>
+<h2>A group of our Secondary Three students took part in the National CashFlow Competition organised by NTU on the 11 March 2023. Many schools from all over Singapore participated in this event. Our students enjoyed learning together and have made new friends as they played against students from other schools at the same table. In the process, they acquired valuable financial literacy skills. <br></h2>
+<h3>Highlights in 2022</h3>
+<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO)</h4>
+<p>Selected Meridians participated in the Singapore Mathematical Olympiad
+(SMO) national competition after learning advanced skills in solving competitive
+Mathematics problems.
 <br>
----
-
-### Highlights in 2022
-#### SINGAPORE MATHEMATICAL OLYMPIAD (SMO)
-
-Selected Meridians participated in the Singapore Mathematical Olympiad (SMO) national competition after learning advanced skills in solving competitive Mathematics problems.
-<br><br>
-The school was awarded the SMO School Commendation Award in recognition of overall participation and performance. 11 Meridians have done well and clinched the Bronze Awards and Honourable Mention Awards in their respective competition categories.
-<ul>
-	<li><b>SENIOR SECTION</b></li>
-<ul>
-	<li>BRONZE AWARDS</li>
-					<ul>
-						<li>Anthony Ng, 4E4</li>
-						<li>Makoto Sueyoshi, 4E4</li>
-					</ul>
-					<li>HONOURABLE MENTION AWARDS</li>
-					<ul>
-						<li>Estreller Rian Clark Angeles, 4E4</li>
-						<li>Yikov Yager, 4E4</li>
-						<li>Kayden Oo Kai Zhe, 3E4</li>
-					</ul>
-				</ul>
-				<li><b>JUNIOR SECTION</b></li>
-				<ul>
-					<li>HONOURABLE MENTION AWARDS</li>
-					<ul>
-						<li>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</li>
-						<li>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</li>
-						<li>Lim Jia Ying, Evangel, 2E3</li>
-						<li>Cheang Jiaxin Nicole, 1E3</li>
-						<li>Ng Zhi Cong, Max, 1E4</li>
-						<li>Vathsavai Hemasri, 1E4</li>
-					</ul>
-				</ul>
-			</ul>
-
-Congratulations to the award winners for their hard work and performance. We would also like to extend our appreciation to all the other Meridian competitors!
+<br>The school was awarded the SMO School Commendation Award in recognition
+of overall participation and performance. 11 Meridians have done well and
+clinched the Bronze Awards and Honourable Mention Awards in their respective
+competition categories.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SENIOR SECTION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BRONZE AWARDS</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anthony Ng, 4E4</p>
+</li>
+<li>
+<p>Makoto Sueyoshi, 4E4</p>
+</li>
+</ul>
+</li>
+<li>
+<p>HONOURABLE MENTION AWARDS</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Estreller Rian Clark Angeles, 4E4</p>
+</li>
+<li>
+<p>Yikov Yager, 4E4</p>
+</li>
+<li>
+<p>Kayden Oo Kai Zhe, 3E4</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>JUNIOR SECTION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HONOURABLE MENTION AWARDS</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</p>
+</li>
+<li>
+<p>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</p>
+</li>
+<li>
+<p>Lim Jia Ying, Evangel, 2E3</p>
+</li>
+<li>
+<p>Cheang Jiaxin Nicole, 1E3</p>
+</li>
+<li>
+<p>Ng Zhi Cong, Max, 1E4</p>
+</li>
+<li>
+<p>Vathsavai Hemasri, 1E4</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Congratulations to the award winners for their hard work and performance.
+We would also like to extend our appreciation to all the other Meridian
+competitors!
 <br>
-			<img src="/images/Maths-01-1.jpg" style="width:80%">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/Maths-01-1.jpg">
+</div>
+<p>
 <br>
-
-#### UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS
-
-Selected Meridians took part in the UNSW ICAS national Mathematics competition, which assesses advanced concepts and critical-thinking skills in various areas of Mathematics.<br><br>
-Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit Awards and 10 Merit Awards! Congratulations to the following Meridians for their perseverance and performance. We would also like to extend our special appreciation to the other Meridian competitors!<br>
-			<ul>
-				<li><b>DISTINCTION AWARDS</b></li>
-				<ul>
-					<li>Ng Zhi Cong, Max, 1E4</li>
-					<li>Leo Yoong Yih, 3E3</li>
-				</ul>
-				<li><b>CREDIT AWARDS</b></li>
-				<ul>
-					<li>Liew Yu Xin, Aislinn, 1E2</li>
-					<li>Nur Amirah Binte Jalaluddin, 1E2</li>
-					<li>Cheang Jiaxin Nicole, 1E3</li>
-					<li>Hannah Peralta Khai, 1E4</li>
-					<li>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</li>
-					<li>Zhan En Chen, 2E2</li>
-					<li>Lim Jia Ying, Evangel, 2E3</li>
-					<li>Tan Kok Kun (Chen Guojun), 2E3</li>
-					<li>Wee Jun Han, 3E3</li>
-					<li>Wesly Tiew Pek How, 3E3</li>
-					<li>Alonzo Lai, 3E4</li>
-					<li>Jonathan Quek Zhi Yong, 3E4</li>
-					<li>Kayden Oo Kai Zhe, 3E4</li>
-					<li>Lee Jae, 3E4</li>
-					<li>Meghan Sim Rui Ning, 3E4</li>
-					<li>Regine Ng Yi Xin, 3E4</li>
-					<li>Shine Min Hlaing, 3E4</li>
-					<li>Ting Jun An, Titus, 3E4</li>
-					<li>Wang Lihan, 4E1</li>
-					<li>Anthony Ng, 4E4</li>
-					<li>Estreller Rian Clark Angeles, 4E4</li>
-					<li>Makoto Sueyoshi, 4E4</li>
-					<li>Tan Li Fang Brittany Wenda, 4E4</li>
-					<li>Yikov Yager, 4E4</li>
-				</ul>
-				<li><b>MERIT AWARDS</b></li>
-				<ul>
-					<li>Ahmad Faheem Bin Nilautama, 1E2</li>
-					<li>Kang Le En, Sylvia, 1E2</li>
-					<li>Wong Jim, 1E2</li>
-					<li>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</li>
-					<li>Julian See Jun Da, 2E3</li>
-					<li>Bao Enning, 3E2</li>
-					<li>Jomin Hoo Yuan Hui, 3E3</li>
-					<li>Jonathan Chen Zhi Hao, 3E3</li>
-					<li>Otebay Atilla, 3E3</li>
-					<li>Too Weng Yi, 3E4</li>
-				</ul>
-			</ul>
-
-#### Meridian Mathematics and Financial Literacy Week
-			
-<img src="/images/Maths-Poster.png" style="width:60%">
+</p>
+<h4>UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS</h4>
+<p>Selected Meridians took part in the UNSW ICAS national Mathematics competition,
+which assesses advanced concepts and critical-thinking skills in various
+areas of Mathematics.
 <br>
-The Meridian Mathematics and Financial Literacy Week was a week-long celebration from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year is “Mathematics for a Better Tomorrow”. During the week, students across the levels were engaged in a wide array of activities, exploring the key role that Mathematics plays in Sustainability.
+<br>Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit
+Awards and 10 Merit Awards! Congratulations to the following Meridians
+for their perseverance and performance. We would also like to extend our
+special appreciation to the other Meridian competitors!
 <br>
-			<img src="/images/math%201.png" style="width:80%"><br>
-			<img src="/images/math%202.png" style="width:80%"><br>
-			<img src="/images/math%203.png" style="width:80%"><br>
-			<img src="/images/math%204.png" style="width:80%"><br>
-			<img src="/images/math%205.png" style="width:80%"><br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>DISTINCTION AWARDS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Zhi Cong, Max, 1E4</p>
+</li>
+<li>
+<p>Leo Yoong Yih, 3E3</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>CREDIT AWARDS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liew Yu Xin, Aislinn, 1E2</p>
+</li>
+<li>
+<p>Nur Amirah Binte Jalaluddin, 1E2</p>
+</li>
+<li>
+<p>Cheang Jiaxin Nicole, 1E3</p>
+</li>
+<li>
+<p>Hannah Peralta Khai, 1E4</p>
+</li>
+<li>
+<p>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</p>
+</li>
+<li>
+<p>Zhan En Chen, 2E2</p>
+</li>
+<li>
+<p>Lim Jia Ying, Evangel, 2E3</p>
+</li>
+<li>
+<p>Tan Kok Kun (Chen Guojun), 2E3</p>
+</li>
+<li>
+<p>Wee Jun Han, 3E3</p>
+</li>
+<li>
+<p>Wesly Tiew Pek How, 3E3</p>
+</li>
+<li>
+<p>Alonzo Lai, 3E4</p>
+</li>
+<li>
+<p>Jonathan Quek Zhi Yong, 3E4</p>
+</li>
+<li>
+<p>Kayden Oo Kai Zhe, 3E4</p>
+</li>
+<li>
+<p>Lee Jae, 3E4</p>
+</li>
+<li>
+<p>Meghan Sim Rui Ning, 3E4</p>
+</li>
+<li>
+<p>Regine Ng Yi Xin, 3E4</p>
+</li>
+<li>
+<p>Shine Min Hlaing, 3E4</p>
+</li>
+<li>
+<p>Ting Jun An, Titus, 3E4</p>
+</li>
+<li>
+<p>Wang Lihan, 4E1</p>
+</li>
+<li>
+<p>Anthony Ng, 4E4</p>
+</li>
+<li>
+<p>Estreller Rian Clark Angeles, 4E4</p>
+</li>
+<li>
+<p>Makoto Sueyoshi, 4E4</p>
+</li>
+<li>
+<p>Tan Li Fang Brittany Wenda, 4E4</p>
+</li>
+<li>
+<p>Yikov Yager, 4E4</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>MERIT AWARDS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ahmad Faheem Bin Nilautama, 1E2</p>
+</li>
+<li>
+<p>Kang Le En, Sylvia, 1E2</p>
+</li>
+<li>
+<p>Wong Jim, 1E2</p>
+</li>
+<li>
+<p>Aldriq Zachary Qurshairy Bin Ahmad Zaki, 2E2</p>
+</li>
+<li>
+<p>Julian See Jun Da, 2E3</p>
+</li>
+<li>
+<p>Bao Enning, 3E2</p>
+</li>
+<li>
+<p>Jomin Hoo Yuan Hui, 3E3</p>
+</li>
+<li>
+<p>Jonathan Chen Zhi Hao, 3E3</p>
+</li>
+<li>
+<p>Otebay Atilla, 3E3</p>
+</li>
+<li>
+<p>Too Weng Yi, 3E4</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<h4>Meridian Mathematics and Financial Literacy Week</h4>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Maths-Poster.png">
+</div>
+<p>
+<br>The Meridian Mathematics and Financial Literacy Week was a week-long celebration
+from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year
+is “Mathematics for a Better Tomorrow”. During the week, students across
+the levels were engaged in a wide array of activities, exploring the key
+role that Mathematics plays in Sustainability.
 <br>
-On top of these fun-filled activities, students who enjoy cracking puzzles had a go at our online brain teasers – Puzzle-A-Day.
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/math%201.png">
+</div>
+<p>
 <br>
-			<img src="/images/Maths-13.png" style="width:80%">
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/math%202.png">
+</div>
+<p>
 <br>
-Congratulations to put top 10 winners.
-			<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">1st</th>
-    <th class="tg-1ppo">Shalyn Mia</th>
-    <th class="tg-1ppo">3A2</th>
-  </tr>
-</thead>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/math%203.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/math%204.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/math%205.png">
+</div>
+<p>
+<br>
+<br>On top of these fun-filled activities, students who enjoy cracking puzzles
+had a go at our online brain teasers – Puzzle-A-Day.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/Maths-13.png">
+</div>
+<p>
+<br>Congratulations to put top 10 winners.</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-ys2m">2nd</td>
-    <td class="tg-ys2m">Jerrica Ong</td>
-    <td class="tg-ys2m">2E1</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">3rd</td>
-    <td class="tg-1ppo">Reuben Adrian Rajoo</td>
-    <td class="tg-1ppo">4E4</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">4th</td>
-    <td class="tg-ys2m">Wang Lihan</td>
-    <td class="tg-ys2m">4E1</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">5th</td>
-    <td class="tg-1ppo">Musfirah Bte Khalid</td>
-    <td class="tg-1ppo">1E3</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">6th</td>
-    <td class="tg-ys2m">Joson Klarvie</td>
-    <td class="tg-ys2m">3E4</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">7th</td>
-    <td class="tg-1ppo">Nur Amirah</td>
-    <td class="tg-1ppo">1E2</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">8th</td>
-    <td class="tg-ys2m">Aisyah Sofea</td>
-    <td class="tg-ys2m">1E1</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">9th</td>
-    <td class="tg-1ppo">Anne Liew</td>
-    <td class="tg-1ppo">2E1</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">10th</td>
-    <td class="tg-ys2m">Kakarla Hasini Chowdary</td>
-    <td class="tg-ys2m">2E3</td>
-  </tr>
-</tbody>
-			</table>
-
-<br> In addition, we would like to extend our congratulations to our top 10 winners in the Meridian Mathematical Olympiad 2022!
-
-<br><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-ys2m{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1ppo">Sec 1 (1st)</th>
-    <th class="tg-1ppo">Kang Le En, Sylvia</th>
-    <th class="tg-1ppo">1E2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ys2m">Sec 1 (2nd)</td>
-    <td class="tg-ys2m">Ng Zhi Cong, Max</td>
-    <td class="tg-ys2m">1E4</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Sec 1 (3rd)</td>
-    <td class="tg-1ppo">Canda Jaedan Luis Bernabe</td>
-    <td class="tg-1ppo">1E3</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">Sec 2 (1st)</td>
-    <td class="tg-ys2m">Tan Kok Kun (Chen Guojun)</td>
-    <td class="tg-ys2m">2E3</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Sec 2 (2nd)</td>
-    <td class="tg-1ppo">Zhang Zilang</td>
-    <td class="tg-1ppo">2E3</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">Sec 2 (3rd)</td>
-    <td class="tg-ys2m">Darius Chew Kok Ying</td>
-    <td class="tg-ys2m">2E3</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Sec 3 (1st)</td>
-    <td class="tg-1ppo">Jonathan Chen Zhi Hao</td>
-    <td class="tg-1ppo">3E3</td>
-  </tr>
-  <tr>
-    <td class="tg-ys2m">Sec 3 (2nd)</td>
-    <td class="tg-ys2m">Wesly Tiew Pek How</td>
-    <td class="tg-ys2m">3E3</td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo">Sec 3 (3rd)</td>
-    <td class="tg-1ppo">Shine Min Hlaing</td>
-    <td class="tg-1ppo">3E4</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1st</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Shalyn Mia</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>3A2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jerrica Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reuben Adrian Rajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Lihan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Musfirah Bte Khalid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joson Klarvie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Amirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aisyah Sofea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anne Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kakarla Hasini Chowdary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E3</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p>
+<br>In addition, we would like to extend our congratulations to our top 10
+winners in the Meridian Mathematical Olympiad 2022!</p>
+<p>
 <br>
-			<img src="/images/Maths-14.jpg" style="width:75%">
-<br>
-
----
-
-
-### Highlights in 2021
-#### Sec 2 Virtual Learning Journey – Gardens by the Bay
-
-This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their learning of Maths beyond the classroom by applying what they have learned to real-life examples, through a virtual tour using Thinklink and SLS. During the tour, students had to solve problems in the two indoor conservatories, namely Cloud Forest and Flower Dome.<br><br>Students had the opportunity to apply mathematical skills in real-world contexts, for example, analyse patterns and shapes, estimate measurements using mathematical-modeling techniques, and calculate ticket prices using financial literacy skills.<br><br>Students from each level who presented the best solutions to the problems are awarded prizes.<br><br>The winners are:<br><br>
-		<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-7rem{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf" colspan="2">Sec 2 Express</th>
-  </tr>
-</thead>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-7rem">1st</td>
-    <td class="tg-7rem">DANIELLE CLARISSE MARQUEZ SOBREPENA – Sec 2E1</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">2nd</td>
-    <td class="tg-tsok">MOHAMAD HALIL ARMAN – Sec 2E1</td>
-  </tr>
-  <tr>
-    <td class="tg-7rem">3rd</td>
-    <td class="tg-7rem">PECK KO YI – Sec 2E1</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf" colspan="2">Sec 2 Normal Academic</td>
-  </tr>
-  <tr>
-    <td class="tg-7rem">1st</td>
-    <td class="tg-7rem">SHIM SEOK JIN – Sec 2A1</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">2nd</td>
-    <td class="tg-tsok">RYAN TOH JI TIAN – Sec 2A1</td>
-  </tr>
-  <tr>
-    <td class="tg-7rem">3rd</td>
-    <td class="tg-7rem">SHAWN LIM JIN KAI – Sec 2A1</td>
-  </tr>
-  <tr>
-    <td class="tg-l2bf" colspan="2">Sec 2 Normal Technical</td>
-  </tr>
-  <tr>
-    <td class="tg-7rem">1st</td>
-    <td class="tg-7rem">FARISAH HANNAH – Sec 2T1</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">2nd</td>
-    <td class="tg-tsok">JEZREEL MICA LORZANO DALLORAN – Sec 2T1</td>
-  </tr>
-  <tr>
-    <td class="tg-7rem">3rd</td>
-    <td class="tg-7rem">MUHAMMAD ILMAN HAZIQ – Sec 2T1</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1 (1st)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Kang Le En, Sylvia</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>1E2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 (2nd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Zhi Cong, Max</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 (3rd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Canda Jaedan Luis Bernabe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 (1st)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kok Kun (Chen Guojun)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 (2nd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Zilang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 (3rd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darius Chew Kok Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 (1st)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jonathan Chen Zhi Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 (2nd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wesly Tiew Pek How</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 (3rd)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shine Min Hlaing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E4</p>
+</td>
+</tr>
 </tbody>
-			</table><p></p>
-		<p>Here is a sample of a real-life question that students had to answer, and students’ responses.</p>
-		<img src="/images/m10-1.png" style="width:75%">
-		<img src="/images/m10-2.png" style="width:75%">
-	<p><b>(a)</b> A family tourist from Denmark consisting of 2 adults and a 5 year old boy planned to visit the two Conservatories.<br><br>
-Calculate the total admission fees for the family to the two Conservatories.<br><br><b>(b)</b> If the family decided to also visit the Floral Fantasy, they will be given a 10% discount off on the Floral Fantasy admission tickets. Calculate the total admission fees to the Floral Fantasy for the family.<br><br><b>(c)</b> Calculate the total admission cost for them to go to the two Conservatories and Floral Fantasy.</p>
-		<img src="/images/m10-3.png" style="width:75%">
-		<img src="/images/LOWER-1448x2048.png" style="width:75%">
-		<img src="/images/UPPER-1448x2048.png" style="width:75%"><br>
-		
-	
-		
-#### Meridian Mathematics and Financial Literacy Week
-
-Meridian Mathematics and Financial Literacy Week is a week-long celebration from 8th&nbsp;to 12th&nbsp;March 2021. During the week, students across the levels were engaged through a series of exciting and engaging activities pertaining to Mathematics, POA and Financial Literacy.<br><br>The highlights of the week include mathematical challenges such as Riddles, Sudoku, and Tangrams in which students had to pit against one another in solving challenging Math problems and puzzles. Sec 3 students also experienced Math Modelling and Kite Making in which they applied Mathematics to real-life scenarios.
-		<img src="/images/math%202021.png" style="width:75%">
-		<p>The students had positive learning experiences in the week and learned how to connect better with Mathematics. Some also had the opportunity to learn and apply concepts and skills to solve real-world problems, as well as collaborate and work together as a team. Active participation was evident in all levels, making the week an exciting an engaging experience for all!</p>
-		<img src="/images/m8.jpg" style="width:75%">
-		<p>During the week, Sec 3 students also played the Principles of Accounts (POA) Business Challenge. The board game gave Sec 3 POA students an introductory experience in managing a business. It provided a simulated business environment that required players to carry out business transactions and make the correct decisions to maximise their profits.</p>
-		<img src="/images/m9.jpg" style="width:75%"><br>
-		<img src="/images/m10.jpg" style="width:75%"><br>
-		<img src="/images/m11.jpg" style="width:75%"><br>
-		<img src="/images/m12.jpg" style="width:75%">
+</table>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/Maths-14.jpg">
+</div>
+<p>
+<br>
+</p>
+<hr>
+<h3>Highlights in 2021</h3>
+<h4>Sec 2 Virtual Learning Journey – Gardens by the Bay</h4>
+<p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens
+by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their
+learning of Maths beyond the classroom by applying what they have learned
+to real-life examples, through a virtual tour using Thinklink and SLS.
+During the tour, students had to solve problems in the two indoor conservatories,
+namely Cloud Forest and Flower Dome.
+<br>
+<br>Students had the opportunity to apply mathematical skills in real-world
+contexts, for example, analyse patterns and shapes, estimate measurements
+using mathematical-modeling techniques, and calculate ticket prices using
+financial literacy skills.
+<br>
+<br>Students from each level who presented the best solutions to the problems
+are awarded prizes.
+<br>
+<br>The winners are:
+<br>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Sec 2 Express</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DANIELLE CLARISSE MARQUEZ SOBREPENA – Sec 2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD HALIL ARMAN – Sec 2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PECK KO YI – Sec 2E1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Sec 2 Normal Academic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHIM SEOK JIN – Sec 2A1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN TOH JI TIAN – Sec 2A1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHAWN LIM JIN KAI – Sec 2A1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Sec 2 Normal Technical</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FARISAH HANNAH – Sec 2T1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEZREEL MICA LORZANO DALLORAN – Sec 2T1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD ILMAN HAZIQ – Sec 2T1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Here is a sample of a real-life question that students had to answer,
+and students’ responses.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m10-1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m10-2.png">
+</div>
+<p><strong>(a)</strong> A family tourist from Denmark consisting of 2 adults
+and a 5 year old boy planned to visit the two Conservatories.
+<br>
+<br>Calculate the total admission fees for the family to the two Conservatories.
+<br>
+<br><strong>(b)</strong> If the family decided to also visit the Floral Fantasy,
+they will be given a 10% discount off on the Floral Fantasy admission tickets.
+Calculate the total admission fees to the Floral Fantasy for the family.
+<br>
+<br><strong>(c)</strong> Calculate the total admission cost for them to go
+to the two Conservatories and Floral Fantasy.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m10-3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/LOWER-1448x2048.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/UPPER-1448x2048.png">
+</div>
+<p>
+<br>
+</p>
+<h4>Meridian Mathematics and Financial Literacy Week</h4>
+<p>Meridian Mathematics and Financial Literacy Week is a week-long celebration
+from 8th&nbsp;to 12th&nbsp;March 2021. During the week, students across
+the levels were engaged through a series of exciting and engaging activities
+pertaining to Mathematics, POA and Financial Literacy.
+<br>
+<br>The highlights of the week include mathematical challenges such as Riddles,
+Sudoku, and Tangrams in which students had to pit against one another in
+solving challenging Math problems and puzzles. Sec 3 students also experienced
+Math Modelling and Kite Making in which they applied Mathematics to real-life
+scenarios.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/math%202021.png">
+</div>
+<p></p>
+<p>The students had positive learning experiences in the week and learned
+how to connect better with Mathematics. Some also had the opportunity to
+learn and apply concepts and skills to solve real-world problems, as well
+as collaborate and work together as a team. Active participation was evident
+in all levels, making the week an exciting an engaging experience for all!</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m8.jpg">
+</div>
+<p>During the week, Sec 3 students also played the Principles of Accounts
+(POA) Business Challenge. The board game gave Sec 3 POA students an introductory
+experience in managing a business. It provided a simulated business environment
+that required players to carry out business transactions and make the correct
+decisions to maximise their profits.</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m9.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m10.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m11.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:75%" height="auto" width="100%" src="/images/m12.jpg">
+</div>
+<p></p>
