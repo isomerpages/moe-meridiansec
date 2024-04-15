@@ -44,6 +44,7 @@ and to learn cooperatively and independently.</p>
 </ul>
 <p></p>
 <h3>Highlights in 2024</h3>
+<h4>Regional Cashflow Competition</h4>
 <p>Our Secondary Three POA students took part in the Regional Cashflow Competition
 at St. Anthony’s Canossian Secondary on 22 February 2024 and the National
 Cashflow Competition at National Technological University on 9 March 2024.</p>
@@ -55,7 +56,9 @@ our students also emerged as top scorers and competed in the finals in
 the National Cashflow Competition.</p>
 <p>&nbsp;Well done, students!&nbsp; Keep up your passion for learning!</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/regional cashflow competition.jpg">
+</div>
 <p></p>
 <h3>Highlights in 2023</h3>
 <h4>STEM Playground Challenge</h4>
