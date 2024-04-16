@@ -11,6 +11,13 @@ variant: tiptap
 from their experiences. Here, we showcase some of their success stories.</p>
 <h3>2024</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_HOVINH.jpg">
+</div>
+<p>Our alumnus, HO VO VINH (Class of 2022), has excelled academically in
+the first year in Temasek Polytechnic (2023/24), and has won the prestigious
+Temasek Polytechnic (Engineering) scholarship.</p>
+<p>Congratulations Vinh!</p>
 <ul>
 <li>
 <p>Junior College</p>
