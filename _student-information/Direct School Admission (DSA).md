@@ -61,7 +61,8 @@ Primary 6 (Mid-year)</p>
 </ul>
 </li>
 </ul>
-<p><strong><em>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www<u>.moe.gov.sg.dsa-sec</u></a></em></strong>
+<p><strong><em>The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at </em></strong>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p></p>
 <h3>For DSA Enquiries</h3>
