@@ -34,7 +34,6 @@ students to apply for direct admission into the school for academic year
 through DSA. We will be admitting Secondary One students for 2025 through
 the MOE DSA-SEC Exercise 2024.
 <br>
-<br>
 </p>
 <h3>Admission Criteria</h3>
 <p>The general criteria for selection are as follows:</p>
