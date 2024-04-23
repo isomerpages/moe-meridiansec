@@ -44,7 +44,7 @@ charitable concerts at Changi General Hospital, and Pasir Ris West CC events.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3pm to 5pm</p>
@@ -215,7 +215,7 @@ Day. The Choir also performed during the Meridian’s Arts Day.</p>
 </tbody>
 </table>
 <h4>2022</h4>
-<p><strong>Sec 4 Values in Action – Showing Appreciation to Support Staff</strong>
+<p><strong>Sec 4 Values in Action – Showing Appreciation to Support Staff</strong> 
 <br>To show appreciation to our school’s non-teaching support staff for their
 hard work and dedicated service, as well as to bring joy, positivity and
 sense of community to them, our Sec 4 Choir members embarked on a VIA project
@@ -296,7 +296,7 @@ hard work and practices. Well done, Choir!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/choir-10.jpg">
 </div>
 <h4>2021</h4>
-<p><strong>Sing-a-Song</strong>
+<p><strong>Sing-a-Song</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -306,7 +306,7 @@ hard work and practices. Well done, Choir!</p>
 in collaboration with Pathlight school to encourage Pathlight students
 to read. It was truly an enjoyable experience singing and recording this
 sing along session while referring to the digital book.</p>
-<p><strong>Sec 1 CCA Showcase</strong>
+<p><strong>Sec 1 CCA Showcase</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -320,7 +320,7 @@ sing along session while referring to the digital book.</p>
 introduced the Choir CCA to the Secondary 1 students during the Sec 1 CCA
 Showcase. One of the items shared to the Secondary 1 students was the Sing-a-Song
 VIA collaboration project, as shown on the projector screen.</p>
-<p><strong>In-house Training Workshops</strong>
+<p><strong>In-house Training Workshops</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -348,7 +348,7 @@ Editing 101. The seniors were able to engage the members well and went
 through a guided series of steps on how to edit videos like a professional.
 In this photo, we have Zhi En, our outgoing vice-president, and Ignatius,
 our student conductor.</p>
-<p><strong>Makeup/Grooming for Music Video Creation</strong>
+<p><strong>Makeup/Grooming for Music Video Creation</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -396,20 +396,20 @@ Samba!</p>
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
 </div>
 <p>
-<br><em>Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.</em>
+<br><em>Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.</em> 
 <br><strong>– Eaty Shyam Sheetal, Student Conductor (3E4, 2023)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-03.jpg">
 </div>
-<p><em>To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.</em>
+<p><em>To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.</em> 
 <br><strong>– Lim Ming Hui Sonia, President (3E4, 2024)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/choir-04.jpg">
 </div>
-<p><em>I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!</em>
+<p><em>I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!</em> 
 <br><strong>– Chong Yong Yu, Student Conductor (4E1, 2023)</strong>
 </p>
