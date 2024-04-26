@@ -98,6 +98,11 @@ was declared the winner of the challenge and given a small prize.</p>
 <p>In their reflections submitted after the activity, most students expressed
 that they found the challenge interesting and fun. Through this STEM highlight,
 the school has made Science come alive for the students.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Ice_Box.png">
+</div>
 <h3>2022 Highlights</h3>
 <h4>Meridian Science Enrichment</h4>
 <p><strong>Science Centre Workshops</strong> 
