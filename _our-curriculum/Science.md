@@ -76,11 +76,31 @@ critical thinking and problem-solving skills. Their successful cultivation
 of vibrant blue crystals showcased the practical application of classroom
 knowledge, sparking curiosity and a deeper appreciation for science.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Grow_Your_Own_Crystals.png">
+</div>
 <p></p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Secondary Two STEM Highlight in Term 2: Ice Box Challenge</strong>
+</p>
+<p>The Secondary Two students worked in teams of 2 or 3 to construct a DIY
+ice box over the span of two weeks. They used various recycled materials
+in this STEM task, in line with the school’s push to educate students on
+the practices of sustainability.</p>
+<p>The students made use of the concepts that they learnt about the processes
+of heat transfer to brainstorm on the design of the ice box. Using the
+knowledge that they gained from lessons in school and their own research,
+they chose appropriate materials that could insulate the ice box and keep
+its contents cool.</p>
+<p>The effectiveness of the ice box was evaluated by measuring the amount
+of ice that melted while the ice box was placed under the Sun for some
+time. For each class, the team with the smallest amount of melted water
+was declared the winner of the challenge and given a small prize.</p>
+<p>In their reflections submitted after the activity, most students expressed
+that they found the challenge interesting and fun. Through this STEM highlight,
+the school has made Science come alive for the students.</p>
 <h3>2022 Highlights</h3>
 <h4>Meridian Science Enrichment</h4>
-<p><strong>Science Centre Workshops</strong>
+<p><strong>Science Centre Workshops</strong> 
 <br>Our Sec 1 students were engaged in a Science Centre Singapore workshop
 called “The Science of Making Candy” during the Term 2 Week 10 Experiential
 Learning Programme. The students learned about the different types of sugar
@@ -91,7 +111,7 @@ and how they are made into candies using interfering agents.</p>
 <p>
 <br>
 </p>
-<p><strong>Learning Journey to Greensproutz and Kok Fah Technology Farm</strong>
+<p><strong>Learning Journey to Greensproutz and Kok Fah Technology Farm</strong> 
 <br>All Sec 1 students went on a learning journey to Singapore’s modern agricultural
 farms as part of their Term 2 Week 10 Experiential Learning Programme.
 A few classes went on a tour at Kok Fah Technology Farm and learned the
@@ -105,7 +125,7 @@ knowledge and souvenirs!</p>
 <p>
 <br>
 </p>
-<p><strong>Biology AEM: ApLM Discovering Pharmacy @ Temasek Polytechnic</strong>
+<p><strong>Biology AEM: ApLM Discovering Pharmacy @ Temasek Polytechnic</strong> 
 <br>Our Sec 3 Biology students had the opportunity to attend Temasek Polytechnic’s
 Discovering Pharmacy AEM during their March Holidays. In the 4-day course,
 they learned about the different types of medications, focusing on over-the-counter
@@ -120,7 +140,7 @@ conducted by industry practitioners and lecturers.</p>
 <br>
 </p>
 <h4>Science External Competitions</h4>
-<p><strong>Singapore National Crystal Growing Competition</strong>
+<p><strong>Singapore National Crystal Growing Competition</strong> 
 <br>The Singapore National Crystal Growing Competition is organised by the
 National University of Singapore for all secondary schools to encourage
 the learning and mastery in the art of crystal growing.
@@ -138,7 +158,7 @@ the growth of ammonium nickel (II) sulfate.</p>
 <br>(3E3 Otebay Atilla &amp; Leo Yoong Yih)</p>
 <p></p>
 <p></p>
-<p><strong>STEM Playground Challenge</strong>
+<p><strong>STEM Playground Challenge</strong> 
 <br>The STEM Playground Challenge is part of the UNTAME Festival organised
 by the Singapore Science Centre and the James Dyson Foundation. Students
 use their knowledge in Science, Technology, Engineering and Mathematics
@@ -170,7 +190,7 @@ and presenting on projects of interest. Students are exposed to extra-curricular
 experimental laboratory sessions in school, workshops and competitions.
 Through structured guidance and inquiry based exploration, we aim to nurture
 curiosity, intellectual perseverance and confidence in our students.</p>
-<p><strong>Meridian Young Scientist</strong>
+<p><strong>Meridian Young Scientist</strong> 
 <br>The Meridian Young Scientist is a stretching programme for Sec 1 students
 to stretch and apply their knowledge in science. An award card is given
 to all students to encourage students to apply their learning and enjoy
@@ -186,7 +206,7 @@ with creativity and dedication.</p>
 <img style="width:60%" height="auto" width="100%" src="/images/Science-15.jpg">
 </div>
 <p>
-<br><strong>Meridian Science Discovery Week</strong>
+<br><strong>Meridian Science Discovery Week</strong> 
 <br>The Meridian Science Discovery Week is held in Term 3 with the objective
 to enable students to see Science in everyday life through self-discovery
 and inquiry.</p>
@@ -265,7 +285,7 @@ Through structured guidance and inquiry based exploration, we aim to nurture
 curiosity, intellectual perseverance and confidence in our students.</p>
 <p></p>
 <p></p>
-<p><strong>Meridian Young Scientist</strong>
+<p><strong>Meridian Young Scientist</strong> 
 <br>The Meridian Young Scientist is a stretching programme for Sec 1 students
 to stretch and apply their knowledge in science. An award card is given
 to all students to encourage students to apply their learning and enjoy
@@ -277,7 +297,7 @@ task and various side tasks related to the different science disciplines.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Science-07.jpg">
 </div>
-<p><strong>Meridian Science Discovery Week</strong>
+<p><strong>Meridian Science Discovery Week</strong> 
 <br>The Meridian Science Discovery Week is held in Term 3 with the objective
 to enable students to see Science in everyday life through self-discovery
 and inquiry.</p>
