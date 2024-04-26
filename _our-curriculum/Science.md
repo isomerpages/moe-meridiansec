@@ -75,7 +75,6 @@ not only enhanced their understanding of chemical processes but also encouraged
 critical thinking and problem-solving skills. Their successful cultivation
 of vibrant blue crystals showcased the practical application of classroom
 knowledge, sparking curiosity and a deeper appreciation for science.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Grow_Your_Own_Crystals.png">
 </div>
@@ -98,7 +97,6 @@ was declared the winner of the challenge and given a small prize.</p>
 <p>In their reflections submitted after the activity, most students expressed
 that they found the challenge interesting and fun. Through this STEM highlight,
 the school has made Science come alive for the students.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Ice_Box.png">
