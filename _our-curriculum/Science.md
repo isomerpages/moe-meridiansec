@@ -64,7 +64,7 @@ and curriculum.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/02.png">
 </div>
 <h3>2024 Highlights</h3>
-<p><strong>Sec1 miniSTEM activity – Grow Your Own Crystals! </strong>
+<p><strong>Sec1 miniSTEM activity – Grow Your Own Crystals!</strong>
 </p>
 <p>In Term 2, our Secondary 1 students embarked on an exciting STEM journey,
 growing copper (II) sulfate crystals. Throughout the week-long experiment,
