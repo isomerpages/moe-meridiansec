@@ -22,8 +22,6 @@ caring, creative, and confident individuals.</p>
 <li>
 <p>2024 – 线下工作坊：制作风筝、剪纸和武术工作坊</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>2022 – 线下工作坊：制作泥塑和风筝</p>
 </li>
@@ -109,9 +107,18 @@ caring, creative, and confident individuals.</p>
 <br>我校师生看过的演出有很多。例如《我是你爸爸》《一条活动的百纳被》《宁静的国度》《一路笑》《哄堂10》等。演员们的精彩表演让学生们时而会心一笑，时而低头沉思，又或是恍然大悟，拍案叫绝。
 <br>
 <br>文以载道，艺亦载道。这些作品针砭时弊，寓教于乐，也启发学生思考其中所隐含的社会意义。</p>
+<h4>2024</h4>
+<p>今年的4月3日，中一和中二的学生来到剧场，观看华文剧《新爱丽丝的仙境》。学生和演员们一起，进入“爱丽丝“的梦境，探讨如何在梦想和现实之间，做出抉择。在欣赏演员们的精湛表演之余，学生们学到⾯对梦想时所需要的决⼼。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/CPES.jpg">
+</div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/mtcl1.png">
 </div>
+<p></p>
 <h4>欣赏中华戏剧表演</h4>
 <p>中华戏剧，博大精深，但似乎越来越远离当代学生的生活。为了让学生领略“吹拉弹唱”“生旦净末丑”的艺术魅力，华文部每年都邀请京剧艺术中心的演员到我校为学生表演精彩的戏剧。</p>
 <p>粤剧《唐明皇游月宫》、京剧《伐东吴》《孙悟空龙宫借宝》，让学生了解了中华经典故事，认识了戏曲人物的角色分类和道具。华丽的戏服、丰富的唱腔、细腻的表情、流畅的动作，给学生带来了一台台精彩的视听盛宴。学生也被邀请到台上与演员互动，学习戏剧的念白和动作，在轻松愉快的气氛中感染华族文化的艺术魅力。</p>
@@ -143,6 +150,40 @@ caring, creative, and confident individuals.</p>
 <br>制作竹简是可以让学生体会古人如何在竹片上书写文字，记录和传播讯息。活动中，学生两两配对，一起合作，把八片竹简通过结绳合制成一部简单的书册。学生在竹片上书写的是古诗词，并发挥想象力，为诗句配以图画。学生既能感受到动手合作的乐趣，也能快乐地赏析文学及书画的精妙和深意。</p>
 <p>制作泥塑，是用最新材质的超轻无异味的彩泥捏制钥匙扣。制作之前，指导老师给学生讲解了12生肖的传说。随后，每位同学拿到5种颜色的超轻彩泥块，遵照指导逐步制作出钥匙环。很多学生发挥创意，制作出可爱的熊猫、兔子、小鸡、野牛等等。</p>
 <p>此外，我们还开展画脸谱、画扇面、雕刻佩章等活动。学生在学习文化常识时，认真投入，在动手制作时，积极互动。整个过程大家都乐在其中，既学到知识、受到文化熏陶，又培养了团结协作的精神。</p>
+<h4>2024</h4>
+<p>今年的中一文化营为学生提供了沉浸式的动手学习体验。学生们亲手制作了风筝，还拿起剪刀尝试剪纸，在经验丰富的武术教练的带领下，学习了华族武术的基本动作，也被令人惊叹的武术表演所吸引。总而言之，这些活动加深了他们对华族文化的了解。</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/wushu.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/mtoct5.jpg">
