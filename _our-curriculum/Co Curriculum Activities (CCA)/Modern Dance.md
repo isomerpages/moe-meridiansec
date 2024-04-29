@@ -77,7 +77,7 @@ Martha Graham, modern dancer and choreographer</p>
 </li>
 </ul>
 <h3>Yearly Highlights</h3>
-<h4>2024</h4>
+<h3>2024</h3>
 <p><strong>MSS Go Green 2024</strong>
 </p>
 <p>Our Madroovers covered a rendition of ‘This Is How We Do It’ by Mondell
@@ -88,7 +88,6 @@ efforts.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
 </div>
@@ -104,6 +103,18 @@ CC and Passion Arts. Their energetic performance blew the crowd gathered
 at Our Tampines Hub who danced and cheered along to the number. As we move
 forward, our dancers will take on a bigger stage, a new crowd with yet
 another flaming performance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_6.jpg">
+</div>
 <p></p>
 <ul>
 <li>
