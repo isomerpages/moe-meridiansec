@@ -84,6 +84,18 @@ Martha Graham, modern dancer and choreographer</p>
 Jordan x ‘Finesse’ by Bruno Mars for MSS Go-Green Day. Choreographed by
 our creative instructor, Mr Wein, the dance number aims to promote sustainability
 efforts.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
+</div>
 <p><strong>Open Stage Dance Competition 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>In April, our enthusiastic dancers took part in
@@ -154,12 +166,12 @@ Presentation, Speech Day Concert</p>
 </li>
 </ul>
 <h3>Our CCA Experience</h3>
-<p><em>Being in a dance CCA taught me the importance of communication. By participating in prestigious competitions such as WSB and S24, I learnt that voicing out my thoughts about the performance help us understand each other better, foster good friendship and strong ties. </em>
+<p><em>Being in a dance CCA taught me the importance of communication. By participating in prestigious competitions such as WSB and S24, I learnt that voicing out my thoughts about the performance help us understand each other better, foster good friendship and strong ties.</em>
 </p>
 <p><strong>– Sylvia Kang (3E1,2024)</strong>
 </p>
 <p><em>As the Chairperson of Madroovers, I am blessed to learn and grow under the guidance of my Coach, Mr Wein and the teachers. I am grateful to be given the opportunities to lead and serve the CCA. Throughout my three years in modern dance, I learn the importance of building a good relationship with my fellow juniors and seniors.</em>
 </p>
-<p><strong> – Abilene Buthor (3A1,2024)</strong>
+<p><strong>– Abilene Buthor (3A1,2024)</strong>
 </p>
 <p></p>
