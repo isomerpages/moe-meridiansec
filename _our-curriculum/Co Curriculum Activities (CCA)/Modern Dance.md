@@ -88,6 +88,7 @@ efforts.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
 </div>
@@ -95,6 +96,7 @@ efforts.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
 </div>
+<p></p>
 <p><strong>Open Stage Dance Competition 2024</strong>
 </p>
 <p><strong>&nbsp;</strong>In April, our enthusiastic dancers took part in
@@ -103,7 +105,6 @@ CC and Passion Arts. Their energetic performance blew the crowd gathered
 at Our Tampines Hub who danced and cheered along to the number. As we move
 forward, our dancers will take on a bigger stage, a new crowd with yet
 another flaming performance</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
 </div>
