@@ -10,6 +10,9 @@ refinement to enhance the iterative process. This approach, based on ‘Feel-Thi
 drives innovation and emphasises empathetic engagement, supporting student
 well-being through adaptive thinking.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/Design_thinking.png">
+</div>
 <p>DT has become integral to various school aspects, including student-led
 VIA, timetabling and the Professional Learning Teams (PLTs). It guides
 the creation of problem statements and influences the structure of mid-point
