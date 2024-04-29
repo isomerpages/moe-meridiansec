@@ -9,7 +9,9 @@ variant: tiptap
 refinement to enhance the iterative process. This approach, based on ‘Feel-Think-Do-Share’,
 drives innovation and emphasises empathetic engagement, supporting student
 well-being through adaptive thinking.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/Design_Thinking_revised.png">
+</div>
 <p>DT has become integral to various school aspects, including student-led
 VIA, timetabling and the Professional Learning Teams (PLTs). In PLTs, Design
 Thinking guides the creation of problem statements and influences the structure
@@ -17,6 +19,7 @@ of mid-point sharing through lightning talks. The framework is also embedded
 into student-teacher conversations within relational circles, fostering
 a culture of empathy and deeper understanding. This refined approach aligns
 with the school's collaborative efforts and the emphasis on iterative development.</p>
+<p>&nbsp;</p>
 <h2>STUDENT INNOVATION</h2>
 <h3>STUDENTS</h3>
 <p>Secondary 1 students will experience the DT process of ‘Feel’, ‘Think’
