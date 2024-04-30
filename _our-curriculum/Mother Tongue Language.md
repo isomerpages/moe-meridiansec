@@ -253,9 +253,6 @@ caring, creative, and confident individuals.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/mtoct18.jpg">
 </div>
-<p>
-<br>
-</p>
 <h3>Highlights - Malay Language</h3>
 <h4>2022</h4>
 <h5>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Menganyam</h5>
@@ -405,15 +402,11 @@ hasil penulisan Jawi mereka.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ml10-7.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ml10-8.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ml10-9.jpg">
 </div>
@@ -436,9 +429,7 @@ MAEC di bawah kategori sekolah menengah.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ml10-11.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/ml10-12.jpg">
 </div>
@@ -739,7 +730,6 @@ menjamu selera dengan makan berdulang.</p>
 <p>
 <br>
 </p>
-<p></p>
 <h5>Bengkel Roti Jala</h5>
 <p>Pada 27hb&nbsp;September 2018, para pelajar menengah 2 aliran Normal Teknikal
 telah mencuba membuat Roti Jala atau juga dikenali sebagai Roti Kirai dan
@@ -823,9 +813,6 @@ menghiburkan.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/2-2.png">
 </div>
-<p>
-<br>
-</p>
 <p></p>
 <h5>Pementasan Nuri Terbang Malam di Esplanade</h5>
 <p>Pada 27hb Mac 2017, seramai 42 pelajar menengah 2 aliran Normal Akademik
@@ -837,6 +824,4 @@ muzik yang didendangkan sepanjang pementasan.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/3-2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
