@@ -254,6 +254,22 @@ caring, creative, and confident individuals.</p>
 <img style="width:60%" height="auto" width="100%" src="/images/mtoct18.jpg">
 </div>
 <h3>Highlights - Malay Language</h3>
+<h4><strong>2024</strong></h4>
+<p>&nbsp;<strong>Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
+</p>
+<p><strong>&nbsp;</strong>Perkhemahan Kebudayaan pada tahun ini menjamu para
+pelajar Menengah 1 dengan pelbagai aktiviti kebudayaan. Sesi separuh hari
+ini mengajak pelajar mempelajari dan mencuba sendiri seni pertahanan silat,
+menghasilkan anyaman bakul dan memasak kuih jongkong. Menerusi sesi ini,
+pelajar didedahkan kepada pelbagai aspek kesenian dan kebudayaan tradisi
+Melayu.</p>
+<p>&nbsp;Sesi amali yang dijalankan memberi pelajar peluang mencuba sendiri
+pelbagai tradisi amalan masyarakat Melayu. Peluang yang bernilai ini pasti
+menjadi memori yang tidak dapat dilupakan oleh para pelajar apabila mereka
+bekerjasama dengan rakan dan fasilitator yang mesra sambil memartabatkan
+warisan bangsa.</p>
+<p>&nbsp;</p>
+<p></p>
 <h4>2022</h4>
 <h5>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Menganyam</h5>
 <p>Bukan sekadar melatih penelitian pelajar, tetapi turut mencungkil kreativiti
