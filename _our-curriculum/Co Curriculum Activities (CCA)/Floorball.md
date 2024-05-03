@@ -140,6 +140,19 @@ been selected previously to play for the Singapore Schools Teams as well
 as established clubs in the Singapore Floorball League. Our alumni has
 been involved with the various National set-up.</p>
 <h3>Our CCA Experience:</h3>
+<p><em>I am incredibly proud to have been a part of schools Floorball CCA for the past four years. Covid struck in my first year in secondary school, feeling hopeless that I may not experience the opportunity to play in the National School Games, it did not stop us from continuing to train. For example, our teachers put up zoom training lessons at home to improve, as well as putting up challenges for us to run every week, with a 1 kilometer increase in our distance goal every week until school starts again. One of the most memorable moments during my time with the team was achieving my first medal for the school in 2022. Despite the colour of the medals we brought home, i've learnt so much and definitely enjoyed playing that season with my seniors. In my last NSG season in 2023, I was trusted to wear the captain arm band and lead the team to championship. Depite failure to reach the top 8, in our hearts, we knew that we are much stronger and as seniors, we put our trust and hope to our juniors to bring our championship back the next season. It was a testament to the dedication, hard work, and teamwork that our team embodied. I've definitely had many regrets and this experience has not only shaped my time in school but has also taught me valuable lessons in perseverance and collaboration that will undoubtedly stay with me throughout my life.</em>
+</p>
+<p>-Yrvin Ryan Legaspi Gelangre (4A1 2023), Captain, B Division Boys</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball/2024floorballimage1.png">
+</div>
+<p><em>As I reflect on my journey as a team captain, the bond between players has been a source of both strength and camaraderie. We found a harmonious balance, where everyone could chill while maintaining a serious focus when it mattered most. The unwavering support of my juniors and teammates, who effortlessly embraced leadership roles, has been instrumental in my growth. I've learned that overthinking hinders performance, and embracing consistency, even on challenging days, is key. The period post NSG 2022 exposed me to diverse coaching styles and tactics, demanding quick adaptation. These experiences have profoundly shaped my understanding of floorball.                                                                                                             </em>
+</p>
+<p>-Raeann Kallie lim (4E2 2023), Captain, B Division Girls</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball/2024floorballimage2.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball-sem2-01-.jpg">
 </div>
@@ -155,8 +168,11 @@ been involved with the various National set-up.</p>
 Girls</p>
 <h3>Achievements</h3>
 <h4>2023 – National Inter-School Floorball Championship</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Division Boys – 2<sup>nd</sup>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C Division Boys – 2nd</p>
+</li>
+</ul>
 <h4>2022 – National Inter-School Floorball Championship</h4>
 <ul data-tight="true" class="tight">
 <li>
