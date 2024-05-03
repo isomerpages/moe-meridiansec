@@ -35,6 +35,7 @@ through DSA. We will be admitting Secondary One students for 2025 through
 the MOE DSA-SEC Exercise 2024.
 <br>
 </p>
+<hr>
 <h4>Admission Criteria</h4>
 <p>The general criteria for selection are as follows:</p>
 <ul>
@@ -60,7 +61,7 @@ Primary 6 (Mid-year)</p>
 </ul>
 </li>
 </ul>
-<p></p>
+<hr>
 <p><strong>CRITERIA / SELECTION PROCESS</strong>
 </p>
 <p>The criteria and selection process for the sports talent areas are reflected
@@ -98,7 +99,6 @@ below.</p>
 Games (NSG) or any equivalent competition/involvements (eg. Singapore Youth
 League)</p>
 <p>&nbsp;Be medically fit for sports activities.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Sports trials (which may include an interview) for shortlisted applicants</p>
@@ -188,7 +188,8 @@ IS) or in person at their respective primary schools.</p>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>).</p>
-<p><strong>&nbsp;IMPORTANT NOTES</strong>
+<hr>
+<p><strong>IMPORTANT NOTES</strong>
 </p>
 <p><strong>&nbsp;Parents and students are encouraged to choose schools wisely based on the student’s <u>aptitudes and strengths</u>, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
@@ -200,6 +201,7 @@ Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can
 apply through the DSA-Sec Portal. For more information, please refer to
 MOE website at:<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
+<hr>
 <h3>For DSA Enquiries</h3>
 <p>For general enquiries, you may contact:</p>
 <p>Mr Quaide Millath (Subject Head / PE &amp; CCA)
