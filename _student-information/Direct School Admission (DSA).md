@@ -200,7 +200,7 @@ IS) or in person at their respective primary schools.</p>
 </p>
 <p><strong>&nbsp;Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
-<p>&nbsp;For students <u>NOT</u> studying in MOE mainstream primary schools</p>
+<p>For students <u>NOT</u> studying in MOE mainstream primary schools</p>
 <p>Students not studying in MOE schools will require to obtain a Registration
 Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can
 apply through the DSA-Sec Portal. For more information, please refer to
