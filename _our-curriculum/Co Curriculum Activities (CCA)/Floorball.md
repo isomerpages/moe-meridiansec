@@ -146,7 +146,7 @@ been involved with the various National set-up.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball/2024floorballimage1.png">
 </div>
-<p><em>As I reflect on my journey as a team captain, the bond between players has been a source of both strength and camaraderie. We found a harmonious balance, where everyone could chill while maintaining a serious focus when it mattered most. The unwavering support of my juniors and teammates, who effortlessly embraced leadership roles, has been instrumental in my growth. I've learned that overthinking hinders performance, and embracing consistency, even on challenging days, is key. The period post NSG 2022 exposed me to diverse coaching styles and tactics, demanding quick adaptation. These experiences have profoundly shaped my understanding of floorball.                                                                                                             </em>
+<p><em>As I reflect on my journey as a team captain, the bond between players has been a source of both strength and camaraderie. We found a harmonious balance, where everyone could chill while maintaining a serious focus when it mattered most. The unwavering support of my juniors and teammates, who effortlessly embraced leadership roles, has been instrumental in my growth. I've learned that overthinking hinders performance, and embracing consistency, even on challenging days, is key. The period post NSG 2022 exposed me to diverse coaching styles and tactics, demanding quick adaptation. These experiences have profoundly shaped my understanding of floorball.</em>
 </p>
 <p>-Raeann Kallie lim (4E2 2023), Captain, B Division Girls</p>
 <div class="isomer-image-wrapper">
