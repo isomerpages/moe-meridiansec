@@ -211,6 +211,5 @@ MOE website at:<a rel="noopener noreferrer nofollow" target="_blank">https://go.
 <p><strong><em>For more information on DSA-Sec, please refer to the MOE website at </em></strong>
 <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
-<p></p>
 <p><strong>Thank you and we look forward to meeting you soon!</strong>
 </p>
