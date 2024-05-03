@@ -106,8 +106,6 @@ League)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p><strong><em>(Please note that meeting all criteria does not guarantee the applicant’s shortlisting or being given an offer)</em></strong>
 </p>
 <p><strong>APPLICATION / SELECTION STAGES</strong>
