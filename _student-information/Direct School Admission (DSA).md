@@ -4,6 +4,7 @@ permalink: /student-information/dsa/
 description: ""
 variant: tiptap
 ---
+<h4>Introduction</h4>
 <p><strong>MERIDIAN SEC DIRECT SCHOOL ADMISSION (DSA)</strong>
 </p>
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
@@ -34,7 +35,7 @@ through DSA. We will be admitting Secondary One students for 2025 through
 the MOE DSA-SEC Exercise 2024.
 <br>
 </p>
-<h3>Admission Criteria</h3>
+<h4>Admission Criteria</h4>
 <p>The general criteria for selection are as follows:</p>
 <ul>
 <li>
@@ -60,10 +61,10 @@ Primary 6 (Mid-year)</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>CRITERIA / SELECTION PROCESS</u></strong>
+<p><strong>CRITERIA / SELECTION PROCESS</strong>
 </p>
-<p>&nbsp;The criteria and selection process for the sports talent areas are
-reflected below.</p>
+<p>The criteria and selection process for the sports talent areas are reflected
+below.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -113,8 +114,7 @@ League)</p>
 </table>
 <p><strong><em>(Please note that meeting all criteria does not guarantee the applicant’s shortlisting or being given an offer)</em></strong>
 </p>
-<p></p>
-<p><strong><u>APPLICATION / SELECTION STAGES</u></strong>
+<p><strong>APPLICATION / SELECTION STAGES</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -190,19 +190,15 @@ IS) or in person at their respective primary schools.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;<strong><u>SUBMISSION OF APPLICATIONS</u></strong>
+<p><strong>&nbsp;SUBMISSION OF APPLICATIONS</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>).</p>
-<p>&nbsp;</p>
-<p><strong><u>IMPORTANT NOTES</u></strong>
+<p><strong>&nbsp;IMPORTANT NOTES</strong>
 </p>
 <p><strong>&nbsp;Parents and students are encouraged to choose schools wisely based on the student’s <u>aptitudes and strengths</u>, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
+<p><strong>&nbsp;Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
 <p>&nbsp;For students <u>NOT</u> studying in MOE mainstream primary schools</p>
 <p>Students not studying in MOE schools will require to obtain a Registration
