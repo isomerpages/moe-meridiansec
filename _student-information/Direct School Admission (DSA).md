@@ -73,40 +73,32 @@ below.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Sports Talent Area</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Criteria</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Selection Process</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>1. Basketball (Boys only)</p>
-<p>&nbsp;</p>
-<p>2. Floorball (Boys &amp; Girls)</p>
-<p>&nbsp;</p>
-<p>3. Football (Boys &amp; Girls)</p>
-<p>&nbsp;</p>
+<p>&nbsp;2. Floorball (Boys &amp; Girls)</p>
+<p>&nbsp;3. Football (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Participation &amp; achievements in the sport, in the National School
 Games (NSG) or any equivalent competition/involvements (eg. Singapore Youth
 League)</p>
-<p>&nbsp;</p>
 <p>Be medically fit for sports activities.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Sports trials (which may include an interview) for shortlisted applicants</p>
 </td>
 </tr>
