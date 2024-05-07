@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<h2><strong>About us</strong></h2>
+<h3><strong>Red Cross Youth</strong></h3>
+<h4><strong>About us</strong></h4>
 <p>Red Cross Youth is a co-curricular activity that integrates character-building,
 leadership, essential lifesaving skills and blood donation knowledge, local
 community service and overseas humanitarian projects in its curriculum,
@@ -76,10 +77,7 @@ the work of&nbsp;Red Cross.</p>
 less fortunate in the community.</p>
 </li>
 </ul>
-<p><strong>Training / CCA Schedule and Venue</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Training / CCA Schedule and Venue</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -114,8 +112,7 @@ less fortunate in the community.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Teachers in-charge</strong>
-</p>
+<h4><strong>Teachers in-charge</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Miss Belinda Tan</p>
@@ -127,15 +124,13 @@ less fortunate in the community.</p>
 <p>Miss Syafiqah Md Anuar</p>
 </li>
 </ul>
-<p><strong>HQ appointed Volunteer Instructor</strong>
-</p>
+<h4><strong>HQ appointed Volunteer Instructor</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Wang Jia Xuan</p>
 </li>
 </ul>
-<p><strong><br>Highlights</strong>
-</p>
+<h4><strong><br>Highlights</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -294,12 +289,12 @@ less fortunate in the community.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 <td rowspan="1" colspan="2">
 <p><strong>2022</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -511,329 +506,4 @@ Malihan (3T1)</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Founded on 30 September 1949, the Singapore Red Cross is an independent
-humanitarian organisation that is non-political, non-religious and is part
-of the International Federation of the Red Cross. SRC adheres to the Geneva
-Convention (1949) and bases its work on the fundamental principles of humanity,
-impartiality, independence, neutrality, unity, universality and voluntary
-service.</p>
-<p>Red Cross Youth is a co-curricular activity that integrates character-building,
-leadership, essential lifesaving skills and blood donation knowledge, local
-community service and overseas humanitarian projects in its curriculum,
-with the Red Cross ethos and service to humanity as a core focus.</p>
-<p>Throughout the year, we participate in a variety of programmes and events
-hosted by Red Cross Youth. The events are as follows:-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Type</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Programme</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Training</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modular Workshops, Warrant Officer’s Programme, Unit Specialist Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Competitions</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>First Aid Championship, Fostering Leadership And Resilient Endeavours
-(FLARE), Disaster Risk Reduction Championship (DRRC), Ambassadors of Blood
-donation Competition (ABC), Trailblazers Championship (TC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Celebration / Recognition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awards &amp; Recognition Day, World Red Cross Day Celebrations</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Trainings during co-curricular activity include learning about First Aid,
-Footdrills, and Disaster Management such as evacuation procedures, Youth
-Leadership skills, Red Cross Knowledge and some outdoor activities. Furthermore,
-cadets are also given the opportunities to volunteer for Community Service
-projects.</p>
-<p>Annually, senior cadets organise the uniform group camp in School to horn
-their leadership skills and to improve the bonds between uniform group
-members.</p>
-<h3>Mission</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>To promote and encourage the active participation of young persons in
-the work of Red Cross.</p>
-</li>
-<li>
-<p>To inculcate and develop a sense of social responsibility in serving the
-less fortunate in the community.</p>
-</li>
-</ul>
-<h3>Teachers In-charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Miss Belinda Tan</p>
-</li>
-<li>
-<p>Mdm Teo Yee Hoon</p>
-</li>
-<li>
-<p>Miss Syafiqah Md Anuar</p>
-</li>
-</ul>
-<h3>CCA Schedule</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday and Thursday, 2.45 pm to 5.00 pm</p>
-</li>
-</ul>
-<h3>HQ appointed leader attached to unit</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wang Jia Xuan</p>
-</li>
-<li>
-<p>Mohamad Roshaquell Sholihin</p>
-</li>
-</ul>
-<h3>Quote</h3>
-<p><em>“In Sec 2, I joined NDP 2019 at the Padang. It was the best decision I have ever made, because not only was I able to represent Meridian Red Cross during National Day, I’ve made a lot of new friends from Red Cross, NCC, NCDCC, Girls Brigade, etc. Although I had to sacrifice half a year’s worth of Saturdays, I believe it was time well-spent for the new experiences and people I have met.”</em>
-</p>
-<p>Felix Dave Khor Wei Ming
-<br>(Sec 3E3)</p>
-<h3>Achievements</h3>
-<h3>2022</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellent Unit Award (Gold) – for 2021</p>
-</li>
-<li>
-<p>Director’s Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Umathorn Theethut (4E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazer Championship (Finalist)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wong Li Yan (4E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazer Championship (Gold)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Umathorn Theethut (4E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazer Championship (Silver)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Molina Caleb Geoliano Malihan (4T1)</p>
-</li>
-<li>
-<p>Muhammad Danish (4A2)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazer Championship (Bronze)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Goh Jerrill (4A3)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazer Championship (Commendation)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Chen Ziyan (4A1)</p>
-</li>
-<li>
-<p>Wang Xinyue(4A1)</p>
-</li>
-<li>
-<p>Javier Ng and (4A3)</p>
-</li>
-<li>
-<p>Guo Peijin (4T1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Disaster Risk Reduction Championships (Bronze)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Crystal Kwok (3E3)</p>
-</li>
-<li>
-<p>Jomin Hoo (3E3)</p>
-</li>
-<li>
-<p>Kristen Erica Tan (3E2)</p>
-</li>
-<li>
-<p>Elly Qalisya (3T1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Ambassadors of Blood Championship (Commendation)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ng Wan Yi (3E3)</p>
-</li>
-<li>
-<p>Naomi Peralta Khai (3E3)</p>
-</li>
-</ul>
-</li>
-</ul>
-<h3>2021</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Director’s Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Felix Dave Khor Wei Ming (4E2)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Disaster Risk Reduction Championships (Silver)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Umathorn Theethut (3E1)</p>
-</li>
-<li>
-<p>Goh Jerrill (3A3)</p>
-</li>
-<li>
-<p>Molina Caleb Geoliano Malihan (3T1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Ambassador of Blood Competition (Silver)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wong Li Yan (3E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Ambassador of Blood Competition (Commendation)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wang Xinyue (3A1)</p>
-</li>
-</ul>
-</li>
-</ul>
-<h3>2020</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellent Unit Award (Silver) – for 2019</p>
-</li>
-<li>
-<p>Director’s Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dena Trisna Binte Shukore (4E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazers Competition (Finalist)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Fatoniah Iffah Hanisah (4E2)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Disaster Risk Reduction Championships (Bronze)</p>
-</li>
-<li>
-<p>Ambassador of Blood Competition (Bronze)</p>
-</li>
-</ul>
-<h3>2019</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellent Unit Award (Gold) – for 2018</p>
-</li>
-<li>
-<p>Director’s Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wang Jiaxuan (4E2)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Trailblazers Competition (Finalist)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Oh Weiyang (4E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Ambassador of Blood Competition (Excellent)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mariah Mahadzir (3E1)</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Disaster Risk Reduction Championships (Commendation)</p>
-</li>
-<li>
-<p>First Aid Championships Junior Category (Bronze)</p>
-</li>
-<li>
-<p>First Aid Championships Senior Category (Bronze)</p>
-</li>
-</ul>
-<h3>Highlights of Events</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red-Cross-01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red-Cross-02.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red-Cross-03.jpg">
-</div>
 <p></p>
