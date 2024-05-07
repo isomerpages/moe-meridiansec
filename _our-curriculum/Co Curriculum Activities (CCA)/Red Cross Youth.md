@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<h3><strong>Red Cross Youth</strong></h3>
-<h4><strong>About us</strong></h4>
+<h2><strong>Red Cross Youth</strong></h2>
+<h3><strong>About us</strong></h3>
 <p>Red Cross Youth is a co-curricular activity that integrates character-building,
 leadership, essential lifesaving skills and blood donation knowledge, local
 community service and overseas humanitarian projects in its curriculum,
@@ -128,9 +128,10 @@ less fortunate in the community.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Wang Jia Xuan</p>
+<p></p>
+<h4><strong>Highlights</strong></h4>
 </li>
 </ul>
-<h4><strong><br>Highlights</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,8 +140,7 @@ less fortunate in the community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023</strong>
-</p>
+<h4><strong>2023</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -290,8 +290,7 @@ less fortunate in the community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2022</strong>
-</p>
+<h4><strong>2022</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -426,8 +425,7 @@ less fortunate in the community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>2021</strong>
-</p>
+<h4><strong>2021</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -494,15 +492,13 @@ Malihan (3T1)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Our CCA Experience</strong>
-</p>
+<h4><strong>Our CCA Experience</strong></h4>
 <p><em>“So, why Red Cross Youth? For me, the Red Cross was the place where I formed close bonds with my batchmates. We are one family, united, and we supported each other. It was also the place that equipped me with life-saving skills as well as leadership skills to become the best leader I can be.</em>
 </p>
 <p><em>I am currently setting my sights on the medical aspect of healthcare, either in nursing or medicine.”</em>
 </p>
 <p>Naomi Peralta Khai (4E3, 2023)</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage1.png">
 </div>
