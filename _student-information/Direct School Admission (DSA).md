@@ -128,7 +128,7 @@ League)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7<sup>th</sup> May (11am) to 31<sup>st</sup> May (3pm) 2024</p>
+<p>7<sup>th</sup> May (11am) to 3rd June (3pm) 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>APPLICATION STAGE</strong>
