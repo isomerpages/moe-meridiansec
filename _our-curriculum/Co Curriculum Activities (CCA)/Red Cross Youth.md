@@ -61,6 +61,7 @@ donation Competition (ABC), Trailblazers Championship (TC)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Trainings during co-curricular activity include learning about&nbsp;<strong>First Aid, Footdrills, and Disaster Management such as evacuation procedures, Youth Leadership skills, Red Cross Knowledge and some outdoor activities.</strong> Furthermore,
 cadets are also given the opportunities to volunteer for Community Service
 projects.</p>
