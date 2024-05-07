@@ -175,26 +175,17 @@ less fortunate in the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tang Yu Seng (S1-1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lulu Binte Fares Aljunied (S1-2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Wee How (S1-3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Low See Weng Maeve (S1-5)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Albino Margareth Paige Apolinario (2E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keegan Choo (2E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Yu Xin, Aislinn (2E2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parinitha Thiyagarajan (2E3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ting Jun Jie (2E4)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhd F. Aqil Bin Muhd Firdaus (2T1)</strong>
-</p>
+<p><strong>·&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp; Tang Yu Seng (S1-1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lulu Binte Fares Aljunied (S1-2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Wee How (S1-3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Low See Weng Maeve (S1-5)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Albino Margareth Paige Apolinario
+(2E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keegan Choo (2E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Yu Xin, Aislinn (2E2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parinitha Thiyagarajan (2E3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ting Jun Jie (2E4)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhd F. Aqil Bin Muhd Firdaus (2T1)</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -206,30 +197,18 @@ less fortunate in the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liang Yulu (3E3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lim Cleo (3E3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charis Abira Djingga (3E4)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Sebastian (4A1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nur Humaira Binte Muhammad Noh (4A2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samantha Alcantara Clemente (4A2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristen Erica Tan Shi Ting (4E2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystal Kwok Cai Jing (4E3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jomin Hoo Yuan Hui (4E3)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Weng Yi (4E4)</strong>
-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liang Yulu (3E3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lim Cleo (3E3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charis Abira Djingga (3E4)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Sebastian (4A1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nur Humaira Binte Muhammad Noh (4A2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samantha Alcantara Clemente (4A2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristen Erica Tan Shi Ting (4E2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystal Kwok Cai Jing (4E3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jomin Hoo Yuan Hui (4E3)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Weng Yi (4E4)</p>
 </td>
 </tr>
 <tr>
@@ -240,14 +219,10 @@ less fortunate in the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jerrica Ong Si Xuan (3E2)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liora Chandra (3E4)</strong>
-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jerrica Ong Si Xuan (3E2)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liora Chandra (3E4)</p>
 </td>
 </tr>
 <tr>
@@ -267,12 +242,10 @@ less fortunate in the community.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirah Noorhuda Binti Noorhizam (2E4)</strong>
-</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hannah Peralta Khai (2E4)</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Harith Amri Bin Saiful Amri (3E1)</strong>
-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirah Noorhuda Binti Noorhizam
+(2E4)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hannah Peralta Khai (2E4)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harith Amri Bin Saiful Amri (3E1)</p>
 </td>
 </tr>
 </tbody>
