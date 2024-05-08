@@ -77,7 +77,9 @@ kids wanted it.</p>
 <p>&nbsp;“That shows the character and desire the team has and we just have
 to follow the same direction.”</p>
 <p>Click <a href="https://www.straitstimes.com/sport/meridian-secondary-retain-b-division-girls-football-title-with-4-3-win-over-queensway" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read more about Liyana Indah Rickit, Meridian B Division girls' football.</p>
+read more about it.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridians Making Waves/BDivisionboys2024.png">
 </div>
@@ -139,13 +141,14 @@ he said.</p>
 saying: “We couldn’t get together and gel as a team today... I’m proud
 we made the final but I’m disappointed we fell short.”</p>
 <p>Click <a href="https://www.straitstimes.com/sport/schools/meridian-s-alfieyan-goes-from-bench-warmer-to-match-winner-in-b-division-boys-football-final" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-read more about Muhammad Alfieyan Jumahat, Meridian B Division boys football.</p>
+read more about it.</p>
 <hr>
-<hr>
-<hr>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridians Making Waves/Zulhilmi.jpg">
 </div>
+<p></p>
 <p>Click <a href="https://www.beritaharian.sg/singapura/keputusan-gce-o-pelajar-serba-boleh-muncul-valedictorian" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 read more about Zulhilmi Zul'irfan's story.</p>
 <p>Click <a href="https://berita.mediacorp.sg/singapura/kisah-inspirasi-2-pelajar-peringkat-gce-o-dengan-cita-cita-tinggi-816076?fbclid=IwAR1dTx9REh5_M8hKlGcA5kpC5zQIwS7P_UAun29edT3Qbf0WhEkD1ffiGZ0_aem_ARgqxcQv8LEXilruUSQha__5s1N3yWS8u2-AS8lAchOAY2NFO2dpo9XRUoyPL5-pb2o" rel="noopener noreferrer nofollow" target="_blank">here</a> to
