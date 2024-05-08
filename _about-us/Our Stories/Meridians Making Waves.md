@@ -80,6 +80,7 @@ to follow the same direction.”</p>
 read more about it.</p>
 <hr>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridians Making Waves/BDivisionboys2024.png">
 </div>
