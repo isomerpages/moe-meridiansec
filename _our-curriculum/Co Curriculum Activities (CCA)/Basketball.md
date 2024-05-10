@@ -67,6 +67,7 @@ in all our players.</p>
 </table>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic1.png">
 </div>
@@ -82,15 +83,14 @@ in all our players.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>
-<br>
-</p>
+<h4><strong>Basketball Team 2022/2023</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basketball Team 2022/2023</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/BB01.jpg">
 </div>
+<p></p>
 <p><strong>Our Meridian Basketball Team</strong>
 </p>
 <p>In Meridian Basketball, our players are dedicated in their sport and are
