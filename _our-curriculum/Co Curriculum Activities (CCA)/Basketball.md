@@ -21,13 +21,13 @@ in all our players.</p>
 <h3>Coach</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ryan Koh</p>
+<p>Coach Ryan</p>
 </li>
 <li>
-<p>Mr Tim</p>
+<p>Coach Tim</p>
 </li>
 <li>
-<p>Mr Lim
+<p>Coach Lim
 <br>
 </p>
 </li>
