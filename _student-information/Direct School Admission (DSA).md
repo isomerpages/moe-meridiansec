@@ -240,7 +240,7 @@ registration)</p>
 <p>Dear parents and P6 students,</p>
 <p>if you’re interested in attending our DSA Zoom session but haven’t registered,
 you can join our webinar tomorrow evening using the details in this post.</p>
-<p>Link: <a href="" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829#success</a>
+<p>Link: <a href="https://moe-singapore.zoom.us/j/87120239829" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829</a>
 </p>
 <p>Passcode: 003793</p>
 <p></p>
