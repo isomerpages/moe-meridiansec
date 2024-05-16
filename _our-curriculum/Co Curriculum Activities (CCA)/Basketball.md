@@ -21,13 +21,13 @@ in all our players.</p>
 <h3>Coach</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Ryan Koh</p>
+<p>Coach Ryan</p>
 </li>
 <li>
-<p>Mr Tim</p>
+<p>Coach Tim</p>
 </li>
 <li>
-<p>Mr Lim
+<p>Coach Lim
 <br>
 </p>
 </li>
@@ -65,42 +65,26 @@ in all our players.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Basketball Team 2022/2023</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB01.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic1.png">
 </div>
-<p><strong>Our Meridian Basketball Team</strong>
-</p>
-<p>In Meridian Basketball, our players are dedicated in their sport and are
-constantly striving to improve their skills. They also demonstrate strong
-camaraderie and possess a united team spirit. Through rigorous training
-sessions, our boys develop discipline, strong values and competencies that
-will hold them in good stead in their growing years.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB02.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic2.png">
 </div>
-<p><strong>Our B Boys</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB03.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic3.png">
 </div>
-<p><strong>Our C Boys</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB04.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB05.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic4.png">
 </div>
 <p></p>
-</li>
-</ul>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
