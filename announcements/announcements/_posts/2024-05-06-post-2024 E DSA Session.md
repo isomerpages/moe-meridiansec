@@ -10,12 +10,12 @@ variant: tiptap
 <h3>2024 E-DSA Session</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/dsa zoom details 17 may 2024.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Announcements/dsa zoom details 17 may 2024.jpg">
 </div>
 <p>Dear parents and P6 students,</p>
 <p>if you’re interested in attending our DSA Zoom session but haven’t registered,
 you can join our webinar tomorrow evening using the details in this post.</p>
-<p>Link: <a href="https://moe-singapore.zoom.us/j/87120239829" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829</a> Passcode:
+<p>Link: <a href="" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829#success</a> Passcode:
 003793</p>
 <p></p>
 <hr>
