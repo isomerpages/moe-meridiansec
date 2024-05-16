@@ -230,5 +230,18 @@ for Meridian Secondary E-DSA Session 2024</p>
 <br><strong>Time</strong>&nbsp;: 6.00 – 7.00 pm
 <br><strong>Venue</strong>&nbsp;: On Zoom (link will be sent to you after
 registration)</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/dsa zoom details 17 may 2024.jpg">
+</div>
+<p></p>
+<p></p>
+<p>Dear parents and P6 students,</p>
+<p>if you’re interested in attending our DSA Zoom session but haven’t registered,
+you can join our webinar tomorrow evening using the details in this post.</p>
+<p>Link: <a href="" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829#success</a>
+</p>
+<p>Passcode: 003793</p>
 <p></p>
 <p></p>

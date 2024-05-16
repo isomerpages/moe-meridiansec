@@ -10,6 +10,17 @@ variant: tiptap
 <h3>2024 E-DSA Session</h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Announcements/dsa zoom details 17 may 2024.jpg">
+</div>
+<p>Dear parents and P6 students,</p>
+<p>if you’re interested in attending our DSA Zoom session but haven’t registered,
+you can join our webinar tomorrow evening using the details in this post.</p>
+<p>Link: <a href="" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829#success</a> Passcode:
+003793</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Announcements/2024_E_DSA_Session.png">
 </div>
 <p></p>
@@ -24,3 +35,6 @@ for Meridian Secondary E-DSA Session 2024</p>
 <br><strong>Time</strong>&nbsp;: 6.00 – 7.00 pm
 <br><strong>Venue</strong>&nbsp;: On Zoom (link will be sent to you after
 registration)</p>
+<hr>
+<p></p>
+<p></p>
