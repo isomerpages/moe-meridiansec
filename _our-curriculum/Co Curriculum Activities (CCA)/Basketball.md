@@ -83,41 +83,8 @@ in all our players.</p>
 <p></p>
 <p></p>
 <p></p>
-<h4><strong>Basketball Team 2022/2023</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB01.jpg">
-</div>
-<p></p>
-<p><strong>Our Meridian Basketball Team</strong>
-</p>
-<p>In Meridian Basketball, our players are dedicated in their sport and are
-constantly striving to improve their skills. They also demonstrate strong
-camaraderie and possess a united team spirit. Through rigorous training
-sessions, our boys develop discipline, strong values and competencies that
-will hold them in good stead in their growing years.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB02.jpg">
-</div>
-<p><strong>Our B Boys</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB03.jpg">
-</div>
-<p><strong>Our C Boys</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB04.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/BB05.jpg">
-</div>
 <p></p>
-</li>
-</ul>
 <p></p>
