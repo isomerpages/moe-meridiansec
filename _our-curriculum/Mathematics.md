@@ -44,6 +44,17 @@ and to learn cooperatively and independently.</p>
 </ul>
 <p></p>
 <h3>Highlights in 2024</h3>
+<p></p>
+<h4>Sec 1 Code for Fun Programme</h4>
+<p>During the school's Experiential Learning Week (19-20 March 2024), Sec
+1 students participated in the Code for Fun Programme, a hands-on programme
+introducing students to coding and computational thinking.</p>
+<h4>Building a Maze with Computational Thinking</h4>
+<p>One highlight of the programme was the construction of mazes using cardboard
+and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
+breaking down the maze-building process into manageable steps and developing
+algorithms to navigate the maze.</p>
+<p></p>
 <h4>Regional Cashflow Competition</h4>
 <p>Our Secondary Three POA students took part in the Regional Cashflow Competition
 at St. Anthony’s Canossian Secondary on 22 February 2024 and the National
