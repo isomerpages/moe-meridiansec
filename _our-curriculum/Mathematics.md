@@ -44,6 +44,17 @@ and to learn cooperatively and independently.</p>
 </ul>
 <p></p>
 <h3>Highlights in 2024</h3>
+<p></p>
+<h4>Sec 1 Code for Fun Programme</h4>
+<p>During the school's Experiential Learning Week (19-20 March 2024), Sec
+1 students participated in the Code for Fun Programme, a hands-on programme
+introducing students to coding and computational thinking.</p>
+<h4>Building a Maze with Computational Thinking</h4>
+<p>One highlight of the programme was the construction of mazes using cardboard
+and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
+breaking down the maze-building process into manageable steps and developing
+algorithms to navigate the maze.</p>
+<p></p>
 <h4>Regional Cashflow Competition</h4>
 <p>Our Secondary Three POA students took part in the Regional Cashflow Competition
 at St. Anthony’s Canossian Secondary on 22 February 2024 and the National
@@ -123,7 +134,14 @@ the use of technology to develop sustainable solutions.
 <br>
 </p>
 <h4>National CashFlow Competition</h4>
-<h2>A group of our Secondary Three students took part in the National CashFlow Competition organised by NTU on the 11 March 2023. Many schools from all over Singapore participated in this event. Our students enjoyed learning together and have made new friends as they played against students from other schools at the same table. In the process, they acquired valuable financial literacy skills. <br></h2>
+<p>A group of our Secondary Three students took part in the National CashFlow
+Competition organised by NTU on the 11 March 2023. Many schools from all
+over Singapore participated in this event. Our students enjoyed learning
+together and have made new friends as they played against students from
+other schools at the same table. In the process, they acquired valuable
+financial literacy skills.
+<br>
+</p>
 <h3>Highlights in 2022</h3>
 <h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO)</h4>
 <p>Selected Meridians participated in the Singapore Mathematical Olympiad
@@ -397,7 +415,12 @@ had a go at our online brain teasers – Puzzle-A-Day.
 </div>
 <p>
 <br>Congratulations to put top 10 winners.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -517,7 +540,12 @@ winners in the Meridian Mathematical Olympiad 2022!</p>
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -651,7 +679,11 @@ are awarded prizes.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
