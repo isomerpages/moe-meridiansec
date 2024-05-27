@@ -49,11 +49,25 @@ and to learn cooperatively and independently.</p>
 <p>During the school's Experiential Learning Week (19-20 March 2024), Sec
 1 students participated in the Code for Fun Programme, a hands-on programme
 introducing students to coding and computational thinking.</p>
-<h4>Building a Maze with Computational Thinking</h4>
+<p><strong>Building a Maze with Computational Thinking</strong>
+</p>
 <p>One highlight of the programme was the construction of mazes using cardboard
 and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
 breaking down the maze-building process into manageable steps and developing
 algorithms to navigate the maze.</p>
+<p><strong>Exploring Microcontrollers and Smart Home Design</strong>
+</p>
+<p>Students also learnt about microcontrollers and external sensors and used
+them to address real-world problems with sustainable solutions. &nbsp;Through
+design thinking, they assembled smart homes that incorporate LED displays
+and music, tapping on micro:bit technology.</p>
+<p><strong>Instilling Responsibility and Technical Proficiency</strong>
+</p>
+<p>The programme instilled a sense of environmental responsibility through
+the theme of sustainability.&nbsp; Through hands-on projects and real-world
+applications, students developed technical skills and gained insights into
+sustainable and responsible innovation, laying a foundation for future
+learning and problem solving.</p>
 <p></p>
 <h4>Regional Cashflow Competition</h4>
 <p>Our Secondary Three POA students took part in the Regional Cashflow Competition
