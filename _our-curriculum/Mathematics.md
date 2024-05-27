@@ -43,32 +43,36 @@ and to learn cooperatively and independently.</p>
 </li>
 </ul>
 <p></p>
-<h3>Highlights in 2024</h3>
+<h3><strong>Highlights in 2024</strong></h3>
 <p></p>
 <h4>Sec 1 Code for Fun Programme</h4>
 <p>During the school's Experiential Learning Week (19-20 March 2024), Sec
 1 students participated in the Code for Fun Programme, a hands-on programme
 introducing students to coding and computational thinking.</p>
-<p><strong>Building a Maze with Computational Thinking</strong>
-</p>
+<h4>Building a Maze with Computational Thinking</h4>
 <p>One highlight of the programme was the construction of mazes using cardboard
 and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
 breaking down the maze-building process into manageable steps and developing
 algorithms to navigate the maze.</p>
-<p><strong>Exploring Microcontrollers and Smart Home Design</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic1.png">
+</div>
+<h4>Exploring Microcontrollers and Smart Home Design</h4>
 <p>Students also learnt about microcontrollers and external sensors and used
 them to address real-world problems with sustainable solutions. &nbsp;Through
 design thinking, they assembled smart homes that incorporate LED displays
 and music, tapping on micro:bit technology.</p>
-<p><strong>Instilling Responsibility and Technical Proficiency</strong>
-</p>
+<h4>Instilling Responsibility and Technical Proficiency</h4>
 <p>The programme instilled a sense of environmental responsibility through
 the theme of sustainability.&nbsp; Through hands-on projects and real-world
 applications, students developed technical skills and gained insights into
 sustainable and responsible innovation, laying a foundation for future
 learning and problem solving.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic2.png">
+</div>
 <h4>Regional Cashflow Competition</h4>
 <p>Our Secondary Three POA students took part in the Regional Cashflow Competition
 at St. Anthony’s Canossian Secondary on 22 February 2024 and the National
