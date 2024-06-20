@@ -113,11 +113,12 @@ CCA and other programmes).</p>
 </tbody>
 </table>
 <p></p>
+<h4>ILD/ Self Study Day</h4>
 <p>Independent Learning Day / Self Study Day are scheduled on <strong>23, 24, 25 July </strong>and <strong>18 Oct 2024</strong>.
 You may download the schedule of subjects on Independent Learning Day below.
 Students will be informed by their respective subject teachers and form
 teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="2024%20Semester%202%20ILD%20and%20Remedial%20Schedule.pptx" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 ILD Schedule</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Timetable Matters/2024_Semester_2_ILD_and_Remedial_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 ILD Schedule</a>
 </p>
 <p></p>
