@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-Dear Parents/Guardians and Students,
-
-Please refer to the following  [webpage](/student-information/student-timetable/)  for Semester 2 Timetable.
+<p>Dear Parents/Guardians and Students,</p>
+<p>Please refer to the following <a href="/student-information/student-timetable/" rel="noopener noreferrer nofollow" target="_blank">webpage</a> for Semester
+2 Timetable.</p>
