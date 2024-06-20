@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Dear parents and students,</p>
-<p>Please download the School Timetable for 2024 Semester 2 and a quick guide
-on how to read the timetable.</p>
+<p>Please download the School Timetable for 2024 Semester 2.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable Matters/2024_Semester_2_Timetable___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Semester 2 Timetable</a>
@@ -30,56 +29,8 @@ on how to read the timetable.</p>
 <p></p>
 </li>
 </ul>
-<p>Please take note of the dismissal time for 2024 Semester 1 lessons (excluding
-CCA and other programmes).</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1 students will be dismissed at</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1.25pm on Monday, Wednesday and odd week Thursday;</p>
-</li>
-<li>
-<p>2.00pm on Tuesday and even week Thursday;</p>
-</li>
-<li>
-<p>12.15pm on odd week Fridays;</p>
-</li>
-<li>
-<p>Students taking G1 MTL will be dismissed at 12:50pm on Odd Week Tuesday.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Secondary 2 students will be dismissed at</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1.25pm on Monday and Wednesday;</p>
-</li>
-<li>
-<p>2.00pm on Tuesday and Thursday;</p>
-</li>
-<li>
-<p>12.15pm on odd week Fridays</p>
-</li>
-<li>
-<p>Students taking G1 MTL will be dismissed at 12:50pm on Odd Week Thursday.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Secondary 3 to 5 students will be dismissed at</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2.00pm from Monday to Thursday;</p>
-</li>
-<li>
-<p>12.15pm on odd week Fridays.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>Please take note of the dismissal time for 2024 Semester 2 lessons.</p>
+<p><strong>Please take note of the dismissal time for 2024 Semester 2 lessons.</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
