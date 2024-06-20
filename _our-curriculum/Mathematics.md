@@ -44,6 +44,31 @@ and to learn cooperatively and independently.</p>
 </ul>
 <p></p>
 <h3><strong>Highlights in 2024</strong></h3>
+<h4>STEM Playground Challenge:</h4>
+<p><strong>Unleashing Creativity through Cardboard Chairs</strong>
+</p>
+<p>On 20 May 2024, the Mathematics, Design and Technology, and Science Departments
+collaborated to organise the much-anticipated STEM Playground Challenge
+2024. This collaborative initiative aimed to ignite students’ passion for
+Science, Technology, Engineering and Mathematics (STEM) by fostering curiosity,
+creativity, and teamwork.</p>
+<p>The challenge is to design and construct a chair using only cardboard,
+without the aid of adhesives. Students eagerly formed teams to tackle the
+task. This challenge not only encouraged innovation but also practical
+applications of knowledge, reinforcing key concepts such as stability,
+weight distribution and structural reinforcements. &nbsp;Using their creativity,
+students used techniques like stacking, rolling, folding, and ribbing to
+reinforce their chairs. &nbsp;Besides construction, students also discussed
+ideas and problem-solving strategies, each member contributing unique perspective
+to the team’s success.</p>
+<p>At the close of the challenge, students marveled at their creation, each
+chair a testament to their ingenuity and hard work. The top two creations
+from each class received prizes as encouragement.&nbsp; But the excitement
+did not end there. &nbsp;Students can look forward to the posting of the
+best moments on the school’s Instagram page. Beyond the thrill of friendly
+competition, the STEM Playground 2024 has succeeded in fostering a deeper
+appreciation for STEM disciplines, leaving an indelible mark on the hearts
+and minds of all who participated.</p>
 <p></p>
 <h4>Sec 1 Code for Fun Programme</h4>
 <p>During the school's Experiential Learning Week (19-20 March 2024), Sec
