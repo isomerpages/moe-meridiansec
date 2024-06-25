@@ -69,7 +69,6 @@ best moments on the school’s Instagram page. Beyond the thrill of friendly
 competition, the STEM Playground 2024 has succeeded in fostering a deeper
 appreciation for STEM disciplines, leaving an indelible mark on the hearts
 and minds of all who participated.</p>
-<p></p>
 <h4>Sec 1 Code for Fun Programme</h4>
 <p>During the school's Experiential Learning Week (19-20 March 2024), Sec
 1 students participated in the Code for Fun Programme, a hands-on programme
