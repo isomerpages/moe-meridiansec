@@ -135,25 +135,20 @@ July to 23 August.</p>
 mode and the assessment task/topics assessed.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 Semester 2 WAs Schedule</p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Semester 2 WAs Schedule</a>
+</p>
 </li>
 <li>
-<p>Sec 2 Semester 2 WAs Schedule</p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Semester 2 WAs Schedule</a>
+</p>
 </li>
 <li>
-<p>Sec 3 Semester 2 WAs Schedule</p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Semester 2 WAs Schedule</a>
+</p>
 </li>
 </ul>
 <p></p>
-<h4>Student's Results Slips</h4>
-<p>From 2024 onwards, results slips for Term 1 and 3 Weighted Assessment
-will be given to students and parents in <strong>digital format via Parents Gateway</strong>.</p>
-<p>The Holistic Development Profile (HDP) will still be given in hardcopy
-at the end of Term 2 for all levels and end of Term 4 for Secondary 1 to
-3. The preliminary examinations HDP for Secondary 4 and 5 will be given
-at the end of examinations.
-<br>
-<br>
+<p>
 <br>
 </p>
 <p></p>
