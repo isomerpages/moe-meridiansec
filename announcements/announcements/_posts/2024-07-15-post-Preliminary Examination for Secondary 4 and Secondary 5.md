@@ -48,6 +48,8 @@ date of resumption of normal time-table for you:
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Technical) Stream:</p>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4T.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
@@ -60,6 +62,8 @@ date of resumption of normal time-table for you:
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Academic) Stream:</p>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4N.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -70,6 +74,8 @@ date of resumption of normal time-table for you:
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Express and 5 Normal (Academic) Stream:</p>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
