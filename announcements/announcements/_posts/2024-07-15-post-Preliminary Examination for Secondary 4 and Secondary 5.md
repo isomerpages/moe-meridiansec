@@ -48,7 +48,8 @@ date of resumption of normal time-table for you:
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Technical) Stream:</p>
-<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4T.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<p></p>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4T.pdf" rel="noopener noreferrer nofollow" target="_blank">filSec Sec 4T Preliminary Exam Timetable 20244 Preliminary Exam Timetable 2024 -4Te</a>
 </p>
 <p></p>
 </td>
