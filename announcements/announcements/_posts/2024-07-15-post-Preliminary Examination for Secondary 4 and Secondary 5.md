@@ -49,9 +49,8 @@ date of resumption of normal time-table for you:
 <td rowspan="1" colspan="1">
 <p>4 Normal (Technical) Stream:</p>
 <p></p>
-<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4T.pdf" rel="noopener noreferrer nofollow" target="_blank">filSec Sec 4T Preliminary Exam Timetable 20244 Preliminary Exam Timetable 2024 -4Te</a>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4T.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4T Preliminary Exam Timetable</a>
 </p>
-<p></p>
 </td>
 <td rowspan="2" colspan="1">
 <p>5 to 16 August 2024</p>
@@ -63,7 +62,7 @@ date of resumption of normal time-table for you:
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Academic) Stream:</p>
-<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4N.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA Preliminary Exam Timetable</a>
 </p>
 <p></p>
 </td>
@@ -75,9 +74,8 @@ date of resumption of normal time-table for you:
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Express and 5 Normal (Academic) Stream:</p>
-<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+<p><a href="/files/Annoucements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2024_Students__4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Preliminary Exam Timetable</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 to 27 August 2024</p>
