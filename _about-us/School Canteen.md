@@ -2,18 +2,20 @@
 title: School Canteen
 permalink: /about-us/school-canteen/
 description: ""
+variant: markdown
 ---
 ## School Canteen Advertisement 
 
 
-Meridian Secondary School would like to invite interested applicants to operate the following stalls in our college canteen with effect from 2 January 2024. 
+Meridian Secondary School would like to invite interested applicants to operate the following stalls in our college canteen with effect from 1 October 2024. 
 
 |Type of Stall|Requirement|
 |---|---|
-|Chinese/Korean Chicken Rice and Porridge|Non-halal|
-|Mee Goreng/Bee Hoon/Kuay Teow/Macaroni|Halal|
+|Chinese Noodle|Non-halal|
+|Chinese Rice|Non-halal|
+|Snacks and Hot Drinks|Halal|
 
-All applications must be submitted by **Mon, 13 Nov 2023**.
+All applications must be submitted by **23 September 2024**.
 
 ### Application Procedure
 
