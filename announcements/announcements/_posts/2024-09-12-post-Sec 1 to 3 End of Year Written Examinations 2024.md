@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Annoucements Attachments/EOY_Format_and_Topics_Secondary_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3: Topics and format</a>
+<p><a href="/files/Annoucements Attachments/EOY_Format_and_Topics_Secondary_3_Updated.pdf" rel="noopener nofollow" target="_blank">Secondary 3: Topics and format (Updated 13/9)</a>
 </p>
 </li>
 </ol>
