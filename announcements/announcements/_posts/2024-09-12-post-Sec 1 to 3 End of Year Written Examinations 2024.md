@@ -43,6 +43,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Self-study/ HBL (For Sec 1 and 2 ONLY): 30 September (Mon) 2024</strong>
+</p>
+</li>
+<li>
 <p><strong>Marking Day – 11 October (Fri) 2024</strong>
 </p>
 </li>
