@@ -62,7 +62,8 @@ clarification on this matter.</p>
 <p>Thank you.</p>
 <p>&nbsp;The 2025 e-FAS link/ QR code is provided below.&nbsp;&nbsp; The
 pamphlets in our official languages are attached here.</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p></p>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="2025 e FAS QR Code" src="/images/Student Information/2025_e_FAS_QR_Code.jpg">
