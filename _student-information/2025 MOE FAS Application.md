@@ -48,6 +48,7 @@ pamphlets in our official languages are attached here.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="2025 e FAS QR Code" src="/images/Student Information/2025_e_FAS_QR_Code.jpg">
 </div>
+<p>MOE FAS Pamphlet</p>
 <p></p>
 <p></p>
 <p></p>
