@@ -12,10 +12,29 @@ Gateway (under Services tab – Financial Assistance) via Singpass login.
 When applying via e-FAS, you will still need to provide the required supporting
 documents (e.g. pay slips, CPF statements etc), but in softcopy for the
 school to verify and assess eligibility as per current practice.</p>
+<p><strong>MOE FAS Pamphlet</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet EL</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Document_4b_MOE_FAS_pamphlet__CL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet CL</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Document_4c_MOE_FAS_pamphlet__ML_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet ML</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Document_4d_MOE_FAS_pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">MOE FAS pamphlet TL</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Families with the following compositions are required to apply via hardcopy
 form:</p>
-<p></p>
 <p>a.&nbsp;&nbsp;&nbsp; families with other dependents (Great grandparents,
 Aunties/Uncles, Cousins and others)</p>
 <p></p>
@@ -48,7 +67,7 @@ pamphlets in our official languages are attached here.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="2025 e FAS QR Code" src="/images/Student Information/2025_e_FAS_QR_Code.jpg">
 </div>
-<p>MOE FAS Pamphlet</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
