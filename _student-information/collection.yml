@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - 2025 MOE FAS Application.md
       - Full Subject–Based Banding (Full SBB).md
       - e–Student Handbook and School Letter.md
       - The Meridian Student Leadership Challenge Guidebook.md
