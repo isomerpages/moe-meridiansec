@@ -18,8 +18,8 @@ description: ""
 <p></p>
 <p><strong>1.Online purchase</strong>
 </p>
-<p>Proceed to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a> to
-register for an account before proceeding with your purchase.</p>
+<p>Proceed to&nbsp;<a href="https://asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a> to register
+for an account before proceeding with your purchase.</p>
 <p></p>
 <p>The last day for online order for <u>Sec 2 to Sec 4</u> is 17 Dec 2024 at
 12pm.&nbsp; As for <u>Sec 1</u>, the last day for online order is 21 Dec
