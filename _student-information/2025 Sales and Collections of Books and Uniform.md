@@ -5,7 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Approved Booklist for 2025</strong></h4>
-<p></p>
+<p><a href="/files/Booklists/meridian secondary school booklist 2024 - sec 1.pdf" rel="noopener nofollow" target="_blank">Meridian Secondary School Booklist 2024- Sec 1</a>
+</p>
+<p><a href="/files/Booklists/meridian secondary school booklist 2024 - sec 2.pdf" rel="noopener nofollow" target="_blank">Meridian Secondary School Booklist 2024- Sec 2</a>
+</p>
+<p><a href="/files/Booklists/meridian secondary school booklist 2024 - sec 4.pdf" rel="noopener nofollow" target="_blank">Meridian Secondary School Booklist 2024- Sec 4</a>
+</p>
+<p><a href="/files/Booklists/meridian secondary school booklist 2024 - sec 5.pdf" rel="noopener nofollow" target="_blank">Meridian Secondary School Booklist 2024- Sec 5</a>
+</p>
 <p>&nbsp;</p>
 <h4><strong>Sales and Collection of Books and Uniform</strong></h4>
 <p></p>
