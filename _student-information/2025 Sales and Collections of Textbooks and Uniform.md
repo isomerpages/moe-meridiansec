@@ -4,7 +4,7 @@ permalink: /sales-and-collections-of-books-and-uniform-2025/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Approved Booklist for 2025</strong></h4>
+<h4><strong>Approved Textbook list for 2025</strong></h4>
 <p><a href="/files/Booklists/Meridian_Sec_1_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist 2025</a>
 </p>
 <p><a href="/files/Booklists/Meridian_Sec_2_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist 2025</a>
@@ -16,7 +16,7 @@ description: ""
 <p><a href="/files/Booklists/Meridian_Sec_5_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist 2025</a>
 </p>
 <p></p>
-<h4><strong>Sales and Collection of Books and Uniform</strong></h4>
+<h4><strong>Sales and Collection of Textbooks and Uniform</strong></h4>
 <p></p>
 <p><strong>1.Online purchase</strong>
 </p>
