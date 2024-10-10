@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Timetable for Week 6 till Week 8</h4>
+<h4>Timetable for Week 6, 7 and 8</h4>
 <p></p>
 <p>Please refer to the special timetable has been arranged for Week 6 till
 Week 8.</p>
