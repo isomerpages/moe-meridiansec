@@ -36,6 +36,6 @@ performances.</p>
 experiences.</p>
 </li>
 </ol>
-<p>Register here: <a href="go.gov.sg/2024mss" rel="noopener nofollow" target="_blank">2024 MSS Open House</a>
+<p>Register here: <a href="https://go.gov.sg/2024mss" rel="noopener nofollow" target="_blank">2024 MSS Open House</a>
 </p>
 <p></p>
