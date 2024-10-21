@@ -25,6 +25,7 @@ a thematic analysis of what people did when they were at their “personal
 best” in leading others. The Five Practices of Exemplary Leadership are
 namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable
 Others to Act and Encourage the Heart.</p>
+<p></p>
 <h4><strong>2.&nbsp;&nbsp;&nbsp; Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
