@@ -50,4 +50,11 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
+  - infopic:
+      title: 2024 Open House for P6 students
+      id: infopic
+      description: Dear Parents/ Guardians and P6 students,  Want to find out more
+        about what Meridian Secondary has to offer?
+      url: /2024-open-house-for-p6-students/
+      alt: Image alt text
 ---
