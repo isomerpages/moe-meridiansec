@@ -22,6 +22,14 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: 2024 Open House for P6 students
+      id: infopic
+      description: Dear Parents/ Guardians and P6 students,  Want to find out more
+        about what Meridian Secondary has to offer?
+      url: /2024-open-house-for-p6-students/
+      alt: Image alt text
+      image: /images/2024_MSS_Open_House_for_P6.jpg
+  - infopic:
       title: Meridian Making Waves
       id: infopic
       description: Click below to find out more about our Meridians who have been
@@ -50,11 +58,4 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
-  - infopic:
-      title: 2024 Open House for P6 students
-      id: infopic
-      description: Dear Parents/ Guardians and P6 students,  Want to find out more
-        about what Meridian Secondary has to offer?
-      url: /2024-open-house-for-p6-students/
-      alt: Image alt text
 ---
