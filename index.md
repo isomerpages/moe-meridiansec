@@ -20,10 +20,11 @@ sections:
           description: Click here for access to portals/resources
           url: /resources/
         - title: calendar 2 preview
-          description: Key Highlight description
-          url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
-            style="border:solid 1px #777"
-            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSingapore&bgcolor=%23ffffff&src=Y19hZTR2OGEzdm5nc3RjMGRxYTRudTUwbm5jMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23C0CA33"></iframe>'
+          description: Click here for access
+          url: 'iframe
+            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSingapore&bgcolor=%23ffffff&src=Y19hZTR2OGEzdm5nc3RjMGRxYTRudTUwbm5jMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23C0CA33"
+            style="border:solid 1px #777" width="800" height="600"
+            frameborder="0" scrolling="no">'
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
