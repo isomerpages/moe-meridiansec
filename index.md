@@ -21,10 +21,7 @@ sections:
           url: /resources/
         - title: calendar 2 preview
           description: Click here for access
-          url: 'iframe
-            src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FSingapore&bgcolor=%23ffffff&src=Y19hZTR2OGEzdm5nc3RjMGRxYTRudTUwbm5jMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23C0CA33"
-            style="border:solid 1px #777" width="800" height="600"
-            frameborder="0" scrolling="no">'
+          url: https://calendar.google.com/calendar/embed?src=c_ae4v8a3vngstc0dqa4nu50nnc0%40group.calendar.google.com&ctz=Asia%2FSingapore
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
