@@ -19,6 +19,9 @@ sections:
         - title: Resources
           description: Click here for access to portals/resources
           url: /resources/
+        - title: calendar 2 preview
+          description: Key Highlight description
+          url: https://calendar.google.com/calendar/embed?src=c_ae4v8a3vngstc0dqa4nu50nnc0%40group.calendar.google.com&ctz=Asia%2FSingapore
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
