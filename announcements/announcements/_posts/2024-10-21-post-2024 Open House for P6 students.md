@@ -4,7 +4,7 @@ permalink: /2024-open-house-for-p6-students/
 date: 2024-10-21
 layout: post
 description: ""
-image: /images/Announcements/2024_MSS_Open_House.jpg
+image: /images/2024_MSS_Open_House_for_P6.jpg
 variant: tiptap
 ---
 <p></p>

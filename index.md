@@ -19,8 +19,20 @@ sections:
         - title: Resources
           description: Click here for access to portals/resources
           url: /resources/
+        - title: calendar 2 preview
+          description: Click here for access
+          url: https://calendar.google.com/calendar/embed?src=c_ae4v8a3vngstc0dqa4nu50nnc0%40group.calendar.google.com&ctz=Asia%2FSingapore
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infopic:
+      title: 2024 Open House for P6 students
+      id: infopic
+      description: Dear Parents/ Guardians and P6 students,    Want to find out more
+        about what Meridian Secondary has to offer?
+      url: /2024-open-house-for-p6-students/
+      alt: Image alt text
+      image: /images/2024_MSS_Open_House_for_P6.jpg
+      button: FIND OUT MORE
   - infopic:
       title: Meridian Making Waves
       id: infopic
