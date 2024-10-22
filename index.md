@@ -29,6 +29,7 @@ sections:
       url: /2024-open-house-for-p6-students/
       alt: Image alt text
       image: /images/2024_MSS_Open_House_for_P6.jpg
+      button: FIND OUT MORE
   - infopic:
       title: Meridian Making Waves
       id: infopic
