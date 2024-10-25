@@ -21,7 +21,7 @@ music arrangement using music technology (BandLab), and guitar. While engaging
 in these musical learning experiences, students also develop character
 and positive collaborative relationships with others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Music/Music07.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Music/Music07.jpg">
 </div>
 <h4>Music Appreciation</h4>
 <p>All Secondary 1 students will be exposed to music from other cultures
@@ -31,7 +31,7 @@ and have an appreciation for the various arts in Singapore.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Music/Music08.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Music/Music08.jpg">
 </div>
 <h4>2. Beyond the Music Classroom</h4>
 <p>Authentic learning opportunities beyond the music classroom are provided
@@ -40,7 +40,7 @@ to complement, reinforce and stretch students’ classroom-based learning.</p>
 <p>Within school, students are provided with opportunities to participate
 in performances at school events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Music/Music09.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Music/Music09.jpg">
 </div>
 <h4>Beyond School</h4>
 <p>Beyond school, students are connected and directed to avenues to further
