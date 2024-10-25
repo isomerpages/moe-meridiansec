@@ -419,13 +419,13 @@ our student conductor.</p>
 share with fellow members on face makeup and video taking techniques in
 preparations for VIA music video group project.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300532.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300532.jpg">
 </div>
 <p>Darshini eagerly trying out her makeup skills on Mia.</p>
 <p><strong>SYF recording</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300531.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300531.jpg">
 </div>
 <p>SYF Arts Presentation 2021 took on a different format this year. Our very
 dedicated teacher-in-charge Ms Jasmin Tan has been working hard recording
@@ -433,19 +433,19 @@ our selected choristers who are taking part in the SYF. Here is our student
 conductor, Ignatius, recording his piece and working alongside our in-house
 sound engineer genius.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300530.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300530.jpg">
 </div>
 <p>This is Ernest, recording his SYF piece and being very focused in the
 process to ensure no mistakes will be made.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300526.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300526.jpg">
 </div>
 <p>Our outgoing vice-president, Zhi En, recording his SYF piece and aiming
 for musical perfection.</p>
 <p><strong>Percussion Workshop</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300525.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300525.jpg">
 </div>
 <p>Choir students ventured into other musical talents which do not require
 singing, as the school adheres to the safety management measures. Here
