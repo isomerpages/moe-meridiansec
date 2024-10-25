@@ -167,7 +167,7 @@ with Edugrow, “The Hut”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/pic14.jpg">
 </div>
-<p>·&nbsp;&nbsp;Don’t Stop me Now Performance at Thespian Lab’s annual extravaganza</p>
+<p>·&nbsp;Don’t Stop me Now Performance at Thespian Lab’s annual extravaganza</p>
 <p></p>
 <p></p>
 <p></p>
