@@ -455,7 +455,7 @@ Samba!</p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
 </div>
 <p>Being the head of the Choir has been a fulfilling and rewarding experience.
 It has not only improved my musical abilities but also given me the confidence
@@ -463,18 +463,31 @@ to lead. In my leadership role, I’ve developed skills such as motivating
 my peers, managing time effectively, and handling challenges under pressure.
 I’ve also had the chance to collaborate with others during performances,
 which taught me the importance of teamwork and communication.</p>
-<p></p>
+<p><strong>Musfirah Binte Khalid, President (3E2, 2024)</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
 </div>
 <p>&nbsp;Being in the Choir has taught me many things: I've learnt not only
 about singing but about teamwork and perseverance. I've also learnt to
 get along with my batchmates and peers. Even though everyone is different,
 we've learnt to work with one another and grow together. The Choir is honestly
 fun and our conductor is literally the best!</p>
+<p><strong>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
+</div>
+<p></p>
+<p>I remember the time where the Choir went on an exchange with another school's
+choir where we had to do a joint performance. We learnt from a conductor
+who taught us how to sing better with improved techniques. I joined the
+Choir as I had an interest in music and the arts. I’ve always loved singing
+but never wanted to perform in public. I thought that it would help improve
+my confidence performing in front of an audience.</p>
 <p>&nbsp;</p>
-<p>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</p>
-<p>Musfirah Binte Khalid, President (3E2, 2024)</p>
+<p>Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
