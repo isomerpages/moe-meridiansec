@@ -455,7 +455,7 @@ Samba!</p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
 </div>
 <p>Being the head of the Choir has been a fulfilling and rewarding experience.
 It has not only improved my musical abilities but also given me the confidence
@@ -467,7 +467,7 @@ which taught me the importance of teamwork and communication.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
 </div>
 <p>&nbsp;Being in the Choir has taught me many things: I've learnt not only
 about singing but about teamwork and perseverance. I've also learnt to
@@ -478,7 +478,7 @@ fun and our conductor is literally the best!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
 </div>
 <p></p>
 <p>I remember the time where the Choir went on an exchange with another school's
