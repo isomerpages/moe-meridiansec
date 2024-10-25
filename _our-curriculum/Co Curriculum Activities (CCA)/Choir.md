@@ -465,6 +465,7 @@ I’ve also had the chance to collaborate with others during performances,
 which taught me the importance of teamwork and communication.</p>
 <p><strong>Musfirah Binte Khalid, President (3E2, 2024)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
 </div>
@@ -486,8 +487,8 @@ who taught us how to sing better with improved techniques. I joined the
 Choir as I had an interest in music and the arts. I’ve always loved singing
 but never wanted to perform in public. I thought that it would help improve
 my confidence performing in front of an audience.</p>
-<p>&nbsp;</p>
-<p>Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</p>
+<p><strong>&nbsp;Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
