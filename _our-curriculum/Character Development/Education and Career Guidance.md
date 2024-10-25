@@ -23,8 +23,28 @@ stay on track to achieve them, and</p>
 <li>
 <p>be a lifelong learner who is adaptable and resilient, and equipped with
 the 21st century competencies, values and skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/1.png">
+</div>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/4.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
+</div>
 <h1>Highlights</h1>
 <h3>MySkillsFuture Portal</h3>
 <p>The&nbsp;<a href="http://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">ECG Portal – MySkillsFuture</a>&nbsp;is
@@ -55,6 +75,10 @@ EAE to Poly/ITE</p>
 <p>To make an appointment with Ms Cheryl, please scan the QR code below,
 or click on <a href="https://go.gov.sg/ecg-mss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-mss</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/6___ECGC_poster.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Education and Career Guidance" src="/images/Our Curriculum/ECG.png">
