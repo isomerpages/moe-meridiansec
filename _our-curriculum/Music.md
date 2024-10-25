@@ -85,6 +85,10 @@ Conference and ExCEL Fest (TCEF).
 Category)! – Top 12</p>
 <p>o&nbsp;&nbsp; “L³!” composed by Lee Jiag Leng from Meridian Secondary
 3E4 and Eunice Lee from Riverside Secondary</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Music/musicpicture.png">
+</div>
 <h3>Highlights</h3>
 <p></p>
 <blockquote>
