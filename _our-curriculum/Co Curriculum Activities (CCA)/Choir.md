@@ -18,7 +18,12 @@ SATB Choir (Sopranos, Altos, Tenors and Basses)!</p>
 the National Day Parade as part of the Combined Secondary School Choir,
 charitable concerts at Changi General Hospital, and Pasir Ris West CC events.</p>
 <h3>Schedule and Venue</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,6 +101,25 @@ session. With Ms Ho’s strong leadership, professional experience and accomplis
 we are working as a cohesive team to inspire and motivate our MSS Choir
 to reach new heights!</p>
 <h3>Yearly Highlights</h3>
+<h4><strong>2024</strong></h4>
+<p><strong>Hues of Orange – Guest Performance at Our Tampines Hub</strong>
+</p>
+<p>&nbsp;The Choir collaborated with The Crescendos in the second instalment
+of its PRISM concert series. “Hues of Orange” at Our Tampines Hub (OTH)
+explores the lively and energetic range of the colour orange, celebrating
+the happiness, energy, harvest, and zeal linked with to the sun. Two songs
+were presented, namely “Circle of life” and “When you believe”.</p>
+<p></p>
+<p></p>
+<p><strong>Arts Jam Carnival – National Day Celebrations</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The Choir joined hands with the other performing arts groups (MNO, Band
+and Dance) to celebrate our nation’s 59th birthday by putting up a vibrant
+and exciting performance on Arts Day. Their rendition of “The road ahead”
+and “When you believe” helped put the spotlight on the 2024 NDP theme of
+“Together, As One United People”.</p>
 <h4>2023</h4>
 <p><strong>Singapore Youth Festival Arts Presentation 2023</strong> 
 <br>The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight
@@ -107,7 +131,10 @@ from the first moments members received the scores for the various pieces
 to the moment they stepped on to the stage for their performance. The Choir
 presented three songs, namely: * Morning Rain * O Magnum Mysterium * The
 Goslings</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -124,7 +151,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,7 +171,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +191,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -180,7 +216,10 @@ Goslings</p>
 joy to the celebrations and festivities. This year, the Choir once again
 took the stage during the celebrations for Chinese New Year and National
 Day. The Choir also performed during the Meridian’s Arts Day.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -197,7 +236,10 @@ Day. The Choir also performed during the Meridian’s Arts Day.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
