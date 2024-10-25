@@ -18,7 +18,12 @@ SATB Choir (Sopranos, Altos, Tenors and Basses)!</p>
 the National Day Parade as part of the Combined Secondary School Choir,
 charitable concerts at Changi General Hospital, and Pasir Ris West CC events.</p>
 <h3>Schedule and Venue</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,6 +101,44 @@ session. With Ms Ho’s strong leadership, professional experience and accomplis
 we are working as a cohesive team to inspire and motivate our MSS Choir
 to reach new heights!</p>
 <h3>Yearly Highlights</h3>
+<h4><strong>2024</strong></h4>
+<p><strong>Hues of Orange – Guest Performance at Our Tampines Hub</strong>
+</p>
+<p>&nbsp;The Choir collaborated with The Crescendos in the second instalment
+of its PRISM concert series. “Hues of Orange” at Our Tampines Hub (OTH)
+explores the lively and energetic range of the colour orange, celebrating
+the happiness, energy, harvest, and zeal linked with to the sun. Two songs
+were presented, namely “Circle of life” and “When you believe”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture1.png">
+</div>
+<p>Singing our lungs and hearts out!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture3.png">
+</div>
+<p></p>
+<p>One more for the memory trunk!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture2.png">
+</div>
+<p>Need we say more? The excitement, the joy, the satisfaction!</p>
+<p></p>
+<p><strong>Arts Jam Carnival – National Day Celebrations</strong>
+</p>
+<p><strong>&nbsp;</strong>The Choir joined hands with the other performing
+arts groups (MNO, Band and Dance) to celebrate our nation’s 59th birthday
+by putting up a vibrant and exciting performance on Arts Day. Their rendition
+of “The road ahead” and “When you believe” helped put the spotlight on
+the 2024 NDP theme of “Together, As One United People”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture4.png">
+</div>
+<p></p>
 <h4>2023</h4>
 <p><strong>Singapore Youth Festival Arts Presentation 2023</strong> 
 <br>The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight
@@ -107,7 +150,10 @@ from the first moments members received the scores for the various pieces
 to the moment they stepped on to the stage for their performance. The Choir
 presented three songs, namely: * Morning Rain * O Magnum Mysterium * The
 Goslings</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -124,7 +170,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,7 +190,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +210,10 @@ Goslings</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -180,7 +235,10 @@ Goslings</p>
 joy to the celebrations and festivities. This year, the Choir once again
 took the stage during the celebrations for Chinese New Year and National
 Day. The Choir also performed during the Meridian’s Arts Day.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -197,7 +255,10 @@ Day. The Choir also performed during the Meridian’s Arts Day.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -358,13 +419,13 @@ our student conductor.</p>
 share with fellow members on face makeup and video taking techniques in
 preparations for VIA music video group project.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300532.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300532.jpg">
 </div>
 <p>Darshini eagerly trying out her makeup skills on Mia.</p>
 <p><strong>SYF recording</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300531.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300531.jpg">
 </div>
 <p>SYF Arts Presentation 2021 took on a different format this year. Our very
 dedicated teacher-in-charge Ms Jasmin Tan has been working hard recording
@@ -372,19 +433,19 @@ our selected choristers who are taking part in the SYF. Here is our student
 conductor, Ignatius, recording his piece and working alongside our in-house
 sound engineer genius.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300530.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300530.jpg">
 </div>
 <p>This is Ernest, recording his SYF piece and being very focused in the
 process to ensure no mistakes will be made.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300526.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300526.jpg">
 </div>
 <p>Our outgoing vice-president, Zhi En, recording his SYF piece and aiming
 for musical perfection.</p>
 <p><strong>Percussion Workshop</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300525.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/c300525.jpg">
 </div>
 <p>Choir students ventured into other musical talents which do not require
 singing, as the school adheres to the safety management measures. Here
@@ -392,6 +453,42 @@ is a percussion workshop led by Ms Sng. Our students definitely have fun
 beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian
 Samba!</p>
 <h3>Our CCA Experience</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
+</div>
+<p>Being the head of the Choir has been a fulfilling and rewarding experience.
+It has not only improved my musical abilities but also given me the confidence
+to lead. In my leadership role, I’ve developed skills such as motivating
+my peers, managing time effectively, and handling challenges under pressure.
+I’ve also had the chance to collaborate with others during performances,
+which taught me the importance of teamwork and communication.</p>
+<p><strong>Musfirah Binte Khalid, President (3E2, 2024)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
+</div>
+<p>&nbsp;Being in the Choir has taught me many things: I've learnt not only
+about singing but about teamwork and perseverance. I've also learnt to
+get along with my batchmates and peers. Even though everyone is different,
+we've learnt to work with one another and grow together. The Choir is honestly
+fun and our conductor is literally the best!</p>
+<p><strong>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
+</div>
+<p></p>
+<p>I remember the time where the Choir went on an exchange with another school's
+choir where we had to do a joint performance. We learnt from a conductor
+who taught us how to sing better with improved techniques. I joined the
+Choir as I had an interest in music and the arts. I’ve always loved singing
+but never wanted to perform in public. I thought that it would help improve
+my confidence performing in front of an audience.</p>
+<p><strong>&nbsp;Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
 </div>
