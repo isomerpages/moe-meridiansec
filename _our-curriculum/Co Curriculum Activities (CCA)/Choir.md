@@ -476,7 +476,6 @@ we've learnt to work with one another and grow together. The Choir is honestly
 fun and our conductor is literally the best!</p>
 <p><strong>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
 </div>
