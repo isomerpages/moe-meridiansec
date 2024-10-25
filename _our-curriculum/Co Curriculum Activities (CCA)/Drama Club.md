@@ -161,12 +161,27 @@ with Edugrow, “The Hut”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/pic13.png">
 </div>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Drama Club/pic14.jpg">
 </div>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;Don’t Stop me Now Performance at Thespian Lab’s annual extravaganza</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <hr>
 <h3>Our CCA Experience</h3>
 <p><em>Personally, my experience as a senior has shown how much I have grown in these past 3 years. Initially, I had horrible stage fright. However, that has long changed since I joined this club. I am now more confident. I have reveled at my seniors on how approachable and communicative they are. As a club, we are very comfortable with our peers and we do not hesitate to help one another. &nbsp;I can boldly say that we, the new batch of seniors will continue this “tradition”.</em>&nbsp; <strong><em>-Ya Pei, 3E4 (2024)</em></strong>
