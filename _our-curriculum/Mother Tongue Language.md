@@ -57,12 +57,12 @@ and writing workshop.&nbsp;</p>
 <p>2024</p>
 <p>今年的4月3日，中一和中二的学生来到剧场，观看华文剧《新爱丽丝的仙境》。学生和演员们一起，进入“爱丽丝“的梦境，探讨如何在梦想和现实之间，做出抉择。在欣赏演员们的精湛表演之余，学生们学到⾯对梦想时所需要的决⼼。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/CPES.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/CPES.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mtcl1.png">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtcl1.png">
 </div>
 <p></p>
 <p>华文文化营</p>
@@ -73,94 +73,94 @@ and writing workshop.&nbsp;</p>
 <p>2024</p>
 <p>今年的中一文化营为学生提供了沉浸式的动手学习体验。学生们亲手制作了风筝，还拿起剪刀尝试剪纸，在经验丰富的武术教练的带领下，学习了华族武术的基本动作，也被令人惊叹的武术表演所吸引。总而言之，这些活动加深了他们对华族文化的了解。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/wushu.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct5.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/wushu.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct5.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct6.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct6.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct7.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct7.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct8.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct8.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct9.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct9.jpg">
 </div>
 <p>庆祝农历新年</p>
 <p>我们给学生讲新年的故事，我们和学生一起唱新年的歌，我们教学生玩新年传统游戏，我们和学生互道新春的祝福。在一年如夏的新加坡，我们华文部的老师带领全校师生，说春天的故事唱春天的歌曲，迎接春天的到来，恭祝美廉师生新年幸福快乐！
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct11.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct12.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct11.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct13.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct12.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct14.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct13.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct15.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct14.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct16.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct15.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct17.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct16.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/mtoct18.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct17.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct18.jpg">
 </div>
 <h3>Highlights - Malay Language</h3>
 <h3>2024</h3>
@@ -193,7 +193,7 @@ bahasa Melayu bersama para pelajar menengah Meridian yang lain!</p>
 <p>Pelantikan Rakan Bahasa itu dirasmikan oleh Pengerusi Jawatankuasa Bulan
 Bahasa, Zhulkarnain Abdul Rahim.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Rakan_Bahasa_2024.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Rakan_Bahasa_2024.png">
 </div>
 <p><strong>Feb- April 2024 – Pertandingan Cerpen dan Puisi</strong>
 </p>
@@ -235,7 +235,7 @@ telah berkongsi tentang proses kreatif dan teknik penyampaian puisi.</p>
 dihasilkan sendiri secara kreatif.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Bengkel_Bahasa_2024.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Bengkel_Bahasa_2024.png">
 </div>
 <p><strong>Mac 2024 – Peraduan Video TikTok P Ramlee</strong>
 </p>
@@ -268,11 +268,11 @@ datang, seperti pelajar-pelajar Menengah 2 ini. Para pelatih juga berkongsi
 beberapa pelajar Menengah 2 ini ada kebolehan untuk menganyam dengan baik,
 Syabas diucapkan kepada mereka!</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ML03.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/ML03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ML04.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/ML04.jpg">
 </div>
 <h5>Ogos 2022 – Aktiviti Dwi Minggu Bahasa, Seni Lukisan Batik</h5>
 <p>Pada Ogos lalu, lebih daripada 100 Menengah 3 didedahkan dengan aktiviti
@@ -284,7 +284,7 @@ sesi tersebut, beberapa pelajar Menengah 3 ini berkongsi kini mereka lebih
 dapat menghargai seni batik yang mereka lihat daripada pakaian yang dimiliki
 oleh keluarga mereka. Syabas!</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ML02.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/ML02.jpg">
 </div>
 <h5>Julai 2022 – Siri Ceramah dan Kuliah Menengah 3</h5>
 <p>Pada penggal ketiga tahun ini, Unit Bahasa Melayu Sekolah Menengah Meridian
@@ -298,7 +298,7 @@ lebih bersedia untuk menduduki peperiksaan peringkat O kelak. Antara topik-topik
 yang disentuh termasuklah (a) Penulisan Ekspositori (b) Penekanan terhadap
 soalan-soalan HOT bagi bahagian kefahaman (c) Imbuhan.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/ML01.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/ML01.jpg">
 </div>
 <h5>April 2022- Rakan Bahasa</h5>
 <p>Muhammad Rizq Aqasya dari 1E2 dan Luqman Nurhakeem dari 1E3 telah dilantik
@@ -312,7 +312,7 @@ bahasa Melayu bersama para pelajar menengah Meridian yang lain!</p>
 <p>Acara ini dirasmikan secara maya oleh Setiausaha Parlimen bagi Kementerian
 Kesihatan merangkap Perhubungan dan Penerangan, Cik Rahayu Mahzam.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/malay03.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/malay03.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -329,12 +329,12 @@ barat. Sesi amali yang dijalankan ini amat dialu-alukan oleh pelajar selepas
 mereka menjalani sesi sebegitu secara maya pada tahun-tahu lalu disebabkan
 pandemik COVID-19.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/malay01.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/malay01.jpg">
 </div>
 <p>‘Pelapis’ seni kebudayaan mempelajari cara-cara menggendang dalam persembahan
 seni dikir barat.</p>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/malay02.jpg">
+<img style="width: 75%;" height="auto" width="100%" src="/images/malay02.jpg">
 </div>
 <p>Bukan sahaja para pelajar perempuan yang ingin turut serta dalam aktiviti
 ini, pelajar lelaki juga turut gigih mempelajari lenggok tarian ini.
