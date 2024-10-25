@@ -109,17 +109,36 @@ of its PRISM concert series. “Hues of Orange” at Our Tampines Hub (OTH)
 explores the lively and energetic range of the colour orange, celebrating
 the happiness, energy, harvest, and zeal linked with to the sun. Two songs
 were presented, namely “Circle of life” and “When you believe”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture1.png">
+</div>
+<p>Singing our lungs and hearts out!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture3.png">
+</div>
 <p></p>
+<p>One more for the memory trunk!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture2.png">
+</div>
+<p>Need we say more? The excitement, the joy, the satisfaction!</p>
 <p></p>
 <p><strong>Arts Jam Carnival – National Day Celebrations</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>The Choir joined hands with the other performing arts groups (MNO, Band
-and Dance) to celebrate our nation’s 59th birthday by putting up a vibrant
-and exciting performance on Arts Day. Their rendition of “The road ahead”
-and “When you believe” helped put the spotlight on the 2024 NDP theme of
-“Together, As One United People”.</p>
+<p><strong>&nbsp;</strong>The Choir joined hands with the other performing
+arts groups (MNO, Band and Dance) to celebrate our nation’s 59th birthday
+by putting up a vibrant and exciting performance on Arts Day. Their rendition
+of “The road ahead” and “When you believe” helped put the spotlight on
+the 2024 NDP theme of “Together, As One United People”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture4.png">
+</div>
+<p></p>
 <h4>2023</h4>
 <p><strong>Singapore Youth Festival Arts Presentation 2023</strong> 
 <br>The Singapore Youth Festival (SYF) Arts Presentation was the biggest highlight
@@ -434,6 +453,29 @@ is a percussion workshop led by Ms Sng. Our students definitely have fun
 beating their drumsticks to the fun, upbeat and lively rhythm of Brazilian
 Samba!</p>
 <h3>Our CCA Experience</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture6.jpg">
+</div>
+<p>Being the head of the Choir has been a fulfilling and rewarding experience.
+It has not only improved my musical abilities but also given me the confidence
+to lead. In my leadership role, I’ve developed skills such as motivating
+my peers, managing time effectively, and handling challenges under pressure.
+I’ve also had the chance to collaborate with others during performances,
+which taught me the importance of teamwork and communication.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
+</div>
+<p>&nbsp;Being in the Choir has taught me many things: I've learnt not only
+about singing but about teamwork and perseverance. I've also learnt to
+get along with my batchmates and peers. Even though everyone is different,
+we've learnt to work with one another and grow together. The Choir is honestly
+fun and our conductor is literally the best!</p>
+<p>&nbsp;</p>
+<p>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</p>
+<p>Musfirah Binte Khalid, President (3E2, 2024)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
 </div>
