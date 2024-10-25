@@ -13,6 +13,121 @@ learning using all their senses. As part of the nation-wide Personalised
 Digital Learning Programme (PDLP), our science tasks and activities are
 designed with the use of students’ personal learning devices to support
 their out-of-classroom Science teaching and learning experiences.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Bee Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norul Ashiqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Khaliq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jeffrey Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Brian Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Dewi Haryanti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Ling Guan (James)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Joanne Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tiah Tao Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Transforming Teaching &amp; Learning to ICT-based Lesson Packages</h3>
 <p>The Science department continues to develop lesson resources for bite-sized
 learning for both the lower and upper secondary Science levels. ICT and
@@ -64,43 +179,168 @@ and curriculum.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/02.png">
 </div>
 <h3>2024 Highlights</h3>
-<p><strong>Sec1 miniSTEM activity – Grow Your Own Crystals!</strong>
+<p><strong>1. Sec 1 miniSTEM Activity: Grow Your Own Crystals!</strong>
 </p>
-<p>In Term 2, our Secondary 1 students embarked on an exciting STEM journey,
-growing copper (II) sulfate crystals. Throughout the week-long experiment,
-they delved into key scientific concepts such as saturation, solute, and
-solvent. Students meticulously mixed solutions to the point of saturation,
-observing how variables affect crystal formation. This hands-on activity
-not only enhanced their understanding of chemical processes but also encouraged
-critical thinking and problem-solving skills. Their successful cultivation
-of vibrant blue crystals showcased the practical application of classroom
-knowledge, sparking curiosity and a deeper appreciation for science.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In Term 2, Secondary 1 students embarked on a hands-on STEM project, growing
+copper (II) sulfate crystals. Over a week-long experiment, they explored
+key scientific concepts such as solute, solvent, and saturation. By carefully
+mixing solutions and adjusting variables, students gained a deeper understanding
+of chemical processes while developing problem-solving skills. Their successful
+cultivation of vibrant blue crystals highlighted the practical application
+of classroom knowledge, sparking curiosity and interest in STEM.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Grow_Your_Own_Crystals.png">
 </div>
 <p></p>
-<p>&nbsp;<strong>Secondary Two STEM Highlight in Term 2: Ice Box Challenge</strong>
+<p>&nbsp;<strong>2. Secondary 2 STEM Highlight: Ice Box Challenge</strong>
 </p>
-<p>The Secondary Two students worked in teams of 2 or 3 to construct a DIY
-ice box over the span of two weeks. They used various recycled materials
-in this STEM task, in line with the school’s push to educate students on
-the practices of sustainability.</p>
-<p>The students made use of the concepts that they learnt about the processes
-of heat transfer to brainstorm on the design of the ice box. Using the
-knowledge that they gained from lessons in school and their own research,
-they chose appropriate materials that could insulate the ice box and keep
-its contents cool.</p>
-<p>The effectiveness of the ice box was evaluated by measuring the amount
-of ice that melted while the ice box was placed under the Sun for some
-time. For each class, the team with the smallest amount of melted water
-was declared the winner of the challenge and given a small prize.</p>
-<p>In their reflections submitted after the activity, most students expressed
-that they found the challenge interesting and fun. Through this STEM highlight,
-the school has made Science come alive for the students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>During Term 2, Secondary 2 students teamed up to design and construct
+DIY ice boxes using recycled materials. This challenge encouraged students
+to apply their understanding of heat transfer and sustainability concepts.
+Teams tested their ice boxes by measuring the amount of ice that melted
+after exposure to the Sun. The winning teams, with the most effective insulation,
+were awarded prizes. Student reflections emphasised the enjoyment and educational
+value of the challenge, which made science come to life for many participants.</p>
 <p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Science/Ice_Box.png">
 </div>
+<p><strong>3. Secondary 2 STEM Highlight: Vomitus STEM Challenge</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Term 3, Secondary 2 students
+applied their knowledge of food tests to solve a forensic mystery. Using
+iodine, Benedict’s, biuret, and alcohol emulsion tests, they analysed a
+vomit sample to detect starch, glucose, protein, and fats, identifying
+the culprit based on their findings. This engaging, hands-on activity enhanced
+their understanding of food tests while developing critical thinking and
+problem-solving skills.</p>
+<p>&nbsp;<strong>4. Science External Competitions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Junior Chemistry, Physics and Biology Olympiads</p>
+</li>
+</ul>
+<p>Students represented the school in the abovementioned Olympiad competitions.
+Participants prepared rigorously to enhance their scientific knowledge
+and skills, fostering a passion for the subject and connecting with like-minded
+peers. The Junior Chemistry Olympiad Certificate of Merit was presented
+to Malavika from Class 4E4. For the Junior Biology Olympiad, Eaty Shyam
+Sheetal and Chirravuri Naga Sai Trinadh from Class 4E4 obtained Honorary
+Mentions, and Carine Tan from Class 4E4 attained Bronze.</p>
+<p>&nbsp;<strong><u>2023</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>1. Science External Competitions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Junior Chemistry and Biology Olympiads</p>
+</li>
+</ul>
+<p>Our students showcased their scientific expertise in the abovementioned
+Olympiad competitions. These competitions foster a passion for Science,
+develop talents, and promote collaboration while enhancing essential skills
+like problem-solving and critical thinking. For the Junior Biology Olympiad,
+Edeline Lim from Class 4E3 and Celeste Chew from Class 4E4 obtained Honorable
+Mentions.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>STEM Playground Challenge for Secondary 2 students</p>
+</li>
+</ul>
+<p>All Sec 2 students participated in the STEM Playground Challenge: Cardboard
+Boat, where teams designed boats using cardboard and recycled materials.
+The boats, no larger than A5 size, had to support 1 kg and stay afloat
+for 20 seconds. Prizes were awarded for the most durable, aesthetic, and
+well-presented boats.</p>
+<p>&nbsp;</p>
+<p><strong><u>2022</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>1. Meridian Science Enrichment: Science Centre Workshops</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>The Science of Making Candy </em>for Secondary 1 Students</p>
+</li>
+</ul>
+<p>During Term 2 Week 10's Experiential Learning Programme, students attended
+a Science Centre Singapore workshop where they explored the chemistry behind
+candy making. They learned about different types of sugars and how interfering
+agents are used to create various candies.</p>
+<p>&nbsp;<strong>2. Learning Journey</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Greensproutz and Kok Fah Technology
+Farm for Secondary 1 students</p>
+<p>As part of the Experiential Learning Programme, students visited modern
+agricultural farms in Singapore. Some students toured Kok Fah Technology
+Farm, learning about hydroponics, while others explored sustainability
+practices at Greensproutz, creating terrariums using recycled items. Students
+returned with hands-on knowledge and souvenirs.</p>
+<p><strong>3. Biology Applied Learning Module</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discovering Pharmacy @ Temasek
+Polytechnic Secondary 3 Biology students</p>
+<p>During the March holidays, students participated in a 4-day Applied Learning
+Module (AEM) at Temasek Polytechnic, where they explored the role of pharmacies,
+learned about over-the-counter medications, and gained insights from industry
+professionals.</p>
+<p>&nbsp;<strong>4. Science External Competitions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore National Crystal Growing Competition</p>
+</li>
+</ul>
+<p>Two students represented the school in the 15th Singapore National Crystal
+Growing Competition, spending weeks refining their process to grow ammonium
+nickel (II) sulfate crystals under the mentorship of Mr Arthur Lee.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>STEM Playground Challenge for Secondary 2 students</p>
+</li>
+</ul>
+<p>All Sec 2 students took part in the STEM Playground Challenge #2: <em>Dome Sweet Dome</em>,
+a competition to build a geodesic dome using sustainable or recyclable
+materials. Each class tested its dome’s strength by stacking handphones
+on top, with a winning structure selected from each class.</p>
+<p><strong>. Meridian Science Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meridian Young Scientist for Secondary 1 students</p>
+</li>
+</ul>
+<p>This programme, updated in 2022 and launched as part of Meridian Science
+Week, encouraged students to engage in various science activities. Based
+on their submissions, students were awarded titles such as "The Creative,"
+"The Erudite," or "The Explainer," depending on the tasks they completed.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Meridian Science Discovery Week</strong>
+</p>
+</li>
+</ul>
+<p>Held in Term 3, the event allowed students to explore science through
+hands-on activities and quizzes. Highlights for Sec 1 students included
+the <em>Minus the Virus!</em> activity, where they made hand sanitisers,
+and a sorbet-making workshop, where they learned about dry ice and its
+role in freezing fruit juice. Daily science quizzes offered prizes for
+accurate answers.</p>
+<p></p>
 <h3>2022 Highlights</h3>
 <h4>Meridian Science Enrichment</h4>
 <p><strong>Science Centre Workshops</strong> 
