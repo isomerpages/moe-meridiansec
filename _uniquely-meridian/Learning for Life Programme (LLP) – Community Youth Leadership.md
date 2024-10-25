@@ -10,7 +10,7 @@ variant: tiptap
 is a platform to nurture leaders in all Meridians.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
 </div>
 <h4><strong>1.&nbsp;&nbsp;&nbsp; Principles of Leadership</strong></h4>
 <div class="isomer-image-wrapper">
@@ -83,17 +83,20 @@ promoting initiative and self-development.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic6.png">
 </div>
 <p><strong>CCA Leaders</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic7.png">
 </div>
-<p><strong>Peer Support Leaders</strong>&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Peer Support Leaders</strong>&nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
+<p>&nbsp;</p>
 <h4><strong>TIER 3</strong></h4>
 <p>At Tier 3, members of the Student Leader Executive Committee embody thought
 leadership by inspiring a shared vision of student leadership that resonates
@@ -103,9 +106,8 @@ community. To further enhance their capabilities, the Executive Committee
 members are given opportunities to participate in nation-wide events and
 are nominated for national-level awards (e.g., National Young Leaders Fellowship).</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic9.png">
 </div>
 <h4><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Functional Titles</strong></h4>
 <p></p>
@@ -124,7 +126,6 @@ students to chart a course for positive change within the school by fostering
 creativity, teamwork, and the development of initiatives that benefit the
 broader Meridian community.</p>
 <h4><strong>Department Teachers</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -199,14 +200,6 @@ broader Meridian community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Dhanya Kannan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EL Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Phang Yan See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +208,6 @@ broader Meridian community.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Highlights (2024)</strong>&nbsp;</h3>
 <p></p>
 <h4><strong>Sec 1 Orientation</strong></h4>
@@ -248,6 +240,10 @@ and empathy among student leaders by increasing their awareness of environmental
 literacy. As part of the training, students participate in either the NParks
 Learning Journey or the WWF Learning Journey, and conclude their experience
 at the MSS Go Green Festival <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2024MSSGGF</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic14.png">
+</div>
 <h4><strong>Leadership Primer</strong></h4>
 <p>The Leadership Primer programme is curated for Tier 2 student leaders
 (i.e., Peer Support Leaders, CCA Leaders, and Student Councillors), with
@@ -255,7 +251,7 @@ the goal of improving fundamental leadership skills across all Student
 Leaders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_15.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_15.png">
 </div>
 <h4><strong>Student Leaders Investiture</strong></h4>
 <p>The Student Leaders Investiture honours and applauds new appointment holders
