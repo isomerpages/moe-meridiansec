@@ -10,11 +10,11 @@ variant: tiptap
 is a platform to nurture leaders in all Meridians.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
 </div>
 <h4><strong>1.&nbsp;&nbsp;&nbsp; Principles of Leadership</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_2.png">
 </div>
 <p>The school integrates the <strong>Five K&amp;P Practices of Exemplary Leadership </strong>in
 nurturing compassionate leaders.</p>
@@ -29,7 +29,7 @@ Others to Act and Encourage the Heart.</p>
 <h4><strong>2.&nbsp;&nbsp;&nbsp; Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_3.png">
 </div>
 <p>The Student Leadership Model at Meridian Secondary School is designed
 to be aligned with the Kouzes and Posner’s Five Practices of Exemplary
@@ -40,7 +40,7 @@ contributions to both the school community and the wider community.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_4.png">
 </div>
 <p>Meridian Secondary adopts an age-appropriate and progressive three-stage
 leadership training programme:</p>
@@ -64,7 +64,7 @@ This programme not only helps them develop their own skills and values
 but also provides opportunities to apply and enhance their leadership abilities
 through various platforms such as CCAs and VIA projects.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_5.png">
 </div>
 <h4><strong>TIER 2</strong></h4>
 <p>At Tier 2, students receive further training and participate in a broader
@@ -83,18 +83,18 @@ promoting initiative and self-development.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic6.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic6.png">
 </div>
 <p><strong>CCA Leaders</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic7.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic7.png">
 </div>
 <p><strong>Peer Support Leaders</strong>&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
 <p>&nbsp;</p>
 <h4><strong>TIER 3</strong></h4>
@@ -107,12 +107,12 @@ members are given opportunities to participate in nation-wide events and
 are nominated for national-level awards (e.g., National Young Leaders Fellowship).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic9.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic9.png">
 </div>
 <h4><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Functional Titles</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_10.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_10.png">
 </div>
 <p><em>*All Student Leaders strive to be positive influencers for fellow Meridians</em>
 </p>
@@ -215,7 +215,7 @@ broader Meridian community.</p>
 acquainting all Meridians with Kouzes and Posner’s Five Practices of Exemplary
 Leadership while extending a warm welcome to the Meridian community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_11.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_11.png">
 </div>
 <h4><strong>Sec 2 VIA</strong></h4>
 <p>The Sec 2 VIA serves as a platform for Sec 3 Student Councillors and Sec
@@ -225,14 +225,14 @@ of Sec 2 VIA activities for the Secondary 2 classes they are assigned to.
 With guidance provided, all Sec 2 students will gain experience in planning
 and executing a schoolwide event.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_12.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_12.png">
 </div>
 <h4><strong>Student Leader Executive Committee Nomination and Head Student Leader Election</strong></h4>
 <p>The Student Leader Executive Committee Nomination and Head Student Leader
 Election is a platform that enables Sec 3 students to advocate for themselves
 and their ideals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_13.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_13.png">
 </div>
 <h4><strong>Trailblazers Summit</strong></h4>
 <p>The Trailblazers Summit is a programme designed to foster team learning
@@ -242,7 +242,7 @@ Learning Journey or the WWF Learning Journey, and conclude their experience
 at the MSS Go Green Festival <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2024MSSGGF</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic14.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic14.png">
 </div>
 <h4><strong>Leadership Primer</strong></h4>
 <p>The Leadership Primer programme is curated for Tier 2 student leaders
@@ -251,13 +251,13 @@ the goal of improving fundamental leadership skills across all Student
 Leaders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_15.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_15.png">
 </div>
 <h4><strong>Student Leaders Investiture</strong></h4>
 <p>The Student Leaders Investiture honours and applauds new appointment holders
 while fostering a community of leadership, inspiring growth and development
 among all student leaders.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_16.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_16.png">
 </div>
 <p>&nbsp;</p>
