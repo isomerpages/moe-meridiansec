@@ -5,14 +5,6 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
-</div>
-<p></p>
 <h3>CCE in MSS</h3>
 <p>Character and Citizenship Education (CCE) is at the heart of education
 in Singapore. Through CCE, students develop character and citizenship dispositions
