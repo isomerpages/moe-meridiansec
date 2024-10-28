@@ -6,7 +6,6 @@ third_nav_title: Character Development
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/cvimage1.png">
 </div>
