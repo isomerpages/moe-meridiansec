@@ -18,10 +18,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/5.png">
-</div>
-<p></p>
 <p>In Meridian Secondary, we design NE learning experiences to strengthen
 our students’ citizenship dispositions and to inspire the school community
 to work together and actively contribute for our nation.</p>
