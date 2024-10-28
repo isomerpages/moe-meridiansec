@@ -25,25 +25,21 @@ stay on track to achieve them, and</p>
 the 21st century competencies, values and skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/1.png">
 </div>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/3.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/4.png">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
 </div>
 <h1>Highlights</h1>
 <h3>MySkillsFuture Portal</h3>
