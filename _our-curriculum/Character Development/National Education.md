@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<p>In Meridian Secondary, we design NE learning experiences to strengthen
-our students’ citizenship dispositions and to inspire the school community
-to work together and actively contribute for our nation.</p>
-<p>The citizenship dispositions are displayed below.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/NE01.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
@@ -21,19 +14,33 @@ to work together and actively contribute for our nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/5.png">
 </div>
+<p></p>
+<p>In Meridian Secondary, we design NE learning experiences to strengthen
+our students’ citizenship dispositions and to inspire the school community
+to work together and actively contribute for our nation.</p>
+<p>The citizenship dispositions are displayed below.</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/NE01.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h1>Highlights</h1>
 <h3>Total Defence Day 2022</h3>
 <p>We started the commemoration by viewing the Total Defence Message Video
