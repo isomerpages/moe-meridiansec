@@ -8,18 +8,27 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/cvimage1.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/cvimage2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/cvimage3.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
 </div>
-<h3>CCE in MSS</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/cvimage4.png">
+</div>
+<h3>in MSS</h3>
 <p>Character and Citizenship Education (CCE) is at the heart of education
 in Singapore. Through CCE, students develop character and citizenship dispositions
 which enable them to grow holistically. Our school takes reference from
