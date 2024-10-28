@@ -7,19 +7,19 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg5.png">
 </div>
 <h3>ECG Counselling and Support</h3>
 <p>Our ECG Counsellor, Ms Cheryl Low, is in school on Tuesdays and Wednesdays.She
