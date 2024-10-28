@@ -462,8 +462,10 @@ It has not only improved my musical abilities but also given me the confidence
 to lead. In my leadership role, I’ve developed skills such as motivating
 my peers, managing time effectively, and handling challenges under pressure.
 I’ve also had the chance to collaborate with others during performances,
-which taught me the importance of teamwork and communication. <strong>-Musfirah Binte Khalid, President (3E2, 2024)</strong>
+which taught me the importance of teamwork and communication.</p>
+<p><strong>-Musfirah Binte Khalid, President (3E2, 2024)</strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture7.jpg">
@@ -472,8 +474,11 @@ which taught me the importance of teamwork and communication. <strong>-Musfirah 
 about singing but about teamwork and perseverance. I've also learnt to
 get along with my batchmates and peers. Even though everyone is different,
 we've learnt to work with one another and grow together. The Choir is honestly
-fun and our conductor is literally the best! -<strong>Darilyn Kuek, Assistant Section Leader (2-1, 2024)</strong>
+fun and our conductor is literally the best!</p>
+<p><strong>-Darilyn Kuek, Assistant Section Leader (2-1, 2024)</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Choir/Picture8.png">
 </div>
@@ -483,8 +488,10 @@ choir where we had to do a joint performance. We learnt from a conductor
 who taught us how to sing better with improved techniques. I joined the
 Choir as I had an interest in music and the arts. I’ve always loved singing
 but never wanted to perform in public. I thought that it would help improve
-my confidence performing in front of an audience. <strong>Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</strong>
+my confidence performing in front of an audience.</p>
+<p><strong>-Dimamay Isaac Rich Alexis Intia, Assistant Section Leader (2-6, 2024)</strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-02.jpg">
@@ -492,18 +499,22 @@ my confidence performing in front of an audience. <strong>Dimamay Isaac Rich Ale
 <p>
 <br><em>Because of Choir, I have become more confident on stage. I have made numerous friends in Choir, with many supportive peers and juniors. I have learnt and mastered a wide array of songs from pop culture like “Millions Dreams” to classical works like “O Magnum”, improving my singing techniques. Now as a student conductor, I am also learning more about leading and conducting. I have also acquired different skills like stage makeup and hand independence while conducting.</em> 
 <br><strong>– Eaty Shyam Sheetal, Student Conductor (3E4, 2023)</strong> 
-<br>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/CCA/Choir/choir-03.jpg">
 </div>
 <p><em>To me, Choir is not just a CCA, but a time for me to relax and have fun, and of course to learn as well. Choir is also where I can make friends with people from different classes across levels. Through Choir, I have learnt to be a better team player and more importantly a better leader with the given leadership opportunities. I joined Choir with an open mind and am glad to have picked up some music theory from our coach. Being in Choir is an enriching experience with the exposure songs from different cultures and of different languages.</em> 
 <br><strong>– Lim Ming Hui Sonia, President (3E4, 2024)</strong> 
+</p>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/choir-04.jpg">
 </div>
-<p><em>I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!</em> 
+<p><em>I thought joining choir was just about singing but I was so wrong. I went in with an open-mind and I realized that singing in a choir can develop me holistically as a person. On top of that, we got to sing songs from different languages and cultures. It has been indeed an enriching experience!</em>
 <br><strong>– Chong Yong Yu, Student Conductor (4E1, 2023)</strong>
 </p>
+<p></p>
