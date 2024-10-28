@@ -7,24 +7,19 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/5.png">
 </div>
 <p></p>
 <p>In Meridian Secondary, we design NE learning experiences to strengthen
