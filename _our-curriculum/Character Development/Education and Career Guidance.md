@@ -5,47 +5,32 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<p>Education &amp; Career Guidance (ECG) is about equipping students with
-essential knowledge, skills and values to make informed decisions for life
-post-secondary school.</p>
-<p>Through the school’s ECG activities, we aim to help students:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>discover their interests, abilities and passion,</p>
-</li>
-<li>
-<p>learn more about the world of work and explore the many possible pathways,</p>
-</li>
-<li>
-<p>make considered decisions about their education and career plans, and
-stay on track to achieve them, and</p>
-</li>
-<li>
-<p>be a lifelong learner who is adaptable and resilient, and equipped with
-the 21st century competencies, values and skills.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/1.png">
-</div>
-</li>
-</ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/ecg5.png">
+</div>
+<h3>ECG Counselling and Support</h3>
+<p>Our ECG Counsellor, Ms Cheryl Low, is in school on Tuesdays and Wednesdays.She
+works together with students (individually or in small groups) to help
+them:</p>
+<p>To make an appointment with Ms Cheryl, please scan the QR code below,
+or click on https://go.gov.sg/ecg-mss</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/6___ECGC_poster.png">
 </div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
-</div>
-<h1>Highlights</h1>
 <h3>MySkillsFuture Portal</h3>
 <p>The&nbsp;<a href="http://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">ECG Portal – MySkillsFuture</a>&nbsp;is
 a valuable source of information and knowledge for students. By completing
@@ -59,28 +44,4 @@ various job roles.</p>
 <p>In Meridian, students utilized MySkillsFuture Portal to find out about
 their VIPS and to set academic and non-academic goals to chart their holistic
 growth.</p>
-<h3>ECG Counselling and Support</h3>
-<p>Our ECG Counsellor, Ms Cheryl Low, is in school on<strong> Tuesdays </strong>and<strong> Wednesdays</strong>.</p>
-<p>She works together with students (individually or in small groups) to
-help them:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; discover their&nbsp;Interests, Strengths
-&amp; Aspirations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; explore the various&nbsp;Education
-Pathways and Career Opportunities&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make informed decisions relating
-to&nbsp;Subject Combinations&nbsp;and&nbsp;Post-secondary Pathways/Courses</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prepare their write-ups, portfolios
-and interviews for Aptitude-based Admissions&nbsp;such as DSA to JC and
-EAE to Poly/ITE</p>
-<p>To make an appointment with Ms Cheryl, please scan the QR code below,
-or click on <a href="https://go.gov.sg/ecg-mss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-mss</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/6___ECGC_poster.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Education and Career Guidance" src="/images/Our Curriculum/ECG.png">
-</div>
 <p></p>
