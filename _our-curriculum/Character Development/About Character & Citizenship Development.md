@@ -11,6 +11,21 @@ in Singapore. Through CCE, students develop character and citizenship dispositio
 which enable them to grow holistically. Our school takes reference from
 MOE CCE Curriculum Frame to design meaningful learning experiences for
 our Meridians.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/4.png">
+</div>
+<p></p>
+<p></p>
 <h3>Character &amp; Citizenship Development in MSS</h3>
 <p>In Meridian Secondary, we emphasise the importance of nurturing Meridians
 to be people of good character and useful citizens. Through the programmes
