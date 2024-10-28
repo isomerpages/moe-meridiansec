@@ -7,15 +7,12 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/via1image.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/via2image.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Education and Career Guidance/via3image.png">
 </div>
-<p></p>
-<h1></h1>
-<h3></h3>
 <p></p>
