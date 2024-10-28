@@ -5,24 +5,9 @@ description: ""
 third_nav_title: Character Development
 variant: tiptap
 ---
-<p>Education &amp; Career Guidance (ECG) is about equipping students with
-essential knowledge, skills and values to make informed decisions for life
-post-secondary school.</p>
-<p>Through the school’s ECG activities, we aim to help students:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>discover their interests, abilities and passion,</p>
-</li>
-<li>
-<p>learn more about the world of work and explore the many possible pathways,</p>
-</li>
-<li>
-<p>make considered decisions about their education and career plans, and
-stay on track to achieve them, and</p>
-</li>
-<li>
-<p>be a lifelong learner who is adaptable and resilient, and equipped with
-the 21st century competencies, values and skills.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/1.png">
@@ -41,20 +26,6 @@ the 21st century competencies, values and skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
 </div>
-<h1>Highlights</h1>
-<h3>MySkillsFuture Portal</h3>
-<p>The&nbsp;<a href="http://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">ECG Portal – MySkillsFuture</a>&nbsp;is
-a valuable source of information and knowledge for students. By completing
-the surveys on the portal, students learn more about their interests, strengths
-and work values (VIPS). The portal is also a guide to their post-secondary
-education. Students are able to learn more about the education landscape,
-and explore the Post-Secondary Education Institutions (PSEIs) as well as
-the courses offered by these institutions. They also learn about the world
-of work, acquiring knowledge of the Singapore Industry Landscape and the
-various job roles.</p>
-<p>In Meridian, students utilized MySkillsFuture Portal to find out about
-their VIPS and to set academic and non-academic goals to chart their holistic
-growth.</p>
 <h3>ECG Counselling and Support</h3>
 <p>Our ECG Counsellor, Ms Cheryl Low, is in school on<strong> Tuesdays </strong>and<strong> Wednesdays</strong>.</p>
 <p>She works together with students (individually or in small groups) to
@@ -75,8 +46,17 @@ or click on <a href="https://go.gov.sg/ecg-mss" rel="noopener noreferrer nofollo
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/6___ECGC_poster.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Education and Career Guidance" src="/images/Our Curriculum/ECG.png">
-</div>
+<h3>MySkillsFuture Portal</h3>
+<p>The&nbsp;<a href="http://www.myskillsfuture.sg/secondary" rel="noopener noreferrer nofollow" target="_blank">ECG Portal – MySkillsFuture</a>&nbsp;is
+a valuable source of information and knowledge for students. By completing
+the surveys on the portal, students learn more about their interests, strengths
+and work values (VIPS). The portal is also a guide to their post-secondary
+education. Students are able to learn more about the education landscape,
+and explore the Post-Secondary Education Institutions (PSEIs) as well as
+the courses offered by these institutions. They also learn about the world
+of work, acquiring knowledge of the Singapore Industry Landscape and the
+various job roles.</p>
+<p>In Meridian, students utilized MySkillsFuture Portal to find out about
+their VIPS and to set academic and non-academic goals to chart their holistic
+growth.</p>
 <p></p>
