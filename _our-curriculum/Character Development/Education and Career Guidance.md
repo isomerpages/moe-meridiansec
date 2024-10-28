@@ -27,21 +27,11 @@ variant: tiptap
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/5.png">
 </div>
 <h3>ECG Counselling and Support</h3>
-<p>Our ECG Counsellor, Ms Cheryl Low, is in school on<strong> Tuesdays </strong>and<strong> Wednesdays</strong>.</p>
-<p>She works together with students (individually or in small groups) to
-help them:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; discover their&nbsp;Interests, Strengths
-&amp; Aspirations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; explore the various&nbsp;Education
-Pathways and Career Opportunities&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make informed decisions relating
-to&nbsp;Subject Combinations&nbsp;and&nbsp;Post-secondary Pathways/Courses</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prepare their write-ups, portfolios
-and interviews for Aptitude-based Admissions&nbsp;such as DSA to JC and
-EAE to Poly/ITE</p>
+<p>Our ECG Counsellor, Ms Cheryl Low, is in school on Tuesdays and Wednesdays.She
+works together with students (individually or in small groups) to help
+them:</p>
 <p>To make an appointment with Ms Cheryl, please scan the QR code below,
-or click on <a href="https://go.gov.sg/ecg-mss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-mss</a>
-</p>
+or click on https://go.gov.sg/ecg-mss</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our Curriculum/Education and Career Guidance/6___ECGC_poster.png">
