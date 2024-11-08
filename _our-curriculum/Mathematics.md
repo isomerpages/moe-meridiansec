@@ -44,6 +44,107 @@ and to learn cooperatively and independently.</p>
 </ul>
 <p></p>
 <h3><strong>Highlights in 2024</strong></h3>
+<h4>2024 UNSW ICAS:</h4>
+<p><strong>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Maths_Department_pic_1.png">
+</div>
+<p><strong>Sec 1 students taking the ICAS competition.</strong>
+</p>
+<p>This year, 57 Meridians from Secondary 1 to 3 took part in the UNSW ICAS
+National Mathematics Competition. This prestigious competition challenges
+students with advanced mathematical concepts and critical-thinking tasks
+across various areas of Mathematics.</p>
+<p>Our students have excelled, achieving remarkable results, with 2 High
+Distinction Awards, 2 Distinction Awards, 16 Credit Awards, and 2 Merit
+Awards. Congratulations to all the students for their dedication and impressive
+performance! We would also like to extend our heartfelt appreciation to
+all our Meridian participants for their hard work and commitment.</p>
+<p><strong>High Distinction Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liu Zian, S1-5</p>
+</li>
+<li>
+<p>Zheng Yuhan, S1-6</p>
+</li>
+</ul>
+<p><strong>Distinction Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Zhi Cong Max, 3E1</p>
+</li>
+<li>
+<p>Liaw Yi Tong, Eunice, 3E2</p>
+</li>
+</ul>
+<p><strong>Credit Awards</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lucas Loh Yi Xuan, 1-3</p>
+</li>
+<li>
+<p>Cho Yat Hei, 1-3</p>
+</li>
+<li>
+<p>Muhammad Mu'az Bin Mohammad Fahmy, 1-6</p>
+</li>
+<li>
+<p>Velin Sim, 2-1</p>
+</li>
+<li>
+<p>Lai Wai Lok Brendon, 2-1</p>
+</li>
+<li>
+<p>Lim Yi Teng Ethan, 2-2</p>
+</li>
+<li>
+<p>Melvin Tukimin, 2-4</p>
+</li>
+<li>
+<p>Markus Inigo Macayana Perez, 2-5</p>
+</li>
+<li>
+<p>Jove Tan Zhi Xuan, 2-7</p>
+</li>
+<li>
+<p>Claira Poh Wen Xuan, 3E2</p>
+</li>
+<li>
+<p>Ng Tze Howe, Lucius, 3E4</p>
+</li>
+<li>
+<p>Lee Jiag Leng (Li Nuoning), 3E4</p>
+</li>
+<li>
+<p>Nur Amirah Binte Jalaluddin, 3E4</p>
+</li>
+<li>
+<p>Estee Tang Hiew Tong, 3E4</p>
+</li>
+<li>
+<p>Ng Ee Ling, Elaine, 3E4</p>
+</li>
+<li>
+<p>Elisha Tan Jin Xuan, 3E4</p>
+</li>
+</ul>
+<p><strong>Merit Awards</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ramanathan Krishna, 1-5</p>
+</li>
+<li>
+<p>Pang Hui Ping, 2-2</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 <h4>STEM Playground Challenge:</h4>
 <p><strong>Unleashing Creativity through Cardboard Chairs</strong>
 </p>

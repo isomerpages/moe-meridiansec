@@ -10,9 +10,9 @@ variant: tiptap
 is a platform to nurture leaders in all Meridians.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
 </div>
-<h4><strong>1.&nbsp;&nbsp;&nbsp; Principles of Leadership</strong></h4>
+<h4><strong>1. Principles of Leadership</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_2.png">
 </div>
@@ -26,78 +26,54 @@ best” in leading others. The Five Practices of Exemplary Leadership are
 namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable
 Others to Act and Encourage the Heart.</p>
 <p></p>
-<h4><strong>2.&nbsp;&nbsp;&nbsp; Student Leadership Model</strong></h4>
+<h4><strong>2. Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadership_model.png">
 </div>
 <p>The Student Leadership Model at Meridian Secondary School is designed
 to be aligned with the Kouzes and Posner’s Five Practices of Exemplary
 Leadership, the four beliefs, and The Meridian Way. At every tier of leadership
 development, students are provided with opportunities to make meaningful
 contributions to both the school community and the wider community.</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp; Student Leadership Progressive Development Model</strong>
-</p>
-<p></p>
+<h4><strong>3. Student Leadership Progressive Development Model</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadershipprogressive_development__model.png">
 </div>
-<p>Meridian Secondary adopts an age-appropriate and progressive three-stage
-leadership training programme:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Self-Leadership</p>
-</li>
-<li>
-<p>Team Leadership</p>
-</li>
-<li>
-<p>Thought Leadership</p>
-<p></p>
-</li>
-</ul>
-<p></p>
+<p>Meridian Secondary offers a multi-path, three-tier leadership training
+programme that allows students to develop leadership skills through Self-Leadership,
+Team Leadership and Thought Leadership. While the programme encourages
+students to progress through each level, they may be recognized for Tier
+3 leadership roles based on their achievements, even if they have not completed
+Tier 2.</p>
 <h4><strong>TIER 1</strong></h4>
-<p>Cohort leadership engages the wider student body by equipping our students
-with knowledge of K&amp;P principles through a foundational programme.
-This programme not only helps them develop their own skills and values
-but also provides opportunities to apply and enhance their leadership abilities
-through various platforms such as CCAs and VIA projects.</p>
+<p>Cohort leadership engages the wider student body by equipping students
+with an understanding of the Kouzes and Posner’s Five Practices of Exemplary
+Leadership through a foundational programme. This programme not only helps
+students develop their own skills and values, but also provides opportunities
+to apply and enhance their leadership abilities through various platforms,
+such as CCAs and VIA projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_5.png">
 </div>
 <h4><strong>TIER 2</strong></h4>
-<p>At Tier 2, students receive further training and participate in a broader
-range of community projects, enhancing their leadership skills through
-their roles as Student Councillors, CCA Leaders or Peer Support Leaders.
-This often involves organizing activities for their peers (e.g. Peer Support
-Leaders conducting class bonding games) or for their juniors (e.g. Sec
-3 Student Councillors facilitating Sec 2 VIA projects), fostering a sense
-of team leadership.</p>
-<p>The Leadership Primer is specially designed for Tier 2 Student Leaders,
-focusing on developing skills such as public speaking and event facilitation.
-Regular check-in sessions offer continuous guidance and support. Uniquely,
-our school encourages students to self-nominate for these leadership roles,
-promoting initiative and self-development.</p>
-<p><strong>Student Councillors</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic6.png">
-</div>
+<p>At Tier 2, students undergo further training and engage in a wider range
+of community projects, enhancing their leadership skills through their
+roles as CCA Leaders or Peer Support Leaders. These roles often involve
+organizing activities for their peers (e.g., Peer Support Leaders conducting
+class bonding games) or for their juniors (e.g., conducting leadership
+workshops), fostering a sense of team leadership. Regular check-in sessions
+provide ongoing guidance and support.</p>
 <p><strong>CCA Leaders</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic7.png">
 </div>
 <p><strong>Peer Support Leaders</strong>&nbsp;&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
-<p>&nbsp;</p>
-<h4><strong>TIER 3</strong></h4>
+<h4>&nbsp;<strong>TIER 3</strong></h4>
 <p>At Tier 3, members of the Student Leader Executive Committee embody thought
 leadership by inspiring a shared vision of student leadership that resonates
 with all students. They play a pivotal role in nurturing the leadership
@@ -105,19 +81,33 @@ development of their peers and driving innovation to create value for the
 community. To further enhance their capabilities, the Executive Committee
 members are given opportunities to participate in nation-wide events and
 are nominated for national-level awards (e.g., National Young Leaders Fellowship).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic9.png">
 </div>
-<h4><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership Functional Titles</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_10.png">
-</div>
-<p><em>*All Student Leaders strive to be positive influencers for fellow Meridians</em>
+<p><strong>Student Leadership Functional Titles</strong>
 </p>
-<p></p>
-<h4><strong>4.&nbsp;&nbsp;&nbsp; Leaders Room</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic10.png">
+</div>
+<h4><strong>4.&nbsp;Values and Dispositions</strong></h4>
+<p>Meridian’s leadership programme focuses not only on providing opportunities
+for positional leadership development, but also on encouraging students
+to take initiative, foster personal growth, and positively impact others.
+We aim to develop students into change agents who help others grow, going
+beyond just holding leadership titles.</p>
+<p>&nbsp;This is achieved through two main initiatives:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Executive Committee (ExCo) – Any Secondary
+3 student can apply to join the ExCo, where they will take on roles that
+help influence and create value for the Meridian community.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Visionary Volunteers programme – This programme
+recognizes students for their contributions and achievements through a
+star-based system (1 Star, 2 Stars, or 3 Stars), highlighting their dedication
+to helping others and making a difference in the school community and beyond.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Values_and_Dispositions.png">
+</div>
+<p><strong>5. Leaders Room</strong>
+</p>
 <p>The Leaders Room serves as a dedicated space for Student Leaders to convene,
 collaborate, and strategize. It provides an environment where the leaders
 can brainstorm innovative ideas and foster a sense of unity among their
@@ -144,18 +134,10 @@ broader Meridian community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norul Ashiqin Bte Rashid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Quaide Millath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH PE/CCA (Covering HOD PE/CCA)</p>
+<p>HOD PE/CCA</p>
 </td>
 </tr>
 <tr>
@@ -198,18 +180,9 @@ broader Meridian community.</p>
 <p>MT Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Phang Yan See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>D&amp;T Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Highlights (2024)</strong>&nbsp;</h3>
-<p></p>
 <h4><strong>Sec 1 Orientation</strong></h4>
 <p>The Sec 1 Orientation serves as a vital platform for leadership development,
 acquainting all Meridians with Kouzes and Posner’s Five Practices of Exemplary
@@ -218,12 +191,12 @@ Leadership while extending a warm welcome to the Meridian community.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_11.png">
 </div>
 <h4><strong>Sec 2 VIA</strong></h4>
-<p>The Sec 2 VIA serves as a platform for Sec 3 Student Councillors and Sec
-2 Peer Support Leaders to practise their leadership skills by employing
-the Design Thinking methodology to facilitate the planning and execution
-of Sec 2 VIA activities for the Secondary 2 classes they are assigned to.
-With guidance provided, all Sec 2 students will gain experience in planning
-and executing a schoolwide event.</p>
+<p>The Sec 2 VIA serves as a platform for Sec 3 leaders and Sec 2 Peer Support
+Leaders to practise their leadership skills by employing the Design Thinking
+methodology to facilitate the planning and execution of Sec 2 VIA activities
+for the Secondary 2 classes they are assigned to. With guidance provided,
+all Sec 2 students will gain experience in planning and executing a schoolwide
+event.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_12.png">
 </div>
@@ -235,23 +208,11 @@ and their ideals.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_13.png">
 </div>
 <h4><strong>Trailblazers Summit</strong></h4>
-<p>The Trailblazers Summit is a programme designed to foster team learning
-and empathy among student leaders by increasing their awareness of environmental
-literacy. As part of the training, students participate in either the NParks
-Learning Journey or the WWF Learning Journey, and conclude their experience
-at the MSS Go Green Festival <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2024MSSGGF</a>.</p>
-<p></p>
+<p>The Trailblazers Summit is a programme designed to foster team leadership
+and empathy among students by encouraging self-initiated advocacy projects.
+In 2024, these projects culminated at the MSS Go Green Festival (<a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2024MSSGGF</a>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic14.png">
-</div>
-<h4><strong>Leadership Primer</strong></h4>
-<p>The Leadership Primer programme is curated for Tier 2 student leaders
-(i.e., Peer Support Leaders, CCA Leaders, and Student Councillors), with
-the goal of improving fundamental leadership skills across all Student
-Leaders.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_15.png">
 </div>
 <h4><strong>Student Leaders Investiture</strong></h4>
 <p>The Student Leaders Investiture honours and applauds new appointment holders
