@@ -58,8 +58,6 @@ such as CCAs and VIA projects.</p>
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_5.png">
 </div>
 <h4><strong>TIER 2</strong></h4>
-<p><strong>TIER 2</strong>
-</p>
 <p>At Tier 2, students undergo further training and engage in a wider range
 of community projects, enhancing their leadership skills through their
 roles as CCA Leaders or Peer Support Leaders. These roles often involve
@@ -73,7 +71,6 @@ provide ongoing guidance and support.</p>
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic7.png">
 </div>
 <p><strong>Peer Support Leaders</strong>&nbsp;&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
