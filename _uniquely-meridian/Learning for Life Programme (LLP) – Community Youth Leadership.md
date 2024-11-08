@@ -10,9 +10,9 @@ variant: tiptap
 is a platform to nurture leaders in all Meridians.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
 </div>
-<h4><strong>1.&nbsp;&nbsp;&nbsp; Principles of Leadership</strong></h4>
+<h4><strong>1. Principles of Leadership</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/cyl_pic_2.png">
 </div>
@@ -26,7 +26,7 @@ best” in leading others. The Five Practices of Exemplary Leadership are
 namely Model the Way, Inspire a Shared Vision, Challenge the Process, Enable
 Others to Act and Encourage the Heart.</p>
 <p></p>
-<h4><strong>2.&nbsp;&nbsp;&nbsp; Student Leadership Model</strong></h4>
+<h4><strong>2. Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadership_model.png">
@@ -36,7 +36,7 @@ to be aligned with the Kouzes and Posner’s Five Practices of Exemplary
 Leadership, the four beliefs, and The Meridian Way. At every tier of leadership
 development, students are provided with opportunities to make meaningful
 contributions to both the school community and the wider community.</p>
-<h4><strong>1.&nbsp;&nbsp;&nbsp; Student Leadership Progressive Development Model</strong></h4>
+<h4><strong>3. Student Leadership Progressive Development Model</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadershipprogressive_development__model.png">
 </div>
@@ -73,8 +73,7 @@ provide ongoing guidance and support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
-<p>&nbsp;<strong>TIER 3</strong>
-</p>
+<h4>&nbsp;<strong>TIER 3</strong></h4>
 <p>At Tier 3, members of the Student Leader Executive Committee embody thought
 leadership by inspiring a shared vision of student leadership that resonates
 with all students. They play a pivotal role in nurturing the leadership
@@ -82,13 +81,13 @@ development of their peers and driving innovation to create value for the
 community. To further enhance their capabilities, the Executive Committee
 members are given opportunities to participate in nation-wide events and
 are nominated for national-level awards (e.g., National Young Leaders Fellowship).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic9.png">
 </div>
-<h4><strong>3.&nbsp;Student Leadership Functional Titles</strong></h4>
+<p><strong>Student Leadership Functional Titles</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic10.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic10.png">
 </div>
 <h4><strong>4.&nbsp;Values and Dispositions</strong></h4>
 <p>Meridian’s leadership programme focuses not only on providing opportunities
@@ -184,7 +183,6 @@ broader Meridian community.</p>
 </tbody>
 </table>
 <h3><strong>Highlights (2024)</strong>&nbsp;</h3>
-<p></p>
 <h4><strong>Sec 1 Orientation</strong></h4>
 <p>The Sec 1 Orientation serves as a vital platform for leadership development,
 acquainting all Meridians with Kouzes and Posner’s Five Practices of Exemplary
