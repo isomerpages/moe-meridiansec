@@ -29,7 +29,7 @@ Others to Act and Encourage the Heart.</p>
 <h4><strong>2.&nbsp;&nbsp;&nbsp; Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadership_model.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadership_model.png">
 </div>
 <p>The Student Leadership Model at Meridian Secondary School is designed
 to be aligned with the Kouzes and Posner’s Five Practices of Exemplary
@@ -39,7 +39,7 @@ contributions to both the school community and the wider community.</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp; Student Leadership Progressive Development Model</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadershipprogressive_development__model.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadershipprogressive_development__model.png">
 </div>
 <p>Meridian Secondary offers a multi-path, three-tier leadership training
 programme that allows students to develop leadership skills through Self-Leadership,
@@ -74,8 +74,8 @@ provide ongoing guidance and support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Picture8.png">
 </div>
-<p>&nbsp;</p>
-<h4><strong>TIER 3</strong></h4>
+<p>&nbsp;<strong>TIER 3</strong>
+</p>
 <p>At Tier 3, members of the Student Leader Executive Committee embody thought
 leadership by inspiring a shared vision of student leadership that resonates
 with all students. They play a pivotal role in nurturing the leadership
