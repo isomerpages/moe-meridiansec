@@ -8,7 +8,6 @@ variant: tiptap
 </p>
 <p>The school’s Learning for Life Programme (LLP), Community Youth Leadership,
 is a platform to nurture leaders in all Meridians.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/pic1.png">
 </div>
@@ -40,7 +39,6 @@ Leadership, the four beliefs, and The Meridian Way. At every tier of leadership
 development, students are provided with opportunities to make meaningful
 contributions to both the school community and the wider community.</p>
 <h4><strong>3. Student Leadership Progressive Development Model</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Student_Leadership_Progressive_Development_Model.png">
 </div>
@@ -95,13 +93,6 @@ are nominated for national-level awards (e.g., National Young Leaders Fellowship
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/key_roles.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Student_Leadership_Functional_Title.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic10.png">
 </div>
 <h4><strong>4.&nbsp;Values and Dispositions</strong></h4>
 <p>Meridian’s leadership programme focuses not only on providing opportunities
