@@ -86,6 +86,10 @@ are nominated for national-level awards (e.g., National Young Leaders Fellowship
 </div>
 <p><strong>Student Leadership Functional Titles</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Student_Leadership_Functional_Title.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Pic10.png">
 </div>
