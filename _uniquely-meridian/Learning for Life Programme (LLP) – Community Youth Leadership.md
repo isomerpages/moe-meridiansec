@@ -29,7 +29,7 @@ Others to Act and Encourage the Heart.</p>
 <h4><strong>2. Student Leadership Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/student_leadership_model.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/student_leadership_model.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadership_model.png">
@@ -42,7 +42,7 @@ contributions to both the school community and the wider community.</p>
 <h4><strong>3. Student Leadership Progressive Development Model</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Student_Leadership_Progressive_Development_Model.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP Community Youth Leadership/Student_Leadership_Progressive_Development_Model.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/student_leadershipprogressive_development__model.png">
