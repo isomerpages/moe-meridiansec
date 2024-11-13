@@ -210,6 +210,9 @@ for this song.</p>
 <h4><strong>Our CCA Experience</strong></h4>
 <p>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
+</div>
 <p>"I feel that MNO is like a family. It gives me a strong sense of belonging
 and makes me feel safe. I joined because I had experience with anklung
 and kulintang in primary school, but you don’t need to be musically talented
@@ -220,9 +223,12 @@ to multitask will help me complete projects and tasks more efficiently.
 Additionally, learning how to absorb information quickly has sharpened
 my ability to learn at a faster pace.</p>
 <p>Overall, MNO is an amazing place to be."</p>
-<p>&nbsp;</p>
-<p><u>MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</u>
+<p>&nbsp;<u>MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</u>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO11.jpg">
+</div>
 <p>"Having had the opportunity to serve as a level leader for two consecutive
 years, MNO has given me the chance to develop and refine my leadership
 skills. MNO aims to ignite young musicians' passion, inspiring them to
