@@ -122,10 +122,22 @@ through trainings and performances.</p>
 <p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO6.jpg">
+</div>
+<p></p>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO7.jpg">
+</div>
 <p><strong>National Day Celebration</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO8.jpg">
+</div>
 <p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
 the festivity with the residence at Pasir Ris Central Community Club. The
 Secondary 3 MNOs serenaded them with two songs – a classic Raya melody,
@@ -139,6 +151,10 @@ dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
+</div>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
 </p>
 <h4>2022</h4>
@@ -207,9 +223,9 @@ for this song.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO9.jpg">
 </div>
-<h4><strong>Our CCA Experience</strong></h4>
-<p>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</p>
-<p></p>
+<h3><strong>Our CCA Experience</strong></h3>
+<p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
 </div>
@@ -223,7 +239,7 @@ to multitask will help me complete projects and tasks more efficiently.
 Additionally, learning how to absorb information quickly has sharpened
 my ability to learn at a faster pace.</p>
 <p>Overall, MNO is an amazing place to be."</p>
-<p>&nbsp;<u>MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</u>
+<p><strong>&nbsp;MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
