@@ -32,66 +32,72 @@ through trainings and performances.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Day</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Time</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Venue</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 pm to 5.30 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Music Room, Art Gallery</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm to 5.30 pm</p>
+<p>2.30pm – 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room, Needlework Room</p>
+<p>Music Room &amp; Art Gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm – 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room &amp; Art Gallery</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Teachers In-Charge</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>Mdm Sahrul (Overall IC)</p>
 <p>Miss Veronica Lee (2IC)</p>
 <p>Ms Ng Yi Qing</p>
 <p>Mdm Nordiana Daim</p>
-</li>
-</ul>
 <h3>Instructor</h3>
+<p><strong>Main Music Instructor</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Main Music Instructor:</p>
 <p>Mr Shaik Khalil Mohamed</p>
-<p>&nbsp;</p>
-<p>Assistant Instructors:</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Assistant Instructors</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr Razin</p>
+</li>
+<li>
 <p>Mr Nurhakim</p>
+</li>
+<li>
 <p>Ms Nursyakila</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<h3>Angklung &amp; Kulintang Ensemble</h3>
+<h4>Angklung &amp; Kulintang Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
@@ -100,7 +106,7 @@ through trainings and performances.</p>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 </li>
 </ul>
-<h3>Gamelan Ensemble</h3>
+<h4>Gamelan Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
@@ -109,9 +115,8 @@ through trainings and performances.</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 </ul>
-<h3>Highlights </h3>
-<p><strong>2024</strong>
-</p>
+<h3>Highlights</h3>
+<h4><strong>2024</strong></h4>
 <p><strong>VIA Mentoring Programme</strong>
 </p>
 <p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
@@ -133,12 +138,10 @@ journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
-<p></p>
-<p><u>2023</u>
-</p>
+<h4><strong>2023</strong></h4>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
 </p>
-<h3>2022</h3>
+<h4>2022</h4>
 <p><strong>Showcase of Nusantara Music to New Secondary One Students during CCA Showcase Day in January.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -179,7 +182,7 @@ my leadership skills. I have learnt to exercise servant leadership. I have
 learnt to lead this CCA by empowering my fellow exco members and inspiring
 my fellow MNO members.” –&nbsp;<strong>Rafael Azfar</strong>, 4E3 (pictured
 standing on extreme left)</p>
-<p><strong>2021 </strong>
+<p><strong>2021</strong>
 </p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
