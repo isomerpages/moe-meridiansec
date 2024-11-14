@@ -115,6 +115,15 @@ through trainings and performances.</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 </ul>
+<p></p>
+<p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
+</div>
+<p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
+</p>
+<p></p>
 <h3>Highlights</h3>
 <h4><strong>2024</strong></h4>
 <p><strong>VIA Mentoring Programme</strong>
