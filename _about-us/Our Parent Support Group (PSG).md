@@ -100,15 +100,15 @@ enhancing parenting skills.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG3.png">
 </div>
 <p>On 21 February 2024, our Parent Support Group (PSG) gathered to celebrate
 the Lunar New Year. Joined by the School Leaders and teachers, the PSG
@@ -127,23 +127,23 @@ environment for every student. Thank you, PSG, for your incredible support!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG4.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG6.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG8.png">
 </div>
 <p>For this year’s Racial Harmony Day celebrations, our Parent Support Group
 (PSG) members joined us in school to celebrate with our students. The PSG
@@ -162,15 +162,15 @@ and inclusivity at Meridian Secondary School.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG9.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG10.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG10.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG11.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG11.png">
 </div>
 <p>This year, our dedicated Parent Support Group (PSG) members expressed
 their heartfelt appreciation for the staff at Meridian Secondary School
@@ -188,7 +188,7 @@ connected community!</p>
 <h4>Secondary 1 Orientation</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG12.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG12.png">
 </div>
 <p>On 6 Jan 2023, parents of Sec 1 students attended the last day of the
 Sec 1 Orientation session. Parents had the opportunity to watch their child
@@ -197,7 +197,7 @@ Competition. Parents also had a lot of fun participating in the mass dance
 with their child.</p>
 <h4>PSG Lo Hei Session</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2002.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2002.jpg">
 </div>
 <p>Huat-Ah! On 25 Jan 2023, the PSG organized a Lo Hei session to usher in
 the New Year. They also bonded over food and got to know each other during
@@ -205,7 +205,7 @@ the team bonding and ice-breaker games. The parents really enjoyed themselves
 and look forward to future PSG bonding sessions.</p>
 <h4>Secondary 3 Education &amp; Career Guidance (ECG) Day</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2003.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2003.jpg">
 </div>
 <p>As part of the PSG’s effort to provide career guidance and support to
 our students, a PSG member, Ms Shaqirah Banu shared her working experience
