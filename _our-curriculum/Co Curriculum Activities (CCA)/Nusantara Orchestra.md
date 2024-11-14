@@ -212,6 +212,27 @@ standing on extreme left)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO8.jpg">
 </div>
 <hr>
+<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO3.jpg">
+</div>
+<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
+</div>
+<p></p>
+<p><strong><u>MNO SYF Team 2023</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
+</div>
+<p>Meridian’s pride and joy - the talented musicians who trained very hard
+with dedication to make Meridian proud.</p>
 <p><strong>2021 National Day Virtual Orchestra</strong>
 </p>
 <p>This year, the Heightened Alert Phase disrupted MNO’s original preparation
