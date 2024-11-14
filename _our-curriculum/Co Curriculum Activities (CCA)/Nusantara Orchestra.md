@@ -139,6 +139,8 @@ through trainings and performances.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
 </div>
+<p>Meridian’s pride and joy - the talented musicians who trained very hard
+with dedication to make Meridian proud.</p>
 <h3>Highlights</h3>
 <h4><strong>2024</strong></h4>
 <p><strong>VIA Mentoring Programme</strong>
