@@ -188,7 +188,7 @@ connected community!</p>
 <h4>Secondary 1 Orientation</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG12.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG12.png">
 </div>
 <p>On 6 Jan 2023, parents of Sec 1 students attended the last day of the
 Sec 1 Orientation session. Parents had the opportunity to watch their child
@@ -205,7 +205,7 @@ the team bonding and ice-breaker games. The parents really enjoyed themselves
 and look forward to future PSG bonding sessions.</p>
 <h4>Secondary 3 Education &amp; Career Guidance (ECG) Day</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2003.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2003.jpg">
 </div>
 <p>As part of the PSG’s effort to provide career guidance and support to
 our students, a PSG member, Ms Shaqirah Banu shared her working experience
@@ -214,7 +214,7 @@ Day on 8 March 2023. Students found the session useful and engaging.</p>
 <h3>2022 Highlights</h3>
 <h4>Racial Harmony Day</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2004.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2004.jpg">
 </div>
 <p>In conjunction with the Racial Harmony Day Celebration, the PSG members
 set up booths in the school to introduce students to the art of Henna painting,
@@ -222,7 +222,7 @@ Rangoli and Chinese calligraphy. Students had fun taking part in the activities
 and look forward to more PSG involvements in school activities.</p>
 <h4>PSG Bonding Activities</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2005.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2005.jpg">
 </div>
 <p>On 17 November 2022, the PSG members organized a PSG Bonding Activity
 Day. Some baking enthusiasts also got together to bake and decorate cupcakes
