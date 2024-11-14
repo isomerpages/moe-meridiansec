@@ -256,6 +256,10 @@ for this song.</p>
 <h3><strong>Our CCA Experience</strong></h3>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
 </div>
@@ -272,6 +276,9 @@ my ability to learn at a faster pace.</p>
 <p><strong>&nbsp;MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO11.jpg">
 </div>
