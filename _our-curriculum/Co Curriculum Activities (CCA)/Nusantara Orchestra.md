@@ -237,7 +237,7 @@ Within a few eCCA sessions, MNO learnt how to use Digital Audio Workstations,
 such as Bandlab, to record rhythms, melodic lines, and students’ voices
 for this song.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO9.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO9.jpg">
 </div>
 <h3><strong>Our CCA Experience</strong></h3>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
