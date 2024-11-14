@@ -181,11 +181,7 @@ Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
 </div>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
 </p>
@@ -230,19 +226,6 @@ my leadership skills. I have learnt to exercise servant leadership. I have
 learnt to lead this CCA by empowering my fellow exco members and inspiring
 my fellow MNO members.” –&nbsp;<strong>Rafael Azfar</strong>, 4E3 (pictured
 standing on extreme left)</p>
-<p><strong>2021</strong>
-</p>
-<p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
-</p>
-<hr>
-<p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
-</p>
-<hr>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Meridian’s pride and joy - the talented musicians who trained very hard
 with dedication to make Meridian proud.</p>
 <p><strong>2021 National Day Virtual Orchestra</strong>
