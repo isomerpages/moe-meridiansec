@@ -132,14 +132,13 @@ through trainings and performances.</p>
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
+</div>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
-<p></p>
-<p><strong>National Day Celebration</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
 </div>
 <p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
 the festivity with the residence at Pasir Ris Central Community Club. The
@@ -147,7 +146,11 @@ Secondary 3 MNOs serenaded them with two songs – a classic Raya melody,
 ‘Suasana Hari Raya’ and the current trending song ‘Alamak Raya Lagi’. Residence
 loved the performance that they requested for an encore! Kudos to these
 Meridians who have touched the hearts of our Pasir Ris Community.</p>
-<p></p>
+<p><strong>National Day Celebration</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO8.jpg">
+</div>
 <p>MNO came together to celebrate National Day and the country’s incredible
 journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
