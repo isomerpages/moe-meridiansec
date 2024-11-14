@@ -159,7 +159,7 @@ Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
 </div>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
 </p>
@@ -255,7 +255,7 @@ for this song.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
@@ -274,7 +274,7 @@ my ability to learn at a faster pace.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO11.jpg">
