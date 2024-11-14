@@ -118,33 +118,33 @@ through trainings and performances.</p>
 <p></p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO03A.jpg">
 </div>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO04A.jpg">
 </div>
-<p></p>
 <p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
 </div>
 <p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO02A.jpg">
+</div>
 <p><strong><u>MNO SYF Team 2023</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
 </div>
 <h3>Highlights</h3>
 <h4><strong>2024</strong></h4>
@@ -155,12 +155,12 @@ to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
 </div>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
 </div>
 <p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
 the festivity with the residence at Pasir Ris Central Community Club. The
@@ -189,7 +189,7 @@ Majulah Singapura!</p>
 <p><strong>Showcase of Nusantara Music to New Secondary One Students during CCA Showcase Day in January.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO1.jpg">
 </div>
 <p>An up close and personal experience for our Secondary 1 students who were
 mesmerized by the sight and sounds of the instruments.</p>
@@ -200,18 +200,18 @@ mesmerized by the sight and sounds of the instruments.</p>
 of Nusantara instruments and build their confidence to play each instrument
 as an orchestra.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO2.jpg">
 </div>
 <p>MNO occasionally train as a cohort by performing specially arranged scores
 such as the recent farewell concert for graduating members.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO3.jpg">
 </div>
 <hr>
 <p><strong>MNO Members Bond over Shared Passion for Nusantara Music</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO4.jpg">
 </div>
 <p>A bonded orchestra makes better music hence MNO regularly creates time
 for games and inter-level interaction.</p>
@@ -219,7 +219,7 @@ for games and inter-level interaction.</p>
 <p><strong>Holistic Development of MNO Members</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO6.jpg">
 </div>
 <p>“Being the Chairperson of MNO has given me a good opportunity to develop
 my leadership skills. I have learnt to exercise servant leadership. I have
@@ -244,7 +244,7 @@ for this song.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
@@ -263,7 +263,7 @@ my ability to learn at a faster pace.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO11.jpg">
@@ -275,3 +275,4 @@ pursue their musical dreams, and it has also taught me valuable life lessons.
 Through this experience, I’ve become a more resilient and self-motivated
 person, constantly striving to improve my character. The journey hasn’t
 always been easy, but the results are incredibly rewarding and fulfilling."&nbsp;</p>
+<p>70</p>
