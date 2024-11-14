@@ -159,6 +159,10 @@ Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
 </div>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
