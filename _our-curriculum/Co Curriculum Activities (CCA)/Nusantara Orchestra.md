@@ -133,12 +133,12 @@ to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
 </div>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
 </div>
 <p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
 the festivity with the residence at Pasir Ris Central Community Club. The
