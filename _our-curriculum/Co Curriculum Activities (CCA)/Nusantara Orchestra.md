@@ -124,6 +124,28 @@ through trainings and performances.</p>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO2.jpg">
+</div>
+<p></p>
+<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
+</div>
+<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
+</div>
+<p></p>
+<p><strong><u>MNO SYF Team 2023</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
+</div>
 <h3>Highlights</h3>
 <h4><strong>2024</strong></h4>
 <p><strong>VIA Mentoring Programme</strong>
@@ -212,35 +234,15 @@ standing on extreme left)</p>
 </p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO7.jpg">
-</div>
 <hr>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MNO8.jpg">
-</div>
 <hr>
-<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO3.jpg">
-</div>
-<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
-</div>
 <p></p>
-<p><strong><u>MNO SYF Team 2023</u></strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
-</div>
+<p></p>
 <p>Meridian’s pride and joy - the talented musicians who trained very hard
 with dedication to make Meridian proud.</p>
 <p><strong>2021 National Day Virtual Orchestra</strong>
