@@ -132,16 +132,10 @@ through trainings and performances.</p>
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO6.jpg">
-</div>
 <p></p>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO7.jpg">
-</div>
 <p><strong>National Day Celebration</strong>
 </p>
 <div class="isomer-image-wrapper">
