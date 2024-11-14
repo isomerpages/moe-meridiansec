@@ -124,7 +124,6 @@ through trainings and performances.</p>
 </div>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO04A.jpg">
 </div>
@@ -135,14 +134,8 @@ through trainings and performances.</p>
 </div>
 <p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
 </p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO02A.jpg">
-</div>
 <p><strong><u>MNO SYF Team 2023</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
 </div>
@@ -179,13 +172,12 @@ dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
 </div>
 <p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
 </p>
-<h4>2022</h4>
+<h4><strong>2022</strong></h4>
 <p><strong>Showcase of Nusantara Music to New Secondary One Students during CCA Showcase Day in January.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -193,7 +185,6 @@ Majulah Singapura!</p>
 </div>
 <p>An up close and personal experience for our Secondary 1 students who were
 mesmerized by the sight and sounds of the instruments.</p>
-<hr>
 <p><strong>MNO Members Join as Novice and Graduate as Maestro</strong>
 </p>
 <p>The twice weekly training sessions aim to expose members to a variety
@@ -207,7 +198,6 @@ such as the recent farewell concert for graduating members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO3.jpg">
 </div>
-<hr>
 <p><strong>MNO Members Bond over Shared Passion for Nusantara Music</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -215,7 +205,6 @@ such as the recent farewell concert for graduating members.</p>
 </div>
 <p>A bonded orchestra makes better music hence MNO regularly creates time
 for games and inter-level interaction.</p>
-<hr>
 <p><strong>Holistic Development of MNO Members</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -242,7 +231,6 @@ for this song.</p>
 <h3><strong>Our CCA Experience</strong></h3>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
 </div>
@@ -261,7 +249,6 @@ my ability to learn at a faster pace.</p>
 <p>Overall, MNO is an amazing place to be."</p>
 <p><strong>&nbsp;MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
 </div>
