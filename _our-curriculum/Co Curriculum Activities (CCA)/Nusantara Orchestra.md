@@ -119,7 +119,7 @@ through trainings and performances.</p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
 </div>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
@@ -257,7 +257,7 @@ for this song.</p>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
 </div>
 <p>"I feel that MNO is like a family. It gives me a strong sense of belonging
 and makes me feel safe. I joined because I had experience with anklung
