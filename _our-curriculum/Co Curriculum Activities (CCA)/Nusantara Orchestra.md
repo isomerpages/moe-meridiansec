@@ -119,32 +119,32 @@ through trainings and performances.</p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO1.jpg">
 </div>
 <p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO2.jpg">
 </div>
 <p></p>
 <p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
 </div>
 <p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO4.png">
 </div>
 <p></p>
 <p><strong><u>MNO SYF Team 2023</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
 </div>
 <h3>Highlights</h3>
 <h4><strong>2024</strong></h4>
