@@ -159,7 +159,7 @@ Majulah Singapura!</p>
 <h4><strong>2023</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
