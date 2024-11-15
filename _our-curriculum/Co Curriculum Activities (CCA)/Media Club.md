@@ -140,176 +140,106 @@ Yi Hui (2/3), Edelia (2/3), Xuan Qiao (2/2) and Tsoi Ho Chit (2/4).</p>
 </p>
 <p>Malcolm Pong of 4E1 and Dionne Pang of 4E2 were selected to be student
 photographers for the SYF celebration at Gardens by the Bay.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<ul>
-<li>
 <p><strong>2023</strong>
 </p>
-<ul>
-<li>
-<p><strong>18th Ngee Ann Photographic Exhibition 2023</strong>
-<br>10 students were selected to exhibit their works at the Lasalle College
-of Arts.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Muhammad Rusyaidi Bin Jamari (1-4)</p>
-</li>
-<li>
-<p>Tsoi Ho Chit (1-4)</p>
-</li>
-<li>
-<p>Muhammad Nasri Bin Mohammad Sukor (2E1)</p>
-</li>
-<li>
-<p>Nurlaila Aaqilah Binte Mohammad Ismail (2E3)</p>
-</li>
-<li>
-<p>Audrey Ng May Qi (3A1)</p>
-</li>
-<li>
-<p>Muhammad Darwisy Bin Muhammad Aidil (3A1)</p>
-</li>
-<li>
-<p>Mok Yu Xi (3A2)</p>
-</li>
-<li>
-<p>Malcolm Pong Jia Le (3E1)</p>
-</li>
-<li>
-<p>Dionne Pang Lin Kai (3E2)</p>
-</li>
-<li>
-<p>Wong Geng Huum (3E3).</p>
-</li>
-</ul>
-<p>Muhammad Nasri Bin Mohammad Sukor and Nurlaila Aaqilah Binte Mohammad
-Ismail's work have been selected to be permanently exhibited at the organization’s
-venue.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media%20Club/mediaclub_02.jpg">
-</div>
-<p>
-<br>
+<p><strong>&nbsp;18th Ngee Ann Photographic Exhibition 2023</strong>
 </p>
-</li>
-<li>
+<p>&nbsp;10 Students have been selected to exhibit their works in Lasalle
+College of Arts.</p>
+<p>Rusyaidi (1/4), Tsoi Ho Chit (1/4), Nasri (2E1), Nurlaila (2E3), Audrey
+(3A1), Darwisy (3A1), Yu Xi (3A2), Malcolm Pong (3E1), Dionne Pang (3E2)
+and Geng Huum (3E3).</p>
+<p>2 of the 10 students have been selected to exhibit their work permanently
+in the organization’s venue. They are Nasri (2E1) and Nurlaila (2E3).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC4.jpg">
+</div>
 <p><strong>Our Schools, Our Stories photo and video contest 2023</strong>
-<br>Dionne Pang Lin Kai (S3-E2) has won the Honorable Mention award for the
-Youth Category under “priceless moments” story. You can find her work
-<a href="https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</p>
+<p>&nbsp;Dionne Pang Lin Kai (3E2) has won the Honorable Mention award for
+the Youth Category under “priceless moments” story.</p>
+<p>&nbsp;You may check her work in the following link:</p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media%20Club/mediaclub_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC5.png">
 </div>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>2022</strong>
+<p><strong><u>2022</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ibuildsg photography competition 2022</strong>
-</p>
+<p>Ibuildsg photography competition 2022</p>
 </li>
 <li>
-<p><strong>Our Schools, Our Stories photo and video contest 2022</strong>
+<p>Our Schools, Our Stories photo and video contest 2022.</p>
+</li>
+</ul>
+<h3>&nbsp;<strong>Our CCA Experience</strong></h3>
+<p>“Media club allows its members to explore and learn various forms of media,
+including videography, photography, and AVA. It fosters creativity and
+teamwork providing a platform for learning and self-expression.”</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Yu Cen (3E4)</strong>
 </p>
 </li>
 </ul>
-</li>
+<p>&nbsp;“Being part of the Media Club CCA is an excellent opportunity to
+unleash our creativity and collaborate with our teachers and friends. Together,
+we can capture the world through the lenses. I truly enjoy being a part
+of this family.”</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>2021</strong>
-</p>
-<ul>
-<li>
-<p><strong>16th Ngee Ann Photography Exhibition 2021</strong>
-<br>Malcolm Pong (1A1) and Royce Li (3E1) have been selected to exhibit their
-works in Lasalle College of Arts.</p>
-</li>
-<li>
-<p><strong>Our Schools, Our Stories photo and video contest 2021</strong>
+<p><strong>Yi Hui (2/3)</strong>
 </p>
 </li>
 </ul>
+<p>&nbsp;"The skills I've gained and the friendships I've forged in Media
+Club make it a truly once-in-a-lifetime experience—one that I would relive
+every second of if I could."</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Nicolas Ng (3E1)</strong>
+</p>
 </li>
 </ul>
-<h3>Our CCA Experience</h3>
-<p><em>Media club is truly amazing and teaches me the ropes of Photography. It is a place of bonding, learning and of nurturing of the minds. The skills I’ve acquired cannot be acquired simply by reading.</em>
-<br><strong>- Malcolm Pong Jia Le (3E1)</strong>
+<p></p>
+<p><strong>Secondary One CCA Orientation</strong>
 </p>
-<p><em>It is a vibrant hub of creativity and collaboration, where ideas come to life and voices found resonance.</em>
-<br><strong>- Javier Mok Sing Lam (3E1)</strong>
-</p>
-<p><em>Media Club is definitely the CCA to be in if you're interested in anything Media related. With both amazing teachers and opportunities, I have thoroughly enjoyed my time in this CCA.</em>
-<br><strong>- Dionne Pang Lin Kai (3E2)</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondary 1 CCA Orientation" src="/images/CCA/Media%20Club/mediaclub_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC6.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Secondary 1 CCA Orientation</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning Journey to Headrock VR" src="/images/CCA/Media%20Club/mediaclub_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC7.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Learning Journey to Headrock VR (courtesy of IMDA Discover programme)</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Staff photo taking" src="/images/CCA/Media%20Club/mediaclub_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC8.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Media Club supporting staff photo taking</em>
+<p><strong>Secondary One student ID photo</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Follow us on Instagram</h3>
 <div class="isomer-image-wrapper">
-<img style="width:10%" height="auto" width="100%" src="/images/instagram.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC9.png">
 </div>
-<p><a href="https://www.instagram.com/meridianmediaclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
+<p><strong>Learning Journey to Smart Local</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC11.png">
+</div>
+<p><strong>Photo walk Learning Journey to Jewel</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC12.jpg">
+</div>
+<p><strong>Our passionate and patient trainer Mr Steven Huang</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC13.png">
+</div>
+<p></p>
