@@ -33,7 +33,6 @@ insights into real-world media production.</p>
 <p>&nbsp;Do follow our Instagram account to learn more!</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -100,13 +99,13 @@ insights into real-world media production.</p>
 <p>Mdm Marini Bte Hassan</p>
 </li>
 </ul>
-<h3>Instructor</h3>
+<h4>Instructor</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;Mr Steven Huang</p>
 </li>
 </ul>
-<h3><strong>Yearly Highlights</strong></h3>
+<h3>Yearly Highlights</h3>
 <h4>2024</h4>
 <p><strong>19th Ngee Ann Photographic Exhibition 2024</strong>
 </p>
@@ -127,6 +126,7 @@ Mention award for the Youth Category under “Our School Community” story.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC2.png">
 </div>
+<p></p>
 <p><strong>Objectifs Photo club of the year award 2024.</strong>
 </p>
 <p>Our Photography team had won a Special Mention prize in the Objectifs
@@ -136,13 +136,13 @@ Yi Hui (2/3), Edelia (2/3), Xuan Qiao (2/2) and Tsoi Ho Chit (2/4).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC3.jpg">
 </div>
-<p><strong>&nbsp;Singapore Youth Festival Celebration 2024.</strong>
+<p></p>
+<p><strong>Singapore Youth Festival Celebration 2024.</strong>
 </p>
 <p>Malcolm Pong of 4E1 and Dionne Pang of 4E2 were selected to be student
 photographers for the SYF celebration at Gardens by the Bay.</p>
-<p><strong>2023</strong>
-</p>
-<p><strong>&nbsp;18th Ngee Ann Photographic Exhibition 2023</strong>
+<h4><strong>2023</strong></h4>
+<p><strong>18th Ngee Ann Photographic Exhibition 2023</strong>
 </p>
 <p>&nbsp;10 Students have been selected to exhibit their works in Lasalle
 College of Arts.</p>
@@ -154,6 +154,7 @@ in the organization’s venue. They are Nasri (2E1) and Nurlaila (2E3).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC4.jpg">
 </div>
+<p></p>
 <p><strong>Our Schools, Our Stories photo and video contest 2023</strong>
 </p>
 <p>&nbsp;Dionne Pang Lin Kai (3E2) has won the Honorable Mention award for
@@ -161,18 +162,16 @@ the Youth Category under “priceless moments” story.</p>
 <p>&nbsp;You may check her work in the following link:</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2023/priceless-moments/youth</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC5.png">
 </div>
-<p><strong><u>2022</u></strong>
-</p>
+<h4><strong>2022</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ibuildsg photography competition 2022</p>
 </li>
 <li>
-<p>Our Schools, Our Stories photo and video contest 2022.</p>
+<p>Our Schools, Our Stories photo and video contest 2022</p>
 </li>
 </ul>
 <h3>&nbsp;<strong>Our CCA Experience</strong></h3>
