@@ -106,26 +106,44 @@ insights into real-world media production.</p>
 <p>&nbsp;Mr Steven Huang</p>
 </li>
 </ul>
-<h3>Yearly Highlights</h3>
-<p><strong><u>2024</u></strong>
+<h3><strong>Yearly Highlights</strong></h3>
+<h4>2024</h4>
+<p><strong>19th Ngee Ann Photographic Exhibition 2024</strong>
 </p>
-<p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19th Ngee Ann Photographic
-Exhibition 2024.</p>
-<p>&nbsp;</p>
 <p>Malcolm Pong of 4E1 has been selected to exhibit their works in Lasalle
 College of Arts.</p>
-<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Schools, Our Stories photo
-and video contest 2024.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC1.jpg">
+</div>
 <p>&nbsp;</p>
-<p>Yee Yi Hui and Edelia Binte Muhamad Nizam of 2/3 have won the Honorable
+<p><strong>Our Schools, Our Stories photo and video contest 2024</strong>
+</p>
+<p>&nbsp;Yee Yi Hui and Edelia Binte Muhamad Nizam of 2/3 have won the Honorable
 Mention award for the Youth Category under “Our School Community” story.</p>
-<p>&nbsp;</p>
 <p>You may check her work in the following link:</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2024/our-school-community</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC2.png">
+</div>
+<p><strong>Objectifs Photo club of the year award 2024.</strong>
+</p>
+<p>Our Photography team had won a Special Mention prize in the Objectifs
+Photo Club of the year award.</p>
+<p>&nbsp;The team consists of Javen (3E4), Nurlaila (3E1), Dionna (3A1),
+Yi Hui (2/3), Edelia (2/3), Xuan Qiao (2/2) and Tsoi Ho Chit (2/4).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC3.jpg">
+</div>
+<p><strong>&nbsp;Singapore Youth Festival Celebration 2024.</strong>
+</p>
+<p>Malcolm Pong of 4E1 and Dionne Pang of 4E2 were selected to be student
+photographers for the SYF celebration at Gardens by the Bay.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <ul>
 <li>
