@@ -17,6 +17,8 @@ variant: tiptap
 <p>Come and check out our school's campus and CCAs. Experience the vibrant
 atmosphere and listen to our student tour guides as they bring you around
 the school!</p>
+<p>Register here: <a href="https://go.gov.sg/2024mss" rel="noopener nofollow" target="_blank">2024 MSS Open House</a>
+</p>
 <p>There are 2 sessions:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -36,6 +38,9 @@ performances.</p>
 experiences.</p>
 </li>
 </ol>
-<p>Register here: <a href="https://go.gov.sg/2024mss" rel="noopener nofollow" target="_blank">2024 MSS Open House</a>
+<p>If you're interested in joining our e-session, please refer to the link
+below:<strong><br><br>Please click the link below to join the webinar:<br><a href="https://moe-singapore.zoom.us/j/83495242442" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/83495242442<br>Passcode</a>: 607427</strong>
+</p>
+<p><strong>Please log in at 5:55pm. Thank you.&nbsp;</strong>
 </p>
 <p></p>
