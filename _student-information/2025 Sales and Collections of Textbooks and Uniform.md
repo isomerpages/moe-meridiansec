@@ -17,27 +17,154 @@ description: ""
 </p>
 <p></p>
 <h4><strong>Sales and Collection of Textbooks and Uniform</strong></h4>
-<p></p>
-<p><strong>1.Online purchase</strong>
+<h4><strong>1.Online Purchase</strong></h4>
+<p>· Visit https://asenciobookshop.sg to register for an account and make
+your purchase.</p>
+<p><strong>Order Deadlines:</strong>
 </p>
-<p>Proceed to&nbsp;<a href="https://asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg</a> to register
-for an account before proceeding with your purchase.</p>
-<p>The last day for online order for <u>Sec 2 to Sec 4</u> is 17 Dec 2024 at
-12pm.&nbsp; As for <u>Sec 1</u>, the last day for online order is 21 Dec
-2024 at 12pm.</p>
-<p>For mode of receipt, please choose between Home Delivery or Self-Collection
-Service at School Bookshop.</p>
-<p>Please note that there will be delivery charges for Home Delivery.</p>
-<p>For Self-Collection at School Bookshop, the collection dates are late-Dec
-2024 and subject to vendor’s confirmation at the time of each purchase.
-You can choose the date and time of collection when you place the order.</p>
-<p>&nbsp;The mode of payment is by Debit/Credit Cards or PayNow.</p>
-<p><strong>2.Direct purchase at School Bookshop</strong>
-</p>
-<p>The school bookshop operating hours is from 9 am to 3pm for <u>Sec 2 to Sec 4</u> is
-from 18 Nov to 22 Nov 2024 and 9 Dec to 13 Dec 2024.&nbsp; As for <u>Sec 1</u>,
-it is from 19 Dec to 20 Dec 2024, 23 Dec 2024 and 26 Dec to 27 Dec 2024.</p>
-<p>The mode of payment is by Cash, PayNow, NTUC Care Fund or CDAC e-Vouchers.</p>
-<p>MOE FAS or School-based FAS students are advised to purchase directly
-from the School Bookshop.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2, 3 and 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 December 2024</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.59 pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 and 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 December 2024</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00 pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>·&nbsp;Mode of Receipt: Choose between Home Delivery (with delivery charges)
+or self-collection at the School Bookshop.</p>
+<p>·&nbsp;Delivery Charges is applicable on each order</p>
+<p>$11.99 for purchases of textbooks and uniforms</p>
+<p>$6.54 for purchases of uniforms only</p>
+<p></p>
+<p>Due to high delivery volume during festive season, home delivery service
+may take up to 6 January 2025 for your items to be delivered.</p>
+<p>·&nbsp;Self-Collection Dates: 26, 27 and 30 December 2024 (For Secondary
+1 and 5). Date and time can be selected during checkout.</p>
+<p>Payment Modes: Debit/Credit Cards or PayNow.</p>
+<p>&nbsp;</p>
+<h4><strong>2. Direct Purchase at <a rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a></strong></h4>
+<p><strong>Operating Hours:</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>18 to 22 November 2024</strong>
+</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>9.00 am to 3.00pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>02 to 06 December 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>25 to 29 November 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 2, 3 and 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>09 to 13 December 2024</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 1 and 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>19 to 20 December 2024</strong>
+</p>
+<p><strong>23 December 2024</strong>
+</p>
+<p><strong>26 to 27 December 2024</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Payment Modes:</strong> Cash, PayNow, NTUC Care Fund, or
+CDAC e-Vouchers.</p>
+<p></p>
+<h4><strong>3.  Exchange of Item</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exchange of books is allowed during school term by 10 January 2025 (For
+Secondary 1).&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Please produce invoice for online orders or booklist for any exchange.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Books must be in original condition.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Books with folded edges or name written on it will not be accepted.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ul>
+<h4><strong>4. Contacts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></h4>
+<p>Telephone: 6764 3102 (Main Office - Mondays to Fridays: 9.00 am to 5.00pm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">meridian@asencio.com.sg</a>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
+<p></p>
