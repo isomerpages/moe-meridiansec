@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Organisation
 variant: tiptap
 ---
-<h4>Lead Teachers </h4>
+<h4>Lead Teachers</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Senior Teachers </h4>
+<h4>Senior Teachers</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
