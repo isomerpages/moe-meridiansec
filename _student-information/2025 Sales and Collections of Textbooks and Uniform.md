@@ -144,7 +144,7 @@ may take up to 6 January 2025 for your items to be delivered.</p>
 <p>&nbsp;<strong>Payment Modes:</strong> Cash, PayNow, NTUC Care Fund, or
 CDAC e-Vouchers.</p>
 <p></p>
-<h4><strong>3.  Exchange of Item</strong></h4>
+<h4><strong>3. Exchange of Item</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Exchange of books is allowed during school term by 10 January 2025 (For
