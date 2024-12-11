@@ -17,7 +17,7 @@ description: ""
 <p></p>
 <h4><strong>Sales and Collection of Textbooks and Uniform</strong></h4>
 <h4><strong>1.Online Purchase</strong></h4>
-<p>· Visit <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg</a> to
+<p>Visit <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg</a> to
 register for an account and make your purchase.</p>
 <p><strong>Order Deadlines:</strong>
 </p>
