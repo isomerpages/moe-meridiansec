@@ -52,8 +52,8 @@ please refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://g
 You and your teen may also wish to refer to the What’s Next pamphlet (
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>) and available ECG resources on
 the MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>).</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
+<p></p>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
 <p>For ECG counselling services, students are encouraged to explore the range
@@ -67,14 +67,12 @@ on offerings and courses in the polytechnics and ITE</p>
 on education and career pathways&nbsp; &nbsp;</p>
 <p>&nbsp;Students may also consult their teachers or ECG Counsellor about
 their next steps. Alternatively, they can make an ECG counselling appointment
-via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moeecg-</a>
-</p>
-<p>centre . The ECG Centre @ MOE offers online or phone counselling services
-from 9 to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00
-am to 12.00 pm on Saturdays.</p>
+via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moeecg-</a>centre.
+The ECG Centre @ MOE offers online or phone counselling services from 9
+to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00 am to
+12.00 pm on Saturdays.</p>
 <p>&nbsp;We encourage all students to return to school to collect their results.</p>
 <p>Thank you.</p>
-<p>&nbsp;Mr Anwar Bin Omar (Year Head)</p>
 <p></p>
 <p><a href="/files/Annoucements Attachments/2___For_Parents__Students__Release_of_the_2024_GCE_N_A___and_N_T__Level_Exam.pdf" rel="noopener nofollow" target="_blank">For Parents Students Release of the 2024 GCE NA and NT Level Exam</a>
 </p>
