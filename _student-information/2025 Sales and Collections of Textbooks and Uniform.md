@@ -6,6 +6,7 @@ description: ""
 ---
 <h4><strong>Approved Textbook list for 2025</strong></h4>
 <p><a href="/files/Booklists/Meridian_Sec_5_Final_revised.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist 2025</a>
+<a href="/files/Booklists/Meridian_Sec_1___Information_Final.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist 2025 (Revised)</a>
 </p>
 <p><a href="/files/Booklists/Meridian_Sec_2_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist 2025</a>
 </p>
