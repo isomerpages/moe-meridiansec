@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Organisation
 variant: tiptap
 ---
-<h3>Heads of Department </h3>
+<h3>Heads of Department</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -192,7 +192,7 @@ variant: tiptap
 <p>Mr Nirav Mahendrakumar Desai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nirav_m_desai@ <a rel="noopener noreferrer nofollow" target="_blank">moe.edu.sg</a>
+<p><a href="" rel="noopener nofollow" target="_blank">nirav_m_desai@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -210,7 +210,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Subject/Level Heads </h3>
+<h3>Subject/Level Heads</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
