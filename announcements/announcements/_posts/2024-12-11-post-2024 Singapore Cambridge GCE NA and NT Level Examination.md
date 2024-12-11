@@ -7,8 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Secondary 4NA &amp; 4NT,</p>
-<p><strong>&nbsp;RELEASE OF RESULTS</strong>
+<p></p>
+<p><strong>RELEASE OF RESULTS</strong>
 </p>
 <p>&nbsp;The N-Level results will be released on:</p>
 <p>Date: &nbsp;&nbsp;&nbsp; Monday, 16 December 2024.</p>
