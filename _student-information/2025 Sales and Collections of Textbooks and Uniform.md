@@ -18,8 +18,8 @@ description: ""
 <p></p>
 <h4><strong>Sales and Collection of Textbooks and Uniform</strong></h4>
 <h4><strong>1.Online Purchase</strong></h4>
-<p>· Visit https://asenciobookshop.sg to register for an account and make
-your purchase.</p>
+<p>· Visit <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg</a> to
+register for an account and make your purchase.</p>
 <p><strong>Order Deadlines:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -56,17 +56,37 @@ your purchase.</p>
 </tr>
 </tbody>
 </table>
-<p>·&nbsp;Mode of Receipt: Choose between Home Delivery (with delivery charges)
-or self-collection at the School Bookshop.</p>
-<p>·&nbsp;Delivery Charges is applicable on each order</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mode of Receipt:</strong> Choose between Home Delivery (with delivery
+charges) or self-collection at the School Bookshop.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Delivery Charges is applicable on each order</strong>
+</p>
+</li>
+<li>
 <p>$11.99 for purchases of textbooks and uniforms</p>
+</li>
+<li>
 <p>$6.54 for purchases of uniforms only</p>
 <p></p>
+</li>
+<li>
 <p>Due to high delivery volume during festive season, home delivery service
 may take up to 6 January 2025 for your items to be delivered.</p>
-<p>·&nbsp;Self-Collection Dates: 26, 27 and 30 December 2024 (For Secondary
-1 and 5). Date and time can be selected during checkout.</p>
+<p></p>
+</li>
+<li>
+<p>Self-Collection Dates: 26, 27 and 30 December 2024 (For Secondary 1 and
+5). Date and time can be selected during checkout.</p>
+<p></p>
+</li>
+<li>
 <p>Payment Modes: Debit/Credit Cards or PayNow.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <h4><strong>2. Direct Purchase at <a rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a></strong></h4>
 <p><strong>Operating Hours:</strong>
@@ -141,8 +161,7 @@ may take up to 6 January 2025 for your items to be delivered.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Payment Modes:</strong> Cash, PayNow, NTUC Care Fund, or
-CDAC e-Vouchers.</p>
+<p>&nbsp;Payment Modes: Cash, PayNow, NTUC Care Fund, or CDAC e-Vouchers.</p>
 <p></p>
 <h4><strong>3. Exchange of Item</strong></h4>
 <ul data-tight="true" class="tight">
