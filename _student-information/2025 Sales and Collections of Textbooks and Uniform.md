@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Approved Textbook list for 2025</strong></h4>
-<p><a href="/files/Booklists/Meridian_Sec_1_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist 2025</a>
+<p><a href="/files/Booklists/Meridian_Sec_5_Final_revised.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist 2025</a>
 </p>
 <p><a href="/files/Booklists/Meridian_Sec_2_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist 2025</a>
 </p>
@@ -13,7 +13,7 @@ description: ""
 </p>
 <p><a href="/files/Booklists/Meridian_Sec_4_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist 2025</a>
 </p>
-<p><a href="/files/Booklists/Meridian_Sec_5_booklist_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist 2025</a>
+<p><a href="/files/Booklists/Meridian_Sec_5_Final_revised.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist 2025 (Revised)</a>
 </p>
 <p></p>
 <h4><strong>Sales and Collection of Textbooks and Uniform</strong></h4>
