@@ -38,14 +38,12 @@ programme</p>
 online Registration Form <strong>by</strong>  <strong>26 December 2024 (Thursday), 12pm</strong>.&nbsp;&nbsp;
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
-<p></p>
 <h4><strong>2. Purchase of school uniform and textbooks</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
 </p>
 <p>2025 Purchase and Collection of Textbooks and Uniforms</p>
-<h4>&nbsp;</h4>
 <h4><strong>3. Full Subject-Based Banding (Full SBB)</strong></h4>
 <p><strong>&nbsp;</strong>Full SBB is MOE’s ongoing efforts to nurture the
 joy of learning and develop multiple pathways to cater to the different
@@ -63,12 +61,11 @@ to download the application.</p>
 <p>Parents Gateway</p>
 <p>Parents Gateway FAQs</p>
 <h4>&nbsp;<strong>4. Outcome of application to offer Higher Mother Tongue and 3rd Languag</strong>e</h4>
-<p></p>
 <p>For parents whose child is eligible and has applied to offer HMT or a
 3rd language, you will be informed of the outcome of your application <strong>from 19 December 2024 (Thursday) </strong>via
 PG.&nbsp;</p>
 <p></p>
-<h4><strong><em>5. </em>Appeal for transfer out to another school <em>(for serious medical conditions or severe physical impairments cases <u>ONLY</u>)</em></strong></h4>
+<h4><strong>5.<em> </em>Appeal for transfer out to another school <em>(for serious medical conditions or severe physical impairments cases <u>ONLY</u>)</em></strong></h4>
 <p><strong>&nbsp;</strong>This application for school transfer <strong>only applies to students with serious medical conditions</strong>,
 such as chronic heart conditions or kidney problems or <strong>severe physical impairments</strong>,
 such as those requiring permanent use of a wheelchair.</p>
@@ -96,12 +93,11 @@ their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
 <p></p>
 <p>Complete and submit the online [Exact title of the form] Form <strong>by 26 December 2024 (Thursday), 12pm</strong>.&nbsp;&nbsp;</p>
-<p></p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;&nbsp;&nbsp; Your appeal is deemed
 to be unsuccessful if you do not hear from the school by 12 January 2024.
 &nbsp;&nbsp;&nbsp;Reason(s) for unsuccessful appeals will not be disclosed.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>7. Application for MOE Financial Assistance Scheme (FAS) for 2025</strong></h4>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
 the <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS form</a>.&nbsp;&nbsp;
@@ -109,14 +105,12 @@ For more information, please refer to: [provide the link from school website]</p
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
 <p>&nbsp;</p>
-<h4>&nbsp;<strong>8. First day of school and Secondary 1 orientation</strong></h4>
-<p></p>
+<h4><strong>8. First day of school and Secondary 1 orientation</strong></h4>
 <p>Students are to report to School <strong>by 7:30am</strong> on <strong>2 January 2025 (Thursday)</strong>.</p>
 <p>Students are to be dressed in Meridian Secondary School Polo T-shirt with
 Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
-<p></p>
 <p>The Secondary 1 Orientation will be held from <strong>2, 3 and 9 January 2025</strong>.
 For more information, please refer to:&nbsp;&nbsp; <a href="https://www.meridiansec.moe.edu.sg/student-information/2024-secondary-1-registration/orientation/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Programme</a>
 </p>
