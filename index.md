@@ -21,6 +21,12 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: 2024 Open House for P6 students
       id: infopic
