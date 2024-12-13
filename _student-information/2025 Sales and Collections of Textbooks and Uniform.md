@@ -25,7 +25,7 @@ You can choose between:</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct purchase at school
 bookshop</p>
 <p></p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online Purchase</strong>
+<p><strong>1. Online Purchase</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -79,7 +79,7 @@ register for an account and make your purchase.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You can choose between Home Delivery (with delivery charges) or Self-Collection
@@ -105,7 +105,7 @@ may take up to <u>6 January 2025</u> for your items to be delivered. &nbsp;&nbsp
 </li>
 </ul>
 <p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct Purchase at <a rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a></strong>
+<p><strong>2. Direct Purchase at School Bookshop</strong>
 </p>
 <p>The operating hours are from 9.00 am to 3.00 pm on the dates shown below.&nbsp;
 To prevent overcrowding and to ensure that there is sufficient stock for
@@ -164,7 +164,7 @@ on the dates shown below.</p>
 <p>Payment Modes: Cash, PayNow, NTUC Care Fund, or CDAC e-Vouchers.</p>
 </li>
 </ul>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exchange of Item</strong>
+<p><strong>3. Exchange of Item</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -182,8 +182,8 @@ term by 10 January 2025.&nbsp;&nbsp;</p>
 <p>Books with folded edges or name written on it will not be accepted.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contacts&nbsp;&nbsp;&nbsp;</strong>
+<p></p>
+<p><strong>4. Contacts&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>Telephone: 6764 3102 (Main Office - Mondays to Fridays: 9.00 am to 5.00pm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">meridian@asencio.com.sg</a>&nbsp;&nbsp;</p>
