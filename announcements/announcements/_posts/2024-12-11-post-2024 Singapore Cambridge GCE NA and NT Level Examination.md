@@ -61,16 +61,16 @@ of education and career</p>
 <p>pathways available to them to make informed decisions about their next
 steps. They</p>
 <p>may refer to the following websites for more information:</p>
-<p>• MOE’s CourseFinder (<a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>)
-on offerings and courses in the polytechnics and ITE</p>
-<p>• MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a>) on education
+<p>• MOE’s CourseFinder <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a> on
+offerings and courses in the polytechnics and ITE</p>
+<p>• MySkillsFuture Student Portal <a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a> on education
 and career pathways&nbsp; &nbsp;</p>
 <p>&nbsp;Students may also consult their teachers or ECG Counsellor about
 their next steps. Alternatively, they can make an ECG counselling appointment
-via the ECG Centre @ MOE at <a href="https://go.gov.sg/moeecg" rel="noopener nofollow" target="_blank">https://go.gov.sg/moeecg</a>
-<a rel="noopener noreferrer nofollow" target="_blank">-</a>centre. The ECG Centre @ MOE offers online or phone counselling services
-from 9 to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00
-am to 12.00 pm on Saturdays.</p>
+via the ECG Centre @ MOE at <a href="https://go.gov.sg/moeecg-" rel="noopener nofollow" target="_blank">https://go.gov.sg/moeecg-</a> centre.
+The ECG Centre @ MOE offers online or phone counselling services from 9
+to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00 am to
+12.00 pm on Saturdays.</p>
 <p>&nbsp;We encourage all students to return to school to collect their results.</p>
 <p>Thank you.</p>
 <p></p>
