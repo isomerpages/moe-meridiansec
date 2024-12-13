@@ -61,7 +61,7 @@ of education and career</p>
 <p>pathways available to them to make informed decisions about their next
 steps. They</p>
 <p>may refer to the following websites for more information:</p>
-<p>• MOE’s CourseFinder <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a> on
+<p>• MOE’s CourseFinder <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents</a> on
 offerings and courses in the polytechnics and ITE</p>
 <p>• MySkillsFuture Student Portal <a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a> on education
 and career pathways&nbsp; &nbsp;</p>
