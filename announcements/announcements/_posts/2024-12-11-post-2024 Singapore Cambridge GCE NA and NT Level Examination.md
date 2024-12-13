@@ -48,10 +48,10 @@ your teen about their interests and choices and build their pathways together.</
 </p>
 <p>For more resources on providing social and emotional support, affirming
 your teen, and supporting your teen’s transition through post N-Level education,
-please refer to: <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents</a>.
-You and your teen may also wish to refer to the What’s Next pamphlet (
-<a href="https://go.gov.sg/whats-next-nlevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>) and available ECG resources on
-the MySkillsFuture Student Portal (<a href="https://go.gov.sg/MySFSec" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>).</p>
+please refer to: <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents. </a>You
+and your teen may also wish to refer to the What’s Next pamphlet <a href="https://go.gov.sg/whats-next-nlevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a> and
+available ECG resources on the MySkillsFuture Student Portal <a href="https://go.gov.sg/MySFSec" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+</p>
 <p></p>
 <p></p>
 <p><strong>Education and Career Guidance (ECG)</strong>
