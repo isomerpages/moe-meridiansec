@@ -21,12 +21,15 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
+  - announcements:
+      title: RELEASE OF RESULTS
+      id: announcements
+      announcement_items:
+        - title: Monday
+          date: 16 December 2024
+          announcement: 2024 GCE N(A) and N(T) Level Examination results
+          link_text: ""
+          link_url: ""
   - infopic:
       title: 2024 Open House for P6 students
       id: infopic
