@@ -53,7 +53,6 @@ and your teen may also wish to refer to the What’s Next pamphlet <a href="http
 available ECG resources on the MySkillsFuture Student Portal <a href="https://go.gov.sg/MySFSec" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 <p></p>
-<p></p>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
 <p>For ECG counselling services, students are encouraged to explore the range
