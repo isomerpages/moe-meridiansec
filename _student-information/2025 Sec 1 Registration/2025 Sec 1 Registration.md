@@ -38,7 +38,7 @@ programme</p>
 <p></p>
 <h4><strong>1. Online Registration (Compulsory)</strong></h4>
 <p>It is <em><u>compulsory</u></em> for parents/guardians to complete this
-online Registration Form <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
+online Registration Form <a href="https://form.gov.sg/673acfe45af547358a2df334" rel="noopener nofollow" target="_blank">2025 Secondary 1 Registration Form</a>  <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
