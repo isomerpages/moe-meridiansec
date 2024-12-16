@@ -18,7 +18,6 @@ Secondary School following the release of S1 Posting Results.</p>
 <p>&nbsp;The following are important and useful information you need for
 registration and to help you prepare for the new academic year in Meridian
 Secondary School.</p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Online registration (compulsory)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school uniform and textbooks</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Full Subject-Based Banding (Full SBB)</p>
