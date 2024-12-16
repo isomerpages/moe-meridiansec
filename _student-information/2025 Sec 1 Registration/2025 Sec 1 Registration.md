@@ -6,6 +6,9 @@ description: ""
 third_nav_title: 2025 Sec 1 Registration
 ---
 <h3><strong>Secondary 1 Registration and Other Important Information</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_DSC_0741.jpg">
+</div>
 <p>&nbsp;<strong>Parents and Secondary 1 Students,</strong>
 </p>
 <p>&nbsp;We warmly welcome you to Meridian Secondary.&nbsp;</p>
@@ -92,11 +95,11 @@ to transfer to another school. &nbsp;&nbsp;They are expected to honour
 their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
 <p></p>
-<p>Complete and submit the online [Exact title of the form] Form <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
+<p>Complete and submit the online [Exact title of the form] Form <strong>by 23 December 2024 (Monday), 5pm</strong>.&nbsp;&nbsp;</p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;&nbsp;&nbsp; Your appeal is deemed
-to be unsuccessful if you do not hear from the school by 12 January 2024.
-&nbsp;&nbsp;&nbsp;Reason(s) for unsuccessful appeals will not be disclosed.</p>
+to be unsuccessful if you do not hear from the school by 10 January 2025.
+Reason(s) for unsuccessful appeals will not be disclosed.</p>
 <p></p>
 <h4><strong>7. Application for MOE Financial Assistance Scheme (FAS) for 2025</strong></h4>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
