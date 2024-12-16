@@ -18,7 +18,6 @@ Secondary School following the release of S1 Posting Results.</p>
 <p>&nbsp;The following are important and useful information you need for
 registration and to help you prepare for the new academic year in Meridian
 Secondary School.</p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Online registration (compulsory)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school uniform and textbooks</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Full Subject-Based Banding (Full SBB)</p>
@@ -46,12 +45,13 @@ the Sec 1 Orientation Programme.</p>
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
 </p>
-<p>2025 Purchase and Collection of Textbooks and Uniforms</p>
+<p>2025 <a href="https://www.meridiansec.moe.edu.sg/sales-and-collections-of-books-and-uniform-2025/" rel="noopener nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>
+</p>
 <h4><strong>3. Full Subject-Based Banding (Full SBB)</strong></h4>
-<p><strong>&nbsp;</strong>Full SBB is MOE’s ongoing efforts to nurture the
-joy of learning and develop multiple pathways to cater to the different
-strengths and interests of our students.</p>
-<p>&nbsp;Click <a href="https://www.meridiansec.moe.edu.sg/student-information/full-sbb/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>Full SBB is MOE’s ongoing efforts to nurture the joy of learning and develop
+multiple pathways to cater to the different strengths and interests of
+our students.</p>
+<p>Click <a href="https://www.meridiansec.moe.edu.sg/student-information/full-sbb/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on Full SBB and the offering of subject at more demanding
 level.</p>
 <p>Parents whose child is eligible to take subjects at a more demanding level
@@ -59,10 +59,12 @@ will receive the <em>Full SBB Acceptance Form(s)</em> via <strong>Parents Gatewa
 &nbsp;&nbsp;&nbsp;You may receive up to 4 forms depending on the number
 of subjects your child is eligible for. &nbsp;&nbsp;&nbsp;You will need
 to submit the acceptance form(s) in PG <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
-<p>&nbsp;If you have not onboard to PG, please proceed to the following link
-to download the application.</p>
-<p>Parents Gateway</p>
-<p>Parents Gateway FAQs</p>
+<p>If you have not onboard to PG, please proceed to the following link to
+download the application.</p>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
+</p>
+<p><a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">Parents Gateway FAQs</a>
+</p>
 <h4>&nbsp;<strong>4. Outcome of application to offer Higher Mother Tongue and 3rd Languag</strong>e</h4>
 <p>For parents whose child is eligible and has applied to offer HMT or a
 3rd language, you will be informed of the outcome of your application <strong>from 19 December 2024 (Thursday) </strong>via
