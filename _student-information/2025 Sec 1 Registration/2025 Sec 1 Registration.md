@@ -111,7 +111,7 @@ the <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" targ
 For more information, please refer to: [provide the link from school website]</p>
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>8. First day of school and Secondary 1 orientation</strong></h4>
 <p>Students are to report to School <strong>by 7:30am</strong> on <strong>2 January 2025 (Thursday)</strong>.</p>
 <p>Students are to be dressed in Meridian Secondary School Polo T-shirt with
@@ -119,19 +119,20 @@ Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
 <p>The Secondary 1 Orientation will be held from <strong>2, 3 and 9 January 2025</strong>.
-For more information, please refer to:&nbsp;&nbsp; <a href="https://www.meridiansec.moe.edu.sg/student-information/2024-secondary-1-registration/orientation/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Programme</a>
+For more information, please refer to:&nbsp;<strong><em>(webpage work in progress)</em></strong>
 </p>
 <p></p>
 <h4><strong>9. Secondary 1 Parent Engagement Session</strong></h4>
-<p><strong>&nbsp;</strong>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
-Zoom. More information on the session will sent via PG when school reopens.</p>
+<p>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
+MS Teams. More information on the session will sent via PG when school
+reopens.</p>
 <p>Agenda:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Address by Principal – The Meridian Experience</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp; National Digital Literacy Programme (NDLP)
 and information to purchase the personal learning device (PLD) – Subject
 Head (ICT)</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp; Interaction with your child's form teachers</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>10. National Digital Literacy Programme</strong></h4>
 <p>The NDLP was launched in March 2020 to make digital learning inclusive
 by equipping students with the digital skills to be future-ready.&nbsp;&nbsp;</p>
@@ -142,9 +143,10 @@ PLD is Acer Chromebook Spin R756TN Convertible.</p>
 More details on procurement and costing will be provided during the Secondary
 1 Parent Engagement Session and PG on <strong>8 January 2025</strong>.</p>
 <h4><strong>11.&nbsp; Student Handbook</strong></h4>
-<p>The student handbook contains many useful information that a new student
-will need to know.&nbsp; Please spend some time to read the student handbook
-so that you know what to expect when you join us.</p>
+<p>The <a href="/student-information/e-student-handbook-and-school-letter/" rel="noopener nofollow" target="_blank">student handbook</a> contains
+many useful information that a new student will need to know.&nbsp; Please
+spend some time to read the student handbook so that you know what to expect
+when you join us.</p>
 <p></p>
 <p>We look forward to meeting you when school reopens in 2025.</p>
 <p>&nbsp;</p>
