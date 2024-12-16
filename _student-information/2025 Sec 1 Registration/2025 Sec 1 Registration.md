@@ -41,7 +41,7 @@ programme</p>
 online Registration Form <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
-<h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms </strong></h4>
+<h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
