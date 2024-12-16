@@ -19,7 +19,8 @@ School following the release of S1 Posting Results.</p>
 registration and to help you prepare for the new academic year in Meridian
 Secondary School.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Online registration (compulsory)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school uniform and textbooks</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; 2025 Purchase and Collection of Textbooks and
+Uniforms</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Full Subject-Based Banding (Full SBB)</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Outcome of application to offer Higher Mother
 Tongue (HMT) and 3rd Language</p>
@@ -40,7 +41,7 @@ programme</p>
 online Registration Form <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
-<h4><strong>2. Purchase of school uniform and textbooks</strong></h4>
+<h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms </strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
