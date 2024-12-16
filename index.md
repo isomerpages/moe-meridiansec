@@ -22,7 +22,7 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
-      title: Info for Secondary One
+      title: Sec 1 Registration
       id: infobar
       description: Secondary 1 Registration and Other Important Information
       button: FIND OUT MORE
