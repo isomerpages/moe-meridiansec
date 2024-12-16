@@ -98,8 +98,12 @@ to transfer to another school. &nbsp;&nbsp;They are expected to honour
 their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
 <p></p>
-<p>Complete and submit the “Acceptance Form for School Transfer” by 23 December
-2024 (Monday), 5pm.</p>
+<p>Complete and submit the <a href="https://form.gov.sg/6736fd91af16d982df0da880" rel="noopener nofollow" target="_blank">Appeal for transfer to Meridian Secondary School (for non-medical cases)</a> by
+23 December 2024 (Monday), 5pm.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;&nbsp;&nbsp; Your appeal is deemed
 to be unsuccessful if you do not hear from the school by 10 January 2025.
