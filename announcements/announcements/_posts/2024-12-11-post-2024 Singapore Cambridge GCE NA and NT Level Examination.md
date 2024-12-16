@@ -82,4 +82,6 @@ to 24 December 2024, from 9.00 am to 5.00 pm on weekdays and 9.00 am to
 </p>
 <p><a href="/files/Annoucements Attachments/4b__DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">DPP Factsheet for Students</a>
 </p>
+<p><a href="/files/Annoucements Attachments/For_Students__2024_N_Level_Briefing_Slides_on_Release_of_Results_Day.pdf" rel="noopener nofollow" target="_blank">For Students 2024 N Level Briefing Slides on Release of Results Day</a>
+</p>
 <p></p>
