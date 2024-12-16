@@ -21,6 +21,12 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infobar:
+      title: 2025 Secondary One
+      id: infobar
+      description: Secondary 1 Registration and Other Important Information
+      button: FIND OUT MORE
+      url: /2025-sec-1-registration/
   - announcements:
       title: RELEASE OF RESULTS
       id: announcements
