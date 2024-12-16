@@ -144,7 +144,7 @@ PLD is Acer Chromebook Spin R756TN Convertible.</p>
 More details on procurement and costing will be provided during the Secondary
 1 Parent Engagement Session and PG on <strong>8 January 2025</strong>.</p>
 <h4><strong>11.&nbsp; Student Handbook</strong></h4>
-<p>The <a href="/student-information/e-student-handbook-and-school-letter/" rel="noopener nofollow" target="_blank">student handbook</a> contains
+<p>The <a href="" rel="noopener nofollow" target="_blank">student handbook</a> contains
 many useful information that a new student will need to know.&nbsp; Please
 spend some time to read the student handbook so that you know what to expect
 when you join us.</p>
