@@ -45,7 +45,8 @@ the Sec 1 Orientation Programme.</p>
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
 </p>
-<p>2025 Purchase and Collection of Textbooks and Uniforms</p>
+<p>2025 <a href="https://www.meridiansec.moe.edu.sg/sales-and-collections-of-books-and-uniform-2025/" rel="noopener nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>
+</p>
 <h4><strong>3. Full Subject-Based Banding (Full SBB)</strong></h4>
 <p><strong>&nbsp;</strong>Full SBB is MOE’s ongoing efforts to nurture the
 joy of learning and develop multiple pathways to cater to the different
