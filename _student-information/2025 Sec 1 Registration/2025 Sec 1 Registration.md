@@ -109,7 +109,8 @@ Reason(s) for unsuccessful appeals will not be disclosed.</p>
 <h4><strong>7. Application for MOE Financial Assistance Scheme (FAS) for 2025</strong></h4>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
 the <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS form</a>.&nbsp;&nbsp;
-For more information, please refer to: [provide the link from school website]</p>
+For more information, please refer to: <a href="https://www.meridiansec.moe.edu.sg/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">2025 MOE FAS Application</a>
+</p>
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
 <p></p>
