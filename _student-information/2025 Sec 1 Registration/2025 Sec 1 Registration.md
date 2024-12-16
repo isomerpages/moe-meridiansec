@@ -35,7 +35,7 @@ programme</p>
 <p></p>
 <h4><strong>1. Online Registration (Compulsory)</strong></h4>
 <p>It is <em><u>compulsory</u></em> for parents/guardians to complete this
-online Registration Form <strong>by</strong>  <strong>26 December 2024 (Thursday), 12pm</strong>.&nbsp;&nbsp;
+online Registration Form <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <h4><strong>2. Purchase of school uniform and textbooks</strong></h4>
@@ -55,7 +55,7 @@ level.</p>
 will receive the <em>Full SBB Acceptance Form(s)</em> via <strong>Parents Gateway (PG) on 18 December 2024 (Thursday)</strong>.
 &nbsp;&nbsp;&nbsp;You may receive up to 4 forms depending on the number
 of subjects your child is eligible for. &nbsp;&nbsp;&nbsp;You will need
-to submit the acceptance form(s) in PG <strong>by 26 December 2024 (Thursday), 12pm</strong>.&nbsp;&nbsp;</p>
+to submit the acceptance form(s) in PG <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
 <p>&nbsp;If you have not onboard to PG, please proceed to the following link
 to download the application.</p>
 <p>Parents Gateway</p>
@@ -92,7 +92,7 @@ to transfer to another school. &nbsp;&nbsp;They are expected to honour
 their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
 <p></p>
-<p>Complete and submit the online [Exact title of the form] Form <strong>by 26 December 2024 (Thursday), 12pm</strong>.&nbsp;&nbsp;</p>
+<p>Complete and submit the online [Exact title of the form] Form <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;&nbsp;&nbsp; Your appeal is deemed
 to be unsuccessful if you do not hear from the school by 12 January 2024.
