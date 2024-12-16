@@ -2,17 +2,18 @@ collections:
   student-information:
     output: true
     order:
+      - 2025 Sec 1 Registration/.keep
+      - 2025 Sec 1 Registration/2025 Sec 1 Registration.md
+      - 2025 Sec 1 Registration/2024 Principal Meet Parent Engagement Session.md
       - 2025 Sales and Collections of Textbooks and Uniform.md
       - 2025 MOE FAS Application.md
-      - Full Subject–Based Banding (Full SBB).md
       - e–Student Handbook and School Letter.md
-      - The Meridian Student Leadership Challenge Guidebook.md
       - Student Timetable.md
       - Student Assessment.md
+      - Full Subject–Based Banding (Full SBB).md
       - Homework Policy.md
+      - The Meridian Student Leadership Challenge Guidebook.md
       - National Digital Literacy Programme (NDLP).md
-      - 2025 Secondary 1 Matters/.keep
-      - 2025 Secondary 1 Matters/Principal Meet Parent Engagement Session.md
       - Direct School Admission (DSA).md
       - 2023 O Level Release of Results and Post Secondary Application
         Information.md

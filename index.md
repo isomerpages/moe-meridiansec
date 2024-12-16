@@ -21,6 +21,15 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - announcements:
+      title: RELEASE OF RESULTS
+      id: announcements
+      announcement_items:
+        - title: Monday
+          date: 16 December 2024
+          announcement: 2024 GCE N(A) and N(T) Level Examination results
+          link_text: FIND OUT MORE
+          link_url: https://www.meridiansec.moe.edu.sg/2024-singapore-cambridge-gce-na-and-nt-level-examination/
   - infopic:
       title: 2024 Open House for P6 students
       id: infopic
