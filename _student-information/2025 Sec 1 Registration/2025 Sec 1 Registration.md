@@ -13,8 +13,8 @@ third_nav_title: 2025 Sec 1 Registration
 </p>
 <p>&nbsp;We warmly welcome you to Meridian Secondary.&nbsp;</p>
 <p>&nbsp;Registration and all applications will be done online.&nbsp; Hence
-you and your child/ward are not required to report in person to Meridian
-Secondary School following the release of S1 Posting Results.</p>
+you and your child are not required to report in person to Meridian Secondary
+School following the release of S1 Posting Results.</p>
 <p>&nbsp;The following are important and useful information you need for
 registration and to help you prepare for the new academic year in Meridian
 Secondary School.</p>
