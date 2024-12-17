@@ -41,6 +41,14 @@ programme</p>
 online Registration Form <a href="https://form.gov.sg/673acfe45af547358a2df334" rel="noopener nofollow" target="_blank">2025 Secondary 1 Registration Form</a>  <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
+<p>For your easy reference, the items to be completed in the online Registration
+Form is attached in <em><a rel="noopener noreferrer nofollow" target="_blank">Annex A</a></em>
+<a rel="noopener noreferrer nofollow" target="_blank">.</a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>&nbsp;</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP1]</a>Amended</p>
+<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>Please add this para highlighted in green
+on the webpage.&nbsp; Please hyperlink <em>&nbsp;Annex A </em>to attached
+pdf “2025 Sec 1 Registration Form (for user's reference only)”</p>
 <h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
