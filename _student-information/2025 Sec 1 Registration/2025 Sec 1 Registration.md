@@ -153,11 +153,10 @@ PLD is Acer Chromebook Spin R756TN Convertible.</p>
 More details on procurement and costing will be provided during the Secondary
 1 Parent Engagement Session and PG on <strong>8 January 2025</strong>.</p>
 <h4><strong>11.&nbsp; Student Handbook</strong></h4>
-<p>The<a href="/files/Handbooks and Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank"></a><a href="/files/Handbooks and Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">student handbook</a>
-<a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank"></a>contains many useful information that a new student will need to know.&nbsp;
-Please spend some time to read the student handbook so that you know what
-to expect when you join us.</p>
+<p>The <a href="/files/Handbooks and Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">student handbook</a> contains
+many useful information that a new student will need to know.&nbsp; Please
+spend some time to read the student handbook so that you know what to expect
+when you join us.</p>
 <p></p>
 <p>We look forward to meeting you when school reopens in 2025.</p>
 <p>&nbsp;</p>
