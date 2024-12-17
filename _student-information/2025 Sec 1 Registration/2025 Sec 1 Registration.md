@@ -125,9 +125,50 @@ Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
 <p>The Secondary 1 Orientation will be held from <strong>2, 3 and 9 January 2025</strong>.
-For more information, please refer to:&nbsp;<strong><em>(webpage work in progress)</em></strong>
+For more information, please refer the information below:</p>
+<p><strong><u>a) On the first day of school, 2 January (Thursday), students should report by 7:30 am. There will be five days of orientation, with the following dismissal times:</u></strong>
 </p>
-<p></p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 January (Thursday): 4:30
+pm</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 January (Friday): 5:00 pm</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 January (Thursday): 1:25
+pm</p>
+<p>On <strong>6 and 8 January</strong>, the orientation programme will be
+integrated with regular lessons and <strong>will follow the normal school timetable.</strong>
+</p>
+<p><strong><u>b) Attire for the orientation will be:</u></strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSS Polo T-shirt</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School culottes/pants</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White socks</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black shoes</p>
+<p>Please refer to <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">MSS E-Student Handbook</a> on
+the uniform policy.</p>
+<p><strong>The following list of items are required:</strong>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small lock with key or number
+lock (for school locker)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Water bottle</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wallet</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cup (on 2 January and 3 January
+for buffet)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pencil case</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recyclable materials (on 9
+January; instructions will be provided)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sufficient pocket money for
+food and drinks from the canteen during recess</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medication (if necessary)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hand sanitizer (optional)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extra MSS Polo T-shirt (optional)</p>
+<p><strong><u>c) Invitation to All Sec 1 Parents/Guardians (Sec 1 Orientation)</u></strong>
+</p>
+<p>We would also like to extend our invitation to all Sec 1 parents/guardians
+on the last day of the orientation, 9 Jan (Thurs) from 11.15 am to 1.25
+pm for the finale segment. During the finale segment, the students will
+be showcasing their products for the Meridian Cheer Competition and Meridian
+Mass Dance performance. You are also invited to join in the mass dance
+together with your child/ward. Thank you for indicating your interest via
+the Sec 1 Registration Form.</p>
 <h4><strong>9. Secondary 1 Parent Engagement Session</strong></h4>
 <p>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
 MS Teams. More information on the session will sent via PG when school
@@ -138,7 +179,6 @@ reopens.</p>
 and information to purchase the personal learning device (PLD) – Subject
 Head (ICT)</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp; Interaction with your child's form teachers</p>
-<p></p>
 <h4><strong>10. National Digital Literacy Programme</strong></h4>
 <p>The NDLP was launched in March 2020 to make digital learning inclusive
 by equipping students with the digital skills to be future-ready.&nbsp;&nbsp;</p>
