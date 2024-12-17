@@ -44,11 +44,7 @@ the Sec 1 Orientation Programme.</p>
 <p>For your easy reference, the items to be completed in the online Registration
 Form is attached in <em><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></em>
 </p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP1]</a>Amended</p>
-<p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>Please add this para highlighted in green
-on the webpage.&nbsp; Please hyperlink <em>&nbsp;Annex A </em>to attached
-pdf “2025 Sec 1 Registration Form (for user's reference only)”</p>
+<p></p>
 <h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
