@@ -42,8 +42,8 @@ online Registration Form <a href="https://form.gov.sg/673acfe45af547358a2df334" 
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <p>For your easy reference, the items to be completed in the online Registration
-Form is attached in <em><a rel="noopener noreferrer nofollow" target="_blank">Annex A</a></em>
-<a rel="noopener noreferrer nofollow" target="_blank">.</a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>&nbsp;</p>
+Form is attached in <em><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></em>
+<a href="/files/Sec 1 Registration 2025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>&nbsp;</p>
 <hr>
 <p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP1]</a>Amended</p>
 <p>&nbsp;<a href="#_msoanchor_2" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[TLP2]</a>Please add this para highlighted in green
