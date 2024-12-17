@@ -60,10 +60,10 @@ our students.</p>
 more information on Full SBB and the offering of subject at more demanding
 level.</p>
 <p>Parents whose child is eligible to take subjects at a more demanding level
-will receive the <em>Full SBB Acceptance Form(s)</em> via <strong>Parents Gateway (PG) on 18 December 2024 (Thursday)</strong>.
-&nbsp;&nbsp;&nbsp;You may receive up to 4 forms depending on the number
-of subjects your child is eligible for. &nbsp;&nbsp;&nbsp;You will need
-to submit the acceptance form(s) in PG <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
+will receive the <em>Full SBB Acceptance Form(s)</em> via <strong>Parents Gateway (PG) on 19 December 2024 (Thursday)</strong>.
+You may receive up to 4 forms depending on the number of subjects your
+child is eligible for. &nbsp;&nbsp;&nbsp;You will need to submit the acceptance
+form(s) in PG <strong>by 23 December 2024 (Monday), 12pm</strong>.&nbsp;&nbsp;</p>
 <p>If you have not onboard to PG, please proceed to the following link to
 download the application.</p>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">Parents Gateway</a>
