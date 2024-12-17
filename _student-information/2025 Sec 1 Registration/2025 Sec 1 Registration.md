@@ -13,13 +13,14 @@ third_nav_title: 2025 Sec 1 Registration
 </p>
 <p>&nbsp;We warmly welcome you to Meridian Secondary.&nbsp;</p>
 <p>&nbsp;Registration and all applications will be done online.&nbsp; Hence
-you and your child/ward are not required to report in person to Meridian
-Secondary School following the release of S1 Posting Results.</p>
+you and your child are not required to report in person to Meridian Secondary
+School following the release of S1 Posting Results.</p>
 <p>&nbsp;The following are important and useful information you need for
 registration and to help you prepare for the new academic year in Meridian
 Secondary School.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Online registration (compulsory)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school uniform and textbooks</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; 2025 Purchase and Collection of Textbooks and
+Uniforms</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Full Subject-Based Banding (Full SBB)</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Outcome of application to offer Higher Mother
 Tongue (HMT) and 3rd Language</p>
@@ -37,10 +38,14 @@ programme</p>
 <p></p>
 <h4><strong>1. Online Registration (Compulsory)</strong></h4>
 <p>It is <em><u>compulsory</u></em> for parents/guardians to complete this
-online Registration Form <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
+online Registration Form <a href="https://form.gov.sg/673acfe45af547358a2df334" rel="noopener nofollow" target="_blank">2025 Secondary 1 Registration Form</a>  <strong>by</strong>  <strong>23 December 2024 (Monday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
-<h4><strong>2. Purchase of school uniform and textbooks</strong></h4>
+<p>For your easy reference, the items to be completed in the online Registration
+Form is attached in <em><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a></em>
+</p>
+<p></p>
+<h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
@@ -97,8 +102,9 @@ to transfer to another school. &nbsp;&nbsp;They are expected to honour
 their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
 <p></p>
-<p>Complete and submit the “Acceptance Form for School Transfer” by 23 December
-2024 (Monday), 5pm.</p>
+<p>Complete and submit the <a href="https://form.gov.sg/6736fd91af16d982df0da880" rel="noopener nofollow" target="_blank">Appeal for transfer to Meridian Secondary School (for non-medical cases)</a> by
+23 December 2024 (Monday), 5pm.</p>
+<p></p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;&nbsp;&nbsp; Your appeal is deemed
 to be unsuccessful if you do not hear from the school by 10 January 2025.
@@ -107,10 +113,11 @@ Reason(s) for unsuccessful appeals will not be disclosed.</p>
 <h4><strong>7. Application for MOE Financial Assistance Scheme (FAS) for 2025</strong></h4>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
 the <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS form</a>.&nbsp;&nbsp;
-For more information, please refer to: [provide the link from school website]</p>
+For more information, please refer to: <a href="https://www.meridiansec.moe.edu.sg/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">2025 MOE FAS Application</a>
+</p>
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>8. First day of school and Secondary 1 orientation</strong></h4>
 <p>Students are to report to School <strong>by 7:30am</strong> on <strong>2 January 2025 (Thursday)</strong>.</p>
 <p>Students are to be dressed in Meridian Secondary School Polo T-shirt with
@@ -118,19 +125,20 @@ Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
 <p>The Secondary 1 Orientation will be held from <strong>2, 3 and 9 January 2025</strong>.
-For more information, please refer to:&nbsp;&nbsp; <a href="https://www.meridiansec.moe.edu.sg/student-information/2024-secondary-1-registration/orientation/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Orientation Programme</a>
+For more information, please refer to:&nbsp;<strong><em>(webpage work in progress)</em></strong>
 </p>
 <p></p>
 <h4><strong>9. Secondary 1 Parent Engagement Session</strong></h4>
-<p><strong>&nbsp;</strong>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
-Zoom. More information on the session will sent via PG when school reopens.</p>
+<p>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
+MS Teams. More information on the session will sent via PG when school
+reopens.</p>
 <p>Agenda:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Address by Principal – The Meridian Experience</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp; National Digital Literacy Programme (NDLP)
 and information to purchase the personal learning device (PLD) – Subject
 Head (ICT)</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp; Interaction with your child's form teachers</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>10. National Digital Literacy Programme</strong></h4>
 <p>The NDLP was launched in March 2020 to make digital learning inclusive
 by equipping students with the digital skills to be future-ready.&nbsp;&nbsp;</p>
@@ -141,9 +149,10 @@ PLD is Acer Chromebook Spin R756TN Convertible.</p>
 More details on procurement and costing will be provided during the Secondary
 1 Parent Engagement Session and PG on <strong>8 January 2025</strong>.</p>
 <h4><strong>11.&nbsp; Student Handbook</strong></h4>
-<p>The student handbook contains many useful information that a new student
-will need to know.&nbsp; Please spend some time to read the student handbook
-so that you know what to expect when you join us.</p>
+<p>The <a href="/files/Handbooks and Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">student handbook</a> contains
+many useful information that a new student will need to know.&nbsp; Please
+spend some time to read the student handbook so that you know what to expect
+when you join us.</p>
 <p></p>
 <p>We look forward to meeting you when school reopens in 2025.</p>
 <p>&nbsp;</p>
