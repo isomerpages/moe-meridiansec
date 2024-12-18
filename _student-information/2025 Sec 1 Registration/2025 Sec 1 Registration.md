@@ -48,7 +48,7 @@ Form is attached in <em><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Regis
 <h4><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong></h4>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
-<p>2025 <a href="https://www.meridiansec.moe.edu.sg/files/Booklists/meridian%20secondary%20school%20booklist%202024%20-%20sec%201.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
+<p>2025 <a href="/files/Booklists/Meridian_Sec_1___Information_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>
 </p>
 <p>2025 <a href="https://www.meridiansec.moe.edu.sg/sales-and-collections-of-books-and-uniform-2025/" rel="noopener nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>
 </p>
