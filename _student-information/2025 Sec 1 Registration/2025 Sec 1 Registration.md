@@ -144,6 +144,7 @@ integrated with regular lessons and <strong>will follow the normal school timeta
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black shoes</p>
 <p>Please refer to <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">MSS E-Student Handbook</a> on
 the uniform policy.</p>
+<p></p>
 <p><strong>The following list of items are required:</strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small lock with key or number
@@ -169,6 +170,8 @@ be showcasing their products for the Meridian Cheer Competition and Meridian
 Mass Dance performance. You are also invited to join in the mass dance
 together with your child/ward. Thank you for indicating your interest via
 the Sec 1 Registration Form.</p>
+<p><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Orientation_Programme_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 1 Orientation Programme School Website</a>
+</p>
 <h4><strong>9. Secondary 1 Parent Engagement Session</strong></h4>
 <p>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
 MS Teams. More information on the session will sent via PG when school
