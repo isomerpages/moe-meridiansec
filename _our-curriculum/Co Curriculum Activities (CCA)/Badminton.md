@@ -6,13 +6,11 @@ third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
 <h3>About Us</h3>
-<p><strong>About Us</strong>
-</p>
+<p></p>
 <p>The MSS Badminton CCA consists of both girls and boys team. The National
 Badminton School Games (NSG) is the annual highlight, in which the team
 competes in singles and double matches under the ‘B’ and ‘C’ divisions*.</p>
-<p><strong>Our Objective</strong>
-</p>
+<h3>Our Objective</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To develop members’ badminton, playing skills, fitness level and game
@@ -32,14 +30,12 @@ Sportsmanship and character are also heavily emphasized in MSS Badminton.
 Students are given various opportunities to showcase their leadership potential
 while promoting good character development.</p>
 <p>&nbsp;</p>
-<p><strong>Schedule and Venue</strong>
-</p>
+<h3>Schedule and Venue</h3>
 <p>Mondays – C Division Training</p>
 <p>Tuesdays – B Division Girls Training</p>
 <p>Thursdays – B Division Boys Training</p>
 <p>All days are from 230 to 5pm</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h3>Teachers-in-charge</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Faisal Hussain</p>
@@ -51,14 +47,12 @@ while promoting good character development.</p>
 <p>Mdm Selvi Varathappan</p>
 </li>
 </ol>
-<p><strong>Coaches </strong>
-</p>
+<h3>Coaches</h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Alex
 Teo Jun Bao</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Ong Yuan
 Hao</p>
-<p><strong>Highlight of events in recent years</strong>
-</p>
+<h3>Highlight of events in recent years</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>East-Zone Inter-School Badminton Tournament</p>
@@ -79,8 +73,7 @@ Hao</p>
 <p>Values-In-Action (VIA) activities : Badminton Rally &amp; Smash</p>
 </li>
 </ul>
-<p><strong>Achievements</strong>
-</p>
+<h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023 - B Boys Div 7th Placing (East Zone)</p>
@@ -96,24 +89,35 @@ crowd participation. Students exhibited good sports management skills.</p>
 <p></p>
 <p><strong>Links to social media </strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
 </p>
-<p><strong>Our players</strong>
-</p>
+<h3><strong>Our players</strong></h3>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="B girls" src="/images/CCA/Badminton 2024/B_girls.jpg">
+</div>
 <p><strong>B Girls Team</strong>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="B boys Team" src="/images/CCA/Badminton 2024/B_boys.jpg">
+</div>
 <p><strong>B Boys Team</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="C boys team" src="/images/CCA/Badminton 2024/C_boys.jpg">
+</div>
 <p><strong>C Boys Team</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="C girls team" src="/images/CCA/Badminton 2024/C_girls.jpg">
+</div>
 <p><strong>C Girls Team</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sec 2 Level Camp" src="/images/CCA/Badminton 2024/Sec_2_lvl_cmp.jpg">
+</div>
 <p><strong>Sec 2 Lvl Camp</strong>
 </p>
 <p></p>
