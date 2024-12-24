@@ -3,70 +3,121 @@ title: Badminton
 permalink: /home/cca/physical-sports/badminton/
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
+variant: tiptap
 ---
-
-### About Us
-
-The MSS Badminton CCA consists of both girls and boys team. The East Zone Badminton Tournament is the annual highlight, in which the team competes in singles and double matches under the ‘B’ and ‘C’ divisions\*.
-
-### Our Objective:
-
-*   To develop members’ badminton, playing skills, fitness level and game tactics
-*   To instill team spirit, sportsmanship, and discipline in badminton
-*   To develop leadership qualities in every player
-
-The team trains on a weekly basis, under the guidance of an experienced Coach and Teachers-in-charge. The weekly training helps the players to level up their skills in playing badminton and also build up their stamina and endurance. Sportsmanship and character are also heavily emphasised in MSS Badminton. Students are given various leadership positions, which promote character development and instill discipline.
-
-### Highlight of events in recent years (2015-2021):
-
-*   East-Zone Inter-School Badminton Tournament
-*   Tampines-Meridian JC Badminton Open
-*   Wee Kim Wee Badminton Challenge
-*   Pilot Pen Badminton Championship
-*   Safra Badminton Tournament
-*   Meridian Badminton Open (Internal)
-*   School Friendlies
-*   Sports Camp
-*   Values-In-Action (VIA) activities
-
-### Achievements
-
-*   This year, our school teams displayed good sportsmanship and team spirit in the East- Zone Inter-School Badminton Tournament. Participated in Preliminary rounds in EZ Inter-School Badminton Tournament.
-*   We also saw the teams’ involvement in Values-in-Action projects (VIA). Our teams volunteered their services in Flag Day organised by Singapore Heart Foundation.
-
-### CCA Schedule (2 times/week from 2:30 pm – 5:00pm, Venue: Hall /ISH / External Venues)
-
-*   Monday and Wednesday (C & B Girls)
-*   Tuesday and Thursday (C & B Boys)
-
-### Teachers-In-Charge:
-
-1.  Mdm Yu Wei (1st i/c)
-2.  Mdm Selvi Varathappan (2ndi/c)
-3.  Mrs Wan-Lim Lan Hiang
-4.  Mr Gerald Huang
-
-**Coach:** Mr. Stanley Wong Yong Thiam
-
-“Badminton CCA has taught me not to be afraid of hardships but to embrace them and improve yourself.” – Kieron Chan (Alumni, Ex-Captain of B Boys)
-
-### Our players in action:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x1sK14wa4Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<img src="/images/b300501.jpg" 
-     style="width:60%">
-<center>B boys playing a match against East Spring</center>
-
-<img src="/images/b300502.jpg" 
-     style="width:60%">
-<center>CCA Session</center>
-		 
-<img src="/images/b300503.jpg" 
-     style="width:60%">
-<center>Our ‘B’ Boys</center>
-		
-<img src="/images/b300504.jpg" 
-     style="width:60%">
-<center>Our ‘B’ Girls</center>
-		 
+<h3>About Us</h3>
+<p>The MSS Badminton CCA consists of both girls and boys team. The National
+Badminton School Games (NSG) is the annual highlight, in which the team
+competes in singles and double matches under the ‘B’ and ‘C’ divisions.</p>
+<h3>Our Objective</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop members’ badminton, playing skills, fitness level and game
+tactics</p>
+</li>
+<li>
+<p>To instill team spirit, sportsmanship, and discipline in badminton</p>
+</li>
+<li>
+<p>To develop leadership qualities in every player</p>
+</li>
+</ul>
+<p>The team trains on a weekly basis, under the guidance of experienced Coaches
+and Teachers-in-charge. The weekly training helps the players to level
+up their skills in playing badminton and also build up their physical fitness.
+Sportsmanship and character are also heavily emphasized in MSS Badminton.
+Students are given various opportunities to showcase their leadership potential
+while promoting good character development.</p>
+<h3>Schedule and Venue</h3>
+<p>Mondays – C Division Training</p>
+<p>Tuesdays – B Division Girls Training</p>
+<p>Thursdays – B Division Boys Training</p>
+<p>All days are from 230 to 5pm</p>
+<h3>Teachers-in-charge</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Faisal Hussain</p>
+</li>
+<li>
+<p>Mdm Yu Wei</p>
+</li>
+<li>
+<p>Mdm Selvi Varathappan</p>
+</li>
+</ol>
+<h3>Coaches</h3>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Alex
+Teo Jun Bao</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Ong Yuan
+Hao</p>
+<h3>Highlight of events in recent years</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>East-Zone Inter-School Badminton Tournament</p>
+</li>
+<li>
+<p>Tampines-Meridian JC Badminton Open</p>
+</li>
+<li>
+<p>National School Games</p>
+</li>
+<li>
+<p>School Friendlies</p>
+</li>
+<li>
+<p>Sports Camp</p>
+</li>
+<li>
+<p>Values-In-Action (VIA) activities : Badminton Rally &amp; Smash</p>
+</li>
+</ul>
+<h3>Achievements</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 - B Boys Div 7th Placing (East Zone)</p>
+</li>
+<li>
+<p>2024 - C Boys Div 3rd Place in Group 5 (National)</p>
+</li>
+<li>
+<p>Values-in-Action projects (VIA) project entitled Rally and Smash. Massive
+crowd participation. Students exhibited good sports management skills.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Links to social media </strong>: <a href="https://www.instagram.com/meridian.badminton/" rel="noopener nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
+</p>
+<h3><strong>Our players</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="B girls" src="/images/CCA/Badminton 2024/B_girls.jpg">
+</div>
+<p><strong>B Girls Team</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="B boys Team" src="/images/CCA/Badminton 2024/B_boys.jpg">
+</div>
+<p><strong>B Boys Team</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="C boys team" src="/images/CCA/Badminton 2024/C_boys.jpg">
+</div>
+<p><strong>C Boys Team</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="C girls team" src="/images/CCA/Badminton 2024/C_girls.jpg">
+</div>
+<p><strong>C Girls Team</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Sec 2 Level Camp" src="/images/CCA/Badminton 2024/Sec_2_lvl_cmp.jpg">
+</div>
+<p><strong>Sec 2 Lvl Camp</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
