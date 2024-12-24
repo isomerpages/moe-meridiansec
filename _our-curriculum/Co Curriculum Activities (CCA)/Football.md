@@ -65,7 +65,7 @@ for excellence and fostering a love for football in every player.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
 </div>
 <p></p>
-<h3>Highlights </h3>
+<h3>Highlights</h3>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
 <li>
