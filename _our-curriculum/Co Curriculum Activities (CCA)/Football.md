@@ -89,12 +89,12 @@ for excellence and fostering a love for football in every player.</p>
 <p><strong>National Championship 'B' (Girls) - CHAMPION</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20girls%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b girls 2023.jpg">
 </div>
 <p><strong>National Championship 'B' (Boys) - FINALIST</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20boys%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
 </div>
 <h4>2022</h4>
 <p>2022 was our strongest showing yet, with all four teams entering the NSG
