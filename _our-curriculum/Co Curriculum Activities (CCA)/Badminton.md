@@ -6,10 +6,9 @@ third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
 <h3>About Us</h3>
-<p></p>
 <p>The MSS Badminton CCA consists of both girls and boys team. The National
 Badminton School Games (NSG) is the annual highlight, in which the team
-competes in singles and double matches under the ‘B’ and ‘C’ divisions*.</p>
+competes in singles and double matches under the ‘B’ and ‘C’ divisions.</p>
 <h3>Our Objective</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,7 +28,6 @@ up their skills in playing badminton and also build up their physical fitness.
 Sportsmanship and character are also heavily emphasized in MSS Badminton.
 Students are given various opportunities to showcase their leadership potential
 while promoting good character development.</p>
-<p>&nbsp;</p>
 <h3>Schedule and Venue</h3>
 <p>Mondays – C Division Training</p>
 <p>Tuesdays – B Division Girls Training</p>
@@ -87,7 +85,7 @@ crowd participation. Students exhibited good sports management skills.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Links to social media </strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
+<p><strong>Links to social media </strong>: <a href="https://www.instagram.com/meridian.badminton/" rel="noopener nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
 </p>
 <h3><strong>Our players</strong></h3>
 <p></p>
