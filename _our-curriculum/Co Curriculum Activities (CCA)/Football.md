@@ -62,7 +62,7 @@ for excellence and fostering a love for football in every player.</p>
 <p><strong>Coach Fabio Da Silva</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
 </div>
 <p></p>
 <h3>Highlights</h3>
@@ -83,13 +83,13 @@ for excellence and fostering a love for football in every player.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
 </div>
 <h4>2023</h4>
 <p><strong>National Championship 'B' (Girls) - CHAMPION</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20girls%202023.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20girls%202023.jpg">
 </div>
 <p><strong>National Championship 'B' (Boys) - FINALIST</strong>
 </p>
@@ -121,27 +121,27 @@ semi-finals and emerging as:</p>
 <li>
 <p>Top Scorer: Nisreen Aziz (2E1)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%202022.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%202022.jpg">
 </div>
 </li>
 </ul>
 <h3>Our CCA Experience</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student01.jpg">
 </div>
 <p>&gt; I feel extremely proud of my team. We put in a lot of effort and
 went all out. We really deserved it as we were all very determined and
 disciplined. &gt;
 <br>&gt; Nisreen Aziz</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student02.jpg">
 </div>
 <p>&gt; MSS football has many potential players and a great coach. It was
 a good experience to play for the school as it has taught me teamwork and
 responsibility. I am proud to be developed as a striker and to have scored
 many goals for the school. &gt; &gt; Muhammad Syazwan</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20achievements.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20achievements.jpg">
 </div>
 <h3>Our CCA Experience</h3>
 <p>&nbsp;Follow us on Instagram: @meridiansecfootball&nbsp;</p>
@@ -150,7 +150,7 @@ many goals for the school. &gt; &gt; Muhammad Syazwan</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
 </div>
 <p></p>
 <p></p>
