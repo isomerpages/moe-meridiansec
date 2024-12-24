@@ -125,6 +125,9 @@ semi-finals and emerging as:</p>
 </ul>
 <h3>Our CCA Experience</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student01.jpg">
+</div>
 <p>I feel extremely proud of my team. We put in a lot of effort and went
 all out. We really deserved it as we were all very determined and disciplined. <strong>&gt;Nisreen Aziz</strong>
 </p>
