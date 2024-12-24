@@ -94,13 +94,13 @@ crowd participation. Students exhibited good sports management skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="B girls" src="/images/CCA/Badminton 2024/B_girls.jpg">
 </div>
-<p><strong>B Girls Team</strong>
+<p><strong>           B Girls Team</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="B boys Team" src="/images/CCA/Badminton 2024/B_boys.jpg">
 </div>
-<p><strong>B Boys Team</strong>
+<p><strong>           B Boys Team</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
