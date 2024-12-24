@@ -120,29 +120,22 @@ semi-finals and emerging as:</p>
 </li>
 <li>
 <p>Top Scorer: Nisreen Aziz (2E1)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%202022.jpg">
-</div>
+<p></p>
 </li>
 </ul>
 <h3>Our CCA Experience</h3>
+<p></p>
+<p>I feel extremely proud of my team. We put in a lot of effort and went
+all out. We really deserved it as we were all very determined and disciplined. <strong>&gt;Nisreen Aziz</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student01.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student02.jpg">
 </div>
-<p>&gt; I feel extremely proud of my team. We put in a lot of effort and
-went all out. We really deserved it as we were all very determined and
-disciplined. &gt;
-<br>&gt; Nisreen Aziz</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20student02.jpg">
-</div>
-<p>&gt; MSS football has many potential players and a great coach. It was
-a good experience to play for the school as it has taught me teamwork and
-responsibility. I am proud to be developed as a striker and to have scored
-many goals for the school. &gt; &gt; Muhammad Syazwan</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20achievements.jpg">
-</div>
+<p>MSS football has many potential players and a great coach. It was a good
+experience to play for the school as it has taught me teamwork and responsibility.
+I am proud to be developed as a striker and to have scored many goals for
+the school. <strong>&gt;Muhammad Syazwan</strong>
+</p>
 <h3>Our CCA Experience</h3>
 <p>&nbsp;Follow us on Instagram: @meridiansecfootball&nbsp;</p>
 <p>&nbsp;Join meridianfootball on Linktree for more updates:</p>
