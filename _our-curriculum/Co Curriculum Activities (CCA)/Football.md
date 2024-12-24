@@ -62,7 +62,7 @@ for excellence and fostering a love for football in every player.</p>
 <p><strong>Coach Fabio Da Silva</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
 </div>
 <p></p>
 <h3>Highlights</h3>
@@ -83,18 +83,18 @@ for excellence and fostering a love for football in every player.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
 </div>
 <h4>2023</h4>
 <p><strong>National Championship 'B' (Girls) - CHAMPION</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b girls 2023.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b girls 2023.jpg">
 </div>
 <p><strong>National Championship 'B' (Boys) - FINALIST</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
 </div>
 <h4>2022</h4>
 <p>2022 was our strongest showing yet, with all four teams entering the NSG
@@ -150,7 +150,7 @@ many goals for the school. &gt; &gt; Muhammad Syazwan</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
 </div>
 <p></p>
 <p></p>
