@@ -61,8 +61,11 @@ for excellence and fostering a love for football in every player.</p>
 <h3>Coach</h3>
 <p><strong>Coach Fabio Da Silva</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
+</div>
 <p></p>
-<h3>Highlights (2022 to 2024)</h3>
+<h3>Highlights </h3>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,18 +81,22 @@ for excellence and fostering a love for football in every player.</p>
 <p>National Schools Games 2024 ‘C’ Boys Finalist</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<h3>Highlights in 2023</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
+</div>
+<h4>2023</h4>
 <p><strong>National Championship 'B' (Girls) - CHAMPION</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20girls%202023.jpg">
 </div>
-<h4>National Championship 'B' (Boys) - FINALIST</h4>
+<p><strong>National Championship 'B' (Boys) - FINALIST</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20-%20b%20boys%202023.jpg">
 </div>
-<h3>Highlights in 2022</h3>
+<h4>2022</h4>
 <p>2022 was our strongest showing yet, with all four teams entering the NSG
 semi-finals and emerging as:</p>
 <ul data-tight="true" class="tight">
@@ -137,12 +144,14 @@ many goals for the school. &gt; &gt; Muhammad Syazwan</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/football%20achievements.jpg">
 </div>
 <h3>Our CCA Experience</h3>
-<p>&nbsp;</p>
-<p>Follow us on Instagram: @meridiansecfootball&nbsp;</p>
-<p>&nbsp;</p>
-<p>Join meridianfootball on Linktree for more updates:</p>
+<p>&nbsp;Follow us on Instagram: @meridiansecfootball&nbsp;</p>
+<p>&nbsp;Join meridianfootball on Linktree for more updates:</p>
 <p>Check out this Linktree! - <a href="https://linktr.ee/meridianfootball?utm_source=linktree_profile_share" rel="noopener nofollow" target="_blank">https://linktr.ee/meridianfootball?utm_source=linktree_profile_share</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
