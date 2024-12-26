@@ -264,7 +264,7 @@ hours of training. They are also medal-winners at the Temasek Friendly.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture19.png">
 </div>
-<p><strong>Active Umpiring Workshop</strong> 
+<p><strong>Active Umpiring Workshop</strong>
 </p>
 <p>With Coach Paula.</p>
 <p>Knowing the rules and regulations increase our understanding of the game.</p>
