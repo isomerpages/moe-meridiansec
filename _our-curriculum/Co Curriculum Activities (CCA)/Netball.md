@@ -205,7 +205,7 @@ I was able to&nbsp; achieve my goal.’</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture9.png">
 </div>
-<p><strong>Pesta Sukan Netball Carnival</strong> 
+<p><strong>Pesta Sukan Netball Carnival</strong>
 </p>
 <p>Our girls braved the hot sun to play games against many schools. It was
 hot but fun!</p>
