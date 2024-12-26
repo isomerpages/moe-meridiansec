@@ -111,7 +111,8 @@ in netball activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
 </div>
-<p>Do follow us @meridian_netball for more updates.</p>
+<p>Do follow us <a href="https://www.instagram.com/meridian_netball/" rel="noopener nofollow" target="_blank">@meridian_netball</a> for
+more updates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.png">
 </div>
