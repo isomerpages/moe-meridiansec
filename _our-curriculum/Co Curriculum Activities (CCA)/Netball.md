@@ -163,7 +163,7 @@ in netball activities.</p>
 </tbody>
 </table>
 <h3>Highlights</h3>
-<h4><strong>2024</strong></h4>
+<h4>2024</h4>
 <p><strong>Netball CCA Highlights – B and C Div NSG</strong>
 </p>
 <p>Our C’ Division team made history by advancing to the semi-finals of the <strong>National School Games</strong> (NSG)
@@ -172,7 +172,7 @@ skill. Their impressive journey to the semi-finals is a proud achievement
 for our school, inspiring future teams to aim high and keep pushing boundaries.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.png">
 </div>
 <p>Meanwhile, our B’ Division team put up a strong fight throughout the tournament
 but narrowly missed out on advancing to the second round due to a very
@@ -180,11 +180,11 @@ small goal difference. Despite the setback, the team showed resilience
 and sportsmanship, and their effort and spirit have been a source of pride
 for our CCA and school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture6.png">
 </div>
 <h4>Other Highlights</h4>
 <p><strong>U14 Zone Squad Trials and International Youth Netball Challenge</strong>
@@ -196,26 +196,26 @@ the coaches and team mates from different schools. I thought I would not
 make it but with school trainings, a positive mindset and supportive parents,
 I was able to&nbsp; achieve my goal.’</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture7.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture8.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture9.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture9.png">
 </div>
 <p><strong>Pesta Sukan Netball Carnival</strong>
 </p>
 <p>Our girls braved the hot sun to play games against many schools. It was
 hot but fun!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture10.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture11.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture11.png">
 </div>
 <h4><strong>2023</strong></h4>
 <p><strong>Competitions and more competitions</strong>
@@ -234,15 +234,15 @@ that will last a lifetime.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture13.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture13.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture14.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture14.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture15.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture15.png">
 </div>
 <p><strong>Punggol U14 Netball Carnival and Temasek Sec Netball Friendly</strong>
 </p>
@@ -250,21 +250,23 @@ that will last a lifetime.</p>
 them played hard and worked well as a team with the skills attained after
 hours of training. They are also medal-winners at the Temasek Friendly.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture16.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture16.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture17.png">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture17.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture18.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture18.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture19.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture19.png">
 </div>
-<p><strong>Active Umpiring Workshop</strong> with Coach Paula.</p>
+<p><strong>Active Umpiring Workshop</strong> 
+</p>
+<p>With Coach Paula.</p>
 <p>Knowing the rules and regulations increase our understanding of the game.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture28.png">
@@ -273,7 +275,7 @@ hours of training. They are also medal-winners at the Temasek Friendly.</p>
 <p><strong>NSG games</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture21.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture21.png">
 </div>
 <p><em>Being in netball allowed me to realise just how important teamwork and perseverance is. I was able overcome my fear of failure and work on myself for the better of the team with the help of my fellow teammates.</em>
 </p>
@@ -287,13 +289,13 @@ hours of training. They are also medal-winners at the Temasek Friendly.</p>
 <p><strong>– Sheryl (3E4 2022), Sec 3 Vice-captain</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture23.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture23.png">
 </div>
 <p><strong>Pesta Sukan Netball Carnival</strong>
 </p>
 <p>Friendships and camaraderie in the sun!</p>
 <p>&nbsp;6th&nbsp;August 2022Participation in NSG 2022 – April to July 2022.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Netball-02.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Netball-02.jpg">
 </div>
 <p>Participation in Pesta Sukan Netball Carnival – 6th&nbsp;August 2022</p>
