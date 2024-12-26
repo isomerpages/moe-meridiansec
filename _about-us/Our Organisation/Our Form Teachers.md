@@ -310,7 +310,7 @@ variant: tiptap
 <p>Mr Teo Wei Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lynn Kiew</p>
+<p>Mdm Kiew Lynn</p>
 </td>
 </tr>
 <tr>
