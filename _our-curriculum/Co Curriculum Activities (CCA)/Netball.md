@@ -99,11 +99,14 @@ Sarala Rajan</p>
 </div>
 <h3>Teachers-in-charge</h3>
 <p>Coach Susan Tan</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
 </div>
+<p>Do follow us @meridian_netball for more updates.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
