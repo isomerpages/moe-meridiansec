@@ -151,5 +151,10 @@ and Military-related Activities</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_11.jpg">
 </div>
+<p>Our Alumni receiving MSS Alumni Award</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
