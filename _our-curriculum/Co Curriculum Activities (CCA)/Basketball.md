@@ -71,26 +71,45 @@ and teamwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture3.png">
 </div>
-<p><strong>Celebration party for our seniors</strong>
-</p>
+<p>Celebration party for our seniors</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture4.png">
 </div>
-<p><strong>Our C boys and Team</strong>
-</p>
+<p>Our C boys and Team</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture6.png">
 </div>
-<p><strong>We play and train hard</strong>
-</p>
+<p>We play and train hard</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture7.png">
 </div>
-<p><strong>Bonding Activity</strong>
+<p>Bonding Activity
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture15.png">
+</div>
+<p>We give our best in every match</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture8.png">
+</div>
+<p>We train hard for every session</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture11.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
