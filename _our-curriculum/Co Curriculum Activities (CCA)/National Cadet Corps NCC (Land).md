@@ -134,17 +134,22 @@ and Military-related Activities</p>
 <p><em>Cadet Leaders receiving their new 3rd Sergeant Rank</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_08.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_08.jpg">
 </div>
 <p>Cadets in their Camouflage lesson</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_09.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_09.jpg">
 </div>
-<p><em>National Day Parade 2023</em>
-</p>
+<p>National Day Parade 2023</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_10.jpg">
+</div>
+<p>Our cadets participating in Laser Run</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_11.jpg">
+</div>
 <p></p>
 <p></p>
