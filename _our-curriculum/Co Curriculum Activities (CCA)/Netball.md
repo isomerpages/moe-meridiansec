@@ -26,6 +26,7 @@ and non-competitive goals.</p>
 <li>
 <p>To develop leadership skills by taking up at least one leadership role
 in netball activities.</p>
+<p></p>
 </li>
 </ul>
 <table style="minWidth: 25px">
@@ -105,10 +106,10 @@ in netball activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture1.png">
 </div>
-<h3>Teachers-in-charge</h3>
+<h3>Coach</h3>
 <p>Coach Susan Tan</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
 </div>
 <p>Do follow us @meridian_netball for more updates.</p>
 <div class="isomer-image-wrapper">
