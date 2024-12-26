@@ -57,22 +57,39 @@ and teamwork.</p>
 <p>● Coach Lim Seng Luan</p>
 <p></p>
 <h3>HIGHLIGHTS &amp; ACHIEVEMENTS</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/2024basketballpic4.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture1.png">
+</div>
+<p>4th placing in NSG C Division Boys</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture2.png">
+</div>
+<p>Celebrating our C Division Boys and Team</p>
 <p></p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture3.png">
+</div>
+<p><strong>Celebration party for our seniors</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture4.png">
+</div>
+<p><strong>Our C boys and Team</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture6.png">
+</div>
+<p><strong>We play and train hard</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture7.png">
+</div>
+<p><strong>Bonding Activity</strong>
 <br>
 </p>
 <p></p>
