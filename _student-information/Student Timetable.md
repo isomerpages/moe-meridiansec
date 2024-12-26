@@ -5,23 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p>Dear parents and students,</p>
-<p>Please download the School Timetable for 2024 Semester 2.</p>
+<p>Please download the School Timetable for 2025 Semester 1.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable Matters/2024_Semester_2_Timetable___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Semester 2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable Matters/2024_Semester_2_Timetable___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 2 Semester 2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable Matters/2024_Semester_2_Timetable___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 3 Semester 2 Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable Matters/2024_Semester_2_Timetable___Sec_4___5.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Secondary 4 and 5 Semester 2 Timetable</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/Timetable Matters/Guide_to_reading_the_timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to reading the timetable</a>
@@ -29,47 +16,137 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p><strong>Please take note of the dismissal time for 2024 Semester 2 lessons.</strong>
-</p>
-<table style="minWidth: 50px">
+<p>Please take note of the dismissal time for 2025 Semester 1 lessons.</p>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Sec 1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Early dismissal for G1 MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Sec 2</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Early dismissal for G1 MTL and G1 Science</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Odd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1325</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Odd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1325</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Early dismissal on certain days</p>
+<p>1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1215</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1215</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Even</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1325</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Even</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1325</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday, Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1400</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4>ILD/ Self Study Day</h4>
-<p>Independent Learning Day / Self Study Day are scheduled on <strong>23, 24, 25 July </strong>and <strong>18 Oct 2024</strong>.
-You may download the schedule of subjects on Independent Learning Day below.
-Students will be informed by their respective subject teachers and form
-teachers about the details of the curriculum task prior to each Independent
+<p><strong>Upper Sec dismissal time</strong> on all days except for Friday
+(1215) is <strong>1400</strong>.</p>
+<p>You may download the schedule of subjects on Independent Learning Day
+below. Students will be informed by their respective subject teachers and
+form teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/files/Timetable Matters/2024_Semester_2_ILD_and_Remedial_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 ILD Schedule</a>
-</p>
+<p></p>
+<p></p>
+<h4></h4>
 <p></p>
