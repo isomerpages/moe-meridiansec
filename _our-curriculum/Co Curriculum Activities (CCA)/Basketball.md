@@ -42,7 +42,7 @@ and teamwork.</p>
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 - 5.30 pm</p>
+<p>2.30 - 4.30 pm</p>
 </td>
 </tr>
 </tbody>
