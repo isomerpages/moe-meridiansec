@@ -1,5 +1,5 @@
 ---
-title: Student Timetable Sem 1 2025
+title: 2025 Student Timetable Sem 1
 permalink: /student-timetable-sem-1-2025/
 date: 2024-12-26
 layout: post
