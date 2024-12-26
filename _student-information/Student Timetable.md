@@ -159,6 +159,10 @@ variant: tiptap
 below. Students will be informed by their respective subject teachers and
 form teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
+<p><a href="/files/Timetable Matters/2025_Semester_1_ILD_Schedule.pdf" rel="noopener nofollow" target="_blank">Semester 1 ILD Schedule</a>
+</p>
+<p><a href="/files/Timetable Matters/2025_Semester_1_Remedial_Schedule_School_Website.pdf" rel="noopener nofollow" target="_blank">Semester 1 Remedial Schedule</a>
+</p>
 <p></p>
 <p></p>
 <h4></h4>
