@@ -8,7 +8,20 @@ variant: tiptap
 <p>Please download the School Timetable for 2025 Semester 1.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Timetable Matters/1__2025_Semester_1_Timetable_Sec_1.pdf" rel="noopener nofollow" target="_blank">Semester 1 Timetable Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable Matters/2__2025_Semester_1_Timetable_Sec_2.pdf" rel="noopener nofollow" target="_blank">Semester 1 Timetable Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable Matters/3__2025_Semester_1_Timetable_Sec_3.pdf" rel="noopener nofollow" target="_blank">Semester 1 Timetable Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable Matters/4__2025_Semester_1_Timetable_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Semester 1 Timetable Sec 4 and Sec 5</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Timetable Matters/Guide_to_reading_the_timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to reading the timetable</a>
