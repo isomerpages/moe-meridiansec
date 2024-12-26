@@ -91,91 +91,168 @@ in netball activities.</p>
 </tbody>
 </table>
 <h3>Teachers-in-charge</h3>
-<p>Mdm Suriati&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miss
-Chen Yi-Chun&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mrs
-Sarala Rajan</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Suriati&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Miss Chen Yi-Chun&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Mrs Sarala Rajan</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture1.png">
 </div>
 <h3>Teachers-in-charge</h3>
 <p>Coach Susan Tan</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
 </div>
 <p>Do follow us @meridian_netball for more updates.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:10%" height="auto" width="100%" src="/images/instagram.png">
-</div>
-<p>Do follow us @meridian_netball for more updates.</p>
-<hr>
-<h3>Schedule and Venue</h3>
-<table style="minWidth: 75px">
+<h3>Achievements</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Day</strong>
+<td rowspan="2" colspan="1">
+<p><strong>&nbsp;</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time</strong>
+<p><strong>2024</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Div 4<sup>th</sup> in NSG Group D</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Naura Anousha – U14 National Team</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45 pm to 5.15 pm</p>
+<p>B Div Schools Challenge League – 2<sup>nd</sup> in their grouping</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Netball Court</p>
+<p>U14 Punggol Netball Carnival – 1<sup>st</sup> place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Div – Temasek Sec Friendly Carnival – 3<sup>rd</sup> place</p>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
-<h3>Teachers-in-charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Suriati</p>
-</li>
-<li>
-<p>Miss Chen Yi-Chun</p>
-</li>
-<li>
-<p>Ms Ummirah</p>
-</li>
-</ul>
-<h3>Coach</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Coach Susan Tan</p>
-</li>
-</ul>
-<hr>
 <h3>Highlights</h3>
+<p><strong>2024</strong>
+</p>
+<p><strong>Netball CCA Highlights – B and C Div NSG</strong>
+</p>
+<p>Our C’ Division team made history by advancing to the semi-finals of the <strong>National School Games</strong> (NSG)
+tournament for the first time, showcasing their dedication, teamwork, and
+skill. Their impressive journey to the semi-finals is a proud achievement
+for our school, inspiring future teams to aim high and keep pushing boundaries.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.png">
+</div>
+<p>Meanwhile, our B’ Division team put up a strong fight throughout the tournament
+but narrowly missed out on advancing to the second round due to a very
+small goal difference. Despite the setback, the team showed resilience
+and sportsmanship, and their effort and spirit have been a source of pride
+for our CCA and school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture6.png">
+</div>
+<p><strong>Other Highlights</strong>
+</p>
+<p><strong>U14 Zone Squad Trials and International Youth Netball Challenge</strong>
+</p>
+<p>We are very proud that Naura Anousha was selected after the trials and
+participated in the International Youth Netball Challenge in Nov 2024.</p>
+<p>‘Trainings for the U14 was a good experience. I have gained a lot from
+the coaches and team mates from different schools. I thought I would not
+make it but with school trainings, a positive mindset and supportive parents,
+I was able to&nbsp; achieve my goal.’</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture9.png">
+</div>
+<p></p>
+<p><strong>Pesta Sukan Netball Carnival</strong> – our girls braved the hot
+sun to play games against many schools. It was hot but fun!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture11.png">
+</div>
+<p><strong><u>2023</u></strong>
+</p>
+<p><strong>Netball CCA Highlights – Competitions and more competitions</strong>
+</p>
+<p>The Meridian Netball girls have wrapped up an exciting season, officially
+completing our National School Games (<strong>NSG</strong>) on 31st January
+2023. They played with grit and determination, winning two matches and
+placing 3rd in their NSG group. Every goal was hard-earned, and the team’s
+dedication truly shone through.</p>
+<p>During the <strong>School Challenge League</strong>, our B div girls secured
+2<sup>nd</sup> place in their team grouping. From long bus rides to countless
+hours of training, these shared experiences created unforgettable memories
+that will last a lifetime.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture12.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture13.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture15.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>2022</strong>
 </p>
 <div class="isomer-image-wrapper">
