@@ -99,7 +99,7 @@ pleasing mushroom-shaped pots, utilising an adapted watering system. Well
 done Sharmaine!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic1.png">
 </div>
 <p><strong>STEM Challenge</strong>
 </p>
@@ -108,32 +108,32 @@ skills by participating in the STEM Playground Challenge organized by Singapore
 Science Centre and the James Dyson Foundation (JDF).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic2.png">
 </div>
 <p><strong>Design Thinking – Working on Authentic Problem Situations</strong>
 </p>
 <p>The Sec 3 students also applied design thinking skills as they crafted
 their own design brief and worked on solving real-life problem situations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic3.png">
 </div>
 <p><strong>Bridge-Building Competition</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic4.png">
 </div>
 <p>Students applied the concepts that they had learnt in class to design
 and make a model bridge that can satisfy a given set of criteria.&nbsp;
 The competition offers the students a “real-world” experience and they
 got to witness how their bridges fared during the testing process.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic5.png">
 </div>
 <p>Embarking on digital sketching with students’ personal learning devices
 (PLDs) for the Lower Secondary D&amp;T students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic6.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic6.png">
 </div>
 <p></p>
 <p></p>
