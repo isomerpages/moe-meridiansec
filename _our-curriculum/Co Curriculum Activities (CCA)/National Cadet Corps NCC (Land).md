@@ -152,9 +152,40 @@ and Military-related Activities</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2023_11.jpg">
 </div>
 <p>Our Alumni receiving MSS Alumni Award</p>
+<h4><strong>2021 to 2022</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2022_01.jpg">
+</div>
+<p>ASM Ethan receiving Drills Instructor Certificate</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2022_02.jpg">
+</div>
+<p>Passing-Out Parade</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc_2022_03.jpg">
+</div>
+<p><em>Total Defence Day 2022 facilitation</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc1.png">
+</div>
+<p>Preparation for Total Defence Day 2022</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc2.png">
+</div>
+<p>Kindness Badge Award Project 2021</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/ncc3.png">
+</div>
+<p>Sec 1 CCA Showcase</p>
+<p></p>
+<p><em>NCC Affirmation Ceremony</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
