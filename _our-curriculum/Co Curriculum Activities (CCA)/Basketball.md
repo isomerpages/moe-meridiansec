@@ -59,7 +59,7 @@ and teamwork.</p>
 <h3>HIGHLIGHTS &amp; ACHIEVEMENTS</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture1.png">
 </div>
 <p>4th placing in NSG C Division Boys</p>
 <p></p>
@@ -90,11 +90,11 @@ and teamwork.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture15.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture15.png">
 </div>
 <p>We give our best in every match</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture8.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Picture8.png">
 </div>
 <p>We train hard for every session</p>
 <p></p>
