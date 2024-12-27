@@ -21,7 +21,12 @@ from dedication, passion and resilience.</p>
 <p>&nbsp;“<em>Great dancers are not great because of their technique; they are great because of their passion.”</em> —
 Martha Graham, modern dancer and choreographer</p>
 <h3>Schedule and Venue</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,6 +83,18 @@ Martha Graham, modern dancer and choreographer</p>
 </ul>
 <h3>Yearly Highlights</h3>
 <h3>2024</h3>
+<p><strong>World Supremacy Battlegrounds Singapore Vol. 4</strong>
+</p>
+<p><strong>&nbsp;</strong>It’s a Platinum Award for our Modern Dance crew
+in the recent WSB competition after months of teamwork and relentless pursuit
+of excellence. This prestigious stage provided our dancers with the opportunity
+to develop stage confidence and collaborative skills while working to achieve
+common artistic goals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
+</div>
+<p></p>
 <p><strong>MSS Go Green 2024</strong>
 </p>
 <p>Our Madroovers covered a rendition of ‘This Is How We Do It’ by Mondell
@@ -86,15 +103,15 @@ our creative instructor, Mr Wein, the dance number aims to promote sustainabilit
 efforts.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
 </div>
 <p></p>
 <p><strong>Open Stage Dance Competition 2024</strong>
@@ -106,15 +123,15 @@ at Our Tampines Hub who danced and cheered along to the number. As we move
 forward, our dancers will take on a bigger stage, a new crowd with yet
 another flaming performance</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_6.jpg">
 </div>
 <p></p>
 <ul>
@@ -125,7 +142,7 @@ another flaming performance</p>
 <li>
 <p>SYF Arts Presentation 2021 - Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2023" src="/images/CCA/Modern%20Dance/dance_2023_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SYF Arts Presentation 2023" src="/images/CCA/Modern%20Dance/dance_2023_01.jpg">
 </div>
 </li>
 <li>
@@ -149,7 +166,7 @@ another flaming performance</p>
 <li>
 <p>Participated in the Super 24 Secondary School Exhibition 2022</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Super 24 Secondary School Exhibition 2022" src="/images/CCA/Modern%20Dance/dance_2022_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Super 24 Secondary School Exhibition 2022" src="/images/CCA/Modern%20Dance/dance_2022_01.jpg">
 </div>
 </li>
 <li>
@@ -164,7 +181,7 @@ another flaming performance</p>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2021" src="/images/CCA/Modern%20Dance/dance_2021_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SYF Arts Presentation 2021" src="/images/CCA/Modern%20Dance/dance_2021_01.jpg">
 </div>
 </li>
 <li>
@@ -186,4 +203,3 @@ Presentation, Speech Day Concert</p>
 </p>
 <p><strong>– Abilene Buthor (3A1,2024)</strong>
 </p>
-<p></p>

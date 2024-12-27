@@ -124,28 +124,25 @@ further assistance before you purchase the textbooks or uniforms.</p>
 Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
-<p>The Secondary 1 Orientation will be held from <strong>2, 3 and 9 January 2025</strong>.
-For more information, please refer the information below:</p>
-<p><strong><u>a) On the first day of school, 2 January (Thursday), students should report by 7:30 am. There will be five days of orientation, with the following dismissal times:</u></strong>
+<p>Please refer to <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">MSS E-Student Handbook</a> on
+the uniform policy.</p>
+<p>The Secondary 1 Orientation will be held from <strong>2 to 9 January. </strong>
 </p>
+<p><strong>Dismissal times</strong> for the orientation period are indicated
+below:</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 January (Thursday): 4:30
 pm</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 January (Friday): 5:00 pm</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9 January (Thursday): 1:25
 pm</p>
-<p>On <strong>6 and 8 January</strong>, the orientation programme will be
-integrated with regular lessons and <strong>will follow the normal school timetable.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>On 6 and 8 January, the orientation programme will be integrated with
+regular lessons and <strong>will follow the normal school timetable.</strong>
 </p>
-<p><strong><u>b) Attire for the orientation will be:</u></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSS Polo T-shirt</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School culottes/pants</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; White socks</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black shoes</p>
-<p>Please refer to <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">MSS E-Student Handbook</a> on
-the uniform policy.</p>
-<p></p>
-<p><strong>The following list of items are required:</strong>
+</li>
+</ul>
+<p><strong><u>The following list of items are required:</u></strong>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small lock with key or number
 lock (for school locker)</p>
@@ -161,7 +158,7 @@ food and drinks from the canteen during recess</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medication (if necessary)</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hand sanitizer (optional)</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extra MSS Polo T-shirt (optional)</p>
-<p><strong><u>c) Invitation to All Sec 1 Parents/Guardians (Sec 1 Orientation)</u></strong>
+<p><strong><u>Invitation to All Sec 1 Parents/Guardians (Sec 1 Orientation)</u></strong>
 </p>
 <p>We would also like to extend our invitation to all Sec 1 parents/guardians
 on the last day of the orientation, 9 Jan (Thurs) from 11.15 am to 1.25
