@@ -224,7 +224,7 @@ in 2022.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_04.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_04.jpg">
 </div>
 </th>
 </tr>
