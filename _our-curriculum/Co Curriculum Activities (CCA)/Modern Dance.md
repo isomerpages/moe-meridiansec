@@ -91,6 +91,10 @@ of excellence. This prestigious stage provided our dancers with the opportunity
 to develop stage confidence and collaborative skills while working to achieve
 common artistic goals.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
+</div>
+<p></p>
 <p><strong>MSS Go Green 2024</strong>
 </p>
 <p>Our Madroovers covered a rendition of ‘This Is How We Do It’ by Mondell
