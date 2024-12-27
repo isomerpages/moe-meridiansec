@@ -21,7 +21,12 @@ from dedication, passion and resilience.</p>
 <p>&nbsp;“<em>Great dancers are not great because of their technique; they are great because of their passion.”</em> —
 Martha Graham, modern dancer and choreographer</p>
 <h3>Schedule and Venue</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,6 +83,14 @@ Martha Graham, modern dancer and choreographer</p>
 </ul>
 <h3>Yearly Highlights</h3>
 <h3>2024</h3>
+<p><strong>World Supremacy Battlegrounds Singapore Vol. 4</strong>
+</p>
+<p><strong>&nbsp;</strong>It’s a Platinum Award for our Modern Dance crew
+in the recent WSB competition after months of teamwork and relentless pursuit
+of excellence. This prestigious stage provided our dancers with the opportunity
+to develop stage confidence and collaborative skills while working to achieve
+common artistic goals.</p>
+<p></p>
 <p><strong>MSS Go Green 2024</strong>
 </p>
 <p>Our Madroovers covered a rendition of ‘This Is How We Do It’ by Mondell
