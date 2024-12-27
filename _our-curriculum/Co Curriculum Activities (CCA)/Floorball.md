@@ -139,23 +139,6 @@ sports with their studies.</p>
 </p>
 <p>– Nur Dinah Adriana Binte Mohammad Azmi (4A2 2022), Captain B Division
 Girls</p>
-<h3>Achievements</h3>
-<h4>2023 – National Inter-School Floorball Championship</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>C Division Boys – 2nd</p>
-</li>
-</ul>
-<h4>2022 – National Inter-School Floorball Championship</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>B Division Girls – 2nd</p>
-</li>
-<li>
-<p>B Division Boys – 3rd</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2024/2023floorball01.jpg">
 </div>
