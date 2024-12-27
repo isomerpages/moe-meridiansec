@@ -126,7 +126,7 @@ not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
 <p>Please refer to <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener nofollow" target="_blank">MSS E-Student Handbook</a> on
 the uniform policy.</p>
-<p>The Secondary 1 Orientation will be held from <strong>2 to 9 January. </strong>
+<p>The Secondary 1 Orientation will be held from <strong>2 to 9 January.</strong>
 </p>
 <p><strong>Dismissal times</strong> for the orientation period are indicated
 below:</p>
