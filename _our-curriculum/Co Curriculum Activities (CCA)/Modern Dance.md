@@ -92,7 +92,7 @@ to develop stage confidence and collaborative skills while working to achieve
 common artistic goals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
 </div>
 <p></p>
 <p><strong>MSS Go Green 2024</strong>
@@ -103,15 +103,15 @@ our creative instructor, Mr Wein, the dance number aims to promote sustainabilit
 efforts.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_3.jpg">
 </div>
 <p></p>
 <p><strong>Open Stage Dance Competition 2024</strong>
@@ -123,11 +123,11 @@ at Our Tampines Hub who danced and cheered along to the number. As we move
 forward, our dancers will take on a bigger stage, a new crowd with yet
 another flaming performance</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_5.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
