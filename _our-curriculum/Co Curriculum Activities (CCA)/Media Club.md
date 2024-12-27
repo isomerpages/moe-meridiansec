@@ -26,7 +26,7 @@ of the media industry, they embark on learning journeys to professional
 media organizations such as The Smart Local and TrueWorld Studio, gaining
 insights into real-world media production.</p>
 <p>Do follow our Instagram account to learn more!</p>
-<p> <a href="https://www.instagram.com/meridianmediaclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
+<p><a href="https://www.instagram.com/meridianmediaclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
 </p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
@@ -96,20 +96,18 @@ College of Arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC1.jpg">
 </div>
-<p>&nbsp;</p>
 <p><strong>Our Schools, Our Stories photo and video contest 2024</strong>
 </p>
-<p>&nbsp;Yee Yi Hui and Edelia Binte Muhamad Nizam of 2/3 have won the Honorable
+<p>Yee Yi Hui and Edelia Binte Muhamad Nizam of 2/3 have won the Honorable
 Mention award for the Youth Category under “Our School Community” story.</p>
 <p>You may check her work in the following link:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/our-schools-our-stories/winning-stories-2024/our-school-community</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC2.png">
 </div>
 <p></p>
-<p><strong>Objectifs Photo club of the year award 2024.</strong>
+<p><strong>Objectifs Photo club of the year award 2024</strong>
 </p>
 <p>Our Photography team had won a Special Mention prize in the Objectifs
 Photo Club of the year award.</p>
@@ -119,11 +117,11 @@ Yi Hui (2/3), Edelia (2/3), Xuan Qiao (2/2) and Tsoi Ho Chit (2/4).</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC3.jpg">
 </div>
 <p></p>
-<p><strong>Singapore Youth Festival Celebration 2024.</strong>
+<p><strong>Singapore Youth Festival Celebration 2024</strong>
 </p>
 <p>Malcolm Pong of 4E1 and Dionne Pang of 4E2 were selected to be student
 photographers for the SYF celebration at Gardens by the Bay.</p>
-<h4><strong>2023</strong></h4>
+<h4>2023</h4>
 <p><strong>18th Ngee Ann Photographic Exhibition 2023</strong>
 </p>
 <p>&nbsp;10 Students have been selected to exhibit their works in Lasalle
@@ -147,7 +145,7 @@ the Youth Category under “priceless moments” story.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC5.png">
 </div>
-<h4><strong>2022</strong></h4>
+<h4>2022</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ibuildsg photography competition 2022</p>
@@ -156,7 +154,7 @@ the Youth Category under “priceless moments” story.</p>
 <p>Our Schools, Our Stories photo and video contest 2022</p>
 </li>
 </ul>
-<h3>&nbsp;<strong>Our CCA Experience</strong></h3>
+<h3>Our CCA Experience</h3>
 <p>“Media club allows its members to explore and learn various forms of media,
 including videography, photography, and AVA. It fosters creativity and
 teamwork providing a platform for learning and self-expression.”</p>
@@ -183,9 +181,9 @@ every second of if I could."</p>
 <li>
 <p><strong>Nicolas Ng (3E1)</strong>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Secondary One CCA Orientation</strong>
 </p>
 <div class="isomer-image-wrapper">
