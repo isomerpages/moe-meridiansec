@@ -131,7 +131,7 @@ another flaming performance</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/modern_dance_pic_6.jpg">
 </div>
 <p></p>
 <ul>
@@ -142,7 +142,7 @@ another flaming performance</p>
 <li>
 <p>SYF Arts Presentation 2021 - Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2023" src="/images/CCA/Modern%20Dance/dance_2023_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SYF Arts Presentation 2023" src="/images/CCA/Modern%20Dance/dance_2023_01.jpg">
 </div>
 </li>
 <li>
@@ -166,7 +166,7 @@ another flaming performance</p>
 <li>
 <p>Participated in the Super 24 Secondary School Exhibition 2022</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Super 24 Secondary School Exhibition 2022" src="/images/CCA/Modern%20Dance/dance_2022_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Super 24 Secondary School Exhibition 2022" src="/images/CCA/Modern%20Dance/dance_2022_01.jpg">
 </div>
 </li>
 <li>
@@ -181,7 +181,7 @@ another flaming performance</p>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF Arts Presentation 2021" src="/images/CCA/Modern%20Dance/dance_2021_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SYF Arts Presentation 2021" src="/images/CCA/Modern%20Dance/dance_2021_01.jpg">
 </div>
 </li>
 <li>
