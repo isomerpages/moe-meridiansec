@@ -5,38 +5,29 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h3>About Us</h3>
 <p>The Meridian Media Club is a vibrant, close-knit community of students
 with a shared passion for photography, videography, and live sound production.
 Throughout the year, these dedicated members work tirelessly to support
 the school’s media needs, capturing memorable moments and ensuring that
 every event runs seamlessly.</p>
-<p>&nbsp;Playing essential roles in morning assemblies, major events, and
-concerts, these students not only contribute to the success of each occasion
-but also skillfully document these experiences for social media and future
+<p>Playing essential roles in morning assemblies, major events, and concerts,
+these students not only contribute to the success of each occasion but
+also skillfully document these experiences for social media and future
 publications. Their efforts help build a visual legacy for the school while
 connecting the community through shared memories.</p>
-<p>&nbsp;To refine their craft, club members participate in professional
-training sessions, gaining hands-on experience in photography and videography.
-They also challenge themselves in competitions like the <em>Our Schools, Our Stories</em> Photo
-and Video Contest and the Ngee Ann Kongsi Photographic Exhibition, where
-they push their creative boundaries. To further deepen their understanding
+<h3>Our Objectives</h3>
+<p>To refine their craft, club members participate in professional training
+sessions, gaining hands-on experience in photography and videography. They
+also challenge themselves in competitions like the Our Schools, Our Stories
+Photo and Video Contest and the Ngee Ann Kongsi Photographic Exhibition,
+where they push their creative boundaries. To further deepen their understanding
 of the media industry, they embark on learning journeys to professional
 media organizations such as The Smart Local and TrueWorld Studio, gaining
 insights into real-world media production.</p>
-<p>&nbsp;Do follow our Instagram account to learn more!</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
+<p>Do follow our Instagram account to learn more!</p>
+<p> <a href="https://www.instagram.com/meridianmediaclub/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridianmediaclub/</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -83,14 +74,10 @@ insights into real-world media production.</p>
 </tr>
 </tbody>
 </table>
-<p>*In-house training / event-based training</p>
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Jeffrey Low Kok Hua (Overall IC)</p>
-</li>
-<li>
-<p>Mdm Dewi Haryanti Hussein (2IC)</p>
+<p>Mr Jeffrey Low Kok Hua</p>
 </li>
 <li>
 <p>Mr Tan Toon Wuay</p>
@@ -99,18 +86,13 @@ insights into real-world media production.</p>
 <p>Mdm Marini Bte Hassan</p>
 </li>
 </ul>
-<h4>Instructor</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Mr Steven Huang</p>
-</li>
-</ul>
 <h3>Yearly Highlights</h3>
 <h4>2024</h4>
 <p><strong>19th Ngee Ann Photographic Exhibition 2024</strong>
 </p>
 <p>Malcolm Pong of 4E1 has been selected to exhibit their works in Lasalle
 College of Arts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC1.jpg">
 </div>
