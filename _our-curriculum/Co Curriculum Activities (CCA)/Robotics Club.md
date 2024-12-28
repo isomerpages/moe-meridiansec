@@ -85,8 +85,7 @@ towards Smart nation.</p>
 </li>
 </ul>
 <h3>Yearly Highlights</h3>
-<p><strong>2024</strong>
-</p>
+<h4>2024</h4>
 <p>These are the competitions and activities that our students have participated
 in 2024.</p>
 <ul data-tight="true" class="tight">
@@ -122,79 +121,84 @@ Series – Our team won 2nd place.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture1.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>First Lego League 2023</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture2.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Singapore Amazing Flying Machine Competition 2023</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_03.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture3.png">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>National Robotics Competition 2023</em>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture5.png">
+</div>
+<p><strong>NRC 2024</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture8.png">
+</div>
+<p><strong>Learning Journey to Google Singapore</strong>
+</p>
+<h4>2023</h4>
+<p>These are the competitions and activities that our students have participated
+in 2023.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Singapore Amazing Flying Machine 2023</p>
+</li>
+<li>
+<p>First Lego League 2023</p>
+</li>
+<li>
+<p>National Robotics Competition 2023</p>
+</li>
+<li>
+<p>Infocomm Media Club – Leadership workshops, conference</p>
+</li>
+</ol>
+<p>VIA activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Smart Ambassador in the national program, Healthier SG</p>
+</li>
+<li>
+<p>TechSat : Teach underprivileged children to code and make artefacts using
+StrawBees and MicroBit</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture9.png">
+</div>
+<p><strong>First Lego League 2023</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/Picture11.png">
+</div>
+<p><strong>National Robotics Competition 2023</strong>
+</p>
 <h4>2022</h4>
 <p>These are the competitions and activities that our students have participated
 in 2022.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Singapore Amazing Flying Machine 2022</p>
 </li>
@@ -210,7 +214,8 @@ in 2022.</p>
 <li>
 <p>Infocomm Media Club – Leadership workshops</p>
 </li>
-</ol>
+</ul>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -219,45 +224,17 @@ in 2022.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_04.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_04.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>First Lego League 2022</em>
+<p><strong>First Lego League 2022</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Robotics/robotics_2023_05.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Prize presentation for Singapore Amazing Flying Machine 2022 and National Robotics Competition 2022</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Our CCA Experience</h3>
-<p><em>In my three years of being in Robotics Club, I am glad to have great seniors who were patient in guiding me through the steps of coding even when I was still new, I am also truly fortunate to have friendly members in the CCA whom I can communicate with to build better experiences for the juniors in the CCA. Overall, Robotics was a great experience for me, throughout the time in Meridian.</em> 
-<br><strong>– Chan Hao Yang, 3E3, 2022 (Chairman of Robotics Club 2022)</strong>
-</p>
-<p><em>When I joined robotics, I was unsure of the environment there and if I would have a good relationship with my fellow members. However, I met with many different people whom I soon became friends with. I have learnt many skills from robotics such as teamwork and communication with other team members._&nbsp;_I have also participated in many competitions where we have faced many difficult competitors from different schools. Even though we did not win this year, I feel that this loss has only given us more confidence to try harder to win next year. I definitely do not regret joining the Meridian Robotics, CCA, and I hope that I will have another fun and engaging experience next year!</em>
-<br><strong>– Seah Yang En, 3E3, 2022 (Vice Chairman of Robotics Club 2022)</strong>
-</p>
-<p><em>My experience in Robotics has been great, I have been able to experience a lot of new things for the first time. From interacting with my CCA mates to build and program robots, to even entering competitions with them, Robotics Club has provided me with many opportunities. I am forever grateful for the memories I have made in this CCA and I sincerely recommend everyone to give this CCA a shot.</em>
-<br><strong>– Shine Min Hlaing, 3E4, 2022 (Vice Chairman of Robotics Club 2022)</strong>
-</p>
+<h3></h3>
+<p></p>
