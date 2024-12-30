@@ -81,8 +81,7 @@ and Military-related Activities</p>
 </li>
 </ul>
 <h3>Yearly Highlights</h3>
-<p><strong>Achievements</strong>
-</p>
+<h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023 NCC Unit Recognition – Distinction Award</p>
@@ -96,7 +95,6 @@ and Military-related Activities</p>
 <h3>Events</h3>
 <p></p>
 <h4>2023</h4>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc14.png">
@@ -150,7 +148,6 @@ and Military-related Activities</p>
 </div>
 <p>National Day Parade 2023</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc24.png">
 </div>
@@ -161,7 +158,6 @@ and Military-related Activities</p>
 </div>
 <p>Our Alumni receiving MSS Alumni Award</p>
 <h4>2021 to 2022</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
 </div>
