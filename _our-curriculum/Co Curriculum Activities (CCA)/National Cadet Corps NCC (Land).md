@@ -99,26 +99,26 @@ and Military-related Activities</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc14.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc14.png">
 </div>
 <p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc15.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc15.jpg">
 </div>
 <p>Our cadets sharing their experiences during Sec 1 CCA Orientation
 <br>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc16.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc16.png">
 </div>
 <p>Award Ceremony for Orienteering Competition</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc21.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc21.png">
 </div>
 <p>Senior Cadets honing their skills through Air Rifle Shooting activity</p>
 <p></p>
@@ -126,78 +126,78 @@ and Military-related Activities</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc18.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc18.png">
 </div>
 <p>Cadet Leaders learning new skills on CPR</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc19.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc19.png">
 </div>
 <p>Junior Cadets participating at their Affirmation Ceremony</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc20.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc20.png">
 </div>
 <p>Cadet Leaders receiving their new 3rd Sergeant Rank</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc22.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc22.png">
 </div>
 <p>Cadets in their Camouflage lesson</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc23.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc23.png">
 </div>
 <p>National Day Parade 2023</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc24.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc24.png">
 </div>
 <p>Our cadets participating in Laser Run</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc25.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc25.png">
 </div>
 <p>Our Alumni receiving MSS Alumni Award</p>
 <h4><strong>2021 to 2022</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
 </div>
 <p>ASM Ethan receiving Drills Instructor Certificate</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc27.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc27.png">
 </div>
 <p>Passing-Out Parade</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc28.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc28.png">
 </div>
 <p>Total Defence Day 2022 facilitation</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc1.png">
 </div>
 <p>Preparation for Total Defence Day 2022</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc2.png">
 </div>
 <p>Kindness Badge Award Project 2021</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc3.png">
 </div>
 <p>Sec 1 CCA Showcase</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc4.png">
 </div>
 <p>NCC Affirmation Ceremony</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc5.png">
 </div>
 <p>NCC Sports Championship at Loyang View Secondary School</p>
 <p></p>
@@ -205,35 +205,35 @@ and Military-related Activities</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc6.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc8.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc9.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc10.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc10.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc11.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc11.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc12.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc12.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
 </div>
 <h4><strong>Our CCA Experience</strong></h4>
 <p><em>My experience throughout the 3 years in the National Cadet Corps (NCC) has been transformative, shaping my character and instilling essential life skills and values. One of the key takeaways has been resilience and perseverance. NCC taught me the value of not giving up, pushing through solutions even in tough situations and communicating efficiently with my platoon mates. Through demanding foot and rifle drills training and even my own expectations, I learned discipline, focus and attention to detail — qualities that extend far beyond my CCA session. In addition to my mental fortitude, I also learned how to tie different knots and construct a tent which honed my problem-solving abilities and teamwork with my platoon mates. It taught me the importance of clear communication and cooperation with one another to achieve a common goal. Additionally, the shared experience during the various NCC activities strengthen the bonds of friendship among peers. As a CCA leader in NCC, I have built confidence overtime and taken initiative in guiding my peers to forge a stronger bond amongst this family. With NCC, I can speak up with confidence to peers and guide my juniors through different activities. Overall, my NCC journey has not only equipped me with practical skills but also nurtured values that I can carry into all aspects of my life. It has always been a joyful journey and will always be an unforgettable one.</em>
