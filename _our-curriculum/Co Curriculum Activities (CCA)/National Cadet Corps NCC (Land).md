@@ -140,17 +140,41 @@ and Military-related Activities</p>
 </div>
 <p>Cadet Leaders receiving their new 3rd Sergeant Rank</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc22.png">
+</div>
 <p>Cadets in their Camouflage lesson</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc23.png">
+</div>
 <p>National Day Parade 2023</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc24.png">
+</div>
 <p>Our cadets participating in Laser Run</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc25.png">
+</div>
 <p>Our Alumni receiving MSS Alumni Award</p>
 <h4><strong>2021 to 2022</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
+</div>
 <p>ASM Ethan receiving Drills Instructor Certificate</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc27.png">
+</div>
 <p>Passing-Out Parade</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc28.png">
+</div>
 <p><em>Total Defence Day 2022 facilitation</em>
 </p>
 <p>Preparation for Total Defence Day 2022</p>
