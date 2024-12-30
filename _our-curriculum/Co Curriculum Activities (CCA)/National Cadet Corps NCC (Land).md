@@ -134,8 +134,13 @@ and Military-related Activities</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc19.png">
 </div>
 <p>Junior Cadets participating at their Affirmation Ceremony</p>
-<p><em>Cadet Leaders receiving their new 3rd Sergeant Rank</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc20.png">
+</div>
+<p>Cadet Leaders receiving their new 3rd Sergeant Rank</p>
+<p></p>
+<p></p>
 <p>Cadets in their Camouflage lesson</p>
 <p></p>
 <p>National Day Parade 2023</p>
