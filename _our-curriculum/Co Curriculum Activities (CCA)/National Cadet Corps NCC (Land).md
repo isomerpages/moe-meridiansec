@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<h3><strong>About Us</strong></h3>
+<h3>About Us</h3>
 <p>The National Cadet Corps (NCC) is a military cadet corps youth organisation
 supported by the Ministry of Defence and the Ministry of Education.</p>
 <p>It is one of the country’s oldest youth organisations, formed in 1901.</p>
-<h3><strong>Our Objectives</strong></h3>
+<h3>Our Objectives</h3>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
 and Military-related Activities</p>
-<h3><strong>Schedule and Venue</strong></h3>
+<h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,7 +58,7 @@ and Military-related Activities</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Teachers-in-charge</strong></h3>
+<h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Poh Wei Khim Chris</p>
@@ -71,7 +71,7 @@ and Military-related Activities</p>
 <p></p>
 </li>
 </ul>
-<h4><strong>UG Volunteers</strong></h4>
+<h4>UG Volunteers</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Tham Keng Cong</p>
@@ -160,7 +160,7 @@ and Military-related Activities</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc25.png">
 </div>
 <p>Our Alumni receiving MSS Alumni Award</p>
-<h4><strong>2021 to 2022</strong></h4>
+<h4>2021 to 2022</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
@@ -235,7 +235,7 @@ and Military-related Activities</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
 </div>
-<h4><strong>Our CCA Experience</strong></h4>
+<h3>Our CCA Experience</h3>
 <p><em>My experience throughout the 3 years in the National Cadet Corps (NCC) has been transformative, shaping my character and instilling essential life skills and values. One of the key takeaways has been resilience and perseverance. NCC taught me the value of not giving up, pushing through solutions even in tough situations and communicating efficiently with my platoon mates. Through demanding foot and rifle drills training and even my own expectations, I learned discipline, focus and attention to detail — qualities that extend far beyond my CCA session. In addition to my mental fortitude, I also learned how to tie different knots and construct a tent which honed my problem-solving abilities and teamwork with my platoon mates. It taught me the importance of clear communication and cooperation with one another to achieve a common goal. Additionally, the shared experience during the various NCC activities strengthen the bonds of friendship among peers. As a CCA leader in NCC, I have built confidence overtime and taken initiative in guiding my peers to forge a stronger bond amongst this family. With NCC, I can speak up with confidence to peers and guide my juniors through different activities. Overall, my NCC journey has not only equipped me with practical skills but also nurtured values that I can carry into all aspects of my life. It has always been a joyful journey and will always be an unforgettable one.</em>
 <br><strong>–Javan Neo Aik Yong, Unit Sergeant Major (3E3, 2023)</strong>
 </p>
