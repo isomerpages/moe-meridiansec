@@ -171,22 +171,70 @@ and Military-related Activities</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc27.png">
 </div>
 <p>Passing-Out Parade</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc28.png">
 </div>
-<p><em>Total Defence Day 2022 facilitation</em>
-</p>
+<p>Total Defence Day 2022 facilitation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc1.png">
+</div>
 <p>Preparation for Total Defence Day 2022</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc2.png">
+</div>
 <p>Kindness Badge Award Project 2021</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc3.png">
+</div>
 <p>Sec 1 CCA Showcase</p>
-<p><em>NCC Affirmation Ceremony</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc4.png">
+</div>
+<p>NCC Affirmation Ceremony</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc5.png">
+</div>
 <p>NCC Sports Championship at Loyang View Secondary School</p>
 <p></p>
 <p><strong>Selected highlights from our past events</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc12.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
+</div>
 <h4><strong>Our CCA Experience</strong></h4>
 <p><em>My experience throughout the 3 years in the National Cadet Corps (NCC) has been transformative, shaping my character and instilling essential life skills and values. One of the key takeaways has been resilience and perseverance. NCC taught me the value of not giving up, pushing through solutions even in tough situations and communicating efficiently with my platoon mates. Through demanding foot and rifle drills training and even my own expectations, I learned discipline, focus and attention to detail — qualities that extend far beyond my CCA session. In addition to my mental fortitude, I also learned how to tie different knots and construct a tent which honed my problem-solving abilities and teamwork with my platoon mates. It taught me the importance of clear communication and cooperation with one another to achieve a common goal. Additionally, the shared experience during the various NCC activities strengthen the bonds of friendship among peers. As a CCA leader in NCC, I have built confidence overtime and taken initiative in guiding my peers to forge a stronger bond amongst this family. With NCC, I can speak up with confidence to peers and guide my juniors through different activities. Overall, my NCC journey has not only equipped me with practical skills but also nurtured values that I can carry into all aspects of my life. It has always been a joyful journey and will always be an unforgettable one.</em>
 <br><strong>–Javan Neo Aik Yong, Unit Sergeant Major (3E3, 2023)</strong>
