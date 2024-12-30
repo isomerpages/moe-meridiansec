@@ -98,6 +98,9 @@ and Military-related Activities</p>
 <h4>2023</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc14.png">
+</div>
 <p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
 <p></p>
 <p></p>
