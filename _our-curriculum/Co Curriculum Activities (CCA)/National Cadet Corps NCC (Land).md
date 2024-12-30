@@ -104,16 +104,35 @@ and Military-related Activities</p>
 <p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc15.jpg">
+</div>
 <p>Our cadets sharing their experiences during Sec 1 CCA Orientation
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc16.png">
+</div>
 <p>Award Ceremony for Orienteering Competition</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc21.png">
+</div>
 <p>Senior Cadets honing their skills through Air Rifle Shooting activity</p>
 <p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc18.png">
+</div>
 <p>Cadet Leaders learning new skills on CPR</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc19.png">
+</div>
 <p>Junior Cadets participating at their Affirmation Ceremony</p>
 <p><em>Cadet Leaders receiving their new 3rd Sergeant Rank</em>
 </p>
