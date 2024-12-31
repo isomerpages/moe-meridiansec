@@ -17,7 +17,6 @@ tutoring sessions from instrumental specialists, master classes with guest
 conductors, team-building activities, public performances, exchange programmes
 with other schools and opportunities to attend various external concerts
 and workshops.</p>
-<p>&nbsp;</p>
 <p>Besides equipping band members with musicianship skills through the wide
 range of exclusive programmes and activities, the band also believes in
 developing confident and competent performers and leaders, offering platforms
@@ -29,8 +28,7 @@ as musicians. To better support our Secondary 1 students, we have the senior
 mentors to guide them.</p>
 <h3>Schedule and Venue</h3>
 <p>Tuesday &amp; Thursday:</p>
-<p>2.30 – 5.30pm</p>
-<p>Auditorium</p>
+<p>2.30 – 5.30pm (Auditorium)</p>
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,13 +53,11 @@ mentors to guide them.</p>
 <p>Mr Gabriel Song</p>
 </li>
 </ul>
-<p></p>
 <h3>Yearly Highlights</h3>
-<p>&nbsp;</p>
-<h4>2024</h4>
+<h4>&nbsp;2024</h4>
+<p></p>
 <p><strong>Singapore International Band Festival (SIBF) – Silver Award</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band1.png">
 </div>
@@ -140,9 +136,8 @@ mentors to guide them.</p>
 </li>
 </ul>
 <h3><strong>Our CCA Experience</strong></h3>
-<p>&nbsp;</p>
-<p>Band has been a huge part of my journey in growth and leadership. Band
-offered me discipline and growth through my countless music practises.
+<p>&nbsp;Band has been a huge part of my journey in growth and leadership.
+Band offered me discipline and growth through my countless music practises.
 There were times when I felt challenged, but it just all adds to the flavours
 of going to band. In band we were given generous amounts of opportunities
 to indulge in music performances and musical workshops, like listening
