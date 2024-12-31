@@ -66,107 +66,102 @@ mentors to guide them.</p>
 <p><strong>Singapore International Band Festival (SIBF) – Silver Award</strong>
 </p>
 <p></p>
-<ul>
-<li>
-<p>2023</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band3.png">
+</div>
+<p></p>
+<p><strong>Hosted of Loyang View Secondary School for a Band Exchange</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band5.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation – Certificate of Accomplishment</p>
+<p>Youth Arts Leaders Conference 2024</p>
+</li>
+<li>
+<p>WBAS Youth Band Festival 2024 Open Call</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h3>2023</h3>
+<p><strong>Singapore Youth Festival Arts Presentation – Certificate of Accomplishment</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_01.jpg">
 </div>
-</li>
+<p></p>
+<p>Band Exchanges to Yuying Secondary School and Presbyterian High School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_02.jpg">
+</div>
+<p><strong>COMWORKS Open Rehearsal – Mentoring of Band members by the Singapore Wind Symphony</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_03.jpg">
+</div>
+<ul data-tight="true" class="tight">
 <li>
 <p>Youth Arts Leaders Conference 2023</p>
 </li>
 <li>
 <p>WBAS Youth Band Festival 2023 Open Call</p>
 </li>
-<li>
-<p>Band Exchanges to Yuying Secondary School and Presbyterian High School</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_02.jpg">
-</div>
-</li>
-<li>
-<p>COMWORKS Open Rehearsal – Mentoring of Band members by the Singapore Wind
-Symphony</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_03.jpg">
-</div>
-</li>
-<li>
-<p>COMWORKS Concert by the Singapore Wind Symphony</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_04.jpg">
-</div>
-</li>
-<li>
-<p>SYF AP VIVA Celebrations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_05.jpg">
-</div>
-</li>
-<li>
-<p>School Performances – Chinese New Year Celebrations &amp; National Day
-Celebrations</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_06.jpg">
-</div>
-</li>
 </ul>
-</li>
-<li>
-<p>2022</p>
+<p></p>
+<h4>2022</h4>
+<p><strong>Singapore International Band Festival (SIBF) – Bronze Award</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band6.png">
+</div>
+<p></p>
+<p><strong>Band and Choir Performance</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band7.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore International Band Festival (SIBF) – Bronze Award</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band01.jpg">
-</div>
-</li>
-<li>
-<p>Band and Choir Performance 2022</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band02.jpg">
-</div>
-</li>
-<li>
-<p>Farewell Party for graduating concert band students</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band03.jpg">
-</div>
-</li>
-<li>
-<p>Youth Arts Leaders Conference</p>
+<p>Youth Arts Leaders Conference 2022</p>
 </li>
 <li>
 <p>WBAS Youth Band Festival 2022 Open Call</p>
 </li>
 </ul>
-</li>
-<li>
-<p>2021</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation – Certificate of Accomplishment</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Band04.jpg">
-</div>
-</li>
-</ul>
-</li>
-</ul>
-<h3>Our CCA Experience</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_07.jpg">
-</div>
-<p><em>Over these 3 years, I have been given the incredible opportunity to play in a symphonic band. It has provided me many transformative experiences. Being part of a group of musicians taught me the importance of teamwork, discipline, and dedication. As the Band Major, it is an experience filled with many challenges. Coordinating practices, performances, and ensuring everyone is in sync requires strong organizational skills. Although there are difficulties, the sense of accomplishment when we play as a band is truly fulfilling. This role has taught me leadership, communication, and a deep appreciation for the power of music in bringing people together</em>
-<br><strong>– Band Major, Muhammad Saif Mishary Bin Muhammad Shahidin (3E1, 2023)</strong>
+<h3><strong>Our CCA Experience</strong></h3>
+<p>&nbsp;</p>
+<p>Band has been a huge part of my journey in growth and leadership. Band
+offered me discipline and growth through my countless music practises.
+There were times when I felt challenged, but it just all adds to the flavours
+of going to band. In band we were given generous amounts of opportunities
+to indulge in music performances and musical workshops, like listening
+to various ochestra performances live or participating in the youth arts
+leaders conference that had definitely built my character as a whole. I
+feel a sense of growth and meaning in my experience in Band!</p>
+<p><strong><em>Brian Yu Zhao Zhi</em></strong>
 </p>
-<p><em>In my three and a half years as a Meridian Symphonic Band member, I can say I have made many unforgettable memories along the way, such as our performances at SYF, National Day, Staff Appreciation Day and many more. Through these events, I have developed qualities such as perseverance and teamwork to enable us to work and play in sync. I'm also very honoured to have been selected for the role of Drum Major this year. Thank you, everyone, for your support, and I hope the band will continue to flourish in the years to come.</em>
-<br><strong>– Drum Major, Muhammad Nor Ubaydillah Bin Khairullah (3E1, 2023)</strong>
+<p>&nbsp;</p>
+<p>Band has been one of those things I’ve especially look forward to after
+a long day of classes at school. It has given me mediums to express myself
+through music, and wonderful various opportunities such as the Singapore
+Youth Festival, Singapore International Band Festival, Festival Winds and
+has even inspired me to play in external community bands!</p>
+<p><strong><em>&nbsp;Cruz Ethan Rod</em></strong>
 </p>
-<p><em>Band is one of the things that I look forward to every week. It has provided me with a wonderful experience especially because of the friends I made along the way. Not only that, I have had various opportunities such as the Singapore International Band Festival, Singapore Youth Festival and instrumental masterclasses!</em>
-<br><strong>– Student Conductor, Casido Gim Isabella, (3E4, 2023)</strong>
-</p>
+<p></p>
