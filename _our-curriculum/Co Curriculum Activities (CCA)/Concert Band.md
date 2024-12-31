@@ -75,17 +75,17 @@ mentors to guide them.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band3.png">
 </div>
 <p></p>
 <p><strong>Hosted of Loyang View Secondary School for a Band Exchange</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band4.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band5.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,17 +101,17 @@ mentors to guide them.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_01.jpg">
 </div>
 <p></p>
 <p>Band Exchanges to Yuying Secondary School and Presbyterian High School</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_02.jpg">
 </div>
 <p><strong>COMWORKS Open Rehearsal – Mentoring of Band members by the Singapore Wind Symphony</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_03.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_03.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,14 +127,14 @@ mentors to guide them.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band6.png">
 </div>
 <p></p>
 <p><strong>Band and Choir Performance</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band7.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
