@@ -6,16 +6,11 @@ third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
 <h3>About Us</h3>
-<p></p>
-<p><strong>About Us</strong>
-</p>
-<p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Under</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;
-the baton of our main band conductors, Mr Pan Chee Mun and Mr Gabriel Song,
-the Meridian Concert Band aims to provide positive and enriching student
-development experiences (SDEs) for our members.</p>
+<p>Under the baton of our main band conductors, Mr Pan Chee Mun and Mr Gabriel
+Song, the Meridian Concert Band aims to provide positive and enriching
+student development experiences (SDEs) for our members.</p>
 <p>&nbsp;</p>
-<h3><strong>Our Objectives</strong></h3>
+<h3>Our Objectives</h3>
 <p>We believe that students learn best from experiences and exposure, and
 that is why the band programme includes an array of activities – such as
 tutoring sessions from instrumental specialists, master classes with guest
@@ -60,6 +55,7 @@ mentors to guide them.</p>
 <p>Mr Gabriel Song</p>
 </li>
 </ul>
+<p></p>
 <h3>Yearly Highlights</h3>
 <p>&nbsp;</p>
 <h4>2024</h4>
@@ -104,7 +100,8 @@ mentors to guide them.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_01.jpg">
 </div>
 <p></p>
-<p>Band Exchanges to Yuying Secondary School and Presbyterian High School</p>
+<p><strong>Band Exchanges to Yuying Secondary School and Presbyterian High School</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/concert_band_2023_02.jpg">
 </div>
@@ -125,14 +122,12 @@ mentors to guide them.</p>
 <h4>2022</h4>
 <p><strong>Singapore International Band Festival (SIBF) – Bronze Award</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band6.png">
 </div>
 <p></p>
 <p><strong>Band and Choir Performance</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Concert Band/band7.png">
 </div>
