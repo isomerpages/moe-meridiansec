@@ -9,7 +9,7 @@ variant: tiptap
 and regulations, student progression criteria to the next level, and other
 helpful details.</p>
 <p>Click <a href="/files/Handbooks and Letters/Student_Handbook_2025__uploaded_31_Dec_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here </u></a>to
-download the 2025 E-Student Handbook.</p>
+download the 2025 E-Student Handbook <em>(uploaded on 31 Dec)</em>.</p>
 <h4>School Letter</h4>
 <p>The annual school letter provides information for student before the start
 of the year.</p>
