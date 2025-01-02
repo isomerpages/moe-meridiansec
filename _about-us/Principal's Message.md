@@ -52,7 +52,7 @@ in our students. When all the adults practice mutual courtesy and respect
 as encapsulated in the charter, we will ensure not only a safe work environment
 for staff to thrive in but also lead to an eco-system that fosters both
 purposeful individual agency and collective community excellence.</p>
-<p>&nbsp;As Meridian approaches it’s 10<sup>th</sup> year, there is no doubt
+<p>&nbsp;As Meridian approaches its 10<sup>th</sup> year, there is no doubt
 that our community, our country, the world and life itself, will continue
 to evolve. But unlike the cliché of evolution being a process of survival
 of the fittest, we believe that evolution should enable all to flourish
