@@ -161,9 +161,5 @@ form teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
 <p><a href="/files/Timetable Matters/2025_Semester_1_ILD_Schedule.pdf" rel="noopener nofollow" target="_blank">Semester 1 ILD Schedule</a>
 </p>
-<p><a href="/files/Timetable Matters/2025_Semester_1_Remedial_Schedule_For_School_Website_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 1 Remedial Schedule (Updated on 2 January)</a>
+<p><a href="/files/Timetable Matters/2025_Semester_1_Remedial_Schedule_For_School_Website_V2.pdf" rel="noopener nofollow" target="_blank">Semester 1 Remedial Schedule (Updated on 2 January)</a>
 </p>
-<p></p>
-<p></p>
-<h4></h4>
-<p></p>
