@@ -74,4 +74,11 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
+  - infopic:
+      title: 2024 Release of O Level Results
+      id: infopic
+      description: ""
+      button: Button Text
+      image: /images/Announcements/IMG_4034.jpg
+      alt: Image alt text
 ---
