@@ -170,7 +170,7 @@ the Sec 1 Registration Form.</p>
 <p><a href="/files/Sec 1 Registration 2025/2025_Sec_1_Orientation_Programme_School_Website.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Orientation Programme School</a>
 </p>
 <h4><strong>9. Secondary 1 Parent Engagement Session</strong></h4>
-<p>The session will be held on <strong>8 January 2025 (Thursday), 6pm</strong> via
+<p>The session will be held on <strong>8 January 2025 (Wednesday), 6pm</strong> via
 MS Teams. More information on the session will sent via PG when school
 reopens.</p>
 <p>Agenda:</p>
