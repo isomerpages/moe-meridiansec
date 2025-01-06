@@ -21,6 +21,14 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infopic:
+      title: 2024 Release of O Level Results
+      id: infopic
+      description: The 2024 O Level results will be released on 10 Jan 2025 (Fri).
+      button: Find out more
+      image: /images/Announcements/IMG_4034.jpg
+      alt: Image alt text
+      url: https://www.meridiansec.moe.edu.sg/2024-release-of-o-level-results/
   - infobar:
       title: Sec 1 Registration
       id: infobar
@@ -74,12 +82,4 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
-  - infopic:
-      title: 2024 Release of O Level Results
-      id: infopic
-      description: The 2024 O Level results will be released on 10 Jan 2025 (Fri).
-      button: Find out more
-      image: /images/Announcements/IMG_4034.jpg
-      alt: Image alt text
-      url: https://www.meridiansec.moe.edu.sg/2024-release-of-o-level-results/
 ---
