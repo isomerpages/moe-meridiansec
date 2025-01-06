@@ -54,6 +54,14 @@ sections:
       image: /images/2024_MSS_Open_House_for_P6.jpg
       button: FIND OUT MORE
   - infopic:
+      title: Full Subject-Based Banding (Full SBB)
+      description: Meridian Secondary School will be embarking on a Full Subject-Based
+        Banding for our Secondary 1 students from 2023.
+      button: Find out more
+      url: student-information/full-sbb/
+      image: /images/Homepage and Logos/teacher and students.jpg
+      alt: FSBB Poster
+  - infopic:
       title: Meridian Making Waves
       id: infopic
       description: Click below to find out more about our Meridians who have been
@@ -71,14 +79,6 @@ sections:
       url: /student-information/2023-o-level-release-of-results/
       image: /images/Homepage and Logos/Hand_in_Hand.jpg
       alt: Image alt text
-  - infopic:
-      title: Full Subject-Based Banding (Full SBB)
-      description: Meridian Secondary School will be embarking on a Full Subject-Based
-        Banding for our Secondary 1 students from 2023.
-      button: Find out more
-      url: student-information/full-sbb/
-      image: /images/Homepage and Logos/teacher and students.jpg
-      alt: FSBB Poster
   - resources:
       title: Announcements
       button: Access all announcements
