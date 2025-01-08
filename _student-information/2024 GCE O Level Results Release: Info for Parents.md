@@ -37,11 +37,27 @@ your teen about their interests and choices and build their pathways together.</
 <h4><strong>Resources for Parents</strong></h4>
 <p>For more resources on providing social and emotional support, affirming
 your teen, and supporting your teen’s transition through post O-Level education,
-please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents.</a>
 </p>
 <p>&nbsp;You can access ECG resources via&nbsp; the <em>What’s Next</em> pamphlet
 <a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>and the <em>MySkillsFuture </em>Student
-Portal (<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>).</p>
+Portal <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
+<p></p>
+<h4><strong>Education and Career Guidance Support</strong></h4>
+<p>Students are encouraged to explore the range of education and career pathways
+available to them to make informed decisions about their next steps. They
+may refer to the following websites for more information:</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+MOE’s CourseFinder <a rel="noopener noreferrer nofollow" target="_blank">moe.gov.sg/coursefinder</a>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+<p></p>
+<p>Students may also consult their teachers or ECG Counsellors in their respective
+secondary schools about their next steps. Alternatively, they can make
+an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
+The ECG Centre @ MOE offers online or phone counselling services from 6
+to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
