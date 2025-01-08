@@ -34,7 +34,7 @@ be especially valuable and crucial in helping our teens manage their emotions
 and be positive when deciding on their next steps.</p>
 <p>&nbsp;Do take this opportunity to have further open conversations with
 your teen about their interests and choices and build their pathways together.</p>
-<h4><strong>Resources for Parents</strong></h4>
+<h4>Resources for Parents</h4>
 <p>For more resources on providing social and emotional support, affirming
 your teen, and supporting your teen’s transition through post O-Level education,
 please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents.</a>
@@ -43,7 +43,7 @@ please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/
 <a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>and the <em>MySkillsFuture </em>Student
 Portal <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
 <p></p>
-<h4><strong>Education and Career Guidance Support</strong></h4>
+<h4>Education and Career Guidance Support</h4>
 <p>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
@@ -53,9 +53,6 @@ MOE’s CourseFinder <a href="https://www.moe.gov.sg/coursefinder" rel="noopener
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 MySkillsFuture Student Portal <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>Students may also consult their teachers or ECG Counsellors in their respective
 secondary schools about their next steps. Alternatively, they can make
