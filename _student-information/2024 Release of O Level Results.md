@@ -21,7 +21,7 @@ their results from the school.</p>
 <p>6. Parents/Guardians are invited to be present during the release of results.</p>
 <p></p>
 <h3>Find Out More Info</h3>
-<p><a href="/2024-gce-o-level-results-release-info-for-parents/" rel="noopener nofollow" target="_blank">For Parents</a>
+<p><a href="/gce-o-level-results-info-for-parents/" rel="noopener nofollow" target="_blank">For Parents</a>
 </p>
 <p><a href="/2024-gce-o-level-results-release-info-for-students/" rel="noopener nofollow" target="_blank">For Students</a>
 </p>
