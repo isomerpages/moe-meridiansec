@@ -4,7 +4,7 @@ permalink: /2024-gce-o-level-results-release-info-for-parents/
 variant: tiptap
 description: ""
 ---
-<h4>2024 GCE O-Level Results Release: Supporting Your Teen</h4>
+<h4>Supporting Your Teen</h4>
 <p>Dear Parents / Guardians of Secondary 4E &amp; 5N Meridians,</p>
 <p>The 2024 O-Level results will be released on Friday, 10 Jan 2025. Arrangements
 have been made for students to receive their results from 2.30 pm onwards.
