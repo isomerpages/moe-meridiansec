@@ -41,7 +41,8 @@ please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/
 <p>&nbsp;You can access ECG resources via&nbsp; the <em>What’s Next</em> pamphlet
 <a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>and the <em>MySkillsFuture </em>Student
 Portal <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
-<p></p>
+<p><a href="/files/GCE O Level  2024/2___For_Parents__2024_Supporting_Your_Teen.pdf" rel="noopener nofollow" target="_blank">Supporting Your Teen</a>
+</p>
 <h4>Education and Career Guidance Support</h4>
 <p>Students are encouraged to explore the range of education and career pathways
 available to them to make informed decisions about their next steps. They
@@ -58,5 +59,8 @@ secondary schools about their next steps. Alternatively, they can make
 an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://form.gov.sg/65acbdaf19b4f200123054bb" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
 The ECG Centre @ MOE offers online or phone counselling services from 6
 to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
+<p><a href="/files/GCE O Level  2024/3___For_Parents__2024_ECG_Tips_for_Parents.pdf" rel="noopener nofollow" target="_blank">ECG Tips for Parents</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
