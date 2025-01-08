@@ -40,8 +40,8 @@ your teen, and supporting your teen’s transition through post O-Level educatio
 please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
 <p>&nbsp;You can access ECG resources via&nbsp; the <em>What’s Next</em> pamphlet
-(<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>)
-and the <em>MySkillsFuture </em>Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>).</p>
+<a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>and the <em>MySkillsFuture </em>Student
+Portal (<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>).</p>
 <p></p>
 <p><strong>&nbsp;</strong>
 </p>
