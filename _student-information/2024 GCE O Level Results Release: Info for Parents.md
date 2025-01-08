@@ -4,3 +4,46 @@ permalink: /2024-gce-o-level-results-release-info-for-parents/
 variant: tiptap
 description: ""
 ---
+<h4>&nbsp;<strong>2024 GCE O-Level Results Release: </strong></h4>
+<p><strong>2024 GCE O-Level Results Release: Supporting Your Teen</strong>
+</p>
+<p></p>
+<p>Dear Parents / Guardians of Secondary 4E &amp; 5N Meridians,</p>
+<p>&nbsp;The 2024 O-Level results will be released on Friday, 10 Jan 2025.
+Arrangements have been made for students to receive their results from
+2.30 pm onwards. Students must be in school attire and personal grooming
+to receive their results from their form teachers in the school hall.&nbsp;
+Students who are unwell should seek medical attention and not return to
+school to collect their results.</p>
+<p>Students who are unable to collect their results in person can also appoint
+a proxy to collect a physical copy of their results from the school. Proxies
+are required to produce the relevant documents for the school’s verification
+when collecting the results. You may contact the school for assistance
+with the appointment of a proxy.</p>
+<p>&nbsp;Parents / Guardians are invited to be present during the release
+of results. The school will be opened from 2.00 pm onwards. Please be seated
+by 2.20 pm.</p>
+<p>&nbsp;If there are insufficient parking spaces in the school compound,
+parents / guardians can park their vehicles at the nearby HDB car parks.</p>
+<p>&nbsp;(PDPA) Invited parents / guardians are reminded to take images (photos/videos)
+or post images on social media of your own child / ward only. Please respect
+the privacy of our students by refraining from taking or posting images
+of other students.&nbsp;</p>
+<p>&nbsp;Regardless of the outcome, it is important for our teens to know
+that they are loved for who they are, and that their grades do not define
+them or their future. The social and emotional support you provide will
+be especially valuable and crucial in helping our teens manage their emotions
+and be positive when deciding on their next steps.</p>
+<p>&nbsp;Do take this opportunity to have further open conversations with
+your teen about their interests and choices and build their pathways together.</p>
+<h4><strong>Resources for Parents</strong></h4>
+<p>For more resources on providing social and emotional support, affirming
+your teen, and supporting your teen’s transition through post O-Level education,
+please refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>.</p>
+<p>&nbsp;You can access ECG resources via&nbsp; the <em>What’s Next</em> pamphlet
+(<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>)
+and the <em>MySkillsFuture </em>Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>).</p>
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
