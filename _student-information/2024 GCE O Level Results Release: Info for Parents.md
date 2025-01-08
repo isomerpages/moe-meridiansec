@@ -59,11 +59,8 @@ MySkillsFuture Student Portal <a href="https://www.myskillsfuture.gov.sg/content
 <p></p>
 <p>Students may also consult their teachers or ECG Counsellors in their respective
 secondary schools about their next steps. Alternatively, they can make
-an ECG counselling appointment via the ECG Centre @ MOE at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>. The ECG
-Centre @ MOE offers online or phone counselling services from 6 to 16 January
-2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
+an ECG counselling appointment via the ECG Centre @ MOE at <a href="https://form.gov.sg/65acbdaf19b4f200123054bb" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-ecg-centre</a>.
+The ECG Centre @ MOE offers online or phone counselling services from 6
+to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
-</p>
+<p></p>
