@@ -19,4 +19,16 @@ to school to collect their results.</p>
 their Form Teacher to arrange for a proxy to collect a physical copy of
 their results from the school.</p>
 <p>6. Parents/Guardians are invited to be present during the release of results.</p>
+<h3>More Info</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/2024-gce-o-level-results-release-info-for-students/" rel="noopener nofollow" target="_blank">GCE-O-Level Results Info For Students</a>
+</p>
+</li>
+<li>
+<p><a href="/2024-gce-o-level-results-release-info-for-parents/" rel="noopener nofollow" target="_blank">GCE-O-Level Results for Parents</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
