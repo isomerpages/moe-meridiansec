@@ -51,7 +51,11 @@ may refer to the following websites for more information:</p>
 MOE’s CourseFinder <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mysfsec</a>)</p>
+MySkillsFuture Student Portal <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p>Students may also consult their teachers or ECG Counsellors in their respective
 secondary schools about their next steps. Alternatively, they can make
