@@ -59,11 +59,5 @@ around</p>
 </p>
 </li>
 </ul>
-<h3>Resource for Students</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Steps_to_Personalise_Your_Self_Regulation_Site.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One e-Journal</a>
-</p>
-</li>
-</ul>
+<h3></h3>
 <p></p>
