@@ -54,8 +54,11 @@ around</p>
 <p><a href="/files/Handbooks and Letters/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 2 - 2024</a>
 </p>
 </li>
+<li>
+<p><a href="/files/NDLP Resources/MSS_Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">MSS Parent Engagement Deck 2025</a>
+</p>
+</li>
 </ul>
-<p></p>
 <h3>Resource for Students</h3>
 <ul data-tight="true" class="tight">
 <li>
