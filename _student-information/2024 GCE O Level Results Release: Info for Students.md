@@ -23,7 +23,7 @@ to 16 January 2025, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p
 <p></p>
 <p><a href="/files/GCE O Level  2024/2___For_Students__Managing_Emotions.pdf" rel="noopener nofollow" target="_blank">Managing Emotions</a>
 </p>
-<p><a href="/files/GCE O Level  2024/3___For_Students__2025_N_Level_ECG_Resource.pdf" rel="noopener nofollow" target="_blank">N Level ECG Resource</a>
+<p><a href="/files/GCE O Level  2024/3___For_Students__2025_N_Level_ECG_Resource.pdf" rel="noopener nofollow" target="_blank">O Level ECG Resource</a>
 </p>
 <p><a href="/files/GCE O Level  2024/4___For_Students__2025_Factsheet_for_students.pdf" rel="noopener nofollow" target="_blank">Factsheet for students</a>
 </p>
