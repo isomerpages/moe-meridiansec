@@ -7,5 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Please refer to the attachment for the briefing slides.</p>
+<p></p>
 <p><a href="/files/GCE O Level  2024/1___For_Students__2024_O_Level_Results_Day_Briefing.pdf" rel="noopener nofollow" target="_blank">O Level Results Day Briefing</a>
 </p>
