@@ -22,6 +22,14 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: O Level Results Day Briefing
+      id: infopic
+      description: Admission and Briefing Slides
+      button: FIND OUT MORE
+      url: /2014-o-levels-results-day-briefing/
+      image: /images/Announcements/o_level_results_release_imag.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Release of O Level Results
       id: infopic
       description: The 2024 O Level results will be released on 10 Jan 2025 (Fri).
@@ -82,4 +90,10 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
