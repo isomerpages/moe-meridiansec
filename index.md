@@ -27,7 +27,7 @@ sections:
       description: Admission and Briefing Slides
       button: FIND OUT MORE
       url: /2014-o-levels-results-day-briefing/
-      image: /images/Announcements/o_level_results_release_imag.jpg
+      image: /images/Announcements/welcome_back.jpg
       alt: Image alt text
   - infopic:
       title: 2024 Release of O Level Results
