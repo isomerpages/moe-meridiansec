@@ -79,8 +79,8 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At Meridian Secondary School, the following Sexuality Education lessons will be taught in 2025</strong>
 </p>
-<h4></h4>
-<h4>&nbsp;2025 Sexuality Education Lessons in CCE</h4>
+<p></p>
+<h4>2025 Sexuality Education Lessons in CCE</h4>
 <p>&nbsp;<strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 125px">
@@ -699,6 +699,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>eTeens Programme:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
