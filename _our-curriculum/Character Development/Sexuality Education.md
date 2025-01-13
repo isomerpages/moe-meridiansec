@@ -28,7 +28,7 @@ matters.</p>
 Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,6 @@ Make responsible decisions for yourself, your family and society; and</p>
 Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
 <h4>Overview of Meridian Secondary School’s Sexuality Education Programme for 2025</h4>
@@ -73,16 +72,15 @@ responsibly.&nbsp; Given the pressures faced by the middle adolescent from
 within themselves and from peers, it is important to build a strong sense
 of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
 lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>&nbsp;</p>
-<h4>&nbsp;At Meridian Secondary School, the following Sexuality Education lessons will be taught in 2025:</h4>
-<p><strong>&nbsp;2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>At Meridian Secondary School, the following Sexuality Education lessons will be taught in 2025</strong>
 </p>
+<h4></h4>
+<h4>&nbsp;2025 Sexuality Education Lessons in CCE</h4>
 <p>&nbsp;<strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 125px">
@@ -339,7 +337,8 @@ and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p>Secondary 3</p>
+<p><strong>Secondary 3</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
