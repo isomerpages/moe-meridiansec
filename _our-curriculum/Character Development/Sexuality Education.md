@@ -776,8 +776,8 @@ programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the Sexuality Education lessons need to complete an opt-out form. This
 form will be communicated to parents at the start of the year and is also
-downloadable <a href="Sexuality Education Lessons Parent Opt-out Form 2025 - Meridian Secondary School | FormSG" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 22/01/2025.</p>
+downloadable <a href="https://form.gov.sg/678465dd9b92dd0156fcb331" rel="noopener nofollow" target="_blank">here</a> The
+completed form is to be submitted by 22/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the eTeens programme need to complete an opt-out form. This form will
 be communicated to parents at the start of the year and is also downloadable
