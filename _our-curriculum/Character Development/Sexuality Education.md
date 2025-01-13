@@ -85,7 +85,6 @@ which are of prime concern at this age.</p>
 </p>
 <p>&nbsp;<strong>Secondary 1</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -213,7 +212,8 @@ falsehoods, flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<h4>Secondary 2</h4>
+<p><strong>Secondary 2</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -339,8 +339,7 @@ and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Secondary 3</h4>
+<p>Secondary 3</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -475,8 +474,8 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Secondary 4</h4>
+<p><strong>Secondary 4</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -640,9 +639,8 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<h4>Secondary 5</h4>
-<p></p>
+<p>&nbsp;<strong>Secondary 5</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -702,9 +700,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;eTeens Programme:</p>
+<h4>eTeens Programme:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
@@ -720,7 +716,6 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p>At Meridian Secondary School, the eTeens programme will be implemented
 as follows in 2025:</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
