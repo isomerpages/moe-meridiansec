@@ -30,11 +30,11 @@ lieu of their school-based CCA.</p>
 find out more)</p>
 </li>
 <li>
-<p>Water Polo (Click <strong><a href="/files/CCA Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+<p>Water Polo (Click <strong><a href="/files/CCA Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
 find out more)</p>
 </li>
 <li>
-<p>Canoeing (Click&nbsp;<strong><a href="https://www.meridiansec.moe.edu.sg/files/CCA%20Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+<p>Canoeing (Click&nbsp;<strong><a href="/files/CCA Matters/5__SP_CCA_Poster_2025_Canoeing.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;</strong>to
 find out more)</p>
 </li>
 <li>
