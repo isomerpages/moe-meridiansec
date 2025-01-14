@@ -13,8 +13,8 @@ the following CCAs that are offered by the cluster schools as one of their
 CCA options* in their CCA option form, subject to availability. This collaboration
 encourages students from different schools to interact and collaborate,
 fostering a sense of community beyond their immediate school environment.
-Click <strong><a href="/files/CCA Matters/SP_CCA_FAQs_For_Parents_Students__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>
-<a href="/files/CCA Matters/SP_CCA_FAQs_For_Parents_Students__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>to find out more.</p>
+Click <strong><a href="/files/CCA Matters/SP_CCA_FAQs_For_Parents_Students__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+find out more.</p>
 <p>&nbsp;</p>
 <h4>Strategic Partnership Co-Curricular Activities (SP-CCA)</h4>
 <p>The Ministry of Education (MOE) has partnered the Ministry of Culture,
