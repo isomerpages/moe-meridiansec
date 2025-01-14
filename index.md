@@ -90,10 +90,4 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
