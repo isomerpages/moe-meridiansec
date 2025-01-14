@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Application for Leave of Absence (LOA).md
       - "2024 GCE O Level Results Release: Info for Students.md"
       - "2024 GCE O Level Results Release: Info for Parents.md"
       - 2024 Release of O Level Results.md
@@ -10,6 +9,7 @@ collections:
       - 2025 Sec 1 Registration/2025 Sec 1 Registration.md
       - 2025 Sales and Collections of Textbooks and Uniform.md
       - 2025 MOE FAS Application.md
+      - Application for Leave of Absence (LOA).md
       - e–Student Handbook and School Letter.md
       - Student Timetable.md
       - Student Assessment.md
