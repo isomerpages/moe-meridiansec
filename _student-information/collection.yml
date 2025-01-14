@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Application for Leave of Absence (LOA).md
       - "2024 GCE O Level Results Release: Info for Students.md"
       - "2024 GCE O Level Results Release: Info for Parents.md"
       - 2024 Release of O Level Results.md
