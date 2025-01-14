@@ -26,19 +26,19 @@ lieu of their school-based CCA.</p>
 <p>&nbsp;The following CCAs are offered through this programme:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Athletics (Click <strong><a href="/files/CCA Matters/4__SP_CCA_Athletics_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+<p>Athletics (Click <a href="/files/CCA Matters/3__SP_CCA_Athletics_Poster__28102024_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more)</p>
 </li>
 <li>
-<p>Water Polo (Click <strong><a href="/files/CCA Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+<p>Water Polo (Click <a href="/files/CCA Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more)</p>
 </li>
 <li>
-<p>Canoeing (Click&nbsp;<strong><a href="/files/CCA Matters/5__SP_CCA_Poster_2025_Canoeing.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;</strong>to
+<p>Canoeing (Click&nbsp;<a href="/files/CCA Matters/5__SP_CCA_Poster_2025_Canoeing.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 find out more)</p>
 </li>
 <li>
-<p>Ethnic Dance (Click <strong><a href="/files/CCA Matters/4__SP_CCA_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
+<p>Ethnic Dance (Click <a href="/files/CCA Matters/4__SP_CCA_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
 find out more)</p>
 </li>
 </ul>
