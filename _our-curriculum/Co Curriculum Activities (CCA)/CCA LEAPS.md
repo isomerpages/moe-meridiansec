@@ -21,5 +21,4 @@ Junior Colleges/ Polytechnics/ Institutes of Education (JC/Poly/ITE).</p>
 <p>You may click <a href="/files/CCA%20Matters/CCA-LEAPS-2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find more details on the CCA LEAPS 2.0.</p>
 <p>For enquiries, please contact:
-<br>Mr. Quaide Millath, HOD PE &amp; CCA at <a href="mailto:quaide_millath@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quaide_millath@moe.edu.sg</a>
-</p>
+<br>Mr. Quaide Millath, HOD PE &amp; CCA at</p>
