@@ -42,5 +42,6 @@ find out more)</p>
 </li>
 </ul>
 <p>For enquiries, please contact:
-<br>Mr. Quaide Millath, HOD PE &amp; CCA at&nbsp;</p>
+<br>Mr. Quaide Millath, HOD PE &amp; CCA at&nbsp;<a href="mailto:quaide_millath@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quaide_millath@moe.edu.sg</a> 
+</p>
 <p></p>
