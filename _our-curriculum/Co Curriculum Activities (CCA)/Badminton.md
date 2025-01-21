@@ -46,7 +46,7 @@ while promoting good character development.</p>
 <p></p>
 </li>
 </ol>
-<h3>Coaches </h3>
+<h3>Coaches</h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Alex
 Teo jun Bao</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Ong Yuan
