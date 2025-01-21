@@ -145,6 +145,17 @@ variant: tiptap
 <p>Please refer to the attachment for the detailed weekly schedule, assessment
 mode and the assessment task/topics assessed.</p>
 <p></p>
+<p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 1</a>
+</p>
+<p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 2</a>
+</p>
+<p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_3.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 3</a>
+</p>
+<p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_4.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 4</a>
+</p>
+<p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_5.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 5</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p>
