@@ -8,8 +8,8 @@ variant: tiptap
 <h3>About Us</h3>
 <p>The MSS Badminton CCA consists of both girls and boys team. The National
 Badminton School Games (NSG) is the annual highlight, in which the team
-competes in singles and double matches under the ‘B’ and ‘C’ divisions.</p>
-<h3>Our Objective</h3>
+competes in singles and double matches under the ‘B’ and ‘C’ divisions*.</p>
+<p>Our Objective:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To develop members’ badminton, playing skills, fitness level and game
@@ -43,13 +43,15 @@ while promoting good character development.</p>
 </li>
 <li>
 <p>Mdm Selvi Varathappan</p>
+<p></p>
 </li>
 </ol>
 <h3>Coaches</h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Alex
-Teo Jun Bao</p>
+Teo jun Bao</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Ong Yuan
 Hao</p>
+<p></p>
 <h3>Highlight of events in recent years</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,6 +71,7 @@ Hao</p>
 </li>
 <li>
 <p>Values-In-Action (VIA) activities : Badminton Rally &amp; Smash</p>
+<p></p>
 </li>
 </ul>
 <h3>Achievements</h3>
@@ -84,10 +87,9 @@ Hao</p>
 crowd participation. Students exhibited good sports management skills.</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Links to social media </strong>: <a href="https://www.instagram.com/meridian.badminton/" rel="noopener nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
+<p>&nbsp;<strong>Links to social media </strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
 </p>
-<h3><strong>Our players</strong></h3>
+<h3>Our players</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="B girls" src="/images/CCA/Badminton 2024/B_girls.jpg">
