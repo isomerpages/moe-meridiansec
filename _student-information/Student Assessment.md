@@ -4,7 +4,7 @@ permalink: /student-information/student-assessment/
 description: ""
 variant: tiptap
 ---
-<h3>2025 Assessment Weightings</h3>
+<h2>2025 Assessment Weightings</h2>
 <h4>For Secondary 1 to 3</h4>
 <table style="minWidth: 125px">
 <colgroup>
