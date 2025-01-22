@@ -39,13 +39,16 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weighted Assessment (WA 1)</p>
+<p>Weighted Assessment</p>
+<p>(WA 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weighted Assessment (WA 2)</p>
+<p>Weighted Assessment</p>
+<p>(WA 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weighted Assessment (WA 3)</p>
+<p>Weighted Assessment</p>
+<p>(WA 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End-of-Year Examination</p>
@@ -130,7 +133,7 @@ variant: tiptap
 <p></p>
 <h3>Semester 1 Weighted Assessments (WAs) Schedule</h3>
 <p>&nbsp;<strong>Semester 1</strong> Weighted Assessments (WAs) Schedule</p>
-<p>&nbsp;The Weighted Assessments (WAs) will be conducted for</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Term 1 will be conducted between 3 to 28 February 2025, and</p>
@@ -139,8 +142,8 @@ variant: tiptap
 <p>Term 2 will be conducted between 21 April to 16 May 2025.</p>
 </li>
 </ul>
-<p>&nbsp;Please refer to the attachment for the detailed weekly schedule,
-assessment mode and the assessment task/topics assessed.</p>
+<p>Please refer to the attachment for the detailed weekly schedule, assessment
+mode and the assessment task/topics assessed.</p>
 <p></p>
 <p><a href="/files/Assessment Matters/2025_Semester_1_Weighted_Assessment_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule SEC 1</a>
 </p>
