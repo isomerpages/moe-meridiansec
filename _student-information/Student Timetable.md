@@ -163,4 +163,14 @@ Learning Day.</p>
 </p>
 <p><a href="/files/Timetable Matters/2025_Semester_1_Remedial_Schedule_For_School_Website_V2.pdf" rel="noopener nofollow" target="_blank">Semester 1 Remedial Schedule (latest update)</a>
 </p>
+<p><strong>How to read the timetable</strong>
+</p>
+<p>The school calendar can be found in this link: <a href="https://www.meridiansec.moe.edu.sg/calendar/" rel="noopener noreferrer nofollow" target="_blank">https://www.meridiansec.moe.edu.sg/calendar/</a>
+</p>
+<p>In the calendar, the term &amp; week are numbered under the Sunday column
+for each week. E.g. Term 1 Wk1, Term 1 Wk2, so on and so forth. Odd weeks
+are labeled Wk1,3,5,7,9 and even weeks are labeled Wk2,4,5,6,8,10.</p>
+<p>The sequencing of the weeks are based on the dates for the academic terms
+set out by MOE: <a href="https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20240812-school-terms-and-holidays-for-2025</a>
+</p>
 <p></p>
