@@ -9,6 +9,25 @@ variant: tiptap
 </p>
 <p>We encourage all Meridians to be innovative, develop resilience and learn
 from their experiences. Here, we showcase some of their success stories.</p>
+<h3>2025</h3>
+<h4>Our Singapore Leadership Programme</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evangeline_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evangeline_2.png">
+</div>
+<p>Our student, Evangeline, was one of the participants who took part in
+“Our Singapore Leadership Programme”. This programme is co-organised by
+National Youth Council (NYC) and National Community Leadership Institute
+(NACLI), in partnership with Ministry of Education (MOE). It aims to advance
+the understanding and appreciation of national perspectives of outstanding
+student leaders who will play a key role in shaping our nation’s future.
+Listen to Evangeline as she tells us about her experiences in this programme.</p>
+<p>Click on the link here: <a href="https://www.youtube.com/watch?v=k5-32mv07PQ" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=k5-32mv07PQ</a>
+</p>
+<p></p>
 <h3>2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -113,7 +132,12 @@ have received the Peter Lim Scholarship 2015.</p>
 </div>
 <p>They are:</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -364,7 +388,11 @@ this! Your hardwork will definitely be paid off.”</p>
 <p>We are pleased to share that our Alumni have done very well for their
 studies at Republic Polytechnic. They are among the Outstanding RP graduates.</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -593,7 +621,12 @@ have received the Peter Lim Scholarship 2015.</p>
 </div>
 <p>They are –</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
