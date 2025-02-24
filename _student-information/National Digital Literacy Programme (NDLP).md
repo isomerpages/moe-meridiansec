@@ -49,13 +49,16 @@ around</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parent Handbook On Learning With A Personal Learning Device (I) 2025</p>
+<p><a href="/files/NDLP Resources/Parent_Handbook_On_Learning_With_A_Personal_Learning_Device__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook On Learning With A Personal Learning Device (I) 2025</a>
+</p>
 </li>
 <li>
-<p>Parent Handbook On Learning With A Personal Learning Device (II) 2025</p>
+<p><a href="/files/NDLP Resources/Parent_Handbook_On_Learning_With_A_Personal_Learning_Device__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook On Learning With A Personal Learning Device (II) 2025</a>
+</p>
 </li>
 <li>
-<p>Parent Kit - Raising A Digitally Smart Child</p>
+<p><a href="/files/NDLP Resources/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Raising A Digitally Smart Child</a>
+</p>
 </li>
 <li>
 <p>MOE - Practising Cyber Wellness</p>
@@ -63,8 +66,7 @@ around</p>
 </ul>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>DMA</strong>
-</p>
+<h3>DMA</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/NDLP Resources/Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet on MOE DMA Settings</a>
