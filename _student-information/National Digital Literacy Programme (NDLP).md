@@ -61,7 +61,8 @@ around</p>
 </p>
 </li>
 <li>
-<p>MOE - Practising Cyber Wellness</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">MOE - Practising Cyber Wellness</a>
+</p>
 </li>
 </ul>
 <p><strong>&nbsp;</strong>
