@@ -67,16 +67,20 @@ around</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Infosheet on MOE DMA Settings</p>
+<p><a href="/files/NDLP Resources/Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener noreferrer nofollow" target="_blank">Infosheet on MOE DMA Settings</a>
+</p>
 </li>
 <li>
-<p>Parent User Guide for Default Option</p>
+<p><a href="/files/NDLP Resources/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Default Option</a>
+</p>
 </li>
 <li>
-<p>Parent User Guide for Option A</p>
+<p><a href="/files/NDLP Resources/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option A</a>
+</p>
 </li>
 <li>
-<p>Parent User Guide for Option B</p>
+<p><a href="/files/NDLP Resources/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option B</a>
+</p>
 </li>
 </ul>
 <h3></h3>
