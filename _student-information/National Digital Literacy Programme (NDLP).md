@@ -45,18 +45,38 @@ around</p>
 </li>
 </ol>
 <h3>Resources for Parents</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Handbooks and Letters/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 1 - 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Handbooks and Letters/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 2 - 2024</a>
-</p>
-</li>
-<li>
 <p><a href="/files/NDLP Resources/MSS_Parent_Engagement_Deck_2025.pdf" rel="noopener nofollow" target="_blank">MSS Parent Engagement Deck 2025</a>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parent Handbook On Learning With A Personal Learning Device (I) 2025</p>
+</li>
+<li>
+<p>Parent Handbook On Learning With A Personal Learning Device (II) 2025</p>
+</li>
+<li>
+<p>Parent Kit - Raising A Digitally Smart Child</p>
+</li>
+<li>
+<p>MOE - Practising Cyber Wellness</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>DMA</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Infosheet on MOE DMA Settings</p>
+</li>
+<li>
+<p>Parent User Guide for Default Option</p>
+</li>
+<li>
+<p>Parent User Guide for Option A</p>
+</li>
+<li>
+<p>Parent User Guide for Option B</p>
 </li>
 </ul>
 <h3></h3>
