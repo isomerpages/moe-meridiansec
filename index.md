@@ -21,6 +21,20 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infobar:
+      title: Collection of Testimonials for 2024 cohort
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+  - infopic:
+      title: Meridian Making Waves
+      id: infopic
+      description: Click below to find out more about our Meridians who have been
+        making waves.
+      button: FIND OUT MORE
+      url: /about-us/our-stories/meridians-making-waves/
+      alt: Image alt text
+      image: /images/Meridians Making Waves/Zulhilmi.jpg
   - infopic:
       title: O Level Results Day Briefing
       id: infopic
@@ -69,15 +83,6 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
-  - infopic:
-      title: Meridian Making Waves
-      id: infopic
-      description: Click below to find out more about our Meridians who have been
-        making waves.
-      button: FIND OUT MORE
-      url: /about-us/our-stories/meridians-making-waves/
-      alt: Image alt text
-      image: /images/Meridians Making Waves/Zulhilmi.jpg
   - infopic:
       title: 2023 O Level Release of Results and Information
       id: infopic
