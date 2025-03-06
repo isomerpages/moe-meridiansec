@@ -25,7 +25,8 @@ sections:
       title: Collection of Testimonials for 2024 cohort
       subtitle: Add informational text
       id: infobar
-      description: Infobar description
+      url: /collection-of-testimonials-for-2024-4e-5na-and-4nt-students/
+      button: Click here
   - infopic:
       title: Meridian Making Waves
       id: infopic
