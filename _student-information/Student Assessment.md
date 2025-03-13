@@ -34,8 +34,17 @@ will be conducted as an e-assessment.</p>
 </ul>
 <p>Refer to the following updated Term 2 timetables for the affected levels
 and subjects.</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_1___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 1 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_2___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 2 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_3G1___3G3___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 3 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_4NA___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 4 Revised WA2 Timetable</a>
+</p>
 <p>Please note that the timetables for all other subjects and levels remain
 unchanged.</p>
+<hr>
 <h3>Assessment Weightings</h3>
 <h4>For Secondary 1 to 3</h4>
 <table style="minWidth: 125px">
