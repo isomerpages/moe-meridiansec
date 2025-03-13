@@ -4,7 +4,48 @@ permalink: /student-information/student-assessment/
 description: ""
 variant: tiptap
 ---
-<h2>2025 Assessment Weightings</h2>
+<h2>2025 Assessment Update</h2>
+<p><strong><u>Adjustments to the schedule for Weighted Assessment 2</u></strong>
+</p>
+<p>Please note that there are minor adjustments to the schedule for Weighted
+Assessment 2 in Term 2. These changes are put in place to optimize curriculum
+transition and provide students more opportunities to experience e-assessment.</p>
+<p>Here is a summary of the revised schedule:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Secondary 1 FCE WA2:</strong> Shifted to Week 5.</p>
+</li>
+<li>
+<p><strong>Secondary 2 FCE WA2:</strong> Shifted to Week 5.</p>
+</li>
+<li>
+<p><strong>Secondary 3G1 Science WA2:</strong> Shifted to Week 5 Monday.</p>
+</li>
+<li>
+<p><strong>Secondary 3G3 MTL CLB WA2:</strong> Shifted to Week 5 Friday.</p>
+</li>
+<li>
+<p><strong>Secondary 4NA MTL WA2:</strong> Shifted to Week 4 Wednesday.</p>
+</li>
+<li>
+<p><strong>Secondary 4NA SS WA2:</strong> Shifted to Week 5 Wednesday and
+will be conducted as an e-assessment.</p>
+</li>
+</ul>
+<p>Refer to the following updated Term 2 timetables for the affected levels
+and subjects.</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_1___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 1 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_2___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 2 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_3G1___3G3___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 3 Revised WA2 Timetable</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_4NA___Revised.pdf" rel="noopener nofollow" target="_blank">Sec 4 Revised WA2 Timetable</a>
+</p>
+<p>Please note that the timetables for all other subjects and levels remain
+unchanged.</p>
+<hr>
+<h3>Assessment Weightings</h3>
 <h4>For Secondary 1 to 3</h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -130,7 +171,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Semester 1 Weighted Assessments (WAs) Schedule</h3>
 <p>&nbsp;<strong>Semester 1</strong> Weighted Assessments (WAs) Schedule</p>
 <p></p>
