@@ -41,18 +41,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Han Cheng Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">han_cheng_kwang_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +85,8 @@ variant: tiptap
 <p>Ms Loo Min Yan, Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email pending update</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">loo_min_yan_vanessa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -330,8 +319,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 <p>Your email is important to us, and we aim to respond within three working
 days.</p>
 <p>If you don’t receive a reply by then, please forward your message to <strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong> for
