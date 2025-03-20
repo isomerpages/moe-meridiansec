@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mr Mohamed Razali B Abdul Hamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Mrs Rose Chen-Tay Ngee Seew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms Tan Li Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
