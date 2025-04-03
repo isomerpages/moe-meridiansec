@@ -6,7 +6,65 @@ third_nav_title: Our Organisation
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/sl1.png">
-</div>
+<h3><strong>Our School Leaders</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Contact Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Razali B Abdul Hamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Acad)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rose Chen-Tay Ngee Seew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Acad)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
