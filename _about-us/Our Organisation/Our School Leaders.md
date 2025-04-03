@@ -63,8 +63,8 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/Our_School_Leaders_pic1.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/sl1.png">
+</div>
 <p></p>
