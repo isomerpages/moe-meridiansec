@@ -10,6 +10,10 @@ variant: tiptap
 <p>We encourage all Meridians to be innovative, develop resilience and learn
 from their experiences. Here, we showcase some of their success stories.</p>
 <h3>2025</h3>
+<h4>Congratulations to our alumnus, Mr Chong Yong Yu!</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chong_Yong_Yu.jpg">
+</div>
 <h4>Our Singapore Leadership Programme</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Evangeline_.png">
