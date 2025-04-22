@@ -9,7 +9,7 @@ variant: tiptap
 <p>Dear parents and students,</p>
 <p>We have made some adjustments to the schedule for Weighted Assessment
 2 as 5 May 2025 (Monday) has been declared a Polling Day Off-In-Lieu for
-schools. As a result, WA2 that falls on 5 May have been re-scheduled to
+schools. As a result, WA2 that fall on 5 May have been re-scheduled to
 another day on the same week (Week 7), or to the following week (Week 8).</p>
 <p>Please refer to the updated WA2 schedules. The changes are indicated in
 red.</p>
