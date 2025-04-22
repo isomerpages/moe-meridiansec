@@ -5,6 +5,29 @@ description: ""
 variant: tiptap
 ---
 <h2>2025 Assessment Update</h2>
+<h4><strong>Adjustments to WA2 schedule due to Polling Day Off-In-Lieu on 5 May 2025</strong></h4>
+<p>Dear parents and students,</p>
+<p>We have made some adjustments to the schedule for Weighted Assessment
+2 as 5 May 2025 (Monday) has been declared a Polling Day Off-In-Lieu for
+schools. As a result, WA2 that fall on 5 May have been re-scheduled to
+another day on the same week (Week 7), or to the following week (Week 8).</p>
+<p>Please refer to the updated WA2 schedules. The changes are indicated in
+red.</p>
+<p>Thank you for your understanding.</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_4NT__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">4NT_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_4E__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">4E_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_3G3__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">S3 G3_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_3G2__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">S3 G2_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_3G1__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">S3 G1_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_2__Updated_21_April_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 2_21 Apr</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_1_Weighted_Assessment_Schedule_SEC_1__Updated_21_Apr_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 1_21 Apr</a>
+</p>
 <p><strong><u>Adjustments to the schedule for Weighted Assessment 2</u></strong>
 </p>
 <p>Please note that there are minor adjustments to the schedule for Weighted
