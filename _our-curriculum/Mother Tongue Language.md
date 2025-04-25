@@ -205,6 +205,54 @@ M Zaki dan Shaura!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
 </div>
+<p></p>
+<p><strong>Rakan Bahasa 2025</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Sekolah Menengah Meridian mencalonkan dua lagi Rakan Bahasa dalam kalangan
+pelajar Bahasa Melayu yang mempamerkan kecintaan terhadap bahasa dan budaya
+Melayu.&nbsp; Perlantikan mereka yang disokong Majlis Bahasa Melayu Singapura
+(MBMS) memberikan Rakan Bahasa ruang dan peluang untuk melibatkan diri
+dalam pelbagai acara bahasa dan budaya Melayu yang dianjurkan di peringkat
+sekolah dan kebangsaan.</p>
+<p>&nbsp;</p>
+<p>Tahun ini, Que’aisyah Binte Mohammad Zaki (Men 2-6) dan Mohammad Anaqi
+Bin Mohammad Isham (Men 1-6) akan menerima perlantikan mereka dalam majlis
+anjuran MBMS pada 15 April 2025 bersama Rakan Bahasa lain dari peringkat
+rendah, menengah dan maktab.</p>
+<p>&nbsp;</p>
+<p>Sebelum itu, Aisyah dan Anaqi telahpun dilibatkan dalam sambutan Hari
+Raya sekolah yang diadakan sepanjang dua minggu pertama penggal dua sebagai
+pengacara segmen Recess Raya dan Kuiz Raya bersama-sama Rakan Bahasa yang
+terdahulu.</p>
+<p>&nbsp;</p>
+<p>Semoga Aisyah dan Anaqi akan menjadi pemangkin semangat rakan-rakan pelajar
+mereka dalam melestarikan bahasa dan budaya Melayu melalui lebih banyak
+aktiviti dan acara pada masa hadapan.</p>
+<p></p>
+<p><strong>Mac 2025- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
+1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
+aktiviti budaya.</p>
+<p>&nbsp;</p>
+<p>Antara aktiviti utama ialah bengkel Dikir Barat, yang mengasah semangat
+kerjasama dan keyakinan diri melalui seni persembahan tradisional. Pelajar
+juga mengikuti bengkel Khat Jawi, di mana mereka menulis nilai sekolah
+– <em>Daya Tahan</em>, <em>Jujur</em>, <em>Prihatin</em>, dan <em>Rendah Hati</em> –
+dalam tulisan jawi. Aktiviti ini memperkukuh pemahaman mereka terhadap
+nilai-nilai murni sambil menghargai seni warisan. Akhir sekali, pelajar
+mempelajari tentang busana tradisional Melayu, termasuk cara memakai <em>tanjak</em> dan <em>samping</em>.
+Aktiviti ini membuka ruang untuk mereka mengenali dan menghargai keunikan
+budaya sendiri.</p>
+<p>&nbsp;</p>
+<p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
+diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
+<p><strong>&nbsp;</strong>
+</p>
 <h3>2024</h3>
 <p><strong>&nbsp;Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
 </p>
