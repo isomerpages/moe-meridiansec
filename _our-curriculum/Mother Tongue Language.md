@@ -251,6 +251,42 @@ budaya sendiri.</p>
 <p>&nbsp;</p>
 <p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
 diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
+<p></p>
+<p><strong>April 2025 – Sambutan Hari Raya</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Pada tahun ini, sambutan Hari Raya lebih meriah dengan pelibatan pelajar
+dan kaki tangan Sekolah Menengah Meridian yang candi lagi bersemangat.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Bertemakan Meraikan Tradisi Raya Dengan Sentuhan Moden, sambutan Raya
+2025 menyaksikan pelajar-pelajar menyahut cabaran menyanyikan lagu-lagu
+Raya melalui acara Recess Raya pada 28 Mac 2025 yang diterajui Rakan-rakan
+Bahasa dahulu dan kini.&nbsp; Hadiah-hadiah menarik ditawarkan kepada peserta
+yang termasuk pelajar bukan Melayu sekiranya mereka menyanyikan korus lagu
+Raya dengan betul.&nbsp; Video-video acara yang menyeronokkan ini berjaya
+menarik ratusan tontonan apabila ianya dikongsi di akaun Instagram sekolah.
+Tidak disangka bahawa sekolah ini menyimpan begitu ramai pelajar dengan
+bakat terpendam!</p>
+<p>&nbsp;</p>
+<p>Kaki tangan Sekolah Menengah Meridian juga tidak ketinggalan dengan video
+Serumpun Raya yang dirakam untuk tayangan semasa konsert Raya pada 2 April
+2025.&nbsp; Dengan terang hati, mereka seronok mempelajari pergerakan ala-ala
+bahasa isyarat mengikut video Raya Mimi Fly. Sorakan para pelajar yang
+teruja menonton guru, pegerai kantin dan pegawai keselamatan sekolah mereka
+menggambarkan penghargaan yang jarang diperlihatkan pada hari-hari biasa.</p>
+<p>&nbsp;</p>
+<p>Konsert yang diacarakan oleh Rakan Bahasa 2023 ini juga menampilkan 18
+pelajar-pelajar Menengah 3 dalam segmen kejutan yang cukup menghiburkan.&nbsp;
+Persembahan dikir barat memang amat dinanti-nantikan dan gabungan pelajar-pelajar
+Bahasa Melayu ini tidak menghampakan.</p>
+<p>&nbsp;</p>
+<p>Pada akhir konsert yang turut menawarkan hadiah seperti ketupat berisi
+manisan melalui segmen Kuiz Trivia Raya, para penonton khususnya golongan
+pelajar kelihatan ceria dan ramai yang menyuarakan perasaan teruja dalam
+menantikan sajian Raya pada tahun hadapan.</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <h3>2024</h3>
