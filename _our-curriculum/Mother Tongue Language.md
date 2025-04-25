@@ -223,7 +223,7 @@ banyak aktiviti dan acara pada masa hadapan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture2.jpg">
 </div>
-<h4>Mac- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
+<h4>Mac-Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
 <p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
 1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
 aktiviti budaya.</p>
