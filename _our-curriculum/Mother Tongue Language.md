@@ -164,7 +164,7 @@ and writing workshop.&nbsp;</p>
 </div>
 <h3>Highlights - Malay Language</h3>
 <h3>2025</h3>
-<h4>Feb – Pertandingan CendekiaSahibba </h4>
+<h4>Feb – Pertandingan CendekiaSahibba</h4>
 <p>Para pelajar Meridian telah berpeluang untuk bertarung dalam Pertandingan
 CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah Riverside dan
 Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini diadakan pada
@@ -201,7 +201,7 @@ M Zaki dan Shaura!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
 </div>
-<h4>Rakan Bahasa </h4>
+<h4>Rakan Bahasa</h4>
 <p><strong>&nbsp;</strong>Sekolah Menengah Meridian mencalonkan dua lagi
 Rakan Bahasa dalam kalangan pelajar Bahasa Melayu yang mempamerkan kecintaan
 terhadap bahasa dan budaya Melayu.&nbsp; Perlantikan mereka yang disokong
