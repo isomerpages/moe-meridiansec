@@ -164,8 +164,7 @@ and writing workshop.&nbsp;</p>
 </div>
 <h3>Highlights - Malay Language</h3>
 <h3>2025</h3>
-<p><strong>Feb 2025 – Pertandingan CendekiaSahibba 2025</strong>
-</p>
+<h4>Feb 2025 – Pertandingan CendekiaSahibba 2025</h4>
 <p><strong>&nbsp;</strong>Para pelajar Meridian telah berpeluang untuk bertarung
 dalam Pertandingan CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah
 Riverside dan Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini
@@ -201,21 +200,17 @@ pertandingan Sahibba seterusnya, Mesra Sahibba Singapura pada 25 Mei 2025&nbsp;
 nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
 M Zaki dan Shaura!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
 </div>
 <p></p>
-<p><strong>Rakan Bahasa 2025</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Sekolah Menengah Meridian mencalonkan dua lagi Rakan Bahasa dalam kalangan
-pelajar Bahasa Melayu yang mempamerkan kecintaan terhadap bahasa dan budaya
-Melayu.&nbsp; Perlantikan mereka yang disokong Majlis Bahasa Melayu Singapura
-(MBMS) memberikan Rakan Bahasa ruang dan peluang untuk melibatkan diri
-dalam pelbagai acara bahasa dan budaya Melayu yang dianjurkan di peringkat
-sekolah dan kebangsaan.</p>
+<h4>Rakan Bahasa 2025</h4>
+<p><strong>&nbsp;</strong>Sekolah Menengah Meridian mencalonkan dua lagi
+Rakan Bahasa dalam kalangan pelajar Bahasa Melayu yang mempamerkan kecintaan
+terhadap bahasa dan budaya Melayu.&nbsp; Perlantikan mereka yang disokong
+Majlis Bahasa Melayu Singapura (MBMS) memberikan Rakan Bahasa ruang dan
+peluang untuk melibatkan diri dalam pelbagai acara bahasa dan budaya Melayu
+yang dianjurkan di peringkat sekolah dan kebangsaan.</p>
 <p>&nbsp;</p>
 <p>Tahun ini, Que’aisyah Binte Mohammad Zaki (Men 2-6) dan Mohammad Anaqi
 Bin Mohammad Isham (Men 1-6) akan menerima perlantikan mereka dalam majlis
@@ -231,15 +226,11 @@ terdahulu.</p>
 mereka dalam melestarikan bahasa dan budaya Melayu melalui lebih banyak
 aktiviti dan acara pada masa hadapan.</p>
 <p></p>
-<p><strong>Mac 2025- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
-1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
-aktiviti budaya.</p>
-<p>&nbsp;</p>
-<p>Antara aktiviti utama ialah bengkel Dikir Barat, yang mengasah semangat
+<h4>Mac 2025- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
+<p><strong>&nbsp;</strong>Sebagai sebahagian daripada sambutan Bulan Bahasa
+Ibunda, pelajar Menengah 1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang
+sarat dengan aktiviti budaya.</p>
+<p>&nbsp;Antara aktiviti utama ialah bengkel Dikir Barat, yang mengasah semangat
 kerjasama dan keyakinan diri melalui seni persembahan tradisional. Pelajar
 juga mengikuti bengkel Khat Jawi, di mana mereka menulis nilai sekolah
 – <em>Daya Tahan</em>, <em>Jujur</em>, <em>Prihatin</em>, dan <em>Rendah Hati</em> –
@@ -248,19 +239,14 @@ nilai-nilai murni sambil menghargai seni warisan. Akhir sekali, pelajar
 mempelajari tentang busana tradisional Melayu, termasuk cara memakai <em>tanjak</em> dan <em>samping</em>.
 Aktiviti ini membuka ruang untuk mereka mengenali dan menghargai keunikan
 budaya sendiri.</p>
-<p>&nbsp;</p>
-<p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
-diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
-<p></p>
-<p><strong>April 2025 – Sambutan Hari Raya</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Pada tahun ini, sambutan Hari Raya lebih meriah dengan pelibatan pelajar
-dan kaki tangan Sekolah Menengah Meridian yang candi lagi bersemangat.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Bertemakan Meraikan Tradisi Raya Dengan Sentuhan Moden, sambutan Raya
-2025 menyaksikan pelajar-pelajar menyahut cabaran menyanyikan lagu-lagu
+<p>&nbsp;Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh
+jati diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.April
+2025 – Sambutan Hari Raya</p>
+<p><strong>&nbsp;</strong>Pada tahun ini, sambutan Hari Raya lebih meriah
+dengan pelibatan pelajar dan kaki tangan Sekolah Menengah Meridian yang
+candi lagi bersemangat.&nbsp;</p>
+<p>&nbsp;Bertemakan Meraikan Tradisi Raya Dengan Sentuhan Moden, sambutan
+Raya 2025 menyaksikan pelajar-pelajar menyahut cabaran menyanyikan lagu-lagu
 Raya melalui acara Recess Raya pada 28 Mac 2025 yang diterajui Rakan-rakan
 Bahasa dahulu dan kini.&nbsp; Hadiah-hadiah menarik ditawarkan kepada peserta
 yang termasuk pelajar bukan Melayu sekiranya mereka menyanyikan korus lagu
@@ -280,11 +266,11 @@ menggambarkan penghargaan yang jarang diperlihatkan pada hari-hari biasa.</p>
 pelajar-pelajar Menengah 3 dalam segmen kejutan yang cukup menghiburkan.&nbsp;
 Persembahan dikir barat memang amat dinanti-nantikan dan gabungan pelajar-pelajar
 Bahasa Melayu ini tidak menghampakan.</p>
-<p>&nbsp;</p>
 <p>Pada akhir konsert yang turut menawarkan hadiah seperti ketupat berisi
 manisan melalui segmen Kuiz Trivia Raya, para penonton khususnya golongan
 pelajar kelihatan ceria dan ramai yang menyuarakan perasaan teruja dalam
 menantikan sajian Raya pada tahun hadapan.</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
@@ -951,5 +937,4 @@ muzik yang didendangkan sepanjang pementasan.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/3-2.png">
 </div>
-<p></p>
 <p></p>
