@@ -164,13 +164,12 @@ and writing workshop.&nbsp;</p>
 </div>
 <h3>Highlights - Malay Language</h3>
 <h3>2025</h3>
-<h4>Feb – Pertandingan CendekiaSahibba 2025</h4>
-<p><strong>&nbsp;</strong>Para pelajar Meridian telah berpeluang untuk bertarung
-dalam Pertandingan CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah
-Riverside dan Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini
-diadakan pada 22 Februari 2025 di Sekolah Menengah Changkat Changi</p>
-<p>&nbsp;</p>
-<p>Lesung bukan sebarang lesung</p>
+<h4>Feb – Pertandingan CendekiaSahibba </h4>
+<p>Para pelajar Meridian telah berpeluang untuk bertarung dalam Pertandingan
+CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah Riverside dan
+Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini diadakan pada
+22 Februari 2025 di Sekolah Menengah Changkat Changi</p>
+<p>&nbsp;Lesung bukan sebarang lesung</p>
 <p>Lesung dari Tanjung Kelik;</p>
 <p>Renung bukan sebarang renung,</p>
 <p>Renung mencari kata terbaik!</p>
@@ -199,12 +198,10 @@ pertandingan!</p>
 pertandingan Sahibba seterusnya, Mesra Sahibba Singapura pada 25 Mei 2025&nbsp;
 nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
 M Zaki dan Shaura!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
 </div>
-<p></p>
-<h4>Rakan Bahasa 2025</h4>
+<h4>Rakan Bahasa </h4>
 <p><strong>&nbsp;</strong>Sekolah Menengah Meridian mencalonkan dua lagi
 Rakan Bahasa dalam kalangan pelajar Bahasa Melayu yang mempamerkan kecintaan
 terhadap bahasa dan budaya Melayu.&nbsp; Perlantikan mereka yang disokong
@@ -226,7 +223,6 @@ banyak aktiviti dan acara pada masa hadapan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture2.jpg">
 </div>
-<p></p>
 <h4>Mac- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
 <p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
 1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
@@ -243,11 +239,9 @@ budaya sendiri.</p>
 <p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
 diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture3.jpg">
 </div>
-<p></p>
 <h4>April – Sambutan Hari Raya</h4>
 <p><strong>&nbsp;</strong>Pada tahun ini, sambutan Hari Raya lebih meriah
 dengan pelibatan pelajar dan kaki tangan Sekolah Menengah Meridian yang
