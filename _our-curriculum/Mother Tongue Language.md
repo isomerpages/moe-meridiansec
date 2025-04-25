@@ -164,7 +164,7 @@ and writing workshop.&nbsp;</p>
 </div>
 <h3>Highlights - Malay Language</h3>
 <h3>2025</h3>
-<h4>Feb 2025 – Pertandingan CendekiaSahibba 2025</h4>
+<h4>Feb – Pertandingan CendekiaSahibba 2025</h4>
 <p><strong>&nbsp;</strong>Para pelajar Meridian telah berpeluang untuk bertarung
 dalam Pertandingan CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah
 Riverside dan Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini
@@ -223,7 +223,11 @@ yang terdahulu.</p>
 pelajar mereka dalam melestarikan bahasa dan budaya Melayu melalui lebih
 banyak aktiviti dan acara pada masa hadapan.</p>
 <p></p>
-<h4>Mac 2025- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture2.jpg">
+</div>
+<p></p>
+<h4>Mac- Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
 <p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
 1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
 aktiviti budaya.</p>
@@ -237,8 +241,14 @@ mempelajari tentang busana tradisional Melayu, termasuk cara memakai <em>tanjak<
 Aktiviti ini membuka ruang untuk mereka mengenali dan menghargai keunikan
 budaya sendiri.</p>
 <p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
-diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.April 2025
-– Sambutan Hari Raya</p>
+diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture3.jpg">
+</div>
+<p></p>
+<h4>April – Sambutan Hari Raya</h4>
 <p><strong>&nbsp;</strong>Pada tahun ini, sambutan Hari Raya lebih meriah
 dengan pelibatan pelajar dan kaki tangan Sekolah Menengah Meridian yang
 candi lagi bersemangat.&nbsp;</p>
@@ -251,13 +261,12 @@ Raya dengan betul.&nbsp; Video-video acara yang menyeronokkan ini berjaya
 menarik ratusan tontonan apabila ianya dikongsi di akaun Instagram sekolah.
 Tidak disangka bahawa sekolah ini menyimpan begitu ramai pelajar dengan
 bakat terpendam!</p>
-<p>&nbsp;Kaki tangan Sekolah Menengah Meridian juga tidak ketinggalan dengan
-video Serumpun Raya yang dirakam untuk tayangan semasa konsert Raya pada
-2 April 2025.&nbsp; Dengan terang hati, mereka seronok mempelajari pergerakan
-ala-ala bahasa isyarat mengikut video Raya Mimi Fly. Sorakan para pelajar
-yang teruja menonton guru, pegerai kantin dan pegawai keselamatan sekolah
-mereka menggambarkan penghargaan yang jarang diperlihatkan pada hari-hari
-biasa.</p>
+<p>Kaki tangan Sekolah Menengah Meridian juga tidak ketinggalan dengan video
+Serumpun Raya yang dirakam untuk tayangan semasa konsert Raya pada 2 April
+2025.&nbsp; Dengan terang hati, mereka seronok mempelajari pergerakan ala-ala
+bahasa isyarat mengikut video Raya Mimi Fly. Sorakan para pelajar yang
+teruja menonton guru, pegerai kantin dan pegawai keselamatan sekolah mereka
+menggambarkan penghargaan yang jarang diperlihatkan pada hari-hari biasa.</p>
 <p>&nbsp;Konsert yang diacarakan oleh Rakan Bahasa 2023 ini juga menampilkan
 18 pelajar-pelajar Menengah 3 dalam segmen kejutan yang cukup menghiburkan.&nbsp;
 Persembahan dikir barat memang amat dinanti-nantikan dan gabungan pelajar-pelajar
@@ -268,12 +277,10 @@ pelajar kelihatan ceria dan ramai yang menyuarakan perasaan teruja dalam
 menantikan sajian Raya pada tahun hadapan.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture4.jpg">
 </div>
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<h3>2024</h3>
+<h3><strong>&nbsp;</strong>2024</h3>
 <p><strong>&nbsp;Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
 </p>
 <p><strong>&nbsp;</strong>Perkhemahan Kebudayaan pada tahun ini menjamu para
