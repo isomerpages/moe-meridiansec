@@ -201,7 +201,7 @@ nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
 M Zaki dan Shaura!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
 </div>
 <p></p>
 <h4>Rakan Bahasa 2025</h4>
