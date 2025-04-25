@@ -163,6 +163,43 @@ and writing workshop.&nbsp;</p>
 <img style="width: 80%;" height="auto" width="100%" src="/images/mtoct18.jpg">
 </div>
 <h3>Highlights - Malay Language</h3>
+<h3>2025</h3>
+<p><strong>Feb 2025 – Pertandingan CendekiaSahibba 2025</strong>
+</p>
+<p><strong>&nbsp;</strong>Para pelajar Meridian telah berpeluang untuk bertarung
+dalam Pertandingan CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah
+Riverside dan Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini
+diadakan pada 22 Februari 2025 di Sekolah Menengah Changkat Changi</p>
+<p>&nbsp;</p>
+<p>Lesung bukan sebarang lesung</p>
+<p>Lesung dari Tanjung Kelik;</p>
+<p>Renung bukan sebarang renung,</p>
+<p>Renung mencari kata terbaik!</p>
+<p><strong>&nbsp;Peserta:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Auzan bin M Effendy (2-3)</p>
+</li>
+<li>
+<p>⁠Queaisyah Bt M Zaki(2-6)</p>
+</li>
+<li>
+<p>⁠Shaura Marissa Bt M Fazlan (3-7)</p>
+</li>
+<li>
+<p>&nbsp;Raiyan Aqil (3-2)</p>
+</li>
+</ul>
+<p>&nbsp;Semangat kental para peserta tetap menyerlah dalam keaadan tegang
+walaupun tidak berjaya ke peringkat akhir. Syabas kepada mereka yang berani
+keluar daripada zon keselesaan pada Sabtu dari jam 8 pagi -12 tengah hari
+untuk bertarung dan berhadapan dengan para pelajar Menengah 4 di medan
+pertandingan!</p>
+<p>Queaisyah&nbsp; dan Shaura Marissa akan turut mengambil bahagian dalam
+pertandingan Sahibba seterusnya, Mesra Sahibba Singapura pada 25 Mei 2025&nbsp;
+nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
+M Zaki dan Shaura!</p>
 <h3>2024</h3>
 <p><strong>&nbsp;Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
 </p>
