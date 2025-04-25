@@ -200,6 +200,11 @@ pertandingan!</p>
 pertandingan Sahibba seterusnya, Mesra Sahibba Singapura pada 25 Mei 2025&nbsp;
 nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
 M Zaki dan Shaura!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
+</div>
 <h3>2024</h3>
 <p><strong>&nbsp;Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
 </p>
@@ -862,4 +867,5 @@ muzik yang didendangkan sepanjang pementasan.</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/3-2.png">
 </div>
+<p></p>
 <p></p>
