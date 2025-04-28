@@ -5,13 +5,15 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
+<p></p>
 <h3>About Us</h3>
 <p>The National Cadet Corps (NCC) is a military cadet corps youth organisation
 supported by the Ministry of Defence and the Ministry of Education.</p>
-<p>It is one of the country’s oldest youth organisations, formed in 1901.</p>
+<p>&nbsp;</p>
 <h3>Our Objectives</h3>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
 and Military-related Activities</p>
+<p></p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -39,7 +41,7 @@ and Military-related Activities</p>
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30 pm to 5:00 pm</p>
+<p>2:30 pm to 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Central Staircase</p>
@@ -50,7 +52,7 @@ and Military-related Activities</p>
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30 pm to 5:00 pm</p>
+<p>2:30 pm to 5:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Central Staircase</p>
@@ -61,26 +63,52 @@ and Military-related Activities</p>
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Poh Wei Khim Chris</p>
-</li>
-<li>
-<p>Mr Chan Yew Ming Adam</p>
+<p>&nbsp;Mr Poh Wei Khim Chris</p>
 </li>
 <li>
 <p>Ms Lim Zhi Qi Joanne</p>
+</li>
+<li>
+<p>Mr Tan Siang Guan</p>
+</li>
+<li>
+<p>Mr Lim Xin Rui</p>
 <p></p>
 </li>
 </ul>
-<h4>UG Volunteers</h4>
+<h3>UG Volunteers</h3>
 <ul data-tight="true" class="tight">
-<li>
-<p>Mr Tham Keng Cong</p>
-</li>
 <li>
 <p>Mr Aiman Shah Bin Anwar</p>
 </li>
+<li>
+<p>Mr Chirravuri Naga Sai Trinadh</p>
+</li>
+<li>
+<p>Mr Aditya Adriansyah Putra Jamil</p>
+</li>
 </ul>
-<h3>Yearly Highlights</h3>
+<p></p>
+<h3>Achievements</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 NCC Unit Recognition – Distinction Award</p>
+</li>
+<li>
+<p>2023 NCC Unit Recognition – Distinction Award</p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">2022 NCC Unit Recognition – Distinction Award</a>
+</p>
+</li>
+<li>
+<p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>Limit to 2022-2024 (last 3 yrs)</p>
+<p></p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
