@@ -365,7 +365,6 @@ projects.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture2.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -555,7 +554,6 @@ projects.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -698,8 +696,7 @@ projects.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4>2021</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -767,7 +764,8 @@ projects.</p>
 </tr>
 </tbody>
 </table>
-<h4>Our CCA Experience</h4>
+<h3>Our CCA Experience</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture3.png">
 </div>
