@@ -4,7 +4,7 @@ permalink: /student-information/dsa/
 description: ""
 variant: tiptap
 ---
-<h3>&nbsp;INTRODUCTION</h3>
+<h3>INTRODUCTION</h3>
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
@@ -13,11 +13,17 @@ and talents that they can demonstrate beyond the PSLE.</p>
 students to apply for direct admission into the school for academic year
 2026 before the Secondary One Posting Exercise.&nbsp;</p>
 <p>&nbsp;</p>
-<h3>Meridian Secondary School offers DSA for the following Sports Talent Areas<strong>:</strong></h3>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Floorball (Boys &amp; Girls)</strong>
+<h4>Meridian Secondary School offers DSA for the following Sports Talent Areas<strong>:</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Floorball (Boys &amp; Girls)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Football (Boys &amp; Girls)</strong>
+</li>
+<li>
+<p><strong>Football (Boys &amp; Girls)</strong>
 </p>
+</li>
+</ul>
 <p>&nbsp;If you are interested and would like to join us, you may seek admission
 through DSA.&nbsp; We will be admitting Secondary One students for 2026
 through the MOE DSA-SEC Exercise 2025.</p>
@@ -45,10 +51,9 @@ in Primary 5 (Overall) &amp; Primary 6 (Mid-year)</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3>CRITERIA / SELECTION PROCESS</h3>
+<h4>CRITERIA / SELECTION PROCESS</h4>
 <p>&nbsp;The criteria and selection process for the sports talent areas are
 reflected below.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -85,7 +90,6 @@ Games (NSG) or any equivalent competition/involvements (eg. for football
 - Singapore Youth League, JSSL)</p>
 <p>&nbsp;</p>
 <p>Be medically fit for sports activities.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -94,7 +98,6 @@ Games (NSG) or any equivalent competition/involvements (eg. for football
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Points to Note:</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -194,7 +197,6 @@ IS) or in person at their respective primary schools.</p>
 </p>
 <p><strong>&nbsp;Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong><u>For students NOT studying in MOE mainstream primary schools</u></strong>
 </p>
 <p>Students not studying in MOE schools are required to obtain a Registration
@@ -234,8 +236,7 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA-Sec Main Webpage</strong>
-</p>
+<p>DSA-Sec Main Webpage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
@@ -244,8 +245,7 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Instructions on Application (Mainstream students)</strong>
-</p>
+<p>Instructions on Application (Mainstream students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
@@ -254,8 +254,7 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Instructions on Application (Non-Mainstream Students)</strong>
-</p>
+<p>Instructions on Application (Non-Mainstream Students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
@@ -264,11 +263,10 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Direct to DSA-Sec Portal (Mainstream Students)</strong>
+<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+<p><em>&nbsp;</em>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>(*go live on 7 May 2025, 11am)</em></strong>
+<p><em>(*go live on 7 May 2025, 11am)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,11 +276,10 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Direct to DSA-Sec Portal (Non-Mainstream Students)</strong>
+<p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
+<p><em>&nbsp;</em>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<p><strong><em>(*go live on 7 May 2025, 11am)</em></strong>
+<p><em>(*go live on 7 May 2025, 11am)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,8 +289,7 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA-Sec iFAQs</strong>
-</p>
+<p>DSA-Sec iFAQs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
@@ -302,8 +298,7 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA-Sec SchoolFinder</strong>
-</p>
+<p>DSA-Sec SchoolFinder</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
@@ -312,5 +307,4 @@ MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Thank you and we look forward to meeting you soon!</strong>
-</p>
+<p>&nbsp;Thank you and we look forward to meeting you soon!</p>
