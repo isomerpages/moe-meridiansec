@@ -92,26 +92,6 @@ and Military-related Activities</p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 NCC Unit Recognition – Distinction Award</p>
-</li>
-<li>
-<p>2023 NCC Unit Recognition – Distinction Award</p>
-</li>
-<li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">2022 NCC Unit Recognition – Distinction Award</a>
-</p>
-</li>
-<li>
-<p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>Limit to 2022-2024 (last 3 yrs)</p>
-<p></p>
-<h3>Achievements</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>2023 NCC Unit Recognition – Distinction Award</p>
 </li>
 <li>
@@ -121,6 +101,64 @@ and Military-related Activities</p>
 <p>2021 NCC Unit Recognition – Distinction Award</p>
 <p></p>
 <h3>Events</h3>
+<p></p>
+<h4>2025</h4>
+<p>&nbsp;</p>
+<p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
+Drills Course</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
+</div>
+<p></p>
+</li>
+<li>
+<p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
+our newly appointed Cadet Leaders to take over key positions.</p>
+</li>
+</ul>
+<p></p>
+<p>Newly appointed key appointment holders for Cadet Leaders.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+<p>Cadets preparing for their annual Camp Steel.</p>
+<p></p>
+<p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
+<p></p>
+<h3>2024</h3>
+<p></p>
+<p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
+<p></p>
+<p>Promotion Ceremony for our Cadets to their next ranks.</p>
+<p></p>
+<p>Annual Sports Championship at Loyang View Secondary School.</p>
+<p></p>
+<p>National Day Parade</p>
+<p></p>
+<p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
+<p></p>
+<p>Cadets commemorating our annual NCC Day.</p>
+<p></p>
+<p></p>
+<p>Cadets successfully completed their Senior Specialist Leaders Course</p>
+<p></p>
+<p>Cadet Leader Leon participated in the prestigious Ex Puncak and reached
+the summit of Mount Gunung Ledang, Malaysia.</p>
+<p></p>
+<p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
+from our Principal Mr Razali.</p>
+<p></p>
+<p>&nbsp;</p>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
+<p></p>
+<p>Air Rifle Shooting programme for our Senior Cadets</p>
+<p></p>
+<p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
+appointments to our new Cadet Leader appointment holders.</p>
+<p></p>
 <p></p>
 <h4>2023</h4>
 <p></p>
@@ -148,8 +186,6 @@ and Military-related Activities</p>
 </div>
 <p>Senior Cadets honing their skills through Air Rifle Shooting activity</p>
 <p></p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc18.png">
@@ -260,18 +296,65 @@ and Military-related Activities</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
 </div>
 <h3>Our CCA Experience</h3>
-<p><em>My experience throughout the 3 years in the National Cadet Corps (NCC) has been transformative, shaping my character and instilling essential life skills and values. One of the key takeaways has been resilience and perseverance. NCC taught me the value of not giving up, pushing through solutions even in tough situations and communicating efficiently with my platoon mates. Through demanding foot and rifle drills training and even my own expectations, I learned discipline, focus and attention to detail — qualities that extend far beyond my CCA session. In addition to my mental fortitude, I also learned how to tie different knots and construct a tent which honed my problem-solving abilities and teamwork with my platoon mates. It taught me the importance of clear communication and cooperation with one another to achieve a common goal. Additionally, the shared experience during the various NCC activities strengthen the bonds of friendship among peers. As a CCA leader in NCC, I have built confidence overtime and taken initiative in guiding my peers to forge a stronger bond amongst this family. With NCC, I can speak up with confidence to peers and guide my juniors through different activities. Overall, my NCC journey has not only equipped me with practical skills but also nurtured values that I can carry into all aspects of my life. It has always been a joyful journey and will always be an unforgettable one.</em>
-<br><strong>–Javan Neo Aik Yong, Unit Sergeant Major (3E3, 2023)</strong>
-</p>
 <p></p>
-<p><em>These years in NCC to me have been one of the best times in my life, it will always be a journey that I will never forget. The friends and skills that I have gained in NCC will never be forgotten. The friends that I had made will have a lasting impact on myself. During the days when I was still a cadet and going through the hard yet fun days of my CCA, my friends and I will push each other to do our best. Some of my batch mates have also become some of the closest friends I will ever have. From this, I have realised that NCC is not just a CCA but also a place where I will build long lasting friendships. I have even managed to maintain and foster friendships with my juniors and seniors in the CCA. My seniors as taught me almost all the things that I have learnt in NCC, like my values and other life skills. As for my juniors in NCC, although I make sure they know that NCC is not a time to play and to be serious, after CCA I would go the extra mile to play a game of football with them to foster and build on our friendship. I will make sure that I can be someone that they will not fear but instead be someone that must be respected but also someone that they can have fun with and can confide in. NCC has also taught me values that has shaped me into what I am today. The core values of NCC, Loyalty to Country, uprightness, leadership, discipline, commitment and responsibility, care for fellow cadets, adventurous spirit, and safety, serves as my moral compass in life. Being a CCA leader in this CCA makes me want to do better every day. NCC has taught me to overcome any challenges that I might face, showing resilience and I will do my best to excel in everything that I do. This was really put to test during our weekly foot drills, I would always put in the effort to do my best. Even though sometimes the foot drills get hard and tiring I will still push on and not falter. Another way my resilience was tested was through the hard physical training. We would do many hard and gruelling activities that will really work our muscles as well as put our mental strength to the test, during these times I will push on and try my hardest. Another value that has helped me is discipline. Through the weekly foot drills, I have learnt discipline like eye discipline and not moving in a file. This has helped me in my everyday life as I would always think about my actions before I act and not do anything reckless. Being a CCA leader, I can safely say that I have learnt to be more assertive and braver to voice out my opinion. I remember back when I was in Secondary 1, I was a very timid boy who feared saying what’s on his mind and would be what is known as a ‘pushover’ but over the years in NCC, it has built my confidence in leading and serving others. I will definitely assure you that you will not regret choosing NCC as your CCA as I know that you will have a enjoyable and memorable yet a fulfilling and enriching time in this CCA.</em>
-<br><strong>– John Tan, Assistant Sergeant Major (3E2, 2023)</strong>
-</p>
-<p>&nbsp;</p>
+<p>I have really enjoyed my CCA for the past 3 years. It helps me to be a
+better person by being more brave in doing stuff. I even overcame my fear
+of heights by repelling down the building during my camp steel in 2024.
+I am really passionate about this CCA and I am proud to receive the role
+that was given to me. During my journey in this CCA, I was taught to not
+give up during tough times and to be more discipline. I am also able to
+bond together with my batch mate and together we gained a lot of skills
+and we get to know each other better. It was hard at first when I started
+to join the CCA in 2023 as we have less knowledge about NCC. However, through
+thick and thin, we helped each other to sharpen our drill.</p>
+<p>-&nbsp;&nbsp;&nbsp;Muhammad Rayyan Aiman Bin Muhammad Andre, Unit Sergeant
+Major (3-3, 2025)</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>My experience of the past three years as a member of the National Cadet
+Corps. These years have been nothing short of transformative for me. The
+NCC has not only shaped my character but has instilled in me values that
+I will carry with me for the rest of my life. When I first joined the NCC,
+I came with an open mind and a desire to grow. Little did I know that these
+three years would teach me some of the most valuable life lessons I could
+ever learn. Among the many lessons I absorbed, the three that stand out
+the most are resilience, respect, and integrity.</p>
+<p>Resilience, for me, is the ability to withstand adversity, push through
+challenges, and emerge stronger. Throughout my time in the NCC, I encountered
+many obstacles — from physically demanding drills to challenging field
+exercises, and at times, personal struggles. But in those moments of exhaustion,
+when my body screamed for rest, I learned to push myself beyond my limits.
+The spirit of camaraderie within the NCC played a significant role in this
+process. We were all in it together, facing the same challenges, supporting
+each other, and motivating one another to keep going. I learned that resilience
+is not about avoiding difficulties but about confronting them head-on,
+learning from them, and coming out on the other side with a stronger mind
+and body. NCC taught me the importance of respect — not just for my officers,
+seniors, or peers, but also for myself and the world around me. Respect,
+I learned, is not a one-way street. It’s about recognizing the dignity
+of others, valuing their opinions, and honoring their contributions. During
+my time here, I learned that respect is shown not only through words but
+through actions. Whether it was helping a fellow cadet with a difficult
+drill or listening carefully to the instructions of our seniors, I came
+to understand that respect is an essential pillar of teamwork and discipline.
+It’s about creating an environment where everyone feels valued and heard,
+and where trust is built through mutual understanding. Integrity is the
+foundation upon which everything else stands. It’s easy to do the right
+thing when no one is watching, but the true test of integrity comes when
+faced with difficult decisions.&nbsp; NCC has continually pushed me to
+uphold the highest standards of honesty and ethical behavior, regardless
+of the situation. Whether it was in training, while handling responsibilities,
+or even during moments of personal conflict, I learned that integrity means
+staying true to your values, even when it’s inconvenient or uncomfortable.
+It’s about being honest with yourself and others, making decisions that
+align with your moral compass, and never compromising on what is right.
+As I reflect on these past three years, I realize how much I have grown
+as a person. The lessons of resilience, respect, and integrity are not
+just qualities that I’ve learned within the walls of the NCC; they are
+values that will continue to guide me throughout my life. The NCC has equipped
+me with the strength to face challenges, the understanding to respect others,
+and the courage to always act with integrity.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ashreef Nakhaie Bin Juma'at,
+Assistant Sergeant Major (3-2, 2025)</p>
 <p></p>
