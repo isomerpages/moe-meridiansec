@@ -4,68 +4,51 @@ permalink: /student-information/dsa/
 description: ""
 variant: tiptap
 ---
-<h4>Introduction</h4>
-<p><strong>MERIDIAN SEC DIRECT SCHOOL ADMISSION (DSA)</strong>
-</p>
+<h3>&nbsp;INTRODUCTION</h3>
 <p>Introduced in 2004, the Direct School Admission (DSA) scheme provides
 students with the opportunity to seek admission to a secondary school,
 based on a diverse range of specific academic and non-academic achievements
 and talents that they can demonstrate beyond the PSLE.</p>
 <p>Meridian Secondary School (MSS) extends a warm invitation to Primary 6
 students to apply for direct admission into the school for academic year
-2025 before the Secondary One Posting Exercise.</p>
-<p><strong>MSS offers DSA in the following Sports Talent Areas:</strong>
+2026 before the Secondary One Posting Exercise.&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Meridian Secondary School offers DSA for the following Sports Talent Areas<strong>:</strong></h3>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Floorball (Boys &amp; Girls)</strong>
 </p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Football (Boys &amp; Girls)</strong>
+</p>
+<p>&nbsp;If you are interested and would like to join us, you may seek admission
+through DSA.&nbsp; We will be admitting Secondary One students for 2026
+through the MOE DSA-SEC Exercise 2025.</p>
+<hr>
+<p>&nbsp;<strong><u>ADMISSION CRITERIA</u></strong>
+</p>
+<p>The general criteria for selection are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Basketball (Boys only)</strong>
-</p>
-</li>
-<li>
-<p><strong>Floorball (Boys &amp; Girls)</strong>
-</p>
-</li>
-<li>
-<p><strong>Football (Boys &amp; Girls)</strong>
-</p>
-</li>
-</ul>
-<p>If you are interested and would like to join us, you may seek admission
-through DSA. We will be admitting Secondary One students for 2025 through
-the MOE DSA-SEC Exercise 2024.
-<br>
-</p>
-<hr>
-<h4>Admission Criteria</h4>
-<p>The general criteria for selection are as follows:</p>
-<ul>
-<li>
-<p><strong>Interest &amp; Passion</strong> 
+<p><strong>Interest &amp; passion</strong>
 <br>Applicants should demonstrate a keen interest in and passion for their
 respective talent areas. A clear and genuine aspiration in the sports talent
 area is an advantage.</p>
 </li>
 <li>
-<p><strong>Talent &amp; Aptitude</strong> 
+<p><strong>Talent &amp; aptitude</strong>
 <br>Applicants should demonstrate evidence of talent and aptitude in the sports.</p>
 </li>
 <li>
-<p><strong>Conduct &amp; Attitude for learning</strong> 
+<p><strong>Conduct &amp; attitude for learning</strong>
 <br>Applicants should demonstrate a positive attitude for learning and demeanour.
 Applicants should be able to demonstrate evidence of good conduct in school.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Obtained a Conduct Grade of ‘Good’ or better in Primary 5 (Overall) &amp;
-Primary 6 (Mid-year)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obtained a Conduct Grade of ‘Good’ or better
+in Primary 5 (Overall) &amp; Primary 6 (Mid-year)</p>
 </li>
 </ul>
-</li>
-</ul>
-<hr>
-<p><strong>CRITERIA / SELECTION PROCESS</strong>
-</p>
-<p>The criteria and selection process for the sports talent areas are reflected
-below.</p>
+<p>&nbsp;</p>
+<h3>CRITERIA / SELECTION PROCESS</h3>
+<p>&nbsp;The criteria and selection process for the sports talent areas are
+reflected below.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -75,7 +58,7 @@ below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sports Talent Area</strong>
+<p><strong>Sports Talent Areas</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,27 +72,42 @@ below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;1. Basketball (Boys only)</p>
-<p>&nbsp;2. Floorball (Boys &amp; Girls)</p>
-<p>&nbsp;3. Football (Boys &amp; Girls)</p>
+<p>&nbsp;</p>
+<p>1. Floorball (Boys &amp; Girls)</p>
+<p>&nbsp;</p>
+<p>2. Football (Boys &amp; Girls)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Participation &amp; achievements in the sport, in the National School
-Games (NSG) or any equivalent competition/involvements (eg. Singapore Youth
-League)</p>
-<p>&nbsp;Be medically fit for sports activities.</p>
+<p>&nbsp;</p>
+<p>Participation &amp; achievements in the sport, in the National School
+Games (NSG) or any equivalent competition/involvements (eg. for football
+- Singapore Youth League, JSSL)</p>
+<p>&nbsp;</p>
+<p>Be medically fit for sports activities.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Sports trials (which may include an interview) for shortlisted applicants</p>
+<p>&nbsp;</p>
+<p>Sports trials (which may include an interview) for shortlisted applicants</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>(Please note that meeting all criteria does not guarantee the applicant’s shortlisting or being given an offer)</em></strong>
+<p></p>
+<h4>Points to Note:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>&nbsp;Meeting all the criteria does not guarantee the student will be shortlisted/given an offer</em></strong>
 </p>
-<p><strong>APPLICATION / SELECTION STAGES</strong>
+</li>
+<li>
+<p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
+</li>
+</ul>
+<p></p>
+<h4>Key Dates</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -128,41 +126,43 @@ League)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7<sup>th</sup> May (11am) to 3rd June (3pm) 2024</p>
+<p>7<sup>th</sup> May (11am) to 3<sup>rd</sup> June (3pm) 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>APPLICATION STAGE</strong>
 </p>
-<p>Interested applicants should submit their application via the centralised
-<br>MOE DSA-Sec portal.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge. For more details, please refer to MOE
+website – <em><a rel="noopener noreferrer nofollow" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a></em>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24<sup>th</sup> June to 9<sup>th</sup> September 2024</p>
+<p>30<sup>th</sup> June to 4<sup>th</sup> September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SELECTION STAGE</strong>
 </p>
-<p>Only shortlisted applicants will be informed through email or phone call,
-to attend the sports trial and interview.</p>
+<p>Only shortlisted applicants will receive notification from the school
+by <u>11<sup>th</sup> July 2025</u>, if your child/ward has been shortlisted
+to undergo Direct School Admission (DSA) selection.</p>
 <p>* Refer to <u>Selection Criteria/Process</u> above for further details regarding
 the sports trial and interview.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 12<sup>th</sup> September 2024</p>
+<p>By 4<sup>th</sup> September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NOTIFICATION OF OUTCOME</strong>
 </p>
-<p>All applicants will be notified of the outcome of their applications.</p>
+<p>All applicants will receive their application outcomes by this date.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21<sup>st</sup> to 25<sup>th</sup> October 2024</p>
+<p>27<sup>th</sup> to 31<sup>st</sup> October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SCHOOL PREFERENCE SUBMISSION</strong>
@@ -174,7 +174,7 @@ IS) or in person at their respective primary schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late November 2024</p>
+<p>Late November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>RESULTS RELEASE STAGE</strong>
@@ -184,64 +184,133 @@ IS) or in person at their respective primary schools.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;SUBMISSION OF APPLICATIONS</strong>
-</p>
+<p>&nbsp;</p>
+<h4>SUBMISSION OF APPLICATION</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>).</p>
-<hr>
-<p><strong>IMPORTANT NOTES</strong>
-</p>
-<p><strong>&nbsp;Parents and students are encouraged to choose schools wisely based on the student’s <u>aptitudes and strengths</u>, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
+<p>&nbsp;</p>
+<h4>IMPORTANT NOTES</h4>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s <u>aptitudes and strengths</u>, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
 <p><strong>&nbsp;Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
-<p>For students <u>NOT</u> studying in MOE mainstream primary schools</p>
-<p>Students not studying in MOE schools will require to obtain a Registration
+<p>&nbsp;</p>
+<p><strong><u>For students NOT studying in MOE mainstream primary schools</u></strong>
+</p>
+<p>Students not studying in MOE schools are required to obtain a Registration
 Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can
 apply through the DSA-Sec Portal. For more information, please refer to
-MOE website at:<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<hr>
-<h3>For DSA Enquiries</h3>
+<p>&nbsp;</p>
+<h4>FOR DSA ENQUIRIES</h4>
 <p>For general enquiries, you may contact:</p>
-<p>Mr Quaide Millath (Subject Head / PE &amp; CCA)
-<br>Tel: 6583 1387 (ext. 303)
-<br>Email: <a href="mailto:quaide_millath@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quaide_millath@schools.gov.sg</u></a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quaide Millath</p>
+<p>(HOD PE &amp; CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 6583 1387 (ext. 303)</p>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">quaide_millath@schools.gov.sg</a>
 </p>
-<p><strong><em>For more information on DSA-Sec, please refer to the MOE website at </em></strong>
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h4>USEFUL MOE WEBLINKS</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA-Sec Main Webpage</strong>
 </p>
-<p><strong>Thank you and we look forward to meeting you soon!</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
-<hr>
-<h3>2024 E-DSA Session</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Announcements/2024_E_DSA_Session.png">
-</div>
-<h4>E-DSA</h4>
-<p>Parents who wish to attend the E-DSA Zoom session may register via the
-QR code below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Announcements/2024_17_May_E_DSA_Session__QR.png">
-</div>
-<p>&nbsp;Click&nbsp;<a href="https://forms.moe.edu.sg/forms/o1WW52" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to register
-for Meridian Secondary E-DSA Session 2024</p>
-<p><strong>Date</strong>&nbsp;: Friday, 17th May 2024
-<br><strong>Time</strong>&nbsp;: 6.00 – 7.00 pm
-<br><strong>Venue</strong>&nbsp;: On Zoom (link will be sent to you after
-registration)</p>
-<hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/dsa zoom details 17 may 2024.jpg">
-</div>
-<p></p>
-<p></p>
-<p>Dear parents and P6 students,</p>
-<p>if you’re interested in attending our DSA Zoom session but haven’t registered,
-you can join our webinar tomorrow evening using the details in this post.</p>
-<p>Link: <a href="https://moe-singapore.zoom.us/j/87120239829" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/87120239829</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Instructions on Application (Mainstream students)</strong>
 </p>
-<p>Passcode: 003793</p>
-<p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Instructions on Application (Non-Mainstream Students)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Direct to DSA-Sec Portal (Mainstream Students)</strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>(*go live on 7 May 2025, 11am)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Direct to DSA-Sec Portal (Non-Mainstream Students)</strong>
+</p>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>(*go live on 7 May 2025, 11am)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA-Sec iFAQs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA-Sec SchoolFinder</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Thank you and we look forward to meeting you soon!</strong>
+</p>
