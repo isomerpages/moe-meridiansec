@@ -440,18 +440,44 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liang Yulu (3E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lim Cleo (3E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charis Abira Djingga (3E4)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Sebastian (4A1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nur Humaira Binte Muhammad Noh (4A2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Samantha Alcantara Clemente (4A2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristen Erica Tan Shi Ting (4E2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystal Kwok Cai Jing (4E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jomin Hoo Yuan Hui (4E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Too Weng Yi (4E4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Mun Heng Hazel (3E1)</p>
+</li>
+<li>
+<p>Liew Jia Yan Anne (3E1)</p>
+</li>
+<li>
+<p>Liang Yulu (3E3)</p>
+</li>
+<li>
+<p>Lim Cleo (3E3)</p>
+</li>
+<li>
+<p>Charis Abira Djingga (3E4)</p>
+</li>
+<li>
+<p>Too Sebastian (4A1)</p>
+</li>
+<li>
+<p>Nur Humaira Binte Muhammad Noh (4A2)</p>
+</li>
+<li>
+<p>Samantha Alcantara Clemente (4A2)</p>
+</li>
+<li>
+<p>Kristen Erica Tan Shi Ting (4E2)</p>
+</li>
+<li>
+<p>Crystal Kwok Cai Jing (4E3)</p>
+</li>
+<li>
+<p>Jomin Hoo Yuan Hui (4E3)</p>
+</li>
+<li>
+<p>Too Weng Yi (4E4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -462,10 +488,20 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Jia Yan Anne (3E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Mun Heng Hazel (3E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jerrica Ong Si Xuan (3E2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liora Chandra (3E4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liew Jia Yan Anne (3E1)</p>
+</li>
+<li>
+<p>Ng Mun Heng Hazel (3E1)</p>
+</li>
+<li>
+<p>Jerrica Ong Si Xuan (3E2)</p>
+</li>
+<li>
+<p>Liora Chandra (3E4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -474,7 +510,11 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Harith Amri Bin Saiful Amri (3E1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -485,10 +525,17 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amirah Noorhuda Binti Noorhizam
-(2E4)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hannah Peralta Khai (2E4)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Harith Amri Bin Saiful Amri (3E1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Amirah Noorhuda Binti Noorhizam (2E4)</p>
+</li>
+<li>
+<p>Hannah Peralta Khai (2E4)</p>
+</li>
+<li>
+<p>Harith Amri Bin Saiful Amri (3E1)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -537,9 +584,11 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
 <p>Umathorn Theethut (4E1)</p>
-<p><strong>&nbsp;</strong>
-</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -548,7 +597,11 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
 <p>Wong Li Yan (4E1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -557,8 +610,12 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
 <p>Umathorn Theethut (4E1)<strong><br><br></strong>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -567,9 +624,14 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Molina Caleb Geoliano Malihan (4T1)</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Muhammad Danish
-(4A2)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Molina Caleb Geoliano Malihan (4T1)</p>
+</li>
+<li>
+<p>Muhammad Danish (4A2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -592,10 +654,20 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crystal Kwok (3E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jomin Hoo (3E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristen Erica Tan (3E2)</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Elly Qalisya (3T1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Crystal Kwok (3E3)</p>
+</li>
+<li>
+<p>Jomin Hoo (3E3)</p>
+</li>
+<li>
+<p>Kristen Erica Tan (3E2)</p>
+</li>
+<li>
+<p>Elly Qalisya (3T1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -604,9 +676,14 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ng Wan Yi (3E3)</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Naomi Peralta Khai
-(3E3)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Wan Yi (3E3)</p>
+</li>
+<li>
+<p>Naomi Peralta Khai (3E3)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
