@@ -57,6 +57,7 @@ for excellence and fostering a love for football in every player.</p>
 <p>Ms Shervonne Yeo Xin Ting</p>
 <p>Mr Ian Kwok Jien Chi</p>
 <p>Ms Lynn Kiew</p>
+<p>Ms Grace Cheong</p>
 <p></p>
 <h3>Coach</h3>
 <p><strong>Coach Fabio Da Silva</strong>
