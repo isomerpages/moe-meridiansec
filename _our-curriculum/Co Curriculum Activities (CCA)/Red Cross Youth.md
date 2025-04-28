@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<h2><strong>Red Cross Youth</strong></h2>
 <h3><strong>About us</strong></h3>
 <p>Red Cross Youth is a co-curricular activity that integrates character-building,
 leadership, essential lifesaving skills and blood donation knowledge, local
@@ -13,6 +12,7 @@ community service and overseas humanitarian projects in its curriculum,
 with the Red Cross ethos and service to humanity as a core focus.</p>
 <p>Throughout the year, we participate in a variety of programmes and events
 hosted by Red Cross Youth. The events are as follows:-</p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,24 +61,11 @@ donation Competition (ABC), Trailblazers Championship (TC)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Trainings during co-curricular activity include learning about&nbsp;<strong>First Aid, Footdrills, and Disaster Management such as evacuation procedures, Youth Leadership skills, Red Cross Knowledge and some outdoor activities.</strong> Furthermore,
+<p>&nbsp;</p>
+<p>Trainings during co-curricular activity include learning about&nbsp;<strong>First Aid, Footdrills, and Disaster Management such as evacuation procedures, Youth Leadership skills, Red Cross Knowledge and some outdoor activities.</strong>&nbsp;Furthermore,
 cadets are also given the opportunities to volunteer for Community Service
 projects.</p>
-<p>Annually, senior cadets organise the<strong> uniform group camp</strong>&nbsp;in
-school to horn their leadership skills and to improve the bonds between
-uniform group members.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To promote and encourage the active participation of young persons in
-the work of&nbsp;Red Cross.</p>
-</li>
-<li>
-<p>To inculcate and develop a sense of social responsibility in serving the
-less fortunate in the community.</p>
-</li>
-</ul>
-<h4><strong>Training / CCA Schedule and Venue</strong></h4>
+<h3>&nbsp;Training / CCA Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -102,7 +89,7 @@ less fortunate in the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday &amp;Thursday</p>
+<p>Tuesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 pm to 5.00 pm</p>
@@ -113,27 +100,257 @@ less fortunate in the community.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers in-charge</strong></h4>
+<h3>Teachers in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Miss Belinda Tan</p>
+<p>Miss Syafiqah Md Anuar</p>
 </li>
 <li>
 <p>Mdm Teo Yee Hoon</p>
 </li>
 <li>
-<p>Miss Syafiqah Md Anuar</p>
+<p>Mr Adam Chan</p>
+<p></p>
+<h3>Highlights</h3>
+<p></p>
+<h4>2025</h4>
 </li>
 </ul>
-<h4><strong>HQ appointed Volunteer Instructor</strong></h4>
-<ol data-tight="true" class="tight">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award (Silver)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for 2024 Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Director’s Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ting Jun Jie (4E1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Championship [Junior] (Bronze)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
-<p>Wang Jia Xuan</p>
-<p></p>
-<p></p>
-<h3><strong>Highlights</strong></h3>
+<p>Tongson Kendrick Sean Legaspi (2-2)</p>
 </li>
-</ol>
+<li>
+<p>Rohainah Binte Riduan (2-3)</p>
+</li>
+<li>
+<p>Jacob Gabriel Tan Jun Xi (2-3)</p>
+</li>
+<li>
+<p>Lucas Loh Yi Xuan (2-3)</p>
+</li>
+<li>
+<p>Zachary Ying Shao Feng (2-3)</p>
+</li>
+<li>
+<p>Maximillian Khng Sheng (2-4)</p>
+</li>
+<li>
+<p>Ding Shi Ying Charisse (2-5)</p>
+</li>
+<li>
+<p>Neo Shi Ying, Noelle (2-7)</p>
+</li>
+<li>
+<p>Chow Wei Yi (2-7)</p>
+</li>
+<li>
+<p>Koh Wen Yi (2-7)</p>
+</li>
+<li>
+<p>Tse Ka Hei (2-7)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Championship [Senior] (Silver)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Rida Fatima (3-2)</p>
+</li>
+<li>
+<p>Low See Weng Maeve (3-5)</p>
+</li>
+<li>
+<p>Amirah Noorhuda Binti Noorhizam (4E1)</p>
+</li>
+<li>
+<p>Liew Yu Xin, Aislinn (4E1)</p>
+</li>
+<li>
+<p>Ting Jun Jie (4E1)</p>
+</li>
+<li>
+<p>Claira Poh Wen Xuan (4E2)</p>
+</li>
+<li>
+<p>Parinitha Thiyagarajan (4E3)</p>
+</li>
+<li>
+<p>Hannah Peralta Khai (4E4)</p>
+</li>
+<li>
+<p>Margareth Paige Albino(4E4)</p>
+</li>
+<li>
+<p>Keegan Choo (4E4)</p>
+</li>
+<li>
+<p>Annabel Chong Rui (4T1)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture1.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellent Unit Award (Gold)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for 2023 Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Director’s Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethan Kok Zhi Yong (4E2)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Championship [Junior] (Silver)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Fong Yu Qi (2-1)</p>
+</li>
+<li>
+<p>Tang Yu Seng (2-1)</p>
+</li>
+<li>
+<p>Lulu Binte Fares Aljunied (2-2)</p>
+</li>
+<li>
+<p>Rida Fatima (2-2)</p>
+</li>
+<li>
+<p>Chen Qifan (2-2)</p>
+</li>
+<li>
+<p>Tan Wee How (2-3)</p>
+</li>
+<li>
+<p>Low See Weng Maeve (2-5)</p>
+</li>
+<li>
+<p>Tongson Kendrick Sean Legaspi (1-2)</p>
+</li>
+<li>
+<p>Lucas Loh Yi Xuan (1-3)</p>
+</li>
+<li>
+<p>Neo Shi Ying, Noelle (1-7)</p>
+</li>
+<li>
+<p>Koh Wen Yi (1-7)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>First Aid Championship [Senior] (Silver)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ng Mun Heng Hazel (4E1)</p>
+</li>
+<li>
+<p>Liew Jia Yan Anne (4E1)</p>
+</li>
+<li>
+<p>Ethan Kok Zhi Yong (4E2)</p>
+</li>
+<li>
+<p>Liang Yulu (4E3)</p>
+</li>
+<li>
+<p>Lim Cleo (4E3)</p>
+</li>
+<li>
+<p>Charis Abira Djingga (4E4)</p>
+</li>
+<li>
+<p>Parinitha Thiyagarajan (4E3)</p>
+</li>
+<li>
+<p>Hannah Peralta Khai (4E4</p>
+</li>
+<li>
+<p>Margareth Paige Albino (4E4)</p>
+</li>
+<li>
+<p>Keegan Choo (4E4)</p>
+</li>
+<li>
+<p>Annabel Chong Rui (4T1)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture2.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -252,8 +469,7 @@ less fortunate in the community.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -468,41 +684,35 @@ Malihan (3T1)</p>
 </tbody>
 </table>
 <h4><strong>Our CCA Experience</strong></h4>
-<p><em>“So, why Red Cross Youth? For me, the Red Cross was the place where I formed close bonds with my batchmates. We are one family, united, and we supported each other. It was also the place that equipped me with life-saving skills as well as leadership skills to become the best leader I can be.</em>
-</p>
-<p><em>I am currently setting my sights on the medical aspect of healthcare, either in nursing or medicine.”</em>
-</p>
-<p>Naomi Peralta Khai (4E3, 2023)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage1.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture3.png">
+</div>
+<p>"Being in Red Cross Youth has given me meaningful opportunities to serve
+and grow. I’ve taken part in community service projects, first aid duties,
+and was even part of NDP 2024 — an experience that strengthened my discipline
+and teamwork. What I love about Red Cross is that it gives me purpose.
+It’s not just about fulfilling CIP hours, but about truly making a difference,
+even in small ways. Through RCY, I’ve been able to develop my leadership,
+empathy, and resilience while doing something I genuinely enjoy — helping
+others." (Annabel Chong Rui, 4T1 2024)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture4.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage2.png">
-</div>
+<p>"Red Cross has helped me understand what it truly means to be a leader
+and a cadet. Through this CCA, I’ve gained valuable knowledge about Red
+Cross and its core values. Together with my batchmates, we faced challenges
+and grew stronger as a team. From events like the First Aid Competition
+(FAC) to the National Day Parade (NDP), we sharpened our skills in areas
+such as bandaging, foot drills, and teamwork. More importantly, we learned
+to support and uplift one another, especially during times of need."</p>
+<p>(Ting Jun Jie, 4E1 2024)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage3.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture5.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage4.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage6.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage7.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage8.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Red Cross Youth/2024RCYimage9.png">
-</div>
 <p></p>
