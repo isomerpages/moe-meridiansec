@@ -137,7 +137,11 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Ting Jun Jie (4E1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -230,7 +234,6 @@ projects.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture1.jpg">
 </div>
@@ -240,6 +243,14 @@ projects.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>2024</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Excellent Unit Award (Gold)</strong>
@@ -255,7 +266,11 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Ethan Kok Zhi Yong (4E2)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -359,7 +374,7 @@ projects.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>2023</strong></h4>
+<h4>2023</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;</strong>
@@ -552,7 +567,7 @@ projects.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4><strong>2022</strong></h4>
+<h4>2022</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -569,8 +584,6 @@ projects.</p>
 <td rowspan="1" colspan="2">
 <p><strong>Excellent Unit Award (Gold)</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>for 2021 Assessment</p>
@@ -579,8 +592,6 @@ projects.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Director’s Award</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
@@ -612,7 +623,7 @@ projects.</p>
 <td rowspan="1" colspan="3">
 <ul data-tight="true" class="tight">
 <li>
-<p>Umathorn Theethut (4E1)<strong><br><br></strong>
+<p>Umathorn Theethut (4E1)<strong><br></strong>
 </p>
 </li>
 </ul>
@@ -641,7 +652,6 @@ projects.</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Goh Jerrill (4A3)
-<br>
 <br>
 </p>
 </td>
@@ -686,27 +696,11 @@ projects.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;</strong>
 </p>
+<h4>2021</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -715,18 +709,6 @@ projects.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>2021</strong></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Director’s Award</strong>
@@ -744,10 +726,17 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Umathorn Theethut (3E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Goh Jerrill (3A3)</p>
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Molina Caleb Geoliano
-Malihan (3T1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Umathorn Theethut (3E1)</p>
+</li>
+<li>
+<p>Goh Jerrill (3A3)</p>
+</li>
+<li>
+<p>Molina Caleb Geoliano Malihan (3T1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -756,7 +745,11 @@ Malihan (3T1)</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Wong Li Yan (3E1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wong Li Yan (3E1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -765,27 +758,16 @@ Malihan (3T1)</p>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wang Xinyue (3A1)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wang Xinyue (3A1)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Our CCA Experience</strong></h4>
-<p></p>
+<h4>Our CCA Experience</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/RED CROSS 2025/Picture3.png">
 </div>
