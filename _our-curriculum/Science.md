@@ -216,8 +216,19 @@ in water, students observed firsthand how engineering principles affect
 performance. The challenge encouraged teamwork, creativity, and problem-solving,
 with students building their boats while experimenting with ways to keep
 them afloat.</p>
-<p><strong>PICTURE</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/6.jpg">
+</div>
+<p></p>
 <p><strong>2. Sec 2 miniSTEM Activity: Breakthroughs in Pill Coating</strong>
 </p>
 <p>In Term 1, our Science teachers transform a typical science lesson into
@@ -234,8 +245,19 @@ also experience the challenges and triumphs of real-world problem-solving.
 This hands-on activity is a fascinating blend of creativity, science, and
 teamwork, making the importance of pill coatings come alive in a fun and
 engaging way.</p>
-<p>&nbsp;*PICTURE</p>
-<h4>2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/3.jpg">
+</div>
+<h3>2024</h3>
 <p><strong>1. Sec 1 miniSTEM Activity: Grow Your Own Crystals!</strong>
 </p>
 <p>In Term 2, Secondary 1 students embarked on a hands-on STEM project, growing
