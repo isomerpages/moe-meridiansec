@@ -394,17 +394,41 @@ projects.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>·&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp; Tang Yu Seng (S1-1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lulu Binte Fares Aljunied (S1-2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Wee How (S1-3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Low See Weng Maeve (S1-5)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Albino Margareth Paige Apolinario
-(2E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keegan Choo (2E1)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liew Yu Xin, Aislinn (2E2)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parinitha Thiyagarajan (2E3)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ting Jun Jie (2E4)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muhd F. Aqil Bin Muhd Firdaus (2T1)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tang Yu Seng (S1-1)</p>
+</li>
+<li>
+<p>Lulu Binte Fares Aljunied (S1-2)</p>
+</li>
+<li>
+<p>Tan Wee How (S1-3)</p>
+</li>
+<li>
+<p>Low See Weng Maeve (S1-5)</p>
+</li>
+<li>
+<p>Albino</p>
+</li>
+<li>
+<p>Margareth Paige Apolinario (2E1)</p>
+</li>
+<li>
+<p>Keegan Choo (2E1)</p>
+</li>
+<li>
+<p>Liew Yu Xin, Aislinn (2E2)</p>
+</li>
+<li>
+<p>Parinitha Thiyagarajan (2E3)</p>
+</li>
+<li>
+<p>Ting Jun Jie (2E4)</p>
+</li>
+<li>
+<p>Muhd F. Aqil Bin Muhd Firdaus (2T1)</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
