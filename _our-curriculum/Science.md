@@ -13,7 +13,6 @@ learning using all their senses. As part of the nation-wide Personalised
 Digital Learning Programme (PDLP), our science tasks and activities are
 designed with the use of students’ personal learning devices to support
 their out-of-classroom Science teaching and learning experiences.</p>
-<h4>&nbsp;</h4>
 <h4><strong>Department Teachers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -21,16 +20,6 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Bee Ling</p>
@@ -49,14 +38,6 @@ their out-of-classroom Science teaching and learning experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khaliq</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Joel Boon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +49,7 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <p>Mr Jeffrey Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -76,15 +57,7 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <p>Mr Brian Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Elene Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +65,7 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <p>Mdm Suriati</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -100,15 +73,7 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <p>Mdm Dewi Haryanti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Ling Guan (James)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -116,15 +81,71 @@ their out-of-classroom Science teaching and learning experiences.</p>
 <p>Miss Joanne Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tiah Tao Koon</p>
+<p>Mr Tan Siang Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Shervonne Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joel Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Xin Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Patricia Hang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliyah Jumsi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Elene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Choon Lye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (FAJT)</p>
 </td>
 </tr>
 </tbody>
@@ -137,7 +158,6 @@ included with the aim of positive student outcomes.
 <br>
 <br>With the push for 21st Century Competencies (21CC), it is necessary to
 prepare students to be able to develop:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>effective communication</strong>, sharing ideas and expressing
@@ -165,7 +185,7 @@ learning journeys and competitions at various Science institutions.
 <br>
 <br>The department continues to provide opportunities for students from all
 classes and streams to participate in external Science competitions.</p>
-<p><u>Framework:</u>
+<p><strong>Framework:</strong>
 </p>
 <p>The Science Enrichment framework is modelled from the NE, “Head, Heart
 and Hands” framework.</p>
@@ -179,7 +199,65 @@ and curriculum.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/02.png">
 </div>
-<h3>2024 Highlights</h3>
+<h3>Highlights</h3>
+<h4>2025</h4>
+<p><strong>1. Sec 1 miniSTEM Activity: Build a Boat, Defy Gravity!</strong>
+</p>
+<p>In Term 1, our Sec 1 students took on the <em>Build a Boat, Defy Gravity</em> challenge
+in an exciting miniSTEM activity! Armed with cardboard and recycled materials,
+students designed and built their own boats with a fun twist—keeping them
+afloat while supporting a 100-gram mass for 20 seconds! Students explored
+the science of buoyancy and displacement, diving into the concept that
+the key to floating is displacing enough water to support the weight of
+the boat and its load.</p>
+<p>Through hands-on design and teamwork, students learned how small changes
+in boat shape or material can impact buoyancy. After testing their boats
+in water, students observed firsthand how engineering principles affect
+performance. The challenge encouraged teamwork, creativity, and problem-solving,
+with students building their boats while experimenting with ways to keep
+them afloat.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/6.jpg">
+</div>
+<p></p>
+<p><strong>2. Sec 2 miniSTEM Activity: Breakthroughs in Pill Coating</strong>
+</p>
+<p>In Term 1, our Science teachers transform a typical science lesson into
+an exciting adventure where students become innovators in pharmaceutical
+technology. Imagine crafting a pill coating that shields beneficial probiotics
+from the harsh, acidic environment of the stomach, ensuring they reach
+the intestines intact to aid digestion.</p>
+<p>Using everyday materials like flour, sodium carbonate, and water, students
+mix and mold their own protective layers around simulated probiotics. The
+thrill comes in testing these creations in hydrochloric acid, timing the
+release with precision to hit the 5-minute mark. Through multiple trials
+and tweaks, students not only learn the science behind pill coatings but
+also experience the challenges and triumphs of real-world problem-solving.
+This hands-on activity is a fascinating blend of creativity, science, and
+teamwork, making the importance of pill coatings come alive in a fun and
+engaging way.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/Science 2025/3.jpg">
+</div>
+<h3>2024</h3>
 <p><strong>1. Sec 1 miniSTEM Activity: Grow Your Own Crystals!</strong>
 </p>
 <p>In Term 2, Secondary 1 students embarked on a hands-on STEM project, growing
@@ -202,7 +280,6 @@ Teams tested their ice boxes by measuring the amount of ice that melted
 after exposure to the Sun. The winning teams, with the most effective insulation,
 were awarded prizes. Student reflections emphasised the enjoyment and educational
 value of the challenge, which made science come to life for many participants.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/Science/Ice_Box.png">
 </div>
@@ -276,12 +353,10 @@ Boat, where teams designed boats using cardboard and recycled materials.
 The boats, no larger than A5 size, had to support 1 kg and stay afloat
 for 20 seconds. Prizes were awarded for the most durable, aesthetic, and
 well-presented boats.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/Science/pic4.png">
 </div>
 <h4>2022</h4>
-<p></p>
 <p><strong>1. Meridian Science Enrichment: Science Centre Workshops</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -348,7 +423,7 @@ on top, with a winning structure selected from each class.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/Science/pic10.png">
 </div>
 <p></p>
-<h4><strong>Meridian Science Programmes</strong></h4>
+<h4>Meridian Science Programmes</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Meridian Young Scientist for Secondary 1 students</strong>

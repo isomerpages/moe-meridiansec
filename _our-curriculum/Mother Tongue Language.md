@@ -163,7 +163,118 @@ and writing workshop.&nbsp;</p>
 <img style="width: 80%;" height="auto" width="100%" src="/images/mtoct18.jpg">
 </div>
 <h3>Highlights - Malay Language</h3>
-<h3>2024</h3>
+<h3>2025</h3>
+<h4>Feb – Pertandingan CendekiaSahibba</h4>
+<p>Para pelajar Meridian telah berpeluang untuk bertarung dalam Pertandingan
+CendekiaSahibba&nbsp; yang dianjurkan oleh Sekolah Rendah Riverside dan
+Sekolah Menengah Changkat Changi.&nbsp; Pertandingan ini diadakan pada
+22 Februari 2025 di Sekolah Menengah Changkat Changi</p>
+<p>&nbsp;Lesung bukan sebarang lesung</p>
+<p>Lesung dari Tanjung Kelik;</p>
+<p>Renung bukan sebarang renung,</p>
+<p>Renung mencari kata terbaik!</p>
+<p><strong>&nbsp;Peserta:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Auzan bin M Effendy (2-3)</p>
+</li>
+<li>
+<p>⁠Queaisyah Bt M Zaki(2-6)</p>
+</li>
+<li>
+<p>⁠Shaura Marissa Bt M Fazlan (3-7)</p>
+</li>
+<li>
+<p>&nbsp;Raiyan Aqil (3-2)</p>
+</li>
+</ul>
+<p>&nbsp;Semangat kental para peserta tetap menyerlah dalam keaadan tegang
+walaupun tidak berjaya ke peringkat akhir. Syabas kepada mereka yang berani
+keluar daripada zon keselesaan pada Sabtu dari jam 8 pagi -12 tengah hari
+untuk bertarung dan berhadapan dengan para pelajar Menengah 4 di medan
+pertandingan!</p>
+<p>Queaisyah&nbsp; dan Shaura Marissa akan turut mengambil bahagian dalam
+pertandingan Sahibba seterusnya, Mesra Sahibba Singapura pada 25 Mei 2025&nbsp;
+nanti di Dewan Persada, Wisma Geylang Serai. Semoga berjaya Queaisyah Bt
+M Zaki dan Shaura!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1.jpg">
+</div>
+<h4>Rakan Bahasa</h4>
+<p><strong>&nbsp;</strong>Sekolah Menengah Meridian mencalonkan dua lagi
+Rakan Bahasa dalam kalangan pelajar Bahasa Melayu yang mempamerkan kecintaan
+terhadap bahasa dan budaya Melayu.&nbsp; Perlantikan mereka yang disokong
+Majlis Bahasa Melayu Singapura (MBMS) memberikan Rakan Bahasa ruang dan
+peluang untuk melibatkan diri dalam pelbagai acara bahasa dan budaya Melayu
+yang dianjurkan di peringkat sekolah dan kebangsaan.</p>
+<p>&nbsp;Tahun ini, Que’aisyah Binte Mohammad Zaki (Men 2-6) dan Mohammad
+Anaqi Bin Mohammad Isham (Men 1-6) akan menerima perlantikan mereka dalam
+majlis anjuran MBMS pada 15 April 2025 bersama Rakan Bahasa lain dari peringkat
+rendah, menengah dan maktab.</p>
+<p>&nbsp;Sebelum itu, Aisyah dan Anaqi telahpun dilibatkan dalam sambutan
+Hari Raya sekolah yang diadakan sepanjang dua minggu pertama penggal dua
+sebagai pengacara segmen Recess Raya dan Kuiz Raya bersama-sama Rakan Bahasa
+yang terdahulu.</p>
+<p>&nbsp;Semoga Aisyah dan Anaqi akan menjadi pemangkin semangat rakan-rakan
+pelajar mereka dalam melestarikan bahasa dan budaya Melayu melalui lebih
+banyak aktiviti dan acara pada masa hadapan.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture2.jpg">
+</div>
+<h4>Mac-Perkhemahan Kebudayaan Menengah 1: Menyelami Warisan, Menjiwai Nilai</h4>
+<p>Sebagai sebahagian daripada sambutan Bulan Bahasa Ibunda, pelajar Menengah
+1 telah menyertai <em>Perkhemahan Bahasa Ibunda 2025</em> yang sarat dengan
+aktiviti budaya.</p>
+<p>Antara aktiviti utama ialah bengkel Dikir Barat, yang mengasah semangat
+kerjasama dan keyakinan diri melalui seni persembahan tradisional. Pelajar
+juga mengikuti bengkel Khat Jawi, di mana mereka menulis nilai sekolah
+– <em>Daya Tahan</em>, <em>Jujur</em>, <em>Prihatin</em>, dan <em>Rendah Hati</em> –
+dalam tulisan jawi. Aktiviti ini memperkukuh pemahaman mereka terhadap
+nilai-nilai murni sambil menghargai seni warisan. Akhir sekali, pelajar
+mempelajari tentang busana tradisional Melayu, termasuk cara memakai <em>tanjak</em> dan <em>samping</em>.
+Aktiviti ini membuka ruang untuk mereka mengenali dan menghargai keunikan
+budaya sendiri.</p>
+<p>Perkhemahan ini bukan sahaja menyeronokkan, tetapi juga memperkukuh jati
+diri dan rasa bangga terhadap warisan bahasa dan budaya Melayu.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture3.jpg">
+</div>
+<h4>April – Sambutan Hari Raya</h4>
+<p><strong>&nbsp;</strong>Pada tahun ini, sambutan Hari Raya lebih meriah
+dengan pelibatan pelajar dan kaki tangan Sekolah Menengah Meridian yang
+candi lagi bersemangat.&nbsp;</p>
+<p>&nbsp;Bertemakan Meraikan Tradisi Raya Dengan Sentuhan Moden, sambutan
+Raya 2025 menyaksikan pelajar-pelajar menyahut cabaran menyanyikan lagu-lagu
+Raya melalui acara Recess Raya pada 28 Mac 2025 yang diterajui Rakan-rakan
+Bahasa dahulu dan kini.&nbsp; Hadiah-hadiah menarik ditawarkan kepada peserta
+yang termasuk pelajar bukan Melayu sekiranya mereka menyanyikan korus lagu
+Raya dengan betul.&nbsp; Video-video acara yang menyeronokkan ini berjaya
+menarik ratusan tontonan apabila ianya dikongsi di akaun Instagram sekolah.
+Tidak disangka bahawa sekolah ini menyimpan begitu ramai pelajar dengan
+bakat terpendam!</p>
+<p>Kaki tangan Sekolah Menengah Meridian juga tidak ketinggalan dengan video
+Serumpun Raya yang dirakam untuk tayangan semasa konsert Raya pada 2 April
+2025.&nbsp; Dengan terang hati, mereka seronok mempelajari pergerakan ala-ala
+bahasa isyarat mengikut video Raya Mimi Fly. Sorakan para pelajar yang
+teruja menonton guru, pegerai kantin dan pegawai keselamatan sekolah mereka
+menggambarkan penghargaan yang jarang diperlihatkan pada hari-hari biasa.</p>
+<p>&nbsp;Konsert yang diacarakan oleh Rakan Bahasa 2023 ini juga menampilkan
+18 pelajar-pelajar Menengah 3 dalam segmen kejutan yang cukup menghiburkan.&nbsp;
+Persembahan dikir barat memang amat dinanti-nantikan dan gabungan pelajar-pelajar
+Bahasa Melayu ini tidak menghampakan.</p>
+<p>Pada akhir konsert yang turut menawarkan hadiah seperti ketupat berisi
+manisan melalui segmen Kuiz Trivia Raya, para penonton khususnya golongan
+pelajar kelihatan ceria dan ramai yang menyuarakan perasaan teruja dalam
+menantikan sajian Raya pada tahun hadapan.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture4.jpg">
+</div>
+<p></p>
+<h3><strong>&nbsp;</strong>2024</h3>
 <p><strong>&nbsp;Feb 2024 – Perkhemahan Kebudayaan Menengah 1</strong>
 </p>
 <p><strong>&nbsp;</strong>Perkhemahan Kebudayaan pada tahun ini menjamu para
