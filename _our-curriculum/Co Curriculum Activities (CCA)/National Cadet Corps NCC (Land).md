@@ -128,12 +128,17 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 </div>
 <p>Cadets preparing for their annual Camp Steel.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
+</div>
 <p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
+</div>
 <h3>2024</h3>
 <p></p>
 <p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
+<p></p>
 <p></p>
 <p>Promotion Ceremony for our Cadets to their next ranks.</p>
 <p></p>
