@@ -118,13 +118,16 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 </li>
 </ul>
 <p></p>
-<p>Newly appointed key appointment holders for Cadet Leaders.</p>
-<ul data-tight="true" class="tight">
-<li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
+</div>
 <p></p>
-</li>
-</ul>
+<p>Newly appointed key appointment holders for Cadet Leaders.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
+</div>
 <p>Cadets preparing for their annual Camp Steel.</p>
+<p></p>
 <p></p>
 <p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
 <p></p>
