@@ -136,10 +136,14 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
 <h3>2024</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
+</div>
 <p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide4.png">
+</div>
 <p>Promotion Ceremony for our Cadets to their next ranks.</p>
 <p></p>
 <p>Annual Sports Championship at Loyang View Secondary School.</p>
