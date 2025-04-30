@@ -39,7 +39,6 @@ Primary 6 (Mid-year)</p>
 <p></p>
 </li>
 </ul>
-<hr>
 <h3>CRITERIA / SELECTION PROCESS</h3>
 <p>&nbsp;The criteria and selection process for the sports talent areas are
 reflected below.</p>
@@ -94,9 +93,7 @@ Games (NSG) or any equivalent competition/involvements (eg. for football
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
 </p>
-<p></p>
 <h3>KEY DATES</h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -173,7 +170,6 @@ IS) or in person at their respective primary schools.</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h3>SUBMISSION OF APPLICATION</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>).</p>
@@ -183,7 +179,6 @@ IS) or in person at their respective primary schools.</p>
 <p></p>
 <p><strong>Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
-<p></p>
 <p><strong><u>For students NOT studying in MOE mainstream primary schools</u></strong>
 </p>
 <p>Students not studying in MOE schools are required to obtain a Registration
@@ -191,7 +186,6 @@ Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can
 apply through the DSA-Sec Portal. For more information, please refer to
 MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<hr>
 <h3>FOR DSA ENQUIRIES</h3>
 <p>For general enquiries, you may contact:</p>
 <table style="minWidth: 50px">
