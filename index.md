@@ -23,7 +23,6 @@ sections:
       variant: center
   - infobar:
       title: 2025 Direct School Admission Exercise
-      subtitle: Add informational text
       id: infobar
       button: Click here
       url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
