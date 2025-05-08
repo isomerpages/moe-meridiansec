@@ -22,11 +22,11 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
-      title: Collection of Testimonials for 2024 cohort
+      title: 2025 Direct School Admission Exercise
       subtitle: Add informational text
       id: infobar
-      url: /collection-of-testimonials-for-2024-4e-5na-and-4nt-students/
       button: Click here
+      url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
   - infopic:
       title: Meridian Making Waves
       id: infopic
@@ -36,28 +36,12 @@ sections:
       url: /about-us/our-stories/meridians-making-waves/
       alt: Image alt text
       image: /images/Meridians Making Waves/Zulhilmi.jpg
-  - infopic:
-      title: O Level Results Day Briefing
-      id: infopic
-      description: Admission and Briefing Slides
-      button: FIND OUT MORE
-      url: /2014-o-levels-results-day-briefing/
-      image: /images/Announcements/welcome_back.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Release of O Level Results
-      id: infopic
-      description: The 2024 O Level results will be released on 10 Jan 2025 (Fri).
-      button: Find out more
-      image: /images/Announcements/IMG_4034.jpg
-      alt: Image alt text
-      url: https://www.meridiansec.moe.edu.sg/2024-release-of-o-level-results/
   - infobar:
-      title: Sec 1 Registration
+      title: Collection of Testimonials for 2024 cohort
+      subtitle: Add informational text
       id: infobar
-      description: Secondary 1 Registration and Other Important Information
-      button: FIND OUT MORE
-      url: /2025-sec-1-registration/
+      url: /collection-of-testimonials-for-2024-4e-5na-and-4nt-students/
+      button: Click here
   - announcements:
       title: RELEASE OF RESULTS
       id: announcements
@@ -84,15 +68,6 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
-  - infopic:
-      title: 2023 O Level Release of Results and Information
-      id: infopic
-      description: Find out more on the details of the various post-secondary
-        admission exercise after your O Level.
-      button: Find out more
-      url: /student-information/2023-o-level-release-of-results/
-      image: /images/Homepage and Logos/Hand_in_Hand.jpg
-      alt: Image alt text
   - resources:
       title: Announcements
       button: Access all announcements
