@@ -38,9 +38,10 @@ through the MOE DSA-SEC Exercise 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081458.png">
 </div>
-<p>Dayama (2-7)</p>
-<p><a href="https://drive.google.com/drive/folders/175Hry2WU4mhLuqzF1YhgLa3HuAwLx0z6?usp=sharing" rel="noopener nofollow" target="_blank">Let's hear from Ayden, Risya &amp; Dayana</a>
-</p>
+<p>Dayana (2-7)</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3mGUXftnfws?si=PSK8elXOxesPaRcl"></iframe>
+</div>
 <h3>ADMISSION CRITERIA</h3>
 <p>The general criteria for selection are as follows:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interest &amp; passion</strong>
