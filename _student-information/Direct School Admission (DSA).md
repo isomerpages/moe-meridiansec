@@ -21,6 +21,25 @@ and talents that they can demonstrate beyond the PSLE.</p>
 <p>If you are interested and would like to join us, you may seek admission
 through DSA.&nbsp; We will be admitting Secondary One students for 2026
 through the MOE DSA-SEC Exercise 2025.</p>
+<h3>To find out more about our DSA process and students' experience, check out our video:</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081246.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081322.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081350.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081458.png">
+</div>
+<p><a href="https://drive.google.com/drive/folders/175Hry2WU4mhLuqzF1YhgLa3HuAwLx0z6?usp=sharing" rel="noopener nofollow" target="_blank">Let's hear from Ayden, Risya &amp; Dayana</a>
+</p>
 <h3>ADMISSION CRITERIA</h3>
 <p>The general criteria for selection are as follows:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interest &amp; passion</strong>
