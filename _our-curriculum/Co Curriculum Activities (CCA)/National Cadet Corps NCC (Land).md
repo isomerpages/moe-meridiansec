@@ -202,7 +202,6 @@ from our Principal Mr Razali.</p>
 <p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
 appointments to our new Cadet Leader appointment holders.</p>
 <p></p>
-<p></p>
 <h4>2023</h4>
 <p></p>
 <div class="isomer-image-wrapper">
