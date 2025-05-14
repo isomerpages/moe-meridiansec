@@ -186,11 +186,19 @@ the summit of Mount Gunung Ledang, Malaysia.</p>
 <p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
 from our Principal Mr Razali.</p>
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide13.png">
+</div>
 <p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide14.png">
+</div>
 <p>Air Rifle Shooting programme for our Senior Cadets</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide15.png">
+</div>
 <p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
 appointments to our new Cadet Leader appointment holders.</p>
 <p></p>
