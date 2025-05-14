@@ -146,21 +146,43 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide4.png">
 </div>
 <p>Promotion Ceremony for our Cadets to their next ranks.</p>
-<p></p>
 <p>Annual Sports Championship at Loyang View Secondary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide5.png">
+</div>
+<p>One of our NCC Initiative – Hiking from School to Pasir Ris Beach and
+beach clean up (VIA).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide6.png">
+</div>
 <p></p>
 <p>National Day Parade</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide7.png">
+</div>
 <p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide8.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide9.png">
+</div>
 <p>Cadets commemorating our annual NCC Day.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide10.png">
+</div>
 <p>Cadets successfully completed their Senior Specialist Leaders Course</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
+</div>
 <p>Cadet Leader Leon participated in the prestigious Ex Puncak and reached
 the summit of Mount Gunung Ledang, Malaysia.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+</div>
 <p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
 from our Principal Mr Razali.</p>
 <p></p>
