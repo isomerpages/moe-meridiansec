@@ -265,7 +265,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriati Binte Samat <a href="mailto:suriatie_abdul_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suriatie_abdul_samat@moe.edu.sg</a>
+<p>Mdm Suriati Binte Samat <a href="mailto:suriatie_abdul_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suriati_samat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
