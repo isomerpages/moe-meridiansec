@@ -5,14 +5,13 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<p></p>
 <h3>About Us</h3>
 <p>The National Cadet Corps (NCC) is a military cadet corps youth organisation
 supported by the Ministry of Defence and the Ministry of Education.</p>
-<p>&nbsp;</p>
+<p></p>
 <h3>Our Objectives</h3>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
-and Military-related Activities</p>
+and Military-related Activities.</p>
 <p></p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
@@ -92,20 +91,23 @@ and Military-related Activities</p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>2024 NCC Unit Recognition – Distinction Award</p>
+</li>
+<li>
 <p>2023 NCC Unit Recognition – Distinction Award</p>
 </li>
 <li>
-<p>2022 NCC Unit Recognition – Distinction Award</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">2022 NCC Unit Recognition – Distinction Award</a>
+</p>
 </li>
 <li>
-<p>2021 NCC Unit Recognition – Distinction Award</p>
+<p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
 <p></p>
 <h3>Events</h3>
 <p></p>
 <h4>2025</h4>
-<p>&nbsp;</p>
-<p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
-Drills Course</p>
+<p>&nbsp;Our newly appointed Unit Sergeant Major Rayyan attending our annual
+Advanced Drills Course</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
@@ -115,9 +117,9 @@ Drills Course</p>
 <li>
 <p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
 our newly appointed Cadet Leaders to take over key positions.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
@@ -127,7 +129,6 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
 </div>
 <p>Cadets preparing for their annual Camp Steel.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
 </div>
