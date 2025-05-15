@@ -30,17 +30,22 @@ through the MOE DSA-SEC Exercise 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081322.png">
 </div>
-<p>Ayden (2-1)</p>
+<p>Our Floorballer: Ayden (2-1)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081350.png">
 </div>
-<p>Risya (2-7)</p>
+<p>Our Footballer: Risya (2-7)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081458.png">
 </div>
-<p>Dayana (2-7)</p>
+<p>Our Floorballer: Dayana (2-7)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_15_085742.png">
+</div>
+<p>Our Footballer: Wayne (3-6)</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3mGUXftnfws?si=PSK8elXOxesPaRcl"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3dbyr79P96w?si=48fqTV_KZ39KSc8e"></iframe>
 </div>
 <h3>ADMISSION CRITERIA</h3>
 <p>The general criteria for selection are as follows:</p>
