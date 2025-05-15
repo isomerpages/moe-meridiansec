@@ -22,31 +22,25 @@ and talents that they can demonstrate beyond the PSLE.</p>
 through DSA.&nbsp; We will be admitting Secondary One students for 2026
 through the MOE DSA-SEC Exercise 2025.</p>
 <h3>To find out more about our DSA process and students' experience, check out our video:</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081246.png">
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3dbyr79P96w?si=uEIwn59P-X0MAqdh"></iframe>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081322.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 <p>Our Floorballer: Ayden (2-1)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081458.png">
+</div>
+<p>Our Floorballer: Dayana (2-7)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081350.png">
 </div>
 <p>Our Footballer: Risya (2-7)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Screenshot_2025_05_09_081458.png">
-</div>
-<p>Our Floorballer: Dayana (2-7)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_15_085742.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 <p>Our Footballer: Wayne (3-6)</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3dbyr79P96w?si=48fqTV_KZ39KSc8e"></iframe>
-</div>
 <h3>ADMISSION CRITERIA</h3>
 <p>The general criteria for selection are as follows:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interest &amp; passion</strong>
