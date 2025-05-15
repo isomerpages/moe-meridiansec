@@ -7,6 +7,13 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridians Making Waves/bdivgirls2025.png">
+</div>
+<p>Our Football B Division Girls claimed yet another title with a 3-0 win
+at the Jalan Besar Stadium. Read more about the girls' victory here:
+<a href="https://www.straitstimes.com/sport/schools/jet-lagged-liyana-indah-rickit-captains-meridian-to-three-peat-in-b-division-girls-football" rel="noopener nofollow" target="_blank">Meridian B Div Girls wins again!</a>
+</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridians Making Waves/BDivisiongirls2024.png">
 </div>
 <p>Brushing off their critics, Meridian claimed their second consecutive

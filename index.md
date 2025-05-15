@@ -34,7 +34,7 @@ sections:
       button: FIND OUT MORE
       url: /about-us/our-stories/meridians-making-waves/
       alt: Image alt text
-      image: /images/Meridians Making Waves/Zulhilmi.jpg
+      image: /images/Meridians Making Waves/bdivgirls2025.png
   - infobar:
       title: Collection of Testimonials for 2024 cohort
       subtitle: Add informational text
