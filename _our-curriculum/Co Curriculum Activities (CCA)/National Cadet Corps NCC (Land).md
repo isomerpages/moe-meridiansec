@@ -106,72 +106,94 @@ and Military-related Activities.</p>
 <h3>Events</h3>
 <p></p>
 <h4>2025</h4>
-<p>&nbsp;Our newly appointed Unit Sergeant Major Rayyan attending our annual
-Advanced Drills Course</p>
-<p></p>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
 </div>
-<p></p>
-</li>
-<li>
-<p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
-our newly appointed Cadet Leaders to take over key positions.</p>
-<p></p>
+<p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
+Drills Course</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
-<p></p>
+<p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
+our newly appointed Cadet Leaders to take over key positions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
+</div>
 <p>Newly appointed key appointment holders for Cadet Leaders.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
 </div>
 <p>Cadets preparing for their annual Camp Steel.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
 <p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
-</div>
 <h3>2024</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
 </div>
 <p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide4.png">
 </div>
 <p>Promotion Ceremony for our Cadets to their next ranks.</p>
-<p></p>
 <p>Annual Sports Championship at Loyang View Secondary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide5.png">
+</div>
+<p>One of our NCC Initiative – Hiking from School to Pasir Ris Beach and
+beach clean up (VIA).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide6.png">
+</div>
 <p>National Day Parade</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide7.png">
+</div>
 <p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide8.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide9.png">
+</div>
 <p>Cadets commemorating our annual NCC Day.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide10.png">
+</div>
 <p>Cadets successfully completed their Senior Specialist Leaders Course</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
+</div>
 <p>Cadet Leader Leon participated in the prestigious Ex Puncak and reached
 the summit of Mount Gunung Ledang, Malaysia.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+</div>
 <p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
 from our Principal Mr Razali.</p>
 <p></p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide13.png">
+</div>
 <p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide14.png">
+</div>
 <p>Air Rifle Shooting programme for our Senior Cadets</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide15.png">
+</div>
 <p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
 appointments to our new Cadet Leader appointment holders.</p>
-<p></p>
 <p></p>
 <h4>2023</h4>
 <p></p>
@@ -310,6 +332,9 @@ appointments to our new Cadet Leader appointment holders.</p>
 </div>
 <h3>Our CCA Experience</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture13.jpg">
+</div>
 <p>I have really enjoyed my CCA for the past 3 years. It helps me to be a
 better person by being more brave in doing stuff. I even overcame my fear
 of heights by repelling down the building during my camp steel in 2024.
@@ -323,7 +348,9 @@ thick and thin, we helped each other to sharpen our drill.</p>
 <p>-&nbsp;&nbsp;&nbsp;Muhammad Rayyan Aiman Bin Muhammad Andre, Unit Sergeant
 Major (3-3, 2025)</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture14.jpg">
+</div>
 <p></p>
 <p>My experience of the past three years as a member of the National Cadet
 Corps. These years have been nothing short of transformative for me. The
