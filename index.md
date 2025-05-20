@@ -70,4 +70,11 @@ sections:
   - resources:
       title: Announcements
       button: Access all announcements
+  - infobar:
+      title: June Holiday Study Timetable
+      id: infobar
+      description: Sec 4 & 5 students, please download the June Holiday Study
+        Timetable here.
+      button: Click Here
+      url: https://staging-lite.d2qmtm7fwiqzg7.amplifyapp.com/files/Annoucements%20Attachments/June_Holiday_Study_Timetable.pdf
 ---
