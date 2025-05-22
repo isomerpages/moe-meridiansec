@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/Annoucements Attachments/2025_Term_2_Week_10_Mon_Wed_Timetable__Final____Classes.pdf" rel="noopener nofollow" target="_blank">Term 2 Week 10 Experiential Week Timetable for the sec 3 students</a>
+</p>
