@@ -57,6 +57,9 @@ for a computer to execute. Though this task, students experienced how clear
 and structured instructions lead to the desired outcome, reinforcing the
 need for precise thinking and problem-solving. This activity laid the foundation
 for systematic thinking, a key skill in coding and problem-solving.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/pic1.jpg">
+</div>
 <h4><strong>Hands-On Coding with Micro:bit</strong></h4>
 <p>Next, students delved into coding with the Micro:bit, experimenting with
 input and output devices like buttons, sensors, LEDs, and motors. They
@@ -67,6 +70,9 @@ the buttons on the Micro:bit to turn a fan on and off, showing how coding
 can interact with everyday appliances. This hands-on experience helped
 students understand how technology can solve real-world problems through
 practical applications.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/Picture2.jpg">
+</div>
 <h4><strong>Digital Making for a Greener Home</strong></h4>
 <p>The final challenge was the Digital Making Project, where students used
 the Design Thinking process to tackle sustainability issues at home. They
