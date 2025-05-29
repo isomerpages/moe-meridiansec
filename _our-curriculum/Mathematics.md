@@ -42,6 +42,59 @@ mathematics;</p>
 and to learn cooperatively and independently.</p>
 </li>
 </ul>
+<h3><strong>Highlights in 2024</strong></h3>
+<h4><strong>Sec 1 Code for Fun Programme 2025</strong></h4>
+<p>As part of the school's Experiential Week on 25 and 26 March 2025, our
+Secondary 1 students participated in the Code for Fun programme—an engaging
+programme that introduces students to computational thinking, inventive
+problem-solving, and digital making through AI. This year's theme, Sustainable
+Living, encouraged students to apply their learning to real-world challenges.</p>
+<h4><strong>Introducing Computational Thinking</strong></h4>
+<p>The programme kicked off with a hands-on paper house folding activity,
+where students followed a set of step-by-step instructions. This exercise
+mirrored the logic of coding, where a programmer writes a sequence of commands
+for a computer to execute. Though this task, students experienced how clear
+and structured instructions lead to the desired outcome, reinforcing the
+need for precise thinking and problem-solving. This activity laid the foundation
+for systematic thinking, a key skill in coding and problem-solving.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/pic1.jpg">
+</div>
+<h4><strong>Hands-On Coding with Micro:bit</strong></h4>
+<p>Next, students delved into coding with the Micro:bit, experimenting with
+input and output devices like buttons, sensors, LEDs, and motors. They
+creatively applied their knowledge by simulating real-world scenarios,
+such as programming the Micro:bit to mimic an ambulance with flashing red
+and blue emergency lights and a heart display. Additionally, students used
+the buttons on the Micro:bit to turn a fan on and off, showing how coding
+can interact with everyday appliances. This hands-on experience helped
+students understand how technology can solve real-world problems through
+practical applications.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/Picture2.jpg">
+</div>
+<h4><strong>Digital Making for a Greener Home</strong></h4>
+<p>The final challenge was the Digital Making Project, where students used
+the Design Thinking process to tackle sustainability issues at home. They
+began by identifying everyday problems, such as excessive electricity usage,
+and then brainstormed innovative solutions. For example, many students
+created automated sensors for household appliances like lights, fans, and
+air conditioners, using coding to program the sensors to activate or deactivate
+based on room occupancy or environmental conditions. This process involved
+designing, prototyping, and writing code that allowed the devices to function
+more efficiently, reducing waste. Through this project, students not only
+applied their coding skills but also gained valuable insight into how technology
+can contribute to sustainable living in real-world settings</p>
+<p>&nbsp;</p>
+<p></p>
+<p>Overall, the Code for Fun programme provided our Secondary 1 students
+with an enriching and purposeful introduction to coding and digital innovation.
+Beyond learning a technical skill, students tapped into their creativity,
+practised critical thinking, and tackled real-world problems. By addressing
+sustainability challenges through hands-on projects, they learned the importance
+of using technology responsibly and meaningfully. The experience not only
+sparked curiosity in digital making but also empowered students to become
+thoughtful innovators who can shape a more sustainable future.</p>
 <p></p>
 <h3><strong>Highlights in 2024</strong></h3>
 <h4>2024 UNSW ICAS:</h4>
