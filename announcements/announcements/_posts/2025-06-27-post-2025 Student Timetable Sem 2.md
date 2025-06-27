@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<p>Dear parents and students,</p>
+<p></p>
+<p>Please download the <a href="Dear parents and students,  Please download the" rel="noopener nofollow" target="_blank">2025 Student Timetable Sem 2</a>
+<a href="https://www.meridiansec.moe.edu.sg/student-information/student-timetable/" rel="noopener noreferrer nofollow" target="_blank"></a>
+</p>
