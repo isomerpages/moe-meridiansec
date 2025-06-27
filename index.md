@@ -22,11 +22,6 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
-      title: Semester 2 School Timetable
-      id: infobar
-      button: CLICK HERE
-      url: https://www.meridiansec.moe.edu.sg/student-information/student-timetable/
-  - infobar:
       title: 2025 Direct School Admission Exercise
       id: infobar
       button: Click here
