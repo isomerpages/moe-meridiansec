@@ -5,6 +5,107 @@ description: ""
 variant: tiptap
 ---
 <h2>2025 Assessment Update</h2>
+<h4>Semester 2 Weighted Assessments (WAs) Schedule</h4>
+<p>The Weighted Assessments (WAs) will be conducted for</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Term 3 will be conducted between 28 July to 22 August 2025.</p>
+</li>
+</ul>
+<p>&nbsp;Please refer to the attachment for the detailed weekly schedule,
+assessment mode and the assessment task/topics assessed.</p>
+<p></p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Sec1.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighted Assessment Schedule Sec 1</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Sec2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighted Assessment Schedule Sec 2</a>
+</p>
+<p><a href="/files/Assessment Matters/Semester_2_Weighted_Assessment_Schedule_Sec3.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighted Assessment Schedule Sec 3</a>
+</p>
+<h4>Secondary 4 and 5 Preliminary Examination</h4>
+<p>&nbsp;Dear Secondary 4 and 5 students,</p>
+<p>The Preliminary Examinations for Secondary 4 and 5 students will be conducted
+from 12 August– 3 September. Please refer to the table below for the schedule
+and date of resumption of normal time-table for you:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Examinations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Exam Schedule</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Written Papers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Resumption of normal time-table</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>N Level Preliminary Examination</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Normal (Technical) Stream:</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>12 to 22 August 2025</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>25 August, Monday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Normal (Academic) Stream:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>O Level Preliminary Examination</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Express and 5 Normal (Academic) Stream:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 August to 3 September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 September, Thursday</p>
+<p>(Students will join the school for the Staff Appreciation Day Celebrations.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Ms Noraidah A Rahim and Ms Tan Bee Ling will be conducting the briefing
+for the Preliminary Examination (written and practical) on 14 July during
+FTI.</p>
+<p>&nbsp;</p>
+<p>Wishing you all the best for your examinations. Do remember to come up
+with and follow healthy routines with adequate rest and meals, throughout
+the examinations.</p>
+<p>&nbsp;</p>
 <h4><strong>Adjustments to WA2 schedule due to Polling Day Off-In-Lieu on 5 May 2025</strong></h4>
 <p>Dear parents and students,</p>
 <p>We have made some adjustments to the schedule for Weighted Assessment
