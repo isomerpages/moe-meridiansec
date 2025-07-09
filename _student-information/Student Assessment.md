@@ -96,15 +96,18 @@ and date of resumption of normal time-table for you:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Ms Noraidah A Rahim and Ms Tan Bee Ling will be conducting the briefing
-for the Preliminary Examination (written and practical) on 14 July during
-FTI.</p>
-<p>&nbsp;</p>
-<p>Wishing you all the best for your examinations. Do remember to come up
-with and follow healthy routines with adequate rest and meals, throughout
+<p><strong>&nbsp;</strong>Ms Noraidah A Rahim and Ms Tan Bee Ling will be
+conducting the briefing for the Preliminary Examination (written and practical)
+on 14 July during FTI.</p>
+<p>&nbsp;Wishing you all the best for your examinations. Do remember to come
+up with and follow healthy routines with adequate rest and meals, throughout
 the examinations.</p>
+<p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4T_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 2025 4N(T)</a>
+</p>
+<p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4N_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 2025 4N(A)</a>
+</p>
+<p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4E5N_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 2025 4Express/5NA</a>
+</p>
 <p>&nbsp;</p>
 <h4><strong>Adjustments to WA2 schedule due to Polling Day Off-In-Lieu on 5 May 2025</strong></h4>
 <p>Dear parents and students,</p>
