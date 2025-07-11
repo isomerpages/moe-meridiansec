@@ -106,7 +106,7 @@ the examinations.</p>
 </p>
 <p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4N_.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 2025 4N(A)</a>
 </p>
-<p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4E5N__updated_11_July.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 4E5N updated on 11 July 2025</a>
+<p><a href="/files/Assessment Matters/Sec_4_5_Preliminary_Exam_Timetable_2025_Students_4E5N__updated_11_July.pdf" rel="noopener nofollow" target="_blank">Preliminary Exam Timetable 4E5N (updated on 11 July 2025)</a>
 </p>
 <p>&nbsp;</p>
 <h4><strong>Adjustments to WA2 schedule due to Polling Day Off-In-Lieu on 5 May 2025</strong></h4>
