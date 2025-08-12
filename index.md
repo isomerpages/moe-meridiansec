@@ -22,6 +22,13 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
+      title: End of Year Examination
+      id: infobar
+      description: Please refer to the following documents for the schedule and topics
+        to be tested for Sec 1 to 3 End of Year Examinations.
+      button: Click here
+      url: /sec-1-to-3-end-of-year-written-examinations-2025/
+  - infobar:
       title: 2025 Direct School Admission Exercise
       id: infobar
       button: Click here
@@ -77,11 +84,4 @@ sections:
         Timetable here.
       button: Click Here
       url: https://staging-lite.d2qmtm7fwiqzg7.amplifyapp.com/files/Annoucements%20Attachments/June_Holiday_Study_Timetable.pdf
-  - infobar:
-      title: End of Year Examination
-      id: infobar
-      description: Please refer to the following documents for the schedule and topics
-        to be tested for Sec 1 to 3 End of Year Examinations.
-      button: Click here
-      url: /sec-1-to-3-end-of-year-written-examinations-2025/
 ---
