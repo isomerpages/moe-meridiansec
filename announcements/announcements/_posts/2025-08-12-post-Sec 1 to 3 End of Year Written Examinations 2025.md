@@ -9,13 +9,13 @@ variant: tiptap
 ---
 <p><strong>Please refer to the following documents for the schedule and topics to be tested for Sec 1 to 3 End of Year Examinations.</strong>
 </p>
-<p><a href="/files/ 2025 School Based Learning/End_of_Year_Timetable_2025_Secondary_1.pdf" rel="noopener nofollow" target="_blank">End of year Timetable 2025 Secondary 1</a>
-</p>
-<p><a href="/files/ 2025 School Based Learning/End_of_Year_Timetable_2025_Secondary_2.pdf" rel="noopener nofollow" target="_blank">End of year Timetable 2025 Secondary 2</a>
-</p>
-<p><a href="/files/ 2025 School Based Learning/End_of_Year_Timetable_2025_Secondary_3.pdf" rel="noopener nofollow" target="_blank">End of year Timetable 2025 Secondary 3</a>
-</p>
 <p></p>
+<p><a href="/files/Timetable Matters/End_of_Year_Timetable_2025_Secondary_1_updated.pdf" rel="noopener nofollow" target="_blank">End of Year Timetable 2025 Secondary 1 (Updated)</a>
+</p>
+<p><a href="/files/Timetable Matters/End_of_Year_Timetable_2025_Secondary_2_updated.pdf" rel="noopener nofollow" target="_blank">End of Year Timetable 2025 Secondary 2 (Updated)</a>
+</p>
+<p><a href="/files/Timetable Matters/End_of_Year_Timetable_2025_Secondary_3_updated.pdf" rel="noopener nofollow" target="_blank">End of Year Timetable 2025 Secondary 3 (Updated)</a>
+</p>
 <p><strong>Please refer to the documents below for the topics tested.</strong>
 </p>
 <p></p>
