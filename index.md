@@ -35,11 +35,6 @@ sections:
         Timetable here.
       button: Click Here
       url: https://staging-lite.d2qmtm7fwiqzg7.amplifyapp.com/files/Annoucements%20Attachments/June_Holiday_Study_Timetable.pdf
-  - infobar:
-      title: 2025 Direct School Admission Exercise
-      id: infobar
-      button: Click here
-      url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
   - infopic:
       title: Meridian Making Waves
       id: infopic
@@ -49,6 +44,11 @@ sections:
       url: /about-us/our-stories/meridians-making-waves/
       alt: Image alt text
       image: /images/Meridians Making Waves/bdivgirls2025.png
+  - infobar:
+      title: 2025 Direct School Admission Exercise
+      id: infobar
+      button: Click here
+      url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
   - infobar:
       title: Collection of Testimonials for 2024 cohort
       subtitle: Add informational text
