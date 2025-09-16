@@ -29,6 +29,13 @@ sections:
       button: Click here
       url: /sec-1-to-3-end-of-year-written-examinations-2025/
   - infobar:
+      title: June Holiday Study Timetable
+      id: infobar
+      description: Sec 4 & 5 students, please download the June Holiday Study
+        Timetable here.
+      button: Click Here
+      url: https://staging-lite.d2qmtm7fwiqzg7.amplifyapp.com/files/Annoucements%20Attachments/June_Holiday_Study_Timetable.pdf
+  - infobar:
       title: 2025 Direct School Admission Exercise
       id: infobar
       button: Click here
@@ -74,14 +81,4 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
-  - resources:
-      title: Announcements
-      button: Access all announcements
-  - infobar:
-      title: June Holiday Study Timetable
-      id: infobar
-      description: Sec 4 & 5 students, please download the June Holiday Study
-        Timetable here.
-      button: Click Here
-      url: https://staging-lite.d2qmtm7fwiqzg7.amplifyapp.com/files/Annoucements%20Attachments/June_Holiday_Study_Timetable.pdf
 ---
