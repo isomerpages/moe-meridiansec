@@ -51,7 +51,6 @@ sections:
       url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
   - infobar:
       title: Collection of Testimonials for 2024 cohort
-      subtitle: Add informational text
       id: infobar
       url: /collection-of-testimonials-for-2024-4e-5na-and-4nt-students/
       button: Click here
