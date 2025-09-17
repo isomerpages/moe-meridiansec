@@ -80,7 +80,4 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
-  - resources:
-      title: Announcements
-      id: resources
 ---
