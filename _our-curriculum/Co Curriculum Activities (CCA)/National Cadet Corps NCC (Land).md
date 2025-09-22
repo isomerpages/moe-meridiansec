@@ -132,6 +132,64 @@ our newly appointed Cadet Leaders to take over key positions.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
 <p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
+<p>Cadet Leaders attending training on planning weekly programmes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1b.png">
+</div>
+<p>Air Rifle Shooting programme for our Senior Cadets.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture2b.png">
+</div>
+<p>Cadets participating in our annual Laser Run competition</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture3b.png">
+</div>
+<p>Cadet Leaders promoted to 3<sup>rd</sup> Sergeant (3SG) rank.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture4b.png">
+</div>
+<p>Unit Sergeant Major Soo Jing Zhi presenting our 2024 NCC Distinction award
+to our Vice Principal Ms Tan Li Ping.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture5b.jpg">
+</div>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture6b.png">
+</div>
+<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture7b.png">
+</div>
+<p>Cadets commemorating our annual NCC Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture8b.png">
+</div>
+<p>National Day Parade.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture9b.png">
+</div>
+<p>Annual Sports Championship at Loyang View Secondary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture10b.png">
+</div>
+<p>Senior Cadets participating in our annual Orienteering Competition at
+Coney Island.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture11b.png">
+</div>
+<p>One of our NCC Initiative – Vape-Free Ambassador Programme. Students presenting
+the posters created by them to share the harmful effects of vaping.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture12b.png">
+</div>
+<p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture13b.png">
+</div>
+<p></p>
 <h3>2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
