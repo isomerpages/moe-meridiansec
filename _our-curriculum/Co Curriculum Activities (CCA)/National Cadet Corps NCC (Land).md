@@ -110,37 +110,21 @@ and Military-related Activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
 Drills Course</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
 our newly appointed Cadet Leaders to take over key positions.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Newly appointed key appointment holders for Cadet Leaders.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>Cadets preparing for their annual Camp Steel.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
