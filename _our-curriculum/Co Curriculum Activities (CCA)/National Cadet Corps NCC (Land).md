@@ -8,11 +8,9 @@ variant: tiptap
 <h3>About Us</h3>
 <p>The National Cadet Corps (NCC) is a military cadet corps youth organisation
 supported by the Ministry of Defence and the Ministry of Education.</p>
-<p></p>
 <h3>Our Objectives</h3>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
 and Military-related Activities.</p>
-<p></p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -87,7 +85,6 @@ and Military-related Activities.</p>
 <p>Mr Aditya Adriansyah Putra Jamil</p>
 </li>
 </ul>
-<p></p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -100,54 +97,102 @@ and Military-related Activities.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">2022 NCC Unit Recognition – Distinction Award</a>
 </p>
 </li>
-<li>
+</ul>
 <p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
-<p></p>
 <h3>Events</h3>
-<p></p>
 <h4>2025</h4>
-<p>&nbsp;</p>
+<p>&nbsp;Our newly appointed Unit Sergeant Major Rayyan attending our annual
+Advanced Drills Course.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
-</div>
-<p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
-Drills Course</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
 <p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
 our newly appointed Cadet Leaders to take over key positions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
 <p>Newly appointed key appointment holders for Cadet Leaders.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
 </div>
 <p>Cadets preparing for their annual Camp Steel.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
+</div>
+<p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
-<p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
+<p>Cadet Leaders attending training on planning weekly programmes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1b.png">
+</div>
+<p>Air Rifle Shooting programme for our Senior Cadets.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture2b.png">
+</div>
+<p>Cadets participating in our annual Laser Run competition</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture3b.png">
+</div>
+<p>Cadet Leaders promoted to 3<sup>rd</sup> Sergeant (3SG) rank.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture4b.png">
+</div>
+<p>Unit Sergeant Major Soo Jing Zhi presenting our 2024 NCC Distinction award
+to our Vice Principal Ms Tan Li Ping.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture5b.jpg">
+</div>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture6b.png">
+</div>
+<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture7b.png">
+</div>
+<p>Cadets commemorating our annual NCC Day.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture8b.png">
+</div>
+<p>National Day Parade</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture9b.png">
+</div>
+<p>Annual Sports Championship at Loyang View Secondary School.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture10b.png">
+</div>
+<p>Senior Cadets participating in our annual Orienteering Competition at
+Coney Island.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture11b.png">
+</div>
+<p>One of our NCC Initiative – Vape-Free Ambassador Programme. Students presenting
+the posters created by them to share the harmful effects of vaping.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture12b.png">
+</div>
+<p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture13b.png">
+</div>
 <h3>2024</h3>
+<p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
 </div>
-<p>School Open House – Cadets sharing their NCC experiences with our guests.</p>
+<p>Promotion Ceremony for our Cadets to their next ranks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide4.png">
 </div>
-<p>Promotion Ceremony for our Cadets to their next ranks.</p>
 <p>Annual Sports Championship at Loyang View Secondary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide5.png">
 </div>
 <p>One of our NCC Initiative – Hiking from School to Pasir Ris Beach and
 beach clean up (VIA).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide6.png">
 </div>
@@ -159,146 +204,117 @@ beach clean up (VIA).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide8.png">
 </div>
-<p></p>
+<p>Cadets commemorating our annual NCC Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide9.png">
 </div>
-<p>Cadets commemorating our annual NCC Day.</p>
+<p>Cadets successfully completed their Senior Specialist Leaders Course.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide10.png">
-</div>
-<p>Cadets successfully completed their Senior Specialist Leaders Course</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
 </div>
 <p>Cadet Leader Leon participated in the prestigious Ex Puncak and reached
 the summit of Mount Gunung Ledang, Malaysia.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
 </div>
 <p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
 from our Principal Mr Razali.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+</div>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide13.png">
 </div>
-<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
-<p></p>
+<p>Air Rifle Shooting programme for our Senior Cadets</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide14.png">
 </div>
-<p>Air Rifle Shooting programme for our Senior Cadets</p>
-<p></p>
+<p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
+appointments to our new Cadet Leader appointment holders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide15.png">
 </div>
-<p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
-appointments to our new Cadet Leader appointment holders.</p>
 <p></p>
 <h4>2023</h4>
-<p></p>
+<p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc14.png">
 </div>
-<p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
-<p></p>
-<p></p>
+<p>Our cadets sharing their experiences during Sec 1 CCA Orientation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc15.jpg">
 </div>
-<p>Our cadets sharing their experiences during Sec 1 CCA Orientation
-<br>
-</p>
-<p></p>
+<p>Award Ceremony for Orienteering Competition</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc16.png">
 </div>
-<p>Award Ceremony for Orienteering Competition</p>
-<p></p>
-<p></p>
+<p>Senior Cadets honing their skills through Air Rifle Shooting activity</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc21.png">
 </div>
-<p>Senior Cadets honing their skills through Air Rifle Shooting activity</p>
-<p></p>
-<p></p>
+<p>Cadet Leaders learning new skills on CPR</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc18.png">
 </div>
-<p>Cadet Leaders learning new skills on CPR</p>
-<p></p>
+<p>Junior Cadets participating at their Affirmation Ceremony</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc19.png">
 </div>
-<p>Junior Cadets participating at their Affirmation Ceremony</p>
-<p></p>
+<p>Cadet Leaders receiving their new 3rd Sergeant Rank</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc20.png">
 </div>
-<p>Cadet Leaders receiving their new 3rd Sergeant Rank</p>
-<p></p>
+<p>Cadets in their Camouflage lesson</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc22.png">
 </div>
-<p>Cadets in their Camouflage lesson</p>
-<p></p>
+<p>National Day Parade 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc23.png">
 </div>
-<p>National Day Parade 2023</p>
-<p></p>
+<p>Our cadets participating in Laser Run</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc24.png">
 </div>
-<p>Our cadets participating in Laser Run</p>
-<p></p>
+<p>Our Alumni receiving MSS Alumni Award</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc25.png">
 </div>
-<p>Our Alumni receiving MSS Alumni Award</p>
 <h4>2021 to 2022</h4>
+<p>ASM Ethan receiving Drills Instructor Certificate</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc26.png">
 </div>
-<p>ASM Ethan receiving Drills Instructor Certificate</p>
-<p></p>
+<p>Passing-Out Parade</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc27.png">
 </div>
-<p>Passing-Out Parade</p>
+<p>Total Defence Day 2022 facilitation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc28.png">
 </div>
-<p>Total Defence Day 2022 facilitation</p>
-<p></p>
+<p>Preparation for Total Defence Day 2022</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc1.png">
 </div>
-<p>Preparation for Total Defence Day 2022</p>
-<p></p>
+<p>Kindness Badge Award Project 2021</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc2.png">
 </div>
-<p>Kindness Badge Award Project 2021</p>
-<p></p>
+<p>Sec 1 CCA Showcase</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc3.png">
 </div>
-<p>Sec 1 CCA Showcase</p>
-<p></p>
+<p>NCC Affirmation Ceremony</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc4.png">
 </div>
-<p>NCC Affirmation Ceremony</p>
-<p></p>
+<p>NCC Sports Championship at Loyang View Secondary School</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc5.png">
 </div>
-<p>NCC Sports Championship at Loyang View Secondary School</p>
-<p></p>
-<p><strong>Selected highlights from our past events</strong>
-</p>
-<p></p>
+<p>Selected highlights from our past events</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc6.png">
 </div>
@@ -331,7 +347,6 @@ appointments to our new Cadet Leader appointment holders.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2024/ncc13.png">
 </div>
 <h3>Our CCA Experience</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture13.jpg">
 </div>
@@ -397,4 +412,3 @@ me with the strength to face challenges, the understanding to respect others,
 and the courage to always act with integrity.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ashreef Nakhaie Bin Juma'at,
 Assistant Sergeant Major (3-2, 2025)</p>
-<p></p>
