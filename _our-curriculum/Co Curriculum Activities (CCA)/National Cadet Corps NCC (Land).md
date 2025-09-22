@@ -8,11 +8,9 @@ variant: tiptap
 <h3>About Us</h3>
 <p>The National Cadet Corps (NCC) is a military cadet corps youth organisation
 supported by the Ministry of Defence and the Ministry of Education.</p>
-<p></p>
 <h3>Our Objectives</h3>
 <p>To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous
 and Military-related Activities.</p>
-<p></p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -87,7 +85,6 @@ and Military-related Activities.</p>
 <p>Mr Aditya Adriansyah Putra Jamil</p>
 </li>
 </ul>
-<p></p>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -102,9 +99,7 @@ and Military-related Activities.</p>
 </li>
 </ul>
 <p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
-<p></p>
 <h3>Events</h3>
-<p></p>
 <h4>2025</h4>
 <p>&nbsp;Our newly appointed Unit Sergeant Major Rayyan attending our annual
 Advanced Drills Course.</p>
@@ -149,19 +144,18 @@ to our Vice Principal Ms Tan Li Ping.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture5b.jpg">
 </div>
-<p></p>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture6b.png">
 </div>
-<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
+<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture7b.png">
 </div>
-<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
+<p>Cadets commemorating our annual NCC Day.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture8b.png">
 </div>
-<p>Cadets commemorating our annual NCC Day.</p>
 <p>National Day Parade</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture9b.png">
@@ -175,7 +169,6 @@ Coney Island.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture11b.png">
 </div>
-<p></p>
 <p>One of our NCC Initiative – Vape-Free Ambassador Programme. Students presenting
 the posters created by them to share the harmful effects of vaping.</p>
 <div class="isomer-image-wrapper">
@@ -215,37 +208,34 @@ beach clean up (VIA).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide9.png">
 </div>
-<p>Cadets successfully completed their Senior Specialist</p>
+<p>Cadets successfully completed their Senior Specialist Leaders Course.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide10.png">
-</div>
-<p>Leaders Course</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
 </div>
 <p>Cadet Leader Leon participated in the prestigious Ex Puncak and reached
 the summit of Mount Gunung Ledang, Malaysia.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide11.png">
 </div>
 <p>Senior Cadet Leader Aditya receiving our Certificate of Distinction award
 from our Principal Mr Razali.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide12.png">
+</div>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide13.png">
 </div>
-<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers</p>
-<p></p>
+<p>Air Rifle Shooting programme for our Senior Cadets</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide14.png">
 </div>
-<p>Air Rifle Shooting programme for our Senior Cadets</p>
-<p></p>
+<p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
+appointments to our new Cadet Leader appointment holders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide15.png">
 </div>
-<p>Passing Out Parade. Our Senior Cadet Leaders handing their duties and
-appointments to our new Cadet Leader appointment holders.</p>
+<p></p>
 <h4>2023</h4>
 <p>Outgoing USM Aiman receiving his promotion to Master Sergeant Rank</p>
 <div class="isomer-image-wrapper">
