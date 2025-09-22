@@ -100,7 +100,7 @@ and Military-related Activities.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">2022 NCC Unit Recognition – Distinction Award</a>
 </p>
 </li>
-<li>
+</ul>
 <p>2021 NCC Unit Recognition – Distinction Award<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[QM1]</a>&nbsp;</p>
 <p></p>
 <h3>Events</h3>
@@ -110,6 +110,8 @@ and Military-related Activities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>Our newly appointed Unit Sergeant Major Rayyan attending our annual Advanced
 Drills Course</p>
 </li>
@@ -117,22 +119,32 @@ Drills Course</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide1.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>Annual Passing Out Parade for our Senior Cadet Leaders to step down and
 our newly appointed Cadet Leaders to take over key positions.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide2.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>Newly appointed key appointment holders for Cadet Leaders.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture17.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p>Cadets preparing for their annual Camp Steel.</p>
-<p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture18.jpg">
 </div>
 <p>Our Cadet Leaders conducting Total Defence Lesson on Water Conservation.</p>
-<p>Cadet Leaders attending training on planning weekly programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture1b.png">
 </div>
@@ -153,20 +165,20 @@ to our Vice Principal Ms Tan Li Ping.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture5b.jpg">
 </div>
-<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture6b.png">
 </div>
-<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
+<p>Cadet Leaders learning CPR skills from Singapore Red Cross trainers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture7b.png">
 </div>
-<p>Cadets commemorating our annual NCC Day.</p>
+<p>Senior Cadets participating in Secondary Two CCA Camp.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture8b.png">
 </div>
-<p>National Day Parade.</p>
+<p>Cadets commemorating our annual NCC Day.</p>
+<p>National Day Parade</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture9b.png">
 </div>
@@ -179,17 +191,16 @@ Coney Island.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture11b.png">
 </div>
+<p></p>
 <p>One of our NCC Initiative – Vape-Free Ambassador Programme. Students presenting
 the posters created by them to share the harmful effects of vaping.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture12b.png">
 </div>
 <p>Our second Initiative – cadets learning about Face Camouflaging skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Picture13b.png">
 </div>
-<p></p>
 <h3>2024</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCC 2025/Slide3.png">
