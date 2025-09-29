@@ -143,7 +143,11 @@ creativity to flourish.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely%20Meridian/ALP%20Aesthetics/alp_07.jpg">
 </div>
 <h3>The ALP Team <br></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -228,3 +232,132 @@ creativity to flourish.</p>
 </tbody>
 </table>
 <p></p>
+<h2><strong>Applied Learning Programme (ALP) in Aesthetics</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture1.png">
+</div>
+<p>The Applied Learning Programme (ALP) in Aesthetics at Meridian Secondary
+School nurtures students’ appreciation of the arts and develops their ability
+to express themselves creatively and confidently. Students are exposed
+to both traditional and contemporary art practices, with opportunities
+to showcase their talents through performances and exhibitions.</p>
+<p>Our programme emphasises</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Appreciation of the Arts </strong>-
+cultivating a keen sense of aesthetics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Creative Exploration</strong> -
+offering breadth and depth of arts experiences</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Personal Growth </strong>-
+building social and emotional competencies through arts practice</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Future Pathways</strong> -
+equipping students with skills, knowledge, and dispositions for further
+education and careers in the arts.</p>
+<h4><strong>Tiered programme</strong></h4>
+<p><strong>Enhancing students’ artistic abilities and 21st Century Competencies through a two-tiered programme</strong>
+</p>
+<p>
+<br><strong>Our two-tiered Applied Learning Programme (ALP) in Aesthetics</strong> is
+designed to connect students’ knowledge and skills in the arts with real-world
+contexts. By engaging in meaningful activities and authentic platforms,
+students cultivate a deeper appreciation of the arts, while also developing <strong>21st Century Competencies such as Adaptive Thinking and Inventive Thinking.</strong> Integrated
+with <strong>Education and Career Guidance (ECG)</strong>, the programme
+supports students in making connections between their artistic growth,
+personal aspirations, and future pathways.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Two-Tiered ALP Aesthetics Programme</strong>
+</p>
+<p>Building confidence through the language of arts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>21CC</strong>
+</p>
+<p><strong>Inventive Thinking:</strong> Creating new ideas &amp; artistic
+solutions</p>
+<p><strong>Adaptive Thinking: </strong>Responding flexibly to challenges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIER 2- Nurturing Talent &amp; Deepening Industry Connections</strong>
+</p>
+<p><em>Strengthening talent, confidence &amp; resilience.</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MAEP | EAP | Media Club | Performing
+Arts CCA</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Partnerships with Temasek Polytechnic,
+Nanyang Polytechnic, Semula-Asia, and other industry partners</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arts Day &amp; SYF Showcase</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><strong>ECG</strong>
+</p>
+<p><strong>Future Pathways:</strong> Linking arts learning to education and
+career opportunities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TIER 1- Broad-based Arts Exposure</strong>
+</p>
+<p><em>Building creativity, adaptability &amp; appreciation.</em>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Digital Photography (Sec 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Southeast Asian &amp; Western Classical
+Music (Sec 1)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media | Visual Art | Music | Dance
+(Sec 2, student’s choice)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arts Assembly Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Student Outcomes</strong>
+</p>
+<p>Appreciation of Arts . Creative Exploration. Confidence &amp; Resilience.
+Future-Ready Skills</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Tier 1-Broad-based Arts Exposure</strong>
+</p>
+<p>At the Tier-1 level, all students receive a strong foundation in the arts
+through diverse and carefully curated experiences:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Secondary 1</strong> students
+explore digital photography, Southeast Asian music traditions, and Western
+Classical Music, building both cultural awareness and creative expression.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Secondary 2</strong> students
+go deeper into Media, Visual Art, Music, or Dance. To foster autonomy,
+they choose an area of specialization, encouraging ownership of their learning
+while applying critical and inventive thinking.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond the classroom, the <strong>ARTS Assembly Programme</strong> exposes
+students to a variety of art forms, nurturing appreciation for the wider
+cultural landscape.</p>
+<p>These experiences broaden students’ perspectives, while cultivating creativity,
+critical thinking, and adaptability - skills transferable to both academic
+and future career contexts.</p>
+<p><strong>Tier 2 - Nurturing Talent &amp; Deepening Industry Connections</strong>
+</p>
+<p>For students with strong passion for the arts, Tier-2 provides extended
+opportunities to hone their talents through:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops in the <strong>Meridian Art Elective Programme (MAEP),</strong>  <strong>Enhanced Art Programme (EAP)</strong>,
+Media Club and Performing Arts CCA.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Collaboration with partners </strong>such
+as Temasek Polytechnic, Nanyang Polytechnic, and Semula-Asia, which introduce
+students to industry practices and networking opportunities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Platforms such as <strong>ALP Arts Day </strong>and
+the <strong>Singapore Youth Festival (SYF)</strong>, which allow students
+to showcase their talents publicly, building confidence and resilience.</p>
+<p>Through these real-world experiences, students not only deepen their artistic
+skills but also build essential competencies - from adaptive problem-solving
+to inventive exploration. Along the way, they learn to collaborate effectively,
+express themselves with confidence, and make informed choices about their
+future educational and career pathways.</p>
