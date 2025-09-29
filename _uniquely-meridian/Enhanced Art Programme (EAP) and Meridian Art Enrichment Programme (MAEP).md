@@ -4,9 +4,7 @@ permalink: /enhanced-art-programme-eap-and-meridian-art-enrichment-programme-mae
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p><strong>Talent Development in Art at Meridian</strong>
-</p>
+<h4>Talent Development in Art at Meridian</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Meridian Art Enrichment Programme (MAEP), &amp;</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Enhanced Art Programme (EAP)</strong>
@@ -32,15 +30,15 @@ creative industries.</p>
 <p>Through this developmental journey, the Art Talent Development Programme
 shapes<strong> students who explore Art widely, deepen their practice, and present with confidence and excellence.</strong>
 </p>
+<h4>Key Learning Experiences</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Screenshot_2025_09_29_152512.png">
 </div>
-<h4>&nbsp;<strong>Highlights</strong></h4>
+<h4>Highlights</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Picture2.jpg">
 </div>
-<p><strong>Schedule</strong>
-</p>
+<h4>Schedule</h4>
 <p>MAEP and EAP sessions are held on <strong>selected Mondays from 2.40pm to 4.40pm</strong>.
 These sessions are <strong>compulsory for students selected into MAEP or EAP</strong>.
 Activities may take place <strong>in school</strong> (studio work, collaborative
