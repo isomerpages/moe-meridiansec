@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Picture1.png">
-</div>
 <p><strong>Talent Development in Art at Meridian</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Meridian Art Enrichment Programme (MAEP), &amp;</strong>
