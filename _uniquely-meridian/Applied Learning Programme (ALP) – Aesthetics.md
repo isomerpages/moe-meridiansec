@@ -55,6 +55,9 @@ cultural landscape.</p>
 critical thinking, and adaptability - skills transferable to both academic
 and future career contexts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture3.jpg">
+</div>
 <p><strong>Tier 2 - Nurturing Talent &amp; Deepening Industry Connections</strong>
 </p>
 <p>For students with strong passion for the arts, Tier-2 provides extended
