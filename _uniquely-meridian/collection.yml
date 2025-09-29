@@ -2,6 +2,8 @@ collections:
   uniquely-meridian:
     output: true
     order:
+      - Enhanced Art Programme (EAP) and Meridian Art Enrichment Programme
+        (MAEP).md
       - Applied Learning Programme (ALP) – Aesthetics.md
       - Design Thinking.md
       - Internationalisation Programme.md
