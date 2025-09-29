@@ -61,10 +61,9 @@ variant: tiptap
 <p>Artworks by MAP 1, MAP 2 and EAP 3 students.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
+<h2><strong>ART</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture3.png">
 </div>
 <p></p>
 <p>At Meridian Secondary, Art is for every student. Our curriculum builds <strong>visual literacy</strong>, <strong>creative confidenc</strong>e,
@@ -72,7 +71,6 @@ and <strong>art appreciation</strong>, equipping learners to think critically
 and communicate effectively through art.</p>
 <p>We offer Lower Secondary Art (Sec 1-2) as the foundation, followed by
 Upper Secondary Art (Sec 3-5) at three levels (G1, G2, G3).</p>
-<p>&nbsp;</p>
 <h4><strong>Lower Secondary Art Curriculum</strong></h4>
 <p>At lower secondary, the curriculum equips students with key competencies
 to <strong>observe and inquire</strong>, <strong>create and innovate</strong>,
@@ -83,7 +81,6 @@ to life.</p>
 <p>Through a wide range of traditional and digital media, students broaden
 their understanding of art and exercise choice in selecting media for their
 own artmaking.</p>
-<p>&nbsp;</p>
 <h4><strong>Upper Secondary Art Curriculum</strong></h4>
 <p>At upper secondary, the curriculum builds on foundational skills from
 Lower Secondary Art and develops students into more independent and reflective
