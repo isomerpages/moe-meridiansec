@@ -344,6 +344,7 @@ cultural landscape.</p>
 <p>These experiences broaden students’ perspectives, while cultivating creativity,
 critical thinking, and adaptability - skills transferable to both academic
 and future career contexts.</p>
+<p></p>
 <p><strong>Tier 2 - Nurturing Talent &amp; Deepening Industry Connections</strong>
 </p>
 <p>For students with strong passion for the arts, Tier-2 provides extended
@@ -361,3 +362,8 @@ skills but also build essential competencies - from adaptive problem-solving
 to inventive exploration. Along the way, they learn to collaborate effectively,
 express themselves with confidence, and make informed choices about their
 future educational and career pathways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture2.jpg">
+</div>
+<p></p>
+<p></p>
