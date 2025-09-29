@@ -263,6 +263,9 @@ students cultivate a deeper appreciation of the arts, while also developing <str
 with <strong>Education and Career Guidance (ECG)</strong>, the programme
 supports students in making connections between their artistic growth,
 personal aspirations, and future pathways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/alpaep25.png">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
