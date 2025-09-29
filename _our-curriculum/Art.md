@@ -4,74 +4,16 @@ permalink: /home/departments/art/
 description: ""
 variant: tiptap
 ---
-<h3>Art Talent Development Programme</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art01.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art02.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art03.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art04.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art05.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art06.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art07.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art08.jpg">
-</div>
-<p>
-<br>
-</p>
-<hr>
-<h3>General Art Programme</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Art/Art10.jpg">
-</div>
-<p>
-<br>
-</p>
-<hr>
-<h3>MSS Virtual Art Gallery</h3>
-<p>The MSS Virtual Art Gallery exhibits</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>ALP Photography works by Secondary 1 students</p>
-</li>
-<li>
-<p>Artworks by Secondary 1, 2 and 3 art students.</p>
-</li>
-<li>
-<p>Artworks by MAP 1, MAP 2 and EAP 3 students.</p>
-</li>
-</ul>
 <h2><strong>ART</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture3.png">
 </div>
-<p></p>
 <p>At Meridian Secondary, Art is for every student. Our curriculum builds <strong>visual literacy</strong>, <strong>creative confidenc</strong>e,
 and <strong>art appreciation</strong>, equipping learners to think critically
 and communicate effectively through art.</p>
 <p>We offer Lower Secondary Art (Sec 1-2) as the foundation, followed by
 Upper Secondary Art (Sec 3-5) at three levels (G1, G2, G3).</p>
-<h4><strong>Lower Secondary Art Curriculum</strong></h4>
+<h4>Lower Secondary Art Curriculum</h4>
 <p>At lower secondary, the curriculum equips students with key competencies
 to <strong>observe and inquire</strong>, <strong>create and innovate</strong>,
 and <strong>connect and respond</strong> to artworks around them.</p>
@@ -81,7 +23,7 @@ to life.</p>
 <p>Through a wide range of traditional and digital media, students broaden
 their understanding of art and exercise choice in selecting media for their
 own artmaking.</p>
-<h4><strong>Upper Secondary Art Curriculum</strong></h4>
+<h4>Upper Secondary Art Curriculum</h4>
 <p>At upper secondary, the curriculum builds on foundational skills from
 Lower Secondary Art and develops students into more independent and reflective
 learners. Students are encouraged to form personal inquiries, experiment
