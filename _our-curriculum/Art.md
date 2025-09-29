@@ -23,6 +23,9 @@ to life.</p>
 <p>Through a wide range of traditional and digital media, students broaden
 their understanding of art and exercise choice in selecting media for their
 own artmaking.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture1.jpg">
+</div>
 <h4>Upper Secondary Art Curriculum</h4>
 <p>At upper secondary, the curriculum builds on foundational skills from
 Lower Secondary Art and develops students into more independent and reflective
