@@ -302,7 +302,7 @@ to inventive exploration. Along the way, they learn to collaborate effectively,
 express themselves with confidence, and make informed choices about their
 future educational and career pathways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture2.jpg">
 </div>
 <p></p>
 <p></p>
