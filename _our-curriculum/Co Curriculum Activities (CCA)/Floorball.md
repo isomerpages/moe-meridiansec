@@ -17,20 +17,21 @@ the honor of representing the Singapore Schools Teams and playing for establishe
 clubs in the Singapore Floorball League.</p>
 <p>&nbsp;Our alumni continue to shine, contributing actively to various National
 Floorball setups and inspiring the next generation of players.</p>
-<h4>Schedule and Venue</h4>
+<h3>Schedule and Venue</h3>
 <p>&nbsp;All Boys: Mondays and Thursdays – 1400hr to 1730hr</p>
 <p>All Girls: Tuesdays – 1400hr to 1730hr, Fridays – 1230hr to 1600hr</p>
 <p>All training will take place in the ISH.</p>
-<h4>Teachers-in-charge</h4>
+<h3>Teachers-in-charge</h3>
 <p>Overall I/C: Mr. Justin Toh Choon Gee</p>
 <p>2 I/C : Mr. Teo Wei Yang</p>
 <p>Ms. Quek Ser Hwee</p>
 <p>Ms. Eng Siam Ngeng</p>
-<h4>Coaches</h4>
+<h3>Coaches</h3>
 <p>Mr. Ben Ow</p>
 <p>Mr. Muhammad Faris Bin Rusli</p>
 <p>Miss. Siti Khadijah Bte Md Yaacob</p>
-<h4>HIGHLIGHTS AND ACHIEVEMENTS</h4>
+<p></p>
+<h3>Highlights and Achievements</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -87,5 +88,60 @@ Floorball setups and inspiring the next generation of players.</p>
 </tr>
 </tbody>
 </table>
-<h4>Our CCA Experience:</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture2.png">
+</div>
+<h3>Our CCA Experience</h3>
+<p><strong>Nur Alya Herina Binte Wahindra,&nbsp;(4E3 2025), Captain, B Division Girls</strong>
+</p>
+<p><strong>&nbsp;</strong>My experience in Meridian Floorball has been one
+of the most memorable parts of my journey in Meridian Secondary School.
+I joined Meridian Floorball through the Direct School Admission Exercise
+and when I first started, I had little experience. However, through hard
+work, determination and the unwavering support of my teammates, I grew
+not only as a player but also as a person. Over the past four years, I
+have gone through a rollercoaster of emotions during trainings and NSG—stress,
+pressure, joy, and even disappointment. Despite the tough losses and intense
+training sessions, my team and I never gave up. Along the way, I formed
+strong bonds with my teammates and made many new friends who shared the
+same struggles and triumphs. Being a part of Meridian Floorball has brought
+me immense joy, and I’ll carry with me the memories I have made with my
+teammates, coaches and teachers forever!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture3.jpg">
+</div>
+<p><strong>Mohamad Shaif Bin Zulkifli,&nbsp;(2-2 2025), Captain, C Division Boys</strong>
+</p>
+<p>&nbsp;For the past two years, I have played floorball at Meridian Secondary
+School, gaining valuable experience as both a player and a leader. As the
+C Division Captain, I was entrusted with leading my team through training,
+competitions and school tournaments. In this role, I worked closely with
+my teammates to strengthen team spirit, improve discipline and drive consistent
+progress in our gameplay. I was challenged to lead by example, communicate
+effectively and motivate others to perform their best on and off the court.
+Beyond our results, I am proud of the resilience and unity we built as
+a team, which enabled us to face every challenge with determination. My
+journey in floorball has not only deepened my passion for the sport but
+has also equipped me with essential leadership, teamwork, and problem-solving
+skills, that I know will benefit me in all future endeavors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture7.png">
+</div>
 <p></p>
