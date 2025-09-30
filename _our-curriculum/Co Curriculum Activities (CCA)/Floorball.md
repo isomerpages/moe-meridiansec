@@ -89,9 +89,5 @@ Floorball setups and inspiring the next generation of players.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Our CCA Experience:</h4>
 <p></p>
