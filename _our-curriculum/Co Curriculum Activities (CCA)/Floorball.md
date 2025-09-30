@@ -10,7 +10,6 @@ variant: tiptap
 our school has grown into a powerhouse of talent and determination. Each
 year, our teams—B Division (Boys), B Division (Girls), C Division (Boys),
 and C Division (Girls)—proudly compete in the National School Games (Floorball).</p>
-<p>&nbsp;</p>
 <p>Renowned for their skill and sportsmanship, our teams consistently rank
 among the Top in the nation, cementing our school’s reputation as a formidable
 contender in the sport. Over the years, several of our players have earned
@@ -88,6 +87,5 @@ Floorball setups and inspiring the next generation of players.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Our CCA Experience:</h4>
 <p></p>
