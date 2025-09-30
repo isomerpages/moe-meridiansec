@@ -24,7 +24,7 @@ to life.</p>
 their understanding of art and exercise choice in selecting media for their
 own artmaking.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/Art/Picture1.jpg">
 </div>
 <h4>Upper Secondary Art Curriculum</h4>
 <p>At upper secondary, the curriculum builds on foundational skills from
@@ -40,7 +40,7 @@ and <strong>contextual understanding</strong> to explore real-world issues.</p>
 <p>Through building portfolios, art journaling, and art conversations, students
 strengthen their ability to <strong>observe, imagine, and create with confidence and purpose,</strong> preparing
 them for national examinations and future pathways in the arts.&nbsp;</p>
-<h4><strong>Showcase</strong></h4>
+<h4>Showcase</h4>
 <p>Our students express their ideas through a wide range of art forms, reflecting
 creativity, imagination, and growing confidence, The artworks featured
 here are just a glimpse of what they have explored in their learning journey.</p>
@@ -48,14 +48,3 @@ here are just a glimpse of what they have explored in their learning journey.</p
 <a rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/meridianart?usp=sharing</a>).</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong> <br>&nbsp;</strong>
-</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p>Please access the art gallery&nbsp;<a href="https://share.roomful.co/room/3sw2rd849xz977" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;.</p>
