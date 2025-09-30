@@ -44,7 +44,7 @@ them for national examinations and future pathways in the arts.&nbsp;</p>
 <p>Our students express their ideas through a wide range of art forms, reflecting
 creativity, imagination, and growing confidence, The artworks featured
 here are just a glimpse of what they have explored in their learning journey.</p>
-<p>To view more student works, please visit our<a href="https://sites.google.com/moe.edu.sg/meridianart?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"> Meridian Art Exhibition Website</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/meridianart?usp=sharing</a>).</p>
+<p>To view more student works, please visit our<a href="https://sites.google.com/moe.edu.sg/meridianart?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"> Meridian Art Exhibition Website</a> 
+</p>
 <p><strong>&nbsp;</strong>
 </p>
