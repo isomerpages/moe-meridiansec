@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2><strong>Applied Learning Programme (ALP) in Aesthetics</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture1.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture1.png">
 </div>
 <p>The Applied Learning Programme (ALP) in Aesthetics at Meridian Secondary
 School nurtures students’ appreciation of the arts and develops their ability
@@ -76,7 +76,7 @@ to inventive exploration. Along the way, they learn to collaborate effectively,
 express themselves with confidence, and make informed choices about their
 future educational and career pathways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/ALP Aesthetics/Picture2.jpg">
 </div>
 <p></p>
 <p></p>
