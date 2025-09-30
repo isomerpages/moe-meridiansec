@@ -103,6 +103,9 @@ and learned to embrace feedback as part of growth.</p>
 <p>We are extremely proud of the Modern Dance CCA for their outstanding achievement
 and for representing the school with such passion and grace.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/Picture1_jpg.png">
+</div>
 <h3>2024</h3>
 <p><strong>World Supremacy Battlegrounds Singapore Vol. 4</strong>
 </p>
@@ -224,3 +227,4 @@ Presentation, Speech Day Concert</p>
 </p>
 <p><strong>– Abilene Buthor (3A1,2024)</strong>
 </p>
+<p></p>
