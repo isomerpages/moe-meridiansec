@@ -9,8 +9,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/Picture3.png">
 </div>
 <h2><strong>English Department</strong></h2>
-<h4>·&nbsp;Meridian Speakers Programme</h4>
-<h4>·&nbsp;Extensive Reading Programme</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Meridian Speakers Programme</strong>
+</p>
+</li>
+<li>
+<p><strong>Extensive Reading Programme</strong>
+</p>
+</li>
+</ul>
 <p>The English Department nurtures students' communication skills and literary
 appreciation through two key pathways: the <strong>Meridian Speakers Programme and the Extensive Reading Programme.</strong>
 </p>
@@ -38,11 +46,11 @@ shape students who <strong>communicate with clarity and confidence, think critic
 </p>
 <h4>Key Learning Experiences</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/EL_Website_Update_Pictures_Page_2.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Departments/English/EL_Website_Update_Pictures_Page_2.jpg">
 </div>
 <h4>Highlights</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/English/Picture4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/English/Picture4.jpg">
 </div>
 <h4></h4>
 <p></p>
