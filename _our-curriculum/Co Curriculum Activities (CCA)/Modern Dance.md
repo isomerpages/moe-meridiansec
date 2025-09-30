@@ -82,6 +82,27 @@ Martha Graham, modern dancer and choreographer</p>
 </li>
 </ul>
 <h3>Yearly Highlights</h3>
+<h3>2025</h3>
+<p><strong>SYF 2025</strong>
+</p>
+<p>&nbsp;The Modern Dance Co-Curricular Activity (CCA) has once again brought
+pride to our school by clinching the <em>Distinction Award</em> at this year’s
+Singapore Youth Festival (SYF).</p>
+<p>Months of dedication, discipline, and passion went into preparing for
+this prestigious event. From perfecting challenging choreography to refining
+their expression and teamwork, the dancers worked tirelessly under the
+guidance of their instructors. Rehearsals often stretched late into the
+evening, with every member demonstrating resilience and commitment to excellence.</p>
+<p>Their performance at the SYF was a powerful showcase of artistry, energy,
+and unity. The routine captivated both the judges and audience, reflecting
+not only the dancers’ technical skills but also their ability to convey
+emotion and tell a story through movement.</p>
+<p>Beyond the award, the journey was an invaluable learning experience. The
+dancers forged stronger bonds, discovered the importance of perseverance,
+and learned to embrace feedback as part of growth.</p>
+<p>We are extremely proud of the Modern Dance CCA for their outstanding achievement
+and for representing the school with such passion and grace.</p>
+<p>&nbsp;</p>
 <h3>2024</h3>
 <p><strong>World Supremacy Battlegrounds Singapore Vol. 4</strong>
 </p>
