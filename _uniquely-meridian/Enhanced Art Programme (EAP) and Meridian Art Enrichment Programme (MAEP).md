@@ -4,6 +4,11 @@ permalink: /enhanced-art-programme-eap-and-meridian-art-enrichment-programme-mae
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Picture1.png">
+</div>
 <h4>Talent Development in Art at Meridian</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Meridian Art Enrichment Programme (MAEP), &amp;</strong>
 </p>
@@ -32,11 +37,11 @@ shapes<strong> students who explore Art widely, deepen their practice, and prese
 </p>
 <h4>Key Learning Experiences</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Screenshot_2025_09_29_152512.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Screenshot_2025_09_29_152512.png">
 </div>
 <h4>Highlights</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Picture2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/MAEP/Picture2.jpg">
 </div>
 <h4>Schedule</h4>
 <p>MAEP and EAP sessions are held on <strong>selected Mondays from 2.40pm to 4.40pm</strong>.
