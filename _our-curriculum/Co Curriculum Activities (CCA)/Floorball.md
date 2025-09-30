@@ -90,11 +90,11 @@ Floorball setups and inspiring the next generation of players.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture2.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture2.png">
 </div>
 <h3>Our CCA Experience</h3>
 <p><strong>Nur Alya Herina Binte Wahindra,&nbsp;(4E3 2025), Captain, B Division Girls</strong>
@@ -130,7 +130,7 @@ journey in floorball has not only deepened my passion for the sport but
 has also equipped me with essential leadership, teamwork, and problem-solving
 skills, that I know will benefit me in all future endeavors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
