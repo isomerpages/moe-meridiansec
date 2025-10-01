@@ -104,4 +104,24 @@ concerned citizens with life-saving skills.</p>
 </ul>
 <p></p>
 <h4>2025</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture1.jpg">
+</div>
+<p>(Image above): Our cadets successfully passed out from the Unit Drill
+Instructor Course 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture3.jpg">
+</div>
+<p>(Image above): Secondary One students trying to use fire extinguishers
+during the CCA Experience 2025.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture4.png">
+</div>
+<p>(Image above): National Day School Parade 2025, in collaboration with
+NCC (National Cadet Corps) and RCY (Red Cross Youth).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture5.png">
+</div>
+<p>(Image above): Learning Journey visit to the Singapore Navy Museum, 2025.</p>
