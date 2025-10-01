@@ -125,3 +125,60 @@ NCC (National Cadet Corps) and RCY (Red Cross Youth).</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture5.png">
 </div>
 <p>(Image above): Learning Journey visit to the Singapore Navy Museum, 2025.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture6.png">
+</div>
+<p>(Image above): Meridian NCDCC cadets donning their number one uniform
+for their 20<sup>th</sup> NCDCC Day Parade, held at Home Team Academy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture7.jpg">
+</div>
+<p>(Image above): Our Secondary one cadets participated in the NCDCC Affirmation
+Day held at Home Team Academy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture8.png">
+</div>
+<p>(Image above): Our Secondary one cadets participated in the NCDCC Affirmation
+Day held at Home Team Academy.</p>
+<h3>2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture9.png">
+</div>
+<p>(Image above): Meridian NCDCC cadets who were awarded the prestigious
+Pinnacle Badge 2024 award.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture10.png">
+</div>
+<p>(Image above): Cadets simulating evacuation of a casualty during the Urban
+Adventure Civil Defence Challenge 2024 at Sentosa.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture11.png">
+</div>
+<p>(Image above): Cadets trying out the treadmill when they visited the Changi
+Experience Studio for their Learning Journey.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture12.png">
+</div>
+<p>(Image above): Meridian NCDCC cadet trying outdoor cooking at a combined
+East Zone Schools Outdoor Cooking Competition held at Pasir Ris Secondary
+School.</p>
+<h3>Our CCA Experience </h3>
+<p><strong>Staff Sergeant Lim Shao Zhe from Sec 3-6<u>:</u></strong>
+</p>
+<p>“NCDCC has allowed me to develop my leadership skills. During CCA. I have
+also learnt many life saving skills, like firefighting and CPR that will
+let me help others when needed.”</p>
+<p>&nbsp;<strong>Staff Sergeant Raiyan Aqil Bin Rozairudin from Sec 3-2</strong>
+</p>
+<p>“The National Civil Defence Cadet Corps (NCDCC) is a vibrant uniformed
+group that equips youths with lifesaving skills such as firefighting, first
+aid and emergency preparedness. It builds resilience, teamwork, and leadership
+while inspiring cadets to serve the community and stay ready to protect
+lives in times of crisis.”</p>
+<p></p>
+<p></p>
