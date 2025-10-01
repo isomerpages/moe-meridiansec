@@ -167,7 +167,7 @@ Experience Studio for their Learning Journey.</p>
 <p>(Image above): Meridian NCDCC cadet trying outdoor cooking at a combined
 East Zone Schools Outdoor Cooking Competition held at Pasir Ris Secondary
 School.</p>
-<h3>Our CCA Experience </h3>
+<h3>Our CCA Experience</h3>
 <p><strong>Staff Sergeant Lim Shao Zhe from Sec 3-6<u>:</u></strong>
 </p>
 <p>“NCDCC has allowed me to develop my leadership skills. During CCA. I have
