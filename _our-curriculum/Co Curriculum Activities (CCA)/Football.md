@@ -81,7 +81,7 @@ for excellence and fostering a love for football in every player.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Meridian.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Meridian.png">
 </div>
 <p>&nbsp;In addition, Liyana Indah Rickit from 4E2 was awarded the prestigious
 UTR (Unleash The Roar) Scholarship in July 2025. She will be pursuing her
@@ -107,18 +107,18 @@ Cooper.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
 </div>
 <h4>2023</h4>
 <p><strong>National Championship 'B' (Girls) - CHAMPION</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b girls 2023.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b girls 2023.jpg">
 </div>
 <p><strong>National Championship 'B' (Boys) - FINALIST</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
 </div>
 <h4>2022</h4>
 <p>In 2022, all four teams qualified for the NSG semi-finals and emerging
@@ -141,13 +141,13 @@ as:</p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student01.jpg">
 </div>
 <p>I feel extremely proud of my team. We put in a lot of effort and went
 all out. We really deserved it as we were all very determined and disciplined. <strong>&gt;Nisreen Aziz</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - student02.jpg">
 </div>
 <p>MSS football has many potential players and a great coach. It was a good
 experience to play for the school as it has taught me teamwork and responsibility.
@@ -161,7 +161,7 @@ the school. <strong>&gt;Muhammad Syazwan</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture3.png">
 </div>
 <p></p>
 <p></p>
