@@ -105,7 +105,7 @@ concerned citizens with life-saving skills.</p>
 <p></p>
 <h4>2025</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture1.jpg">
 </div>
 <p>(Image above): Our cadets successfully passed out from the Unit Drill
 Instructor Course 2025</p>
@@ -162,7 +162,7 @@ Adventure Civil Defence Challenge 2024 at Sentosa.</p>
 <p>(Image above): Cadets trying out the treadmill when they visited the Changi
 Experience Studio for their Learning Journey.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture12.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/NCDCC 2025/Picture12.png">
 </div>
 <p>(Image above): Meridian NCDCC cadet trying outdoor cooking at a combined
 East Zone Schools Outdoor Cooking Competition held at Pasir Ris Secondary
