@@ -106,8 +106,14 @@ enhancing parenting skills.</p>
 <h4>2025</h4>
 <p><strong>PSG Lo Hei Session</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture1.png">
+</div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture2.png">
+</div>
 <p>&nbsp;On 6 February 2025, our Parent Support Group (PSG) came together
 with our School Leaders and teachers for a lively Lunar New Year celebration.
 It was an evening filled with warmth, laughter, and shared traditions,
@@ -122,12 +128,15 @@ continues to enrich the school experience for our students, and your partnership
 reminds us that education is truly a shared journey. Together, we look
 forward to another year of growth, positivity, and success at Meridian
 Secondary School.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
+<p>&nbsp;<strong>Racial Harmony Day</strong>
 </p>
-<p><strong>&nbsp;Racial Harmony Day</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture3.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/6.png">
+</div>
 <p>For this year’s Racial Harmony Day celebrations, our Parent Support Group
 (PSG) once again joined us in creating a vibrant and meaningful experience
 for our students. The PSG prepared an exciting line-up of activities, including
@@ -143,19 +152,18 @@ our school.</p>
 creativity in making this day memorable. Their contributions continue to
 enrich our students’ learning beyond the classroom and strengthen our commitment
 to fostering inclusivity and unity at Meridian Secondary School.</p>
-<p>&nbsp;Staff Appreciation Day</p>
+<p><strong>&nbsp;Staff Appreciation Day</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture6.png">
 </div>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>This year, our wonderful Parent Support Group (PSG)
-members showed their appreciation for the staff of Meridian Secondary School
-with a thoughtful and practical gift — a sleek thermal water bottle! With
-the hot weather we’ve been experiencing, this meaningful gesture couldn’t
-have come at a better time. It’s a daily reminder for us to stay hydrated
-while continuing to give our best to our students.</p>
+<p>This year, our wonderful Parent Support Group (PSG) members showed their
+appreciation for the staff of Meridian Secondary School with a thoughtful
+and practical gift — a sleek thermal water bottle! With the hot weather
+we’ve been experiencing, this meaningful gesture couldn’t have come at
+a better time. It’s a daily reminder for us to stay hydrated while continuing
+to give our best to our students.</p>
 <p>We are truly grateful for the PSG’s continued partnership and generosity.
 Their thoughtful acts of kindness not only warm our hearts but also strengthen
 the bonds between parents and staff.</p>
