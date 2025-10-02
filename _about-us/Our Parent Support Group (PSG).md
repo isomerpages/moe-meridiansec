@@ -14,7 +14,8 @@ families to facilitate the total development of our students.</p>
 <p>Proactively&nbsp;Supporting and&nbsp;Guiding the social and emotional
 development of our children; ensuring self-care to sustain PSG growth and
 enhancing parenting skills.</p>
-<h3>EXCO Members 2022 - 2023</h3>
+<h3>EXCO Members 2024 - 2026</h3>
+<p>EXCO Members 2024 - 2026</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,7 +67,12 @@ enhancing parenting skills.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Selvaga
-<br>Mr Kelvin Tan</p>
+<br>Mdm Nur Fadhilah</p>
+<p>Mdm Rafeefa Sabih Asgar Ali Shah</p>
+<p>Mdm Natasha Foo</p>
+<p>Mdm Eva He</p>
+<p>Mdm Jennifer Foo</p>
+<p>Mdm Ibtisam Almashor&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members</p>
@@ -95,6 +101,70 @@ enhancing parenting skills.</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<h3>Highlights</h3>
+<h4>2025</h4>
+<p><strong>PSG Lo Hei Session</strong>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;On 6 February 2025, our Parent Support Group (PSG) came together
+with our School Leaders and teachers for a lively Lunar New Year celebration.
+It was an evening filled with warmth, laughter, and shared traditions,
+where parents and staff deepened bonds and strengthened our sense of community.</p>
+<p>The highlight of the event was the Lo Hei session, where everyone joined
+in to toss for good fortune, unity, and success. Beyond the symbolic “prosperity
+toss,” the activity reflected the collaborative spirit that keeps the Meridian
+family moving forward together.</p>
+<p>We would like to extend our heartfelt thanks to our PSG members for their
+active participation, generosity, and steadfast support. Your involvement
+continues to enrich the school experience for our students, and your partnership
+reminds us that education is truly a shared journey. Together, we look
+forward to another year of growth, positivity, and success at Meridian
+Secondary School.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;Racial Harmony Day</strong>
+</p>
+<p></p>
+<p>For this year’s Racial Harmony Day celebrations, our Parent Support Group
+(PSG) once again joined us in creating a vibrant and meaningful experience
+for our students. The PSG prepared an exciting line-up of activities, including
+henna drawing, Chinese calligraphy, and even a kacang putih stall. Students
+also got to enjoy a spread of traditional delicacies that reflected the
+rich tapestry of Singapore’s multicultural heritage.</p>
+<p>Through these hands-on activities and shared experiences, students not
+only had fun but also deepened their appreciation for the traditions and
+cultures that shape our community. The buzz of excitement and laughter
+in the air was a true reflection of the harmony we strive to nurture in
+our school.</p>
+<p>We are deeply grateful to our PSG members for their time, effort, and
+creativity in making this day memorable. Their contributions continue to
+enrich our students’ learning beyond the classroom and strengthen our commitment
+to fostering inclusivity and unity at Meridian Secondary School.</p>
+<p>&nbsp;Staff Appreciation Day</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture4.png">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>This year, our wonderful Parent Support Group (PSG)
+members showed their appreciation for the staff of Meridian Secondary School
+with a thoughtful and practical gift — a sleek thermal water bottle! With
+the hot weather we’ve been experiencing, this meaningful gesture couldn’t
+have come at a better time. It’s a daily reminder for us to stay hydrated
+while continuing to give our best to our students.</p>
+<p>We are truly grateful for the PSG’s continued partnership and generosity.
+Their thoughtful acts of kindness not only warm our hearts but also strengthen
+the bonds between parents and staff.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <h3><strong>2024 Highlights</strong></h3>
 <p><strong>&nbsp;PSG Lo Hei Session</strong>
 </p>
