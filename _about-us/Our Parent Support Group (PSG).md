@@ -108,11 +108,11 @@ enhancing parenting skills.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture1.png">
 </div>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture2.png">
 </div>
 <p>&nbsp;On 6 February 2025, our Parent Support Group (PSG) came together
 with our School Leaders and teachers for a lively Lunar New Year celebration.
@@ -131,11 +131,11 @@ Secondary School.</p>
 <p>&nbsp;<strong>Racial Harmony Day</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/6.png">
 </div>
 <p>For this year’s Racial Harmony Day celebrations, our Parent Support Group
 (PSG) once again joined us in creating a vibrant and meaningful experience
