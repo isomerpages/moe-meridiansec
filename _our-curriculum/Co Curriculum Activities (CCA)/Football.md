@@ -55,18 +55,41 @@ for excellence and fostering a love for football in every player.</p>
 <p>Mr Vaahidalisha s/o Pakiri Muhammad</p>
 <p>Mr Teo Kang Zheng Ernest</p>
 <p>Ms Shervonne Yeo Xin Ting</p>
-<p>Mr Ian Kwok Jien Chi</p>
 <p>Ms Lynn Kiew</p>
 <p>Ms Grace Cheong</p>
-<p></p>
 <h3>Coach</h3>
 <p><strong>Coach Fabio Da Silva</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/coach.jpg">
 </div>
-<p></p>
 <h3>Highlights</h3>
+<h4>2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games 2024 ‘B’ Girls Champion</p>
+</li>
+<li>
+<p>National School Games 2024 ‘B’ Boys 1<sup>st</sup> Runner-up</p>
+</li>
+<li>
+<p>National Schools Games 2024 ‘C’ Girls 1<sup>st</sup> Runner-Up</p>
+</li>
+<li>
+<p>National Schools Games 2024 ‘C’ Boys 3<sup>rd</sup> Runner-up</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Meridian.png">
+</div>
+<p>&nbsp;In addition, Liyana Indah Rickit from 4E2 was awarded the prestigious
+UTR (Unleash The Roar) Scholarship in July 2025. She will be pursuing her
+studies at the IMG Academy in Florida, home to the renowned football programme
+that has produced many top American talents including rising star Michelle
+Cooper.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.unleashtheroar.com.sg/post/seven-young-footballers-awarded-unleash-the-roar-overseas-scholarship-2025</a>
+</p>
 <h4>2024</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,9 +103,9 @@ for excellence and fostering a love for football in every player.</p>
 </li>
 <li>
 <p>National Schools Games 2024 ‘C’ Boys Finalist</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/Picture2.png">
 </div>
@@ -98,8 +121,8 @@ for excellence and fostering a love for football in every player.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2024/football - b boys 2023.jpg">
 </div>
 <h4>2022</h4>
-<p>2022 was our strongest showing yet, with all four teams entering the NSG
-semi-finals and emerging as:</p>
+<p>In 2022, all four teams qualified for the NSG semi-finals and emerging
+as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National Championship 'C' (Girls) - Champion</p>
@@ -113,17 +136,8 @@ semi-finals and emerging as:</p>
 <li>
 <p>National Championship 'B' (Boys) - Finalist</p>
 </li>
-<li>
-<p>Player of the Match - Liyana Indah Rickit (1E3)</p>
-</li>
-<li>
-<p>Player of the Match - Mohammad Andry Akimi (2A1)</p>
-</li>
-<li>
-<p>Top Scorer: Nisreen Aziz (2E1)</p>
-<p></p>
-</li>
 </ul>
+<p></p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
