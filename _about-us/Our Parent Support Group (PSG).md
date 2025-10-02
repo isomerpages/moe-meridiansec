@@ -101,12 +101,9 @@ enhancing parenting skills.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h3>Highlights</h3>
 <h4>2025</h4>
-<p><strong>PSG Lo Hei Session</strong>
-</p>
-<p></p>
+<h4>PSG Lo Hei Session</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture1.png">
 </div>
@@ -128,8 +125,7 @@ continues to enrich the school experience for our students, and your partnership
 reminds us that education is truly a shared journey. Together, we look
 forward to another year of growth, positivity, and success at Meridian
 Secondary School.</p>
-<p>&nbsp;<strong>Racial Harmony Day</strong>
-</p>
+<h4>Racial Harmony Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture3.png">
 </div>
@@ -152,9 +148,7 @@ our school.</p>
 creativity in making this day memorable. Their contributions continue to
 enrich our students’ learning beyond the classroom and strengthen our commitment
 to fostering inclusivity and unity at Meridian Secondary School.</p>
-<p><strong>&nbsp;Staff Appreciation Day</strong>
-</p>
-<p></p>
+<h4>Staff Appreciation Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/Picture6.png">
 </div>
@@ -167,16 +161,8 @@ to give our best to our students.</p>
 <p>We are truly grateful for the PSG’s continued partnership and generosity.
 Their thoughtful acts of kindness not only warm our hearts but also strengthen
 the bonds between parents and staff.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<h3><strong>2024 Highlights</strong></h3>
-<p><strong>&nbsp;PSG Lo Hei Session</strong>
-</p>
-<p></p>
+<h3>2024</h3>
+<h4>PSG Lo Hei Session</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG1.png">
 </div>
@@ -201,9 +187,7 @@ School.</p>
 <p>We are grateful for the PSG's continued partnership and their unwavering
 dedication to making Meridian Secondary School a supportive and inclusive
 environment for every student. Thank you, PSG, for your incredible support!</p>
-<p><strong>Racial Harmony Day</strong>
-</p>
-<p></p>
+<h4>Racial Harmony Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG4.png">
 </div>
@@ -236,9 +220,7 @@ and we are grateful to our PSG members for their dedication in enriching
 the students' experience and supporting our commitment to fostering harmony
 and inclusivity at Meridian Secondary School.</p>
 <p></p>
-<p><strong>Staff Appreciation Day</strong>
-</p>
-<p></p>
+<h4>Staff Appreciation Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG9.png">
 </div>
@@ -262,9 +244,8 @@ our students' growth. Their appreciation and trust in our staff’s dedication
 to student well-being and academic success are greatly valued.</p>
 <p>Thank you, PSG, for making Meridian Secondary School a stronger, more
 connected community!</p>
-<h3><strong>2023 Highlights</strong></h3>
+<h3>2023 </h3>
 <h4>Secondary 1 Orientation</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Parent Support Group (PSG)/PSG12.png">
 </div>
@@ -289,7 +270,7 @@ and look forward to future PSG bonding sessions.</p>
 our students, a PSG member, Ms Shaqirah Banu shared her working experience
 in the Early Childhood Care and Financial sectors during the Sec 3 ECG
 Day on 8 March 2023. Students found the session useful and engaging.</p>
-<h3>2022 Highlights</h3>
+<h3>2022 </h3>
 <h4>Racial Harmony Day</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parent%20Support%20Group%20(PSG)/PSG%2004.jpg">
