@@ -52,7 +52,7 @@ while promoting good character development.</p>
 <h3>Coaches</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong> </strong>Mr Alex Teo jun Bao</p>
+<p>Mr Alex Teo jun Bao</p>
 </li>
 <li>
 <p>Mr Ong Yuan Hao</p>
@@ -97,10 +97,10 @@ crowd participation. Students exhibited good sports management skills.</p>
 </div>
 <p>B Div Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture2.jpg">
 </div>
 <p>C Div Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture3.jpg">
 </div>
 <p>Sec 2 Level Camp</p>
