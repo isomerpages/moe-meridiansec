@@ -80,4 +80,9 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
+  - infobar:
+      title: 2025 EOY Exam Script Checking Timetable
+      id: infobar
+      button: Click here
+      url: https://www.meridiansec.moe.edu.sg/2025-eoy-exam-script-checking-timetable/
 ---
