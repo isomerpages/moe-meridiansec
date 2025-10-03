@@ -14,11 +14,10 @@ discipline, respect, resilience, and an unwavering team spirit. We are
 committed to building a brotherhood where character is the cornerstone
 of every player, believing that how we play the game defines us more than
 the final score.</p>
-<p>&nbsp;</p>
-<p>Joining our team is a commitment to this ethos. Through rigorous training
-and intense competition in the National School Games, our players learn
-to embody these values under pressure. We expect every member to adopt
-a selfless "we over me" mentality, contributing to a culture of mutual
+<p>&nbsp;Joining our team is a commitment to this ethos. Through rigorous
+training and intense competition in the National School Games, our players
+learn to embody these values under pressure. We expect every member to
+adopt a selfless "we over me" mentality, contributing to a culture of mutual
 support and collective success. Ultimately, a Meridian basketballer graduates
 not just as a skilled athlete, but as a confident and principled young
 man, equipped with the grit and integrity to lead in all aspects of his
