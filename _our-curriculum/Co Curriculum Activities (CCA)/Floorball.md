@@ -145,3 +145,7 @@ skills, that I know will benefit me in all future endeavors.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture7.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture8.png">
+</div>
+<p></p>

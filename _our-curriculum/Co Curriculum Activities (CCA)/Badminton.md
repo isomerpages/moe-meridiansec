@@ -43,23 +43,25 @@ while promoting good character development.</p>
 </li>
 <li>
 <p>Mdm Selvi Varathappan</p>
-<p></p>
+</li>
+<li>
+<p>Ms Elene Lim</p>
 </li>
 </ol>
+<p></p>
 <h3>Coaches</h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Alex
-Teo jun Bao</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Mr Ong Yuan
-Hao</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mr Alex Teo jun Bao</p>
+</li>
+<li>
+<p>Mr Ong Yuan Hao</p>
+</li>
+</ol>
 <p></p>
 <h3>Highlight of events in recent years</h3>
+<h4>2025</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>East-Zone Inter-School Badminton Tournament</p>
-</li>
-<li>
-<p>Tampines-Meridian JC Badminton Open</p>
-</li>
 <li>
 <p>National School Games</p>
 </li>
@@ -71,10 +73,10 @@ Hao</p>
 </li>
 <li>
 <p>Values-In-Action (VIA) activities : Badminton Rally &amp; Smash</p>
-<p></p>
 </li>
 </ul>
-<h3>Achievements</h3>
+<p>&nbsp;</p>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>2023 - B Boys Div 7th Placing (East Zone)</p>
@@ -89,37 +91,16 @@ crowd participation. Students exhibited good sports management skills.</p>
 </ul>
 <p>&nbsp;<strong>Links to social media </strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/meridian.badminton/</a>
 </p>
-<h3>Our players</h3>
-<p></p>
+<h4>Our CCA Experience</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="B girls" src="/images/CCA/Badminton 2024/B_girls.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture1.jpg">
 </div>
-<p><strong>B Girls Team</strong>
-</p>
-<p></p>
+<p>B Div Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="B boys Team" src="/images/CCA/Badminton 2024/B_boys.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture2.jpg">
 </div>
-<p><strong>B Boys Team</strong>
-</p>
-<p></p>
+<p>C Div Team</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="C boys team" src="/images/CCA/Badminton 2024/C_boys.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Badminton 2025/Picture3.jpg">
 </div>
-<p><strong>C Boys Team</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="C girls team" src="/images/CCA/Badminton 2024/C_girls.jpg">
-</div>
-<p><strong>C Girls Team</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Sec 2 Level Camp" src="/images/CCA/Badminton 2024/Sec_2_lvl_cmp.jpg">
-</div>
-<p><strong>Sec 2 Lvl Camp</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
+<p>Sec 2 Level Camp</p>
