@@ -22,6 +22,11 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
+      title: 2025 EOY Exam Script Checking Timetable
+      id: infobar
+      button: Click here
+      url: https://www.meridiansec.moe.edu.sg/2025-eoy-exam-script-checking-timetable/
+  - infobar:
       title: End of Year Examination
       id: infobar
       description: Please refer to the following documents for the schedule and topics
