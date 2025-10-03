@@ -84,19 +84,19 @@ life.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/Picture1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/Picture2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/Picture2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/4.jpg">
 </div>
 <h3>Our CCA Experience</h3>
 <p><strong>Zarius Tan Zhe Rui,&nbsp;(4E3, 2025), Captain of B Division Boys</strong>
@@ -120,7 +120,7 @@ important parts of our lives.</p>
 I highly recommend joining the CCA. It builds character and discipline,
 and it is where I had the most fun in my four years of secondary school.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/5.jpg">
 </div>
 <p><strong>Hayden Mackenzie Widjaja (4T1 2025), Vice-Captain of B Division Boys</strong>
 </p>
@@ -143,7 +143,7 @@ have it all together. Their encouragement helped me keep going.</p>
 the support, and the small moments are what made school life so meaningful.
 As I move forward, I’ll carry all these memories and lessons with me.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/6.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Basketball 2025/6.jpg">
 </div>
 <p></p>
 <p></p>
