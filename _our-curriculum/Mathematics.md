@@ -323,8 +323,12 @@ excellence.</p>
 </li>
 <li>
 <p>Hank Zheng Yuhan, 2-6</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture2.jpg">
+</div>
 <p></p>
 <h4>Sec 1 Code for Fun Programme 2025</h4>
 <p>As part of the school's Experiential Week on 25 and 26 March 2025, our
@@ -1282,4 +1286,5 @@ decisions to maximise their profits.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/m12.jpg">
 </div>
+<p></p>
 <p></p>
