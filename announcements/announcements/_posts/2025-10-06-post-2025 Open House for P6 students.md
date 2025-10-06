@@ -7,3 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parents/ Guardians and P6 students,</p>
+<p>&nbsp;</p>
+<p>Want to find out more about what Meridian Secondary has to offer?</p>
+<p>&nbsp;</p>
+<p>Come and check out our school's campus and CCAs. Experience the vibrant
+atmosphere and listen to our student tour guides as they bring you around
+the school!</p>
+<p>&nbsp;</p>
+<p>Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mss2025</a>
+</p>
+<p>&nbsp;</p>
