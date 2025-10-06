@@ -188,8 +188,11 @@ SMKC and SMO. These competitions provided students with the opportunity
 to extend their problem solving and adaptive thinking skills beyond the
 classroom, offering valuable exposure to international standards of mathematical
 excellence.</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">We are proud to share that our students have achieved a commendable number of gold, silver, bronze and honourable mention awards. We applaud award winners for their commitment and impressive achievements. We would also like to express our appreciation to all Meridian participants for their dedication and hard work.</a>
-</p>
+<p>We are proud to share that our students have achieved a commendable number
+of gold, silver, bronze and honourable mention awards. We applaud award
+winners for their commitment and impressive achievements. We would also
+like to express our appreciation to all Meridian participants for their
+dedication and hard work.</p>
 <p>&nbsp;Well done, Meridians!</p>
 <h4>SINGAPORE AND ASIAN SCHOOLS MATH OLYMPIAD (SASMO) 2025</h4>
 <p><strong>Gold Award</strong>
