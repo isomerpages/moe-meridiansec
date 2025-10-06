@@ -18,5 +18,6 @@ variant: tiptap
 atmosphere and listen to our student tour guides as they bring you around
 the school!</p>
 <p></p>
-<p>Register here:</p>
+<p>Register here: <a href="https://form.gov.sg/68da0961d0487fc765536b02" rel="noopener noreferrer nofollow" target="_blank">Meridian Sec Open House 2025 | FormSG </a>
+</p>
 <p>&nbsp;</p>
