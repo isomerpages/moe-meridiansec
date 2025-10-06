@@ -42,7 +42,7 @@ mathematics;</p>
 and to learn cooperatively and independently.</p>
 </li>
 </ul>
-<h3>Highlights </h3>
+<h3>Highlights</h3>
 <h4>ICAS 2025 Participation and Results</h4>
 <p>On 27 August 2025, a total of <strong>36 students from Secondary 1 to 3</strong> took
 part in the International Competitions and Assessments for Schools (ICAS).
