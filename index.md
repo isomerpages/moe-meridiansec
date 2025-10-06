@@ -22,12 +22,14 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: 2025 Open House
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Dear Parents/ Guardians and P6 students,  Want to find out more
+        about what Meridian Secondary has to offer?
+      button: FIND OUT MORE
       alt: Image alt text
+      image: /images/Announcements/Open_house_poster_latest__landscape__use_on_soc_media_.png
+      url: /2025-open-house-for-p6-students/
   - infobar:
       title: 2025 EOY Exam Script Checking Timetable
       id: infobar
