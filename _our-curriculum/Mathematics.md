@@ -325,8 +325,7 @@ excellence.</p>
 <p>Hank Zheng Yuhan, 2-6</p>
 </li>
 </ul>
-<h4>&nbsp;</h4>
-<h4>&nbsp;Sec 1 Code for Fun Programme 2025</h4>
+<h4>Sec 1 Code for Fun Programme 2025</h4>
 <p>As part of the school's Experiential Week on 25 and 26 March 2025, our
 Secondary 1 students participated in the Code for Fun programme—an engaging
 programme that introduces students to computational thinking, inventive
@@ -649,8 +648,8 @@ competition categories.</p>
 <p>Kayden Oo Kai Zhe, 3E4</p>
 <p></p>
 <h4>JUNIOR SECTION</h4>
-<ul data-tight="true" class="tight">
-<li>
+</li>
+</ul>
 <p><strong>HONOURABLE MENTION AWARDS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -673,10 +672,6 @@ competition categories.</p>
 <p>Vathsavai Hemasri, 1E4</p>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
 <p>Congratulations to the award winners for their hard work and performance.
 We would also like to extend our appreciation to all the other Meridian
 competitors!
@@ -685,9 +680,7 @@ competitors!
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Maths-01-1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <h4>UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS</h4>
 <p>Selected Meridians took part in the UNSW ICAS national Mathematics competition,
 which assesses advanced concepts and critical-thinking skills in various
@@ -696,11 +689,7 @@ areas of Mathematics.
 <br>Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit
 Awards and 10 Merit Awards! Congratulations to the following Meridians
 for their perseverance and performance. We would also like to extend our
-special appreciation to the other Meridian competitors!
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+special appreciation to the other Meridian competitors!</p>
 <p><strong>DISTINCTION AWARDS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -711,8 +700,6 @@ special appreciation to the other Meridian competitors!
 <p>Leo Yoong Yih, 3E3</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong>CREDIT AWARDS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -787,13 +774,12 @@ special appreciation to the other Meridian competitors!
 </li>
 <li>
 <p>Yikov Yager, 4E4</p>
-</li>
-</ul>
+<p></p>
 </li>
 <li>
 <p><strong>MERIT AWARDS</strong>
 </p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Ahmad Faheem Bin Nilautama, 1E2</p>
 </li>
@@ -825,9 +811,6 @@ special appreciation to the other Meridian competitors!
 <p>Too Weng Yi, 3E4</p>
 </li>
 </ul>
-</li>
-</ul>
-<p></p>
 <h4>Meridian Mathematics and Financial Literacy Week</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Maths-Poster.png">
@@ -837,38 +820,27 @@ special appreciation to the other Meridian competitors!
 from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year
 is “Mathematics for a Better Tomorrow”. During the week, students across
 the levels were engaged in a wide array of activities, exploring the key
-role that Mathematics plays in Sustainability.
-<br>
-</p>
+role that Mathematics plays in Sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%201.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%202.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%203.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%204.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%205.png">
 </div>
 <p>
-<br>
 <br>On top of these fun-filled activities, students who enjoy cracking puzzles
 had a go at our online brain teasers – Puzzle-A-Day.
 <br>
@@ -999,8 +971,7 @@ had a go at our online brain teasers – Puzzle-A-Day.
 </table>
 <p>
 <br>In addition, we would like to extend our congratulations to our top 10
-winners in the Meridian Mathematical Olympiad 2022!</p>
-<p>
+winners in the Meridian Mathematical Olympiad 2022!
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -1111,17 +1082,12 @@ winners in the Meridian Mathematical Olympiad 2022!</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/Maths-14.jpg">
 </div>
-<p>
-<br>
-</p>
 <hr>
-<h3>Highlights in 2021</h3>
+<h3>2021</h3>
 <h4>Sec 2 Virtual Learning Journey – Gardens by the Bay</h4>
 <p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens
 by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their
@@ -1138,10 +1104,7 @@ financial literacy skills.
 <br>Students from each level who presented the best solutions to the problems
 are awarded prizes.
 <br>
-<br>The winners are:
-<br>
-<br>
-</p>
+<br>The winners are:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
