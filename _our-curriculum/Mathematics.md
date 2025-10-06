@@ -202,15 +202,13 @@ excellence.</p>
 <p>Zheng Yuhan, 2-6</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Silver Award</strong>
+<p>&nbsp;<strong>Silver Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Rica Tang Yu Thong, 1-8</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Bronze Award</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -227,8 +225,7 @@ excellence.</p>
 <p>Fan Qiyi, 3-3</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Honourable Mention Award</strong>
+<p>&nbsp;<strong>Honourable Mention Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -253,7 +250,6 @@ excellence.</p>
 <p>Hiong Kai Win, 3-5</p>
 </li>
 </ul>
-<p></p>
 <h4>SINGAPORE MATH KANGAROO CONTEST (SMKC) 2025</h4>
 <p><strong>Silver Award</strong>
 </p>
@@ -268,36 +264,69 @@ excellence.</p>
 <p>Fan Qiyi, 3-3</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Bronze Award</strong>
+<p>&nbsp;<strong>Bronze Award</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Joshua Lim Jing Han, 1-2</p>
+</li>
+<li>
 <p>Gabriel Tan Hong Sheng, 1-2</p>
+</li>
+<li>
 <p>Tan Yu Loong, 1-2</p>
+</li>
+<li>
 <p>Pranesh Puvan, 1-3</p>
+</li>
+<li>
 <p>Ocampo Simoun Menarde Abalos, 1-5</p>
+</li>
+<li>
 <p>Joelle Lee Cheuk Wai, 1-6</p>
+</li>
+<li>
 <p>Zhang Tianyi, 1-7</p>
-<p>·&nbsp;Lucas Loh Yi Xuan, 2-3</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Velin Sim, 3-1</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Darice Lim Xi En, 3-5</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hiong Kai Win, 3-5</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Lucas Loh Yi Xuan, 2-3</p>
+</li>
+<li>
+<p>Velin Sim, 3-1</p>
+</li>
+<li>
+<p>Darice Lim Xi En, 3-5</p>
+</li>
+<li>
+<p>Hiong Kai Win, 3-5</p>
+</li>
+</ul>
 <p><strong>Honourable Mention Award</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; He Qinlin, 1-2</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nur Qailisha Ayanah Binte Addy Amin,
-1-6</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matthew Cedric Djingga, 3-1</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>He Qinlin, 1-2</p>
+</li>
+<li>
+<p>Nur Qailisha Ayanah Binte Addy Amin, 1-6</p>
+</li>
+<li>
+<p>Matthew Cedric Djingga, 3-1</p>
+</li>
+</ul>
 <h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2025</h4>
 <p><strong>Bronze Award (Senior Section)</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anderson Liu Zian, 2-5</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hank Zheng Yuhan, 2-6</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h4>Sec 1 Code for Fun Programme 2025</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anderson Liu Zian, 2-5</p>
+</li>
+<li>
+<p>Hank Zheng Yuhan, 2-6</p>
+</li>
+</ul>
+<h4>&nbsp;</h4>
+<h4>&nbsp;Sec 1 Code for Fun Programme 2025</h4>
 <p>As part of the school's Experiential Week on 25 and 26 March 2025, our
 Secondary 1 students participated in the Code for Fun programme—an engaging
 programme that introduces students to computational thinking, inventive
@@ -339,9 +368,7 @@ designing, prototyping, and writing code that allowed the devices to function
 more efficiently, reducing waste. Through this project, students not only
 applied their coding skills but also gained valuable insight into how technology
 can contribute to sustainable living in real-world settings</p>
-<p>&nbsp;</p>
-<p></p>
-<p>Overall, the Code for Fun programme provided our Secondary 1 students
+<p>&nbsp;Overall, the Code for Fun programme provided our Secondary 1 students
 with an enriching and purposeful introduction to coding and digital innovation.
 Beyond learning a technical skill, students tapped into their creativity,
 practised critical thinking, and tackled real-world problems. By addressing
@@ -349,12 +376,10 @@ sustainability challenges through hands-on projects, they learned the importance
 of using technology responsibly and meaningfully. The experience not only
 sparked curiosity in digital making but also empowered students to become
 thoughtful innovators who can shape a more sustainable future.</p>
-<p></p>
 <h3>2024</h3>
 <h4>UNSW ICAS</h4>
 <p><strong>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Maths_Department_pic_1.png">
 </div>
@@ -477,8 +502,6 @@ best moments on the school’s Instagram page. Beyond the thrill of friendly
 competition, the STEM Playground 2024 has succeeded in fostering a deeper
 appreciation for STEM disciplines, leaving an indelible mark on the hearts
 and minds of all who participated.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/STEM_Image_1.png">
 </div>
@@ -495,7 +518,6 @@ introducing students to coding and computational thinking.</p>
 and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
 breaking down the maze-building process into manageable steps and developing
 algorithms to navigate the maze.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic1.png">
 </div>
@@ -510,7 +532,6 @@ the theme of sustainability.&nbsp; Through hands-on projects and real-world
 applications, students developed technical skills and gained insights into
 sustainable and responsible innovation, laying a foundation for future
 learning and problem solving.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic2.png">
 </div>
@@ -525,12 +546,11 @@ the 3<sup>rd</sup> Prize in the Regional Cashflow Competition.&nbsp; 4 of
 our students also emerged as top scorers and competed in the finals in
 the National Cashflow Competition.</p>
 <p>&nbsp;Well done, students!&nbsp; Keep up your passion for learning!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/regional cashflow competition.jpg">
 </div>
 <h3>2023</h3>
-<h4>STEM Playground Challenge</h4>
+<h3>STEM Playground Challenge</h3>
 <p>On 23 May 2023, the Mathematics and Science department conducted the STEM
 Playground Challenge for Secondary 2 students, a challenge bringing together
 the disciplines of Science, Technology, Engineering, and Mathematics (STEM)
@@ -574,16 +594,12 @@ create their own smart home using micro:bit technology, integrating various
 sensors and devices into their projects. The use of recycled materials
 to construct smart homes encouraged students to think creatively and sustainably.
 The programme not only equipped the students with valuable coding skills,
-but also instilled a sense of responsibility towards the environment.
-<br>
-</p>
+but also instilled a sense of responsibility towards the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-01.jpg">
 </div>
 <p>Learning new coding skills and making awesome projects with micro:bit
-through the Code for Fun workshop.
-<br>
-</p>
+through the Code for Fun workshop.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-02.jpg">
 </div>
@@ -610,25 +626,19 @@ Mathematics problems.
 of overall participation and performance. 11 Meridians have done well and
 clinched the Bronze Awards and Honourable Mention Awards in their respective
 competition categories.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>SENIOR SECTION</strong>
+<h4>SENIOR SECTION</h4>
+<p><strong>BRONZE AWARDS</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>BRONZE AWARDS</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Anthony Ng, 4E4</p>
 </li>
 <li>
 <p>Makoto Sueyoshi, 4E4</p>
+<p></p>
+<p><strong>HONOURABLE MENTION AWARDS</strong>
+</p>
 </li>
-</ul>
-</li>
-<li>
-<p>HONOURABLE MENTION AWARDS</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Estreller Rian Clark Angeles, 4E4</p>
 </li>
@@ -637,17 +647,12 @@ competition categories.</p>
 </li>
 <li>
 <p>Kayden Oo Kai Zhe, 3E4</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>JUNIOR SECTION</strong>
-</p>
+<p></p>
+<h4>JUNIOR SECTION</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>HONOURABLE MENTION AWARDS</p>
+<p><strong>HONOURABLE MENTION AWARDS</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</p>
