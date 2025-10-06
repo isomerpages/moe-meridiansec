@@ -42,14 +42,301 @@ mathematics;</p>
 and to learn cooperatively and independently.</p>
 </li>
 </ul>
-<h3><strong>Highlights in 2024</strong></h3>
-<h4><strong>Sec 1 Code for Fun Programme 2025</strong></h4>
+<h3>Highlights</h3>
+<h4>ICAS 2025 Participation and Results</h4>
+<p>On 27 August 2025, a total of <strong>36 students from Secondary 1 to 3</strong> took
+part in the International Competitions and Assessments for Schools (ICAS).
+This competition provided our students with the opportunity to hone their
+adaptive thinking skills and benchmark their performance against international
+standards.</p>
+<p>Our students achieved the following results:</p>
+<p><strong>High Distinction</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ocampo Simoun Menarde Abalos, 1-5</p>
+</li>
+<li>
+<p>Liu Zian, 2-5</p>
+</li>
+</ul>
+<p><strong>Distinction</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jampakong Lionel, 1-1</p>
+</li>
+<li>
+<p>Shah Kaavya Mitesh, 1-6</p>
+</li>
+<li>
+<p>Zhang Tianyi, 1-7</p>
+</li>
+<li>
+<p>Saw Miracle Htoo, 1-8</p>
+</li>
+</ul>
+<p><strong>Credit</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>He Qinlin, 1-2</p>
+</li>
+<li>
+<p>Lim Jing Han, Joshua, 1-2</p>
+</li>
+<li>
+<p>Tan Yu Loong, 1-2</p>
+</li>
+<li>
+<p>Pranesh Puvan, 1-3</p>
+</li>
+<li>
+<p>Kloey Lim Yu Xuan, 1-6</p>
+</li>
+<li>
+<p>Nur Qailisha Ayanah Binte Addy Amin, 1-6</p>
+</li>
+<li>
+<p>Lucas Loh Yi Xuan, 2-3</p>
+</li>
+<li>
+<p>Zheng Yuhan, 2-6</p>
+</li>
+<li>
+<p>Teo Xi Tong, Delphina, 3-2</p>
+</li>
+<li>
+<p>Fan Qiyi, 3-3</p>
+</li>
+<li>
+<p>Melvin Tukimin, 3-4</p>
+</li>
+</ul>
+<p><strong>&nbsp;Merit</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rica Tang Yu Thong, 1-8</p>
+</li>
+<li>
+<p>Ng Shi Min Kerin, 3-1</p>
+</li>
+<li>
+<p>Velin Sim, 3-1</p>
+</li>
+<li>
+<p>Pang Hui Ping, 3-2</p>
+</li>
+</ul>
+<p><strong>Participation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aaira Hannah Binte Muhamad Rizal, 1-2</p>
+</li>
+<li>
+<p>Tan Hong Sheng, Gabriel, 1-2</p>
+</li>
+<li>
+<p>Joelle Lee Cheuk Wai, 1-6</p>
+</li>
+<li>
+<p>Paderes Caleb Benjamin Salvania, 2-1</p>
+</li>
+<li>
+<p>Isaac Loon (Lun Junhao), 2-2</p>
+</li>
+<li>
+<p>Rohainah Binte Riduan, 2-3</p>
+</li>
+<li>
+<p>Loy Xiang Kai Sherman, 2-5</p>
+</li>
+<li>
+<p>Keziah Lim Xuan Min, 2-6</p>
+</li>
+<li>
+<p>Kong Zi Tong, 2-6</p>
+</li>
+<li>
+<p>Matthew Cedric Djingga, 3-1</p>
+</li>
+<li>
+<p>Jeanette Ang Kiat Sing, 3-2</p>
+</li>
+<li>
+<p>Yeo Ching Lin, 3-2</p>
+</li>
+<li>
+<p>Yee Yi Hui, 3-3</p>
+</li>
+<li>
+<p>Ellouise Rosales Parfan, 3-4</p>
+</li>
+<li>
+<p>Hiong Kai Win, 3-5</p>
+</li>
+</ul>
+<p>We congratulate all participants for their effort, commitment, and resilience.
+Their achievements reflect the school’s pursuit of excellence and continuous
+learning.</p>
+<h4>Singapore and Asian Schools Math Olympiad (SASMO), Singapore Math Kangaroo Contest (SMKC) and Singapore Mathematical Olympiad (SMO) 2025</h4>
+<p>In semester one, selected Secondary One to Three students represented
+our school in three prestigious national mathematics competitions: SASMO,
+SMKC and SMO. These competitions provided students with the opportunity
+to extend their problem solving and adaptive thinking skills beyond the
+classroom, offering valuable exposure to international standards of mathematical
+excellence.</p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">We are proud to share that our students have achieved a commendable number of gold, silver, bronze and honourable mention awards. We applaud award winners for their commitment and impressive achievements. We would also like to express our appreciation to all Meridian participants for their dedication and hard work.</a>
+</p>
+<p>&nbsp;Well done, Meridians!</p>
+<h4>SINGAPORE AND ASIAN SCHOOLS MATH OLYMPIAD (SASMO) 2025</h4>
+<p><strong>Gold Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anderson Liu Zian, 2-5</p>
+</li>
+<li>
+<p>Zheng Yuhan, 2-6</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Silver Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rica Tang Yu Thong, 1-8</p>
+</li>
+</ul>
+<p><strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Yu Loong, 1-2</p>
+</li>
+<li>
+<p>Ocampo Simoun Menarde Abalos, 1-5</p>
+</li>
+<li>
+<p>Delphina Teo Xi Tong, 3-2</p>
+</li>
+<li>
+<p>Fan Qiyi, 3-3</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Honourable Mention Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jampakong Lionel, 1-1</p>
+</li>
+<li>
+<p>Joshua Lim Jing Han, 1-2</p>
+</li>
+<li>
+<p>Kloey Lim Yu Xuan, 1-6</p>
+</li>
+<li>
+<p>Shah Kaavya Mitesh, 1-6</p>
+</li>
+<li>
+<p>Saw Miracle Htoo, 1-8</p>
+</li>
+<li>
+<p>Pang Hui Ping, 3-2</p>
+</li>
+<li>
+<p>Hiong Kai Win, 3-5</p>
+</li>
+</ul>
+<h4>SINGAPORE MATH KANGAROO CONTEST (SMKC) 2025</h4>
+<p><strong>Silver Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shah Kaavya Mitesh, 1-6</p>
+</li>
+<li>
+<p>Delphina Teo Xi Tong, 3-2</p>
+</li>
+<li>
+<p>Fan Qiyi, 3-3</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Bronze Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joshua Lim Jing Han, 1-2</p>
+</li>
+<li>
+<p>Gabriel Tan Hong Sheng, 1-2</p>
+</li>
+<li>
+<p>Tan Yu Loong, 1-2</p>
+</li>
+<li>
+<p>Pranesh Puvan, 1-3</p>
+</li>
+<li>
+<p>Ocampo Simoun Menarde Abalos, 1-5</p>
+</li>
+<li>
+<p>Joelle Lee Cheuk Wai, 1-6</p>
+</li>
+<li>
+<p>Zhang Tianyi, 1-7</p>
+</li>
+<li>
+<p>Lucas Loh Yi Xuan, 2-3</p>
+</li>
+<li>
+<p>Velin Sim, 3-1</p>
+</li>
+<li>
+<p>Darice Lim Xi En, 3-5</p>
+</li>
+<li>
+<p>Hiong Kai Win, 3-5</p>
+</li>
+</ul>
+<p><strong>Honourable Mention Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>He Qinlin, 1-2</p>
+</li>
+<li>
+<p>Nur Qailisha Ayanah Binte Addy Amin, 1-6</p>
+</li>
+<li>
+<p>Matthew Cedric Djingga, 3-1</p>
+</li>
+</ul>
+<h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO) 2025</h4>
+<p><strong>Bronze Award (Senior Section)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Anderson Liu Zian, 2-5</p>
+</li>
+<li>
+<p>Hank Zheng Yuhan, 2-6</p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture2.jpg">
+</div>
+<p></p>
+<h4>Sec 1 Code for Fun Programme 2025</h4>
 <p>As part of the school's Experiential Week on 25 and 26 March 2025, our
 Secondary 1 students participated in the Code for Fun programme—an engaging
 programme that introduces students to computational thinking, inventive
 problem-solving, and digital making through AI. This year's theme, Sustainable
 Living, encouraged students to apply their learning to real-world challenges.</p>
-<h4><strong>Introducing Computational Thinking</strong></h4>
+<h4>Introducing Computational Thinking</h4>
 <p>The programme kicked off with a hands-on paper house folding activity,
 where students followed a set of step-by-step instructions. This exercise
 mirrored the logic of coding, where a programmer writes a sequence of commands
@@ -60,7 +347,7 @@ for systematic thinking, a key skill in coding and problem-solving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/pic1.jpg">
 </div>
-<h4><strong>Hands-On Coding with Micro:bit</strong></h4>
+<h4>Hands-On Coding with Micro:bit</h4>
 <p>Next, students delved into coding with the Micro:bit, experimenting with
 input and output devices like buttons, sensors, LEDs, and motors. They
 creatively applied their knowledge by simulating real-world scenarios,
@@ -73,7 +360,7 @@ practical applications.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2025/Picture2.jpg">
 </div>
-<h4><strong>Digital Making for a Greener Home</strong></h4>
+<h4>Digital Making for a Greener Home</h4>
 <p>The final challenge was the Digital Making Project, where students used
 the Design Thinking process to tackle sustainability issues at home. They
 began by identifying everyday problems, such as excessive electricity usage,
@@ -85,9 +372,7 @@ designing, prototyping, and writing code that allowed the devices to function
 more efficiently, reducing waste. Through this project, students not only
 applied their coding skills but also gained valuable insight into how technology
 can contribute to sustainable living in real-world settings</p>
-<p>&nbsp;</p>
-<p></p>
-<p>Overall, the Code for Fun programme provided our Secondary 1 students
+<p>&nbsp;Overall, the Code for Fun programme provided our Secondary 1 students
 with an enriching and purposeful introduction to coding and digital innovation.
 Beyond learning a technical skill, students tapped into their creativity,
 practised critical thinking, and tackled real-world problems. By addressing
@@ -95,12 +380,10 @@ sustainability challenges through hands-on projects, they learned the importance
 of using technology responsibly and meaningfully. The experience not only
 sparked curiosity in digital making but also empowered students to become
 thoughtful innovators who can shape a more sustainable future.</p>
-<p></p>
-<h3><strong>Highlights in 2024</strong></h3>
-<h4>2024 UNSW ICAS:</h4>
+<h3>2024</h3>
+<h4>UNSW ICAS</h4>
 <p><strong>University of New South Wales (UNSW) International Competitions and Assessments for Schools (ICAS) for Mathematics</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Maths_Department_pic_1.png">
 </div>
@@ -223,8 +506,6 @@ best moments on the school’s Instagram page. Beyond the thrill of friendly
 competition, the STEM Playground 2024 has succeeded in fostering a deeper
 appreciation for STEM disciplines, leaving an indelible mark on the hearts
 and minds of all who participated.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/STEM_Image_1.png">
 </div>
@@ -241,7 +522,6 @@ introducing students to coding and computational thinking.</p>
 and paper. &nbsp;&nbsp;Students enhanced their problem-solving skills by
 breaking down the maze-building process into manageable steps and developing
 algorithms to navigate the maze.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic1.png">
 </div>
@@ -256,7 +536,6 @@ the theme of sustainability.&nbsp; Through hands-on projects and real-world
 applications, students developed technical skills and gained insights into
 sustainable and responsible innovation, laying a foundation for future
 learning and problem solving.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/mathspic2.png">
 </div>
@@ -271,13 +550,11 @@ the 3<sup>rd</sup> Prize in the Regional Cashflow Competition.&nbsp; 4 of
 our students also emerged as top scorers and competed in the finals in
 the National Cashflow Competition.</p>
 <p>&nbsp;Well done, students!&nbsp; Keep up your passion for learning!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/regional cashflow competition.jpg">
 </div>
-<p></p>
-<h3>Highlights in 2023</h3>
-<h4>STEM Playground Challenge</h4>
+<h3>2023</h3>
+<h3>STEM Playground Challenge</h3>
 <p>On 23 May 2023, the Mathematics and Science department conducted the STEM
 Playground Challenge for Secondary 2 students, a challenge bringing together
 the disciplines of Science, Technology, Engineering, and Mathematics (STEM)
@@ -321,16 +598,12 @@ create their own smart home using micro:bit technology, integrating various
 sensors and devices into their projects. The use of recycled materials
 to construct smart homes encouraged students to think creatively and sustainably.
 The programme not only equipped the students with valuable coding skills,
-but also instilled a sense of responsibility towards the environment.
-<br>
-</p>
+but also instilled a sense of responsibility towards the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-01.jpg">
 </div>
 <p>Learning new coding skills and making awesome projects with micro:bit
-through the Code for Fun workshop.
-<br>
-</p>
+through the Code for Fun workshop.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/maths-code-for-fun-02.jpg">
 </div>
@@ -347,7 +620,7 @@ other schools at the same table. In the process, they acquired valuable
 financial literacy skills.
 <br>
 </p>
-<h3>Highlights in 2022</h3>
+<h3>2022</h3>
 <h4>SINGAPORE MATHEMATICAL OLYMPIAD (SMO)</h4>
 <p>Selected Meridians participated in the Singapore Mathematical Olympiad
 (SMO) national competition after learning advanced skills in solving competitive
@@ -357,25 +630,19 @@ Mathematics problems.
 of overall participation and performance. 11 Meridians have done well and
 clinched the Bronze Awards and Honourable Mention Awards in their respective
 competition categories.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>SENIOR SECTION</strong>
+<h4>SENIOR SECTION</h4>
+<p><strong>BRONZE AWARDS</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>BRONZE AWARDS</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Anthony Ng, 4E4</p>
 </li>
 <li>
 <p>Makoto Sueyoshi, 4E4</p>
+<p></p>
+<p><strong>HONOURABLE MENTION AWARDS</strong>
+</p>
 </li>
-</ul>
-</li>
-<li>
-<p>HONOURABLE MENTION AWARDS</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Estreller Rian Clark Angeles, 4E4</p>
 </li>
@@ -384,17 +651,12 @@ competition categories.</p>
 </li>
 <li>
 <p>Kayden Oo Kai Zhe, 3E4</p>
+<p></p>
+<h4>JUNIOR SECTION</h4>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>JUNIOR SECTION</strong>
+<p><strong>HONOURABLE MENTION AWARDS</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HONOURABLE MENTION AWARDS</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cheryl Sim Hwee Teng (Shen Huiting), 2E1</p>
@@ -415,10 +677,6 @@ competition categories.</p>
 <p>Vathsavai Hemasri, 1E4</p>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-</ul>
 <p>Congratulations to the award winners for their hard work and performance.
 We would also like to extend our appreciation to all the other Meridian
 competitors!
@@ -427,9 +685,7 @@ competitors!
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/Maths-01-1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <h4>UNIVERSITY OF NEW SOUTH WALES (UNSW) INTERNATIONAL COMPETITIONS AND ASSESSMENTS FOR SCHOOLS (ICAS) FOR MATHEMATICS</h4>
 <p>Selected Meridians took part in the UNSW ICAS national Mathematics competition,
 which assesses advanced concepts and critical-thinking skills in various
@@ -438,11 +694,7 @@ areas of Mathematics.
 <br>Our Meridians have done well, achieving 2 Distinction Awards, 24 Credit
 Awards and 10 Merit Awards! Congratulations to the following Meridians
 for their perseverance and performance. We would also like to extend our
-special appreciation to the other Meridian competitors!
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+special appreciation to the other Meridian competitors!</p>
 <p><strong>DISTINCTION AWARDS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -453,8 +705,6 @@ special appreciation to the other Meridian competitors!
 <p>Leo Yoong Yih, 3E3</p>
 </li>
 </ul>
-</li>
-<li>
 <p><strong>CREDIT AWARDS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -529,13 +779,12 @@ special appreciation to the other Meridian competitors!
 </li>
 <li>
 <p>Yikov Yager, 4E4</p>
-</li>
-</ul>
+<p></p>
 </li>
 <li>
 <p><strong>MERIT AWARDS</strong>
 </p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Ahmad Faheem Bin Nilautama, 1E2</p>
 </li>
@@ -567,9 +816,6 @@ special appreciation to the other Meridian competitors!
 <p>Too Weng Yi, 3E4</p>
 </li>
 </ul>
-</li>
-</ul>
-<p></p>
 <h4>Meridian Mathematics and Financial Literacy Week</h4>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/Maths-Poster.png">
@@ -579,38 +825,27 @@ special appreciation to the other Meridian competitors!
 from 28th&nbsp;February to 4th&nbsp;March 2022. The theme for this year
 is “Mathematics for a Better Tomorrow”. During the week, students across
 the levels were engaged in a wide array of activities, exploring the key
-role that Mathematics plays in Sustainability.
-<br>
-</p>
+role that Mathematics plays in Sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%201.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%202.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%203.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%204.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/math%205.png">
 </div>
 <p>
-<br>
 <br>On top of these fun-filled activities, students who enjoy cracking puzzles
 had a go at our online brain teasers – Puzzle-A-Day.
 <br>
@@ -741,8 +976,7 @@ had a go at our online brain teasers – Puzzle-A-Day.
 </table>
 <p>
 <br>In addition, we would like to extend our congratulations to our top 10
-winners in the Meridian Mathematical Olympiad 2022!</p>
-<p>
+winners in the Meridian Mathematical Olympiad 2022!
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -853,17 +1087,12 @@ winners in the Meridian Mathematical Olympiad 2022!</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/Maths-14.jpg">
 </div>
-<p>
-<br>
-</p>
 <hr>
-<h3>Highlights in 2021</h3>
+<h3>2021</h3>
 <h4>Sec 2 Virtual Learning Journey – Gardens by the Bay</h4>
 <p>This year, the Sec 2s experienced a virtual Math Learning Journey to Gardens
 by the Bay on 6 September 2021 from 0900 to 1430. It aims to enhance their
@@ -880,10 +1109,7 @@ financial literacy skills.
 <br>Students from each level who presented the best solutions to the problems
 are awarded prizes.
 <br>
-<br>The winners are:
-<br>
-<br>
-</p>
+<br>The winners are:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1060,4 +1286,5 @@ decisions to maximise their profits.</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/m12.jpg">
 </div>
+<p></p>
 <p></p>
