@@ -325,6 +325,7 @@ excellence.</p>
 <p>Hank Zheng Yuhan, 2-6</p>
 </li>
 </ul>
+<p></p>
 <h4>Sec 1 Code for Fun Programme 2025</h4>
 <p>As part of the school's Experiential Week on 25 and 26 March 2025, our
 Secondary 1 students participated in the Code for Fun programme—an engaging
