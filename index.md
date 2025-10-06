@@ -28,7 +28,7 @@ sections:
         about what Meridian Secondary has to offer?
       button: FIND OUT MORE
       alt: Image alt text
-      image: /images/Announcements/Open_house_poster_latest__landscape__use_on_soc_media_.png
+      image: /images/Announcements/Open_House_Poster_2025.png
       url: /2025-open-house-for-p6-students/
   - infobar:
       title: 2025 EOY Exam Script Checking Timetable
