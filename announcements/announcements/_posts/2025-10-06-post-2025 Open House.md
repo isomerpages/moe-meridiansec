@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Announcements/Open_house_poster_latest__landscape__use_on_soc_media_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Announcements/Open_house_poster_latest__landscape__use_on_soc_media_.png">
 </div>
 <p>&nbsp;Dear Parents/ Guardians and P6 students,</p>
 <p>Want to find out more about what Meridian Secondary has to offer?</p>
