@@ -14,7 +14,21 @@ level, students understand the usefulness of their mother tongue from industry
 programme, like radio station talks and podcast workshops. The high-progress
 learners are provided with extra learning opportunities through competitions
 and writing workshop.&nbsp;</p>
-<h3>Highlights - Chinese Language</h3>
+<p></p>
+<p>Check out our alternative assessments Video-log by our Sec 2 students
+by clicking on the links below:</p>
+<p><a href="https://youtu.be/cl-ec4MXTAY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/cl-ec4MXTAY</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/PlANhWbFNds</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/6MjIWO9VEYI</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/D0QIPIrnqGg</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Programme Highlights - Chinese Language</h3>
 <p><strong>中一文化营</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -56,10 +70,8 @@ and writing workshop.&nbsp;</p>
 <p>华文文化营</p>
 <p>我校华文部每年为中一新生举办文化营活动，目的是让学生了解和感受华族文化的意趣和精髓。每年的活动有所不同，比如制作竹简、捏制泥塑、画脸谱、绘彩扇、雕刻佩章等。
 <br>
-<br>
 </p>
-<p>2024</p>
-<p>今年的中一文化营为学生提供了沉浸式的动手学习体验。学生们亲手制作了风筝，还拿起剪刀尝试剪纸，在经验丰富的武术教练的带领下，学习了华族武术的基本动作，也被令人惊叹的武术表演所吸引。总而言之，这些活动加深了他们对华族文化的了解。</p>
+<p>中一文化营为学生提供了沉浸式的动手学习体验。学生们亲手制作了风筝，还拿起剪刀尝试剪纸，在经验丰富的武术教练的带领下，学习了华族武术的基本动作，也被令人惊叹的武术表演所吸引。总而言之，这些活动加深了他们对华族文化的了解。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/kite_making_2.jpg">
 </div>
@@ -80,25 +92,9 @@ and writing workshop.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/mtoct6.jpg">
 </div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct7.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct8.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/mtoct9.jpg">
-</div>
-<h3>Highlights - Malay Language</h3>
+<p></p>
+<p></p>
+<h3>Programme Highlights - Malay Language</h3>
 <h3>2025</h3>
 <h4>Feb – Pertandingan CendekiaSahibba</h4>
 <p>Para pelajar Meridian telah berpeluang untuk bertarung dalam Pertandingan
