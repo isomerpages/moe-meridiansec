@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - 2026 Purchase and Collection of Textbooks and Uniforms.md
       - Direct School Admission (DSA).md
       - Application for Leave of Absence (LOA).md
       - e–Student Handbook and School Letter.md
@@ -16,5 +17,4 @@ collections:
       - 2024 Release of O Level Results.md
       - 2025 Sec 1 Registration/.keep
       - 2025 Sec 1 Registration/2025 Sec 1 Registration.md
-      - 2025 Sales and Collections of Textbooks and Uniform.md
       - 2025 MOE FAS Application.md
