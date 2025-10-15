@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /home/departments/humanities/
 description: ""
+variant: markdown
 ---
 ### Vision
 The Humanities department in Meridian Secondary School aims to develop “Concerned Citizens, Independent Learners” through the discipline of Geography, History and Social Studies. Students will be prepared to contribute as active citizens through the acquisition of critical thinking skills and development of an inquiring mind.
@@ -12,23 +13,6 @@ The Humanities department employs an inquiry-based approach as its main pedagogy
 ### Assessment
 
 Assessment in the Humanities curriculum includes Assessment for Learning and Assessment of Learning to facilitate meaningful learning and encourage independent learning. Modes of assessment include geographical and historical investigation, source-based questions and summative assessment carried out in the form of level tests or examinations. Authentic assessment tasks through geographical and historical investigations also encourage students to showcase their varied intelligences so that our assessment of our students will be accurate and holistic.
-
-### Department Teachers
-
-| Name | Designation |
-| -------- | -------- |
-| Ms Noraidah A Rahim | Head of Department |
-| Ms Norharyati Hassan | Lead Teacher for History |
-| Ms Jamilah Sukimi | Senior Teacher for Geography |
-| Ms Kahbini Raj | Level Head for Student Management (Covering) |
-| Mr Chan Yew Ming Adam | Teacher (Geography, Social Studies) |
-| Mr Cheong Kim Gin | Teacher (Social Studies) |
-| Ms Choo Wui Kee Vicki | Teacher (Geography) |
-| Ms Ng Yi Qing | Teacher (Geography, Social Studies) |
-| Ms Selvi Varathappan | Teacher (Geography) |
-| Mr Teo Wei Yang | Teacher (History, Social Studies) |
-| Mr Teo Kang Zheng Ernest | Teacher (History, Social Studies) |
-| Ms Yuslina Mohamed Salleh | Teacher (History, Social Studies) |
 
 
 
