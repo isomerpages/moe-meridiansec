@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - 2026 Purchase and Collection of Textbooks and Uniforms.md
       - Direct School Admission (DSA).md
       - Application for Leave of Absence (LOA).md
       - e–Student Handbook and School Letter.md
