@@ -12,8 +12,7 @@ You can choose between:</p>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direct purchase at school
 bookshop</p>
-<p><strong>1. Online Purchase</strong>
-</p>
+<h4>1. Online Purchase</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Visit&nbsp;<a href="https://asenciobookshop.sg" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg</a>&nbsp;to
@@ -51,7 +50,6 @@ register for an account and make your purchase.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You can choose between Home Delivery (with delivery charges) or Self-Collection
@@ -75,8 +73,8 @@ may take up to&nbsp;14 days for your items to be delivered. &nbsp;&nbsp;</p>
 <p>Payment Modes: Debit/Credit Cards or PayNow.</p>
 </li>
 </ul>
-<p><strong>2. Direct Purchase at School Bookshop</strong>
-</p>
+<p></p>
+<h4>2. Direct Purchase at School Bookshop</h4>
 <p>The operating hours are from 9.00 am to 3.00 pm on the dates shown below.&nbsp;
 To prevent overcrowding and to ensure that there is sufficient stock for
 the books you are purchasing for your cohort, please make your purchase
@@ -148,9 +146,8 @@ on the dates shown below.</p>
 <p>Payment Modes: Cash, PayNow, NTUC Care Fund, or CDAC e-Vouchers.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>3. Exchange of Item</strong>
-</p>
+<p></p>
+<h4>3. Exchange of Item</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please produce invoice for online orders or booklist (OFFICIAL RECEIPT)
@@ -164,11 +161,10 @@ for any exchange within 7 calendar days.</p>
 </li>
 <li>
 <p>Books with folded edges or name written on it will not be accepted.</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>4. Contacts for Asencio&nbsp;&nbsp;&nbsp;</strong>
-</p>
+<h4>4. Contacts for Asencio&nbsp;&nbsp;&nbsp;</h4>
 <p>Telephone: 6764 3102 (Main Office - Mondays to Fridays: 9.00 am to 5.00pm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Email:&nbsp;<a href="meridian@asencio.com.sg" rel="noopener nofollow" target="_blank">meridian@asencio.com.sg  </a>&nbsp;&nbsp;</p>
+<p>Email:&nbsp;<a href="meridian@asencio.com.sg" rel="noopener nofollow" target="_blank">meridian@asencio.com.sg </a>&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
