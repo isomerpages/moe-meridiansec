@@ -5,24 +5,22 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<p>The Meridian Nusantara Orchestra (MNO) is a unique Performing Arts CCA
-which incorporates both Angklung and Kulintang Ensemble and Gamelan Ensemble.</p>
-<p>The MNO is unique to the region and the world as it is the only orchestra
-that uses traditional Indonesian gamelan instruments but tuned to the international
-diatonic and chromatic music scale of western instruments. This has also
-allowed the fusion of western instruments and percussions in the orchestra,
-making it a truly Singaporean Orchestra with an international perspective.</p>
-<p><strong>Objectives:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To nurture in students an appreciation of traditional Indonesian music.</p>
-</li>
-<li>
-<p>To develop students’ discipline, confidence, resilience and team spirit
-through trainings and performances.</p>
-</li>
-</ul>
+<h2>About Us</h2>
+<p>Meridian Nusantara Orchestra (MNO) – Where Tradition Meets Innovation!</p>
+<p>Step into the world of rhythm, culture, and creativity with the Meridian
+Nusantara Orchestra (MNO) a one-of-a-kind Performing Arts CCA that brings
+together the rich sounds of the Angklung, Kulintang, and Gamelan Ensembles.</p>
+<p>&nbsp;What makes us truly special?</p>
+<p>MNO is the only orchestra that plays traditional Indonesian gamelan instruments
+tuned to the international diatonic and chromatic scales, allowing a harmonious
+fusion of traditional and Western instruments. The result? A uniquely Singaporean
+sound with a global touch — vibrant, dynamic, and full of heart.</p>
+<p>Through exciting performances and meaningful collaborations, MNO members
+grow not only as musicians but as confident, disciplined, and resilient
+individuals who know the power of teamwork and expression.</p>
+<p>&nbsp;Whether you’re a seasoned musician or just curious about exploring
+new sounds, MNO welcomes you to discover music like never before — and
+be part of a tradition that celebrates both heritage and innovation!</p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -70,44 +68,59 @@ through trainings and performances.</p>
 </tbody>
 </table>
 <h3>Teachers In-Charge</h3>
-<p>Mdm Sahrul (Overall IC)</p>
-<p>Miss Veronica Lee (2IC)</p>
-<p>Ms Ng Yi Qing</p>
-<p>Mdm Nordiana Daim</p>
-<h3>Instructor</h3>
-<p><strong>Main Music Instructor</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Shaik Khalil Mohamed</p>
+<p>Ms Ng Yi Qing (Overall IC)</p>
+</li>
+<li>
+<p>Miss Veronica Lee (2IC</p>
+</li>
+<li>
+<p>Mdm Norzalina Bohari</p>
+</li>
+<li>
+<p>Mdm Nordiana Daim</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Assistant Instructors</strong>
+<h3>Instructor</h3>
+<p><strong>Main Instructor / Conductor</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Razin</p>
+<p>Mr Shaik Khalil Mohamed Yusuf</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Assistant Instructors</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Muhammad Razin Bin Mohamed</p>
 </li>
 <li>
-<p>Mr Nurhakim</p>
+<p>Mr Muhammad Fariz Bin Adbul Rashid</p>
 </li>
 <li>
-<p>Ms Nursyakila</p>
+<p>Mr Muhammad Hariz Bin Mohammad Azhari</p>
 </li>
 </ul>
 <h3>Achievements</h3>
 <h4>Angklung &amp; Kulintang Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
 </li>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 </li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+</li>
 </ul>
 <h4>Gamelan Ensemble</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
 </li>
@@ -115,6 +128,14 @@ through trainings and performances.</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture2.jpg">
+</div>
 <p></p>
 <p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
