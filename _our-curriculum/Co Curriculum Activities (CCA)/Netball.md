@@ -27,25 +27,9 @@ and non-competitive goals.</p>
 <p>To develop leadership skills by taking up at least one leadership role
 in netball activities.</p>
 <p></p>
+<h3>Schedule and Venue</h3>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Schedule and Venue</h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -69,10 +53,10 @@ in netball activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm – 5.30 pm</p>
+<p>2.45 pm – 5.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Netball Court</p>
@@ -80,10 +64,10 @@ in netball activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 pm – 4 pm</p>
+<p>2.45 pm – 5.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Netball Court</p>
@@ -94,23 +78,22 @@ in netball activities.</p>
 <h3>Teachers-in-charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Suriati&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Mdm Suriati Samat</p>
 </li>
 <li>
-<p>Miss Chen Yi-Chun&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Miss Chen Yi-Chun</p>
 </li>
 <li>
-<p>Mrs Sarala Rajan</p>
+<p>Mdm Ahadiyah Rosmani</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture1.png">
 </div>
+<p></p>
 <h3>Coach</h3>
-<p>Coach Susan Tan</p>
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture2.png">
-</div>
+<p>Coach Diyana</p>
+<p></p>
 <p>Do follow us <a href="https://www.instagram.com/meridian_netball/" rel="noopener nofollow" target="_blank">@meridian_netball</a> for
 more updates.</p>
 <div class="isomer-image-wrapper">
@@ -164,6 +147,32 @@ more updates.</p>
 </tbody>
 </table>
 <h3>Highlights</h3>
+<h4>2025 B and C Division NSG</h4>
+<p>Our B and C division Netball girls gave their best effort preparing for
+the NSG games. During trainings, they stayed dedicated and focused, working
+hard to improve their skills and teamwork. In the games, they performed
+well and showed strong resilience, supporting each other through every
+challenge. They faced tough moments head on and maintained a positive team
+spirit throughout. Their commitment and determination were clear, and their
+experience at the NSG games will serve as a valuable foundation for future
+competitions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.jpg">
+</div>
+<h4>2025 Pesta Sukan Netball Carnival</h4>
+<p>At Pesta Sukan, our Netball girls had an amazing time playing against
+multiple teams from different schools. It was an exciting chance to test
+their skills, try new strategies, and experience the thrill of competition.
+Each match brought fresh challenges, and the girls embraced every moment
+with energy and enthusiasm. They cheered each other on, learned from every
+game, and grew more confident with every pass and goal. The atmosphere
+was buzzing with team spirit and laughter, making it not just a competition
+but a fantastic learning adventure. Pesta Sukan truly gave the girls an
+unforgettable experience filled with fun, friendship, and growth!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.jpg">
+</div>
 <h4>2024</h4>
 <p><strong>Netball CCA Highlights – B and C Div NSG</strong>
 </p>
@@ -218,85 +227,46 @@ hot but fun!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture11.png">
 </div>
-<h4><strong>2023</strong></h4>
-<p><strong>Competitions and more competitions</strong>
-</p>
-<p>The Meridian Netball girls have wrapped up an exciting season, officially
-completing our National School Games (<strong>NSG</strong>) on 31st January
-2023. They played with grit and determination, winning two matches and
-placing 3rd in their NSG group. Every goal was hard-earned, and the team’s
-dedication truly shone through.</p>
-<p>During the <strong>School Challenge League</strong>, our B div girls secured
-2<sup>nd</sup> place in their team grouping. From long bus rides to countless
-hours of training, these shared experiences created unforgettable memories
-that will last a lifetime.</p>
+<p></p>
+<h4>Our CCA Experience </h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>As a netball player, I have learned important skills such as proper warm-up
+exercises, ball drills to improve control, understanding the rules of the
+game, and even umpiring. Through this experience, I strengthened values
+like confidence, emotional intelligence, and perseverance. I faced challenges
+with self-confidence and team communication, but I overcame them by improving
+my performance each game and learning to understand my teammates’ strengths
+and weaknesses. Overall, this journey has helped me grow into a more responsible
+and disciplined person, while also sharpening my ability to strategize,
+plan, and execute effectively.</p>
+<p>-&nbsp;Nur Auralya Norhisham, S3-3 2025, Captain</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture12.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture5.jpg">
+</div>
+<p>Through netball, I developed key skills such as agility, strong passing,
+and proper footwork. I embraced values like discipline, sportsmanship,
+teamwork, and resilience while overcoming challenges in building stamina,
+strategizing against opponents, and improving communication with teammates.
+This journey fostered my personal growth, teaching me not to fear setbacks,
+to communicate effectively, and to give my best effort until the final
+whistle.</p>
+<p>-&nbsp;Nur Aadalya Norhisham, S3-1 2025 , Vice-Captain</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture13.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture7.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture14.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture15.png">
-</div>
-<p><strong>Punggol U14 Netball Carnival and Temasek Sec Netball Friendly</strong>
-</p>
-<p>Our girls attained 1<sup>st</sup> place in Punggol U14 carnival. All of
-them played hard and worked well as a team with the skills attained after
-hours of training. They are also medal-winners at the Temasek Friendly.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture16.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture17.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture18.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture19.png">
-</div>
-<p><strong>Active Umpiring Workshop</strong>
-</p>
-<p>With Coach Paula.</p>
-<p>Knowing the rules and regulations increase our understanding of the game.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture28.png">
-</div>
-<h4><strong>2022</strong></h4>
-<p><strong>NSG games</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture21.png">
-</div>
-<p><em>Being in netball allowed me to realise just how important teamwork and perseverance is. I was able overcome my fear of failure and work on myself for the better of the team with the help of my fellow teammates.</em>
-</p>
-<p><strong>– Chervel (3E4 2022), Sec 3 Captain</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture22.png">
-</div>
-<p><em>Netball is a team sport, and this allowed me to learn how to work as a team and communicate with them when necessary. During competitions like NSG, we learn to persevere through the games together as a team instead of just giving up when knowing we may be at the losing end.</em>
-</p>
-<p><strong>– Sheryl (3E4 2022), Sec 3 Vice-captain</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture23.png">
-</div>
-<p><strong>Pesta Sukan Netball Carnival</strong>
-</p>
-<p>Friendships and camaraderie in the sun!</p>
-<p>&nbsp;6th&nbsp;August 2022Participation in NSG 2022 – April to July 2022.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Netball-02.jpg">
-</div>
-<p>Participation in Pesta Sukan Netball Carnival – 6th&nbsp;August 2022</p>
