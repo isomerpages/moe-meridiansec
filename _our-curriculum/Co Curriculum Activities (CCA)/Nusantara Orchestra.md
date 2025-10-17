@@ -176,26 +176,6 @@ journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
-<h4>2023</h4>
-<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
-</div>
-<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
-</p>
-<p><strong>MNO SYF Team 2023</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
-</div>
-<p>Meridian’s pride and joy - the talented musicians who trained very hard
-with dedication to make Meridian proud.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
-</div>
-<p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
-</p>
 <h3>Our CCA Experience</h3>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
 </p>
