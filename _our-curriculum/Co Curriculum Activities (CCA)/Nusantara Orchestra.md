@@ -112,9 +112,6 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 </li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
-</li>
 </ul>
 <h4>Gamelan Ensemble</h4>
 <ul data-tight="true" class="tight">
@@ -123,53 +120,37 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture1.jpg">
 </div>
-<p></p>
+<p><strong>SYF 2025 - MNO ANGKLUNG &amp; KULINGTANG ENSEMBLE</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture2.jpg">
 </div>
-<p></p>
-<p><strong>SYF Arts Presentation 2021 (Angklung &amp; Kulintang Ensemble)</strong>
+<p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO03A.jpg">
-</div>
-<p><strong>SYF Arts Presentation 2021 (Gamelan Ensemble)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO04A.jpg">
-</div>
-<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO01A.jpg">
-</div>
-<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
-</p>
-<p><strong><u>MNO SYF Team 2023</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
-</div>
-<p>Meridian’s pride and joy - the talented musicians who trained very hard
-with dedication to make Meridian proud.</p>
 <h3>Highlights</h3>
-<h4><strong>2024</strong></h4>
+<h4>2025</h4>
+<p>The <strong>Meridian Nusantara Orchestra (MNO)</strong> has made Meridian
+proud at the <strong>Singapore Youth Festival (SYF) 2025</strong>, achieving <strong>Double Distinction</strong> in
+both the <strong>Kulintang</strong> and <strong>Gamelan</strong> categories.
+This outstanding accomplishment is a testament to the students’ <strong>dedication, discipline, and teamwork</strong>.
+Months of focused rehearsals and a shared passion for music enabled the
+orchestra to perform with precision and heart, showcasing the beauty of
+traditional Indonesian instruments in perfect harmony. Their success not
+only reflects their musical excellence but also embodies the true Meridian
+spirit of perseverance, collaboration, and pride. Congratulations to the
+MNO for this remarkable achievement!</p>
+<h4>2024</h4>
 <p><strong>VIA Mentoring Programme</strong>
 </p>
 <p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
 </div>
@@ -194,71 +175,11 @@ journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
-<h4><strong>2023</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO9.png">
-</div>
-<p><em>Viva La 2023 is a celebration of the achievement of students who participated in SYF 2023.</em>
-</p>
-<h4><strong>2022</strong></h4>
-<p><strong>Showcase of Nusantara Music to New Secondary One Students during CCA Showcase Day in January.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO1.jpg">
-</div>
-<p>An up close and personal experience for our Secondary 1 students who were
-mesmerized by the sight and sounds of the instruments.</p>
-<p><strong>MNO Members Join as Novice and Graduate as Maestro</strong>
-</p>
-<p>The twice weekly training sessions aim to expose members to a variety
-of Nusantara instruments and build their confidence to play each instrument
-as an orchestra.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO2.jpg">
-</div>
-<p>MNO occasionally train as a cohort by performing specially arranged scores
-such as the recent farewell concert for graduating members.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO3.jpg">
-</div>
-<p><strong>MNO Members Bond over Shared Passion for Nusantara Music</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO4.jpg">
-</div>
-<p>A bonded orchestra makes better music hence MNO regularly creates time
-for games and inter-level interaction.</p>
-<p><strong>Holistic Development of MNO Members</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO6.jpg">
-</div>
-<p>“Being the Chairperson of MNO has given me a good opportunity to develop
-my leadership skills. I have learnt to exercise servant leadership. I have
-learnt to lead this CCA by empowering my fellow exco members and inspiring
-my fellow MNO members.” –&nbsp;<strong>Rafael Azfar</strong>, 4E3 (pictured
-standing on extreme left)</p>
-<p>Meridian’s pride and joy - the talented musicians who trained very hard
-with dedication to make Meridian proud.</p>
-<p><strong>2021 National Day Virtual Orchestra</strong>
-</p>
-<p>This year, the Heightened Alert Phase disrupted MNO’s original preparation
-for a live National Day performance. However, MNO was not disheartened.
-Our resourceful instructor, Mr Shaik, decided to create a virtual orchestra.
-Within a few eCCA sessions, MNO learnt how to use Digital Audio Workstations,
-such as Bandlab, to record rhythms, melodic lines, and students’ voices
-for this song.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MNO9.jpg">
-</div>
-<h3><strong>Our CCA Experience</strong></h3>
+<h3>Our CCA Experience</h3>
 <p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10.jpg">
 </div>
 <p>"I feel that MNO is like a family. It gives me a strong sense of belonging
 and makes me feel safe. I joined because I had experience with anklung
@@ -275,9 +196,6 @@ my ability to learn at a faster pace.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO11.jpg">
-</div>
 <p>"Having had the opportunity to serve as a level leader for two consecutive
 years, MNO has given me the chance to develop and refine my leadership
 skills. MNO aims to ignite young musicians' passion, inspiring them to
@@ -285,4 +203,4 @@ pursue their musical dreams, and it has also taught me valuable life lessons.
 Through this experience, I’ve become a more resilient and self-motivated
 person, constantly striving to improve my character. The journey hasn’t
 always been easy, but the results are incredibly rewarding and fulfilling."&nbsp;</p>
-<p>70</p>
+<p></p>

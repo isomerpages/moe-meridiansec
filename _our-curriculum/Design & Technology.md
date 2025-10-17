@@ -25,7 +25,11 @@ real-world ill-defined problems.</p>
 in sketching and making to create and innovate. They will acquire the necessary
 skills to explore real world design opportunities and develop ideas to
 solve problems.</p>
-<h3>Department Teachers</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/Picture1.jpg">
+</div>
+<h3></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,7 +48,7 @@ solve problems.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh-Lee Y-Lyn Wendy</p>
+<p>Ms Koh-Lee Y-Lyn Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head (D&amp;T)</p>
@@ -85,55 +89,49 @@ solve problems.</p>
 </tbody>
 </table>
 <h3>Highlights</h3>
-<h4>2024</h4>
-<p><strong>D&amp;T Awards 2024</strong>
-</p>
-<p><strong>&nbsp;</strong>Congratulations to our alumni Sharmaine See (Class
-of 2023) whose O-Level D&amp;T project "Droplets of Nature" had won the
-D&amp;T Award 2024 (Creative Adaptation) organised by MOE, NIE and DTES.
-The D&amp;T Award recognises and celebrates outstanding achievements of
-students who demonstrates adaptive and inventive thinking in the design
-of their D&amp;T prototypes. "Droplets of Nature" focus on sustainability
-issue, designed to collect rainwater to water plants in 3 aesthetically
-pleasing mushroom-shaped pots, utilising an adapted watering system. Well
-done Sharmaine!</p>
-<p></p>
+<h4>D&amp;T Awards</h4>
+<p>Our<strong> </strong>alumni Sharmaine See (Class of 2023) whose O-Level
+D&amp;T project "Droplets of Nature" had won the D&amp;T Award 2024 (Creative
+Adaptation) organised by MOE, NIE and DTES. The D&amp;T Award recognises
+and celebrates outstanding achievements of students who demonstrates adaptive
+and inventive thinking in the design of their D&amp;T prototypes. "Droplets
+of Nature" focus on sustainability issue, designed to collect rainwater
+to water plants in 3 aesthetically pleasing mushroom-shaped pots, utilising
+an adapted watering system. Well done Sharmaine!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic1.png">
 </div>
-<p><strong>STEM Challenge</strong>
-</p>
+<h4>STEM Challenge</h4>
 <p>&nbsp;Our D&amp;T students displayed their creativity and problem-solving
 skills by participating in the STEM Playground Challenge organized by Singapore
 Science Centre and the James Dyson Foundation (JDF).</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic2.png">
 </div>
-<p><strong>Design Thinking – Working on Authentic Problem Situations</strong>
-</p>
+<h4>Design Thinking – Working on Authentic Problem Situations</h4>
 <p>The Sec 3 students also applied design thinking skills as they crafted
 their own design brief and worked on solving real-life problem situations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic3.png">
 </div>
-<p><strong>Bridge-Building Competition</strong>
-</p>
-<p></p>
+<h4>Bridge-Building Competition</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/Picture3.jpg">
 </div>
+<p></p>
 <p>Students applied the concepts that they had learnt in class to design
 and make a model bridge that can satisfy a given set of criteria.&nbsp;
 The competition offers the students a “real-world” experience and they
 got to witness how their bridges fared during the testing process.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/Picture5.jpg">
 </div>
 <p>Embarking on digital sketching with students’ personal learning devices
 (PLDs) for the Lower Secondary D&amp;T students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic6.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/D&amp;T/pic6.png">
 </div>
 <p></p>
 <p></p>
