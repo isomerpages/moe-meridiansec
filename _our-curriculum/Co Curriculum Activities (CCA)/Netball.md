@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
-<h3>About Us</h3>
+<h2>About Us</h2>
 <p><strong>‘Team before Self’</strong> is the motto of our Meridian Netball
 family. It is a team sport where our girls will learn the importance of
 communication, cooperation and resilience. Our annual highlight is the
@@ -87,19 +87,13 @@ in netball activities.</p>
 <p>Mdm Ahadiyah Rosmani</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture1.png">
-</div>
-<p></p>
 <h3>Coach</h3>
 <p>Coach Diyana</p>
-<p></p>
 <p>Do follow us <a href="https://www.instagram.com/meridian_netball/" rel="noopener nofollow" target="_blank">@meridian_netball</a> for
 more updates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture3.png">
 </div>
-<p></p>
 <h3>Achievements</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -173,9 +167,8 @@ unforgettable experience filled with fun, friendship, and growth!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.jpg">
 </div>
-<h4>2024</h4>
-<p><strong>Netball CCA Highlights – B and C Div NSG</strong>
-</p>
+<h3>2024</h3>
+<h4>Netball CCA Highlights – B and C Div NSG</h4>
 <p>Our C’ Division team made history by advancing to the semi-finals of the <strong>National School Games</strong> (NSG)
 tournament for the first time, showcasing their dedication, teamwork, and
 skill. Their impressive journey to the semi-finals is a proud achievement
@@ -196,9 +189,8 @@ for our CCA and school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture6.png">
 </div>
-<h4>Other Highlights</h4>
-<p><strong>U14 Zone Squad Trials and International Youth Netball Challenge</strong>
-</p>
+<h3>Other Highlights</h3>
+<h4>U14 Zone Squad Trials and International Youth Netball Challenge</h4>
 <p>We are very proud that Naura Anousha was selected after the trials and
 participated in the International Youth Netball Challenge in Nov 2024.</p>
 <p>‘Trainings for the U14 was a good experience. I have gained a lot from
@@ -216,8 +208,7 @@ I was able to&nbsp; achieve my goal.’</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture9.png">
 </div>
-<p><strong>Pesta Sukan Netball Carnival</strong>
-</p>
+<h4>Pesta Sukan Netball Carnival</h4>
 <p>Our girls braved the hot sun to play games against many schools. It was
 hot but fun!</p>
 <div class="isomer-image-wrapper">
@@ -227,8 +218,7 @@ hot but fun!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture11.png">
 </div>
-<p></p>
-<h4>Our CCA Experience </h4>
+<h3>Our CCA Experience</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
