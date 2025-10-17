@@ -134,7 +134,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
 <h3>Highlights</h3>
-<h4>2025 </h4>
+<h4>2025</h4>
 <p>The <strong>Meridian Nusantara Orchestra (MNO)</strong> has made Meridian
 proud at the <strong>Singapore Youth Festival (SYF) 2025</strong>, achieving <strong>Double Distinction</strong> in
 both the <strong>Kulintang</strong> and <strong>Gamelan</strong> categories.
@@ -187,7 +187,7 @@ Majulah Singapura!</p>
 <p><strong>MNO SYF Team 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO5.png">
 </div>
 <p>Meridian’s pride and joy - the talented musicians who trained very hard
 with dedication to make Meridian proud.</p>
