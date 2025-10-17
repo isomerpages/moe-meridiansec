@@ -168,7 +168,7 @@ unforgettable experience filled with fun, friendship, and growth!</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Netball 2024/Picture4.jpg">
 </div>
 <h3>2024</h3>
-<h4>Netball CCA Highlights – B and C Div NSG</h4>
+<h4>Netball  B and C Div NSG</h4>
 <p>Our C’ Division team made history by advancing to the semi-finals of the <strong>National School Games</strong> (NSG)
 tournament for the first time, showcasing their dedication, teamwork, and
 skill. Their impressive journey to the semi-finals is a proud achievement
