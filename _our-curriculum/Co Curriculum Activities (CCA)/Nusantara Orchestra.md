@@ -151,7 +151,6 @@ MNO for this remarkable achievement!</p>
 <p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
 </div>
