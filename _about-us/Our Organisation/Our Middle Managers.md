@@ -250,7 +250,7 @@ variant: tiptap
 <p>SH / Design and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh-Lee Y-Lyn, Wendy</p>
+<p>Ms Lee Y-Lyn, Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_y-lyn_wendy@moe.edu.sg</a>
