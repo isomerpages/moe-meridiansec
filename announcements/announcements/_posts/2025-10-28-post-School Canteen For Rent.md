@@ -63,11 +63,8 @@ General Office.</p>
 </ol>
 <p><a href="/files/Annoucements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall FormBF7</a>
 </p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Attached the following documents together with the Application Form:</p>
-</li>
-</ol>
+<p><strong>Attached the following documents together with the Application Form:</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -80,21 +77,26 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
-back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and pricing
-for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
-such as Food Safety Course Level 1, etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Photocopy of the NRIC (front and back)</p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
+etc</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Submit the completed Application Form and documents via email OR to the
-School’s General Office by the closing date.</p>
+<p></p>
+<p><strong>Submit the completed Application Form and documents via email OR to the School’s General Office by the closing date.</strong>
+</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 31 Pasir Ris Street 51 S(518901)</p>
@@ -110,8 +112,6 @@ School’s General Office by the closing date.</p>
 <p>Contact Person: Admin Manager, Ms Noraini</p>
 </li>
 </ul>
-</li>
-</ol>
 <h4>How to get there?</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -121,10 +121,7 @@ School’s General Office by the closing date.</p>
 <p>Bus number: 359</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Interested applicants must meet the following criteria:</strong>
-</p>
+<h4>Interested applicants must meet the following criteria:</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -132,7 +129,8 @@ School’s General Office by the closing date.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For Individuals</p>
+<p><strong>For Individuals</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -173,10 +171,8 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note to successful applicants:</strong>
-</p>
+<p></p>
+<h4>Note to successful applicants:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) operating the stall must attend
@@ -191,5 +187,4 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.</em>
 </p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[NMY(1]</a>Pls link it to the ‘Application for Canteen
-Stall-FormBF7’ application form</p>
+<p></p>
