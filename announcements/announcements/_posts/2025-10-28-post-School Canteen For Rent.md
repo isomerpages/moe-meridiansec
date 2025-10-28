@@ -52,10 +52,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Application Procedure</strong>
-</p>
+<p></p>
+<h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the Application Form (click on the link below).
@@ -63,8 +61,7 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual stallholder</a>
-<a href="/files/Annoucements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NMY(1]</a><a href="/files/Annoucements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="/files/Annoucements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall FormBF7</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -115,8 +112,7 @@ School’s General Office by the closing date.</p>
 </ul>
 </li>
 </ol>
-<p><strong>How to get there?</strong>
-</p>
+<h4>How to get there?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Pasir Ris Mrt (EW1)</p>
