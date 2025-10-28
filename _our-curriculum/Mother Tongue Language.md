@@ -195,19 +195,16 @@ G3 menjalani Penilaian Alternatif secara kreatif dengan menghasilkan vlog.&nbsp;
 Tema JATI 2 dipilih untuk pelajar-pelajar membina pengetahuan dalam mengharungi
 gelombang kehidupan khususnya penjagaan diri dengan cara yang positif dan
 praktikal.</p>
-<p>&nbsp;</p>
-<p>Bagi mencetus minat pelajar-pelajar untuk meneroka topik penjagaan diri
-secara kreatif dan bermakna, beberapa siri ceramah dan kuliah telah dirancang
-dan dikendalikan sepanjang Minggu 4 dan 5 Penggal 2 oleh guru-guru Menengah
-Dua.&nbsp; Bahan-bahan bantu belajar khas turut disediakan dalam bentuk
-senarai semak dan rubrik penilaian selain sesi maklum balas maya yang diaturkan
-melalui Google Classroom.</p>
-<p>&nbsp;</p>
-<p>Pada akhir tarikh penghantaran Penilaian Alternatif WA2, pelajar-pelajar
+<p>&nbsp;Bagi mencetus minat pelajar-pelajar untuk meneroka topik penjagaan
+diri secara kreatif dan bermakna, beberapa siri ceramah dan kuliah telah
+dirancang dan dikendalikan sepanjang Minggu 4 dan 5 Penggal 2 oleh guru-guru
+Menengah Dua.&nbsp; Bahan-bahan bantu belajar khas turut disediakan dalam
+bentuk senarai semak dan rubrik penilaian selain sesi maklum balas maya
+yang diaturkan melalui Google Classroom.</p>
+<p>&nbsp;Pada akhir tarikh penghantaran Penilaian Alternatif WA2, pelajar-pelajar
 berjaya menghasilkan vlog yang menarik lagi kreatif yang berjaya menemui
 objektif pembelajaran.</p>
 <p>&nbsp;Saksikan tiga vlog terpilih daripada pelajar-pelajar Menengah Dua.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/MTL/Picture1_mtl.jpg">
