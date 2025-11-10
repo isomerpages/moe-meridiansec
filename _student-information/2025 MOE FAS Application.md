@@ -23,6 +23,10 @@ which pulls income data directly from IRAS and CPF Board records."</p>
 <p>&nbsp;The 2026 e-FAS link/ QR code is provided below.&nbsp;</p>
 <p><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Information/FAS.png">
+</div>
 <p>You may refer to the hardcopy application form below, if require.</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</a>
 </p>
