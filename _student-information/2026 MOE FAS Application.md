@@ -11,9 +11,8 @@ is now open.</p>
 which is available on Parents Gateway (under Services tab – Financial Assistance)
 with Singpass login.</p>
 <p>If you and any of your household members ONLY have employment and/or trade
-income and DO NOT have</p>
-<p>other administrative income which are taxable (e.g. rental income, dividends
-and taxable investment income</p>
+income and DO NOT have other administrative income which are taxable (e.g.
+rental income, dividends and taxable investment income</p>
 <p>etc), you do not need to provide any income supporting documents in the
 application. . MOE will automatically retrieve your gross household income
 and per capita income (total household income divided by number of household
