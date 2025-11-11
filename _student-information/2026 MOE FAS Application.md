@@ -1,5 +1,5 @@
 ---
-title: 2025 MOE FAS Application
+title: 2026 MOE FAS Application
 permalink: /2025-moe-fas-application/
 variant: tiptap
 description: ""
@@ -11,9 +11,8 @@ is now open.</p>
 which is available on Parents Gateway (under Services tab – Financial Assistance)
 with Singpass login.</p>
 <p>If you and any of your household members ONLY have employment and/or trade
-income and DO NOT have</p>
-<p>other administrative income which are taxable (e.g. rental income, dividends
-and taxable investment income</p>
+income and DO NOT have other administrative income which are taxable (e.g.
+rental income, dividends and taxable investment income</p>
 <p>etc), you do not need to provide any income supporting documents in the
 application. . MOE will automatically retrieve your gross household income
 and per capita income (total household income divided by number of household
@@ -25,7 +24,7 @@ which pulls income data directly from IRAS and CPF Board records."</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Information/FAS.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Student Information/FAS.png">
 </div>
 <p>You may refer to the hardcopy application form below, if require.</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</a>
