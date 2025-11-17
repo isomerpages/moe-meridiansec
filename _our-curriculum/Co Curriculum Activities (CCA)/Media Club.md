@@ -162,7 +162,7 @@ Our School Community theme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture9.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture9.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -171,7 +171,7 @@ Our School Community theme.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture10.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture10.png">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -179,7 +179,7 @@ Our School Community theme.</p>
 <p>Learning Journey to Games Maker’s Lab (many thanks to IMDA)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture11.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture11.png">
 </div>
 </li>
 </ul>
@@ -189,7 +189,7 @@ Our School Community theme.</p>
 <p>Year-end Learning Journey to Gardens By the Bay</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture12.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture12.jpg">
 </div>
 </li>
 </ul>
