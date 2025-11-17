@@ -101,7 +101,6 @@ at the 20<sup>th</sup> Ngee Ann Kongsi Photography Exhibition.</p>
 <p><strong>Edelia’s work. Title “My Joy”</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/Media Club 2024/Picture2.png">
 </div>
@@ -200,14 +199,10 @@ to operate the AVA system, which is truly amazing. I have also made many
 new friends in Media Club—friends I might not have made in any other CCA.”</p>
 <p><strong>Zelig 2-1</strong>
 </p>
-<p></p>
 <p>“The skills we’ve gained and the trust we’ve built in Media Club will
 stay with us forever. Together, we’ve captured moments that can never be
 relived — so treasure them while they last.”</p>
 <p><strong>Afif Anaqi 2-3</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Media Club/MC13.png">
-</div>
 <p></p>
