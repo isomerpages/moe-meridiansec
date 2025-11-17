@@ -173,6 +173,5 @@ for any exchange within 7 calendar days.</p>
 </ul>
 <h4>4. Contacts for Asencio&nbsp;&nbsp;&nbsp;</h4>
 <p>Telephone: 6764 3102 (Main Office - Mondays to Fridays: 9.00 am to 5.00pm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Email:&nbsp;<a href="" rel="noopener nofollow" target="_blank">meridian@asencio.com.sg</a>
-</p>
+<p>Email: meridian@asencio.com.sg</p>
 <p>&nbsp;</p>
