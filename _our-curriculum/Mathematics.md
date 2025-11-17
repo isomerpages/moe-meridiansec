@@ -43,6 +43,43 @@ and to learn cooperatively and independently.</p>
 </li>
 </ul>
 <h3>Highlights</h3>
+<p></p>
+<h4>STEM Playground Challenge 2025</h4>
+<p></p>
+<p>On 23 October 2025, the Math teachers conducted the STEM (Science, Technology,
+Engineering, and Mathematics) Playground Challenge for two classes of Sec
+2G3 students. The activity aimed to spark curiosity and creativity in STEM
+while promoting teamwork and practical learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture13.png">
+</div>
+<p></p>
+<p>Students worked in groups of 2 to 5 to design and build a boat using mainly
+cardboard and recycled materials. The boat had to support at least 1 kg
+and stay afloat for 20 seconds. This challenge encouraged innovation, problem-solving,
+and sustainability through the use of recyclable materials.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture14.png">
+</div>
+<p></p>
+<p>Students showed great enthusiasm and teamwork throughout the event. At
+the end of the challenge, three groups received top prizes based on the
+design and maximum weight that their boats can carry.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture15.png">
+</div>
+<p></p>
+<p>The STEM Playground provided a fun and engaging platform for students
+to apply knowledge creatively and collaboratively, inspiring them to think
+like future designers and engineers.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics/Picture16.png">
+</div>
 <h4>ICAS 2025 Participation and Results</h4>
 <p>On 27 August 2025, a total of <strong>36 students from Secondary 1 to 3</strong> took
 part in the International Competitions and Assessments for Schools (ICAS).
