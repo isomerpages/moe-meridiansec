@@ -89,7 +89,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 2</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_2_Peach.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 2 Peach</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_2_Peach.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +105,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 3</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_3_Ivory.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 3 Ivory</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_3_Ivory.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 4</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_4_Yellow.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 4 Yellow</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_4_Yellow.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +173,5 @@ for any exchange within 7 calendar days.</p>
 </ul>
 <h4>4. Contacts for Asencio&nbsp;&nbsp;&nbsp;</h4>
 <p>Telephone: 6764 3102 (Main Office - Mondays to Fridays: 9.00 am to 5.00pm)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Email:&nbsp;<a href="" rel="noopener nofollow" target="_blank">meridian@asencio.com.sg</a>
-</p>
+<p>Email: meridian@asencio.com.sg</p>
 <p>&nbsp;</p>
