@@ -87,7 +87,7 @@ Art, Design &amp; Technology (D&amp;T), and Food &amp; Consumer Education
 <p>Under this new system, student performance will be assessed using a four-level
 grading scale:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_19_161216.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_19_161216.png">
 </div>
 <p>This grading scheme will provide clearer feedback on students’ progress
 and skills. This grading system will take effect beginning with<strong> Weighted Assessment (WA) 1 in 2025.</strong>
@@ -99,7 +99,7 @@ the “Grade” column. Instead of traditional letter grades or numerical scores
 students’ performance in Art, D&amp;T, and FCE will be categorised as<strong> PF, CP, DV, or BG</strong>,
 as shown in the example below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sample_Report_Card.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sample_Report_Card.png">
 </div>
 <h4><strong>A New School of Thought: Full SBB | What does it mean for me?</strong></h4>
 <div class="iframe-wrapper">
