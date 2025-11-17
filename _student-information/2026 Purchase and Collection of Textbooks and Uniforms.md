@@ -89,7 +89,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 2</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_2_Peach.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 2 Peach</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_2_Peach.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +105,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 3</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_3_Ivory.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 3 Ivory</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_3_Ivory.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 4</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_4_Yellow.pdf" rel="noopener nofollow" target="_blank">Meridian 2026 Sec 4 Yellow</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_4_Yellow.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
