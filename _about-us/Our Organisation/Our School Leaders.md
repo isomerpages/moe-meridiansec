@@ -34,7 +34,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Razali B Abdul Hamed (until 14 Dec 2025)</p>
+<p>Mr Mohamed Razali B Abdul Hamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
@@ -43,10 +43,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p>Principal-Designate</p>
+<p>(w.e.f 15 Dec 2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Puah You Kai (w.e.f 15 Dec 2025)</p>
+<p>Mr Puah You Kai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
