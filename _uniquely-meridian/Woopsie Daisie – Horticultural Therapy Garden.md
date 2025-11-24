@@ -4,25 +4,36 @@ permalink: /uniquely-meridian/woopsie-daisie/
 variant: tiptap
 description: ""
 ---
-<p>The Care Team has worked together with Hortherapeutics to build a Horticultural
-Therapy Garden in school.</p>
-<p>The objective of building the garden is to provide nature-based intervention
-support for students with acute social-emotional and mental health (SEMH)
-problems and other additional needs such as special educational needs (SEN)
-or at-risk. Horticultural therapy has been shown to have a positive impact
-on individuals' mental and emotional well-being, making it an excellent
-choice for addressing the needs of these students.</p>
-<p>The school inaugurated our Therapy Garden, Woopsie Daise, on 25 October
-2022. During the meaningful event, our students shared their experience
-on how the garden has helped them and parents as well as the SAC members
-also planted daisies in the garden as part of the opening ceremony.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/Woopsie Daise/Care_Team_2025__1_.jpg">
-</div>
+<p>The Care Team collaborated with Hortherapeutics to build a Horticultural
+Therapy Garden in school with the aim of providing nature-based intervention
+support for students with social-emotional and mental health (SEMH) needs,
+special educational needs (SEN), and those who may be at risk. Research
+has shown that horticultural therapy can positively influence emotional
+well-being and self-regulation, making it a meaningful and supportive approach
+for these students.</p>
+<p>The school inaugurated our Therapy Garden, Woopsie Daisie, on 25 October
+2022. During the meaningful launch event, students shared how the garden
+had supported them in their journey, and parents, together with School
+Advisory Committee members, planted daisies as part of the opening ceremony.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely%20Meridian/Woopsie%20Daise/Care_01.jpg">
 </div>
-<h3>The Care Team<br></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/Woopsie Daise/Care_Team_2025__1_.jpg">
+</div>
+<p>Woopsie Daisie was later revamped in October 2025 to further enhance its
+therapeutic benefits. A new water feature was added, providing gentle visual
+movement that creates a calming and reflective atmosphere for emotional
+regulation. Adjacent to the garden is a small hut where students can sit
+quietly, relax, and appreciate the surrounding greenery.</p>
+<p>While the garden continues to serve students through structured therapeutic
+interventions, it is also open to all students who wish to take a peaceful
+stroll, enjoy a mindful moment in nature, or even capture some Instagram-worthy
+photos.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/Woopsie Daise/Garden_1.jpg">
+</div>
+<h3>The Care Team</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
