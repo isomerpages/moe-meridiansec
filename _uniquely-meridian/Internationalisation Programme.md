@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Our Belief 
 
-The school’s Internationalisation Programme is an integral part of the holistic education of Meridian students. We believe that developing cross-cultural competencies and building international friendships are essential for our students’ growth.
+The school’s Internationalisation Programme is a holistic learning opportunity that we provide for our students, as we believe that developing cross-cultural competencies and building international friendships are important for their growth.
 
 ### Objectives of Trips for International Experience (TIE)
 
