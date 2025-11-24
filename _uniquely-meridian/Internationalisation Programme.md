@@ -31,6 +31,5 @@ Sec 3 students visiting Chiang Mai and the partner school
 ![Sec 3 students visiting Beijing and the partner school.](/images/Screenshot_2025_11_24_125141.png)
 Sec 3 students visiting Beijing and the partner school
 
-![Sec 3 students visiting Ho Chi Minh and the partner school.]
+![Sec 3 students visiting Ho Chi Minh and the partner school](/images/Screenshot_2025_11_24_132040.png)
 Sec 3 students visiting Ho Chi Minh and the partner school
-(/images/Screenshot_2025_11_24_132040.png)
