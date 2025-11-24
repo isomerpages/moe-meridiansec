@@ -14,10 +14,15 @@ The school’s Internationalisation Programme is a holistic learning opportunity
 *   Expose students to Asia with a greater focus on ASEAN countries, India and China, and sensitise them to the place of Singapore in the world; and
 *   Strengthen students’ commitment and rootedness to Singapore.
 
-In 2024 and 2025, selected Secondary 3 students visited Ho Chi Minh (Vietnam), Chiang Mai (Thailand) and Beijing (China). These students researched the cultural, economical, language, historical aspects of the cities, and each country's bilateral ties with Singapore. They gained valuable experience by validating their findings through real-life observations, participating in hands-on cultural activities, interacting with local students, and learning more about the key industries in the countries they visited.  
+In 2024 and 2025, selected Secondary 3 students visited Ho Chi Minh (Vietnam), Chiang Mai (Thailand) and Beijing (China). These students researched the cultural, economical, language, historical aspects of the cities, and each country's bilateral ties with Singapore. 
 
-![Brainstorming on the various aspect of the trip](/images/Screenshot_2025_11_24_125201.png)
+They gained valuable experience by validating their findings through real-life observations, participating in hands-on cultural activities, interacting with local students, and learning more about the key industries in the countries they visited.  
+
+![Brainstorming on the various aspect of the trip](/images/Screenshot_2025_11_24_131831.png)
 
 ![Sec 3 students visiting Chiang Mai and the partner school.](/images/Screenshot_2025_11_24_125133.png)
 
 ![Sec 3 students visiting Beijing and the partner school.](/images/Screenshot_2025_11_24_125141.png)
+
+![Sec 3 students visiting Ho Chi Minh and the partner school.](/images/Screenshot_2025_11_24_132040.png)
+
