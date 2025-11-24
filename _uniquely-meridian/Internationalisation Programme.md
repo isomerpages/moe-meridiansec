@@ -25,7 +25,7 @@ Here are some photos of the trips:
 ![Brainstorming on the various aspect of the trip](/images/Screenshot_2025_11_24_131831.png)
 Brainstorming on the various aspect of the trip
 
-![Sec 3 students visiting Chiang Mai and the partner school.](/images/Screenshot_2025_11_24_125133.png)
+![Sec 3 students visiting Chiang Mai and the partner school](/images/Picture1.png)
 Sec 3 students visiting Chiang Mai and the partner school
 
 ![Sec 3 students visiting Beijing and the partner school.](/images/Screenshot_2025_11_24_125141.png)
