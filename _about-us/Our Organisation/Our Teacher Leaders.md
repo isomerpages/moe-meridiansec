@@ -146,8 +146,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Your email is important to us, and we aim to respond within three working
-days.</p>
-<p>If you don’t receive a reply by then, please forward your message to <strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong> for
-further assistance. Thank you.</p>
+<p></p>
 <p></p>
