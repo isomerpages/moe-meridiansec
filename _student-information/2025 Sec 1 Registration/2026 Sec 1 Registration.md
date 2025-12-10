@@ -7,6 +7,9 @@ third_nav_title: 2025 Sec 1 Registration
 ---
 <h3>2026 Secondary 1 Registration and Other Important Information</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Student Information/2026 Info/sec_1.jpg">
+</div>
 <p></p>
 <p><strong>Dear Parents and Secondary 1 Students,</strong>
 </p>
