@@ -81,12 +81,12 @@ for Singpass registration (Singapore Citizen, Permanent Resident or Foreign
 Identification Number (FIN) holder).</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://portal.singpass.gov.sg/home/ui/support</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;<strong>4. Outcome of application to offer Higher Mother Tongue and 3rd Languag</strong>e</p>
 <p>For parents whose child is eligible and has applied to offer HMT or a
 3rd language, you will be informed of the outcome of your application&nbsp;<strong>from 19 December 2025 (Friday)&nbsp;</strong>via
 PG.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>5.<em>&nbsp;</em>Appeal for transfer out to another school&nbsp;<em>(for serious medical conditions or severe physical impairments cases&nbsp;ONLY)</em></strong>
 </p>
 <p>This application for school transfer&nbsp;<strong>only applies to students with serious medical conditions</strong>,
@@ -102,7 +102,7 @@ Your child will need to continue to attend school at Meridian Secondary
 School until the transfer is approved.</p>
 <p>Successful applicants&nbsp;<strong>will not be allowed to reject</strong>&nbsp;the
 reposted school and request to be admitted back to Meridian Secondary School.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>6. Appeal for transfer to Meridian Secondary School (for non-medical cases)</strong>
 </p>
 <p>Appeals for transfer to Meridian Secondary School are subjected to the
@@ -118,7 +118,7 @@ the programme.</p>
 until the transfer is approved.&nbsp;Your appeal is deemed to be unsuccessful
 if you do not hear from the school by 9 January 2026. Reason(s) for unsuccessful
 appeals will not be disclosed.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>7. Application for MOE Financial Assistance Scheme (FAS) for 2026</strong>
 </p>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
@@ -126,7 +126,7 @@ the&nbsp;&lt;Link to formSG - <a href="https://go.gov.sg/moe-efas" rel="noopener
 information, please refer to:&nbsp;&lt;Link to form - <a href="https://www.meridiansec.moe.edu.sg/2025-moe-fas-application/" rel="noopener noreferrer nofollow" target="_blank">2026 MOE FAS Application</a>&gt;</p>
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>8. First day of school and Secondary 1 orientation</strong>
 </p>
 <p>Students are to report to Meridian Secondary School&nbsp;<strong>by 8:30am</strong>&nbsp;on&nbsp;<strong>2 January 2026 (Friday)</strong>.</p>
@@ -154,7 +154,7 @@ Form.</p>
 <p>(c)&nbsp; Address by Principal</p>
 <p>(d)&nbsp; Address by HOD CCA</p>
 <p>(e)&nbsp; Address by Parent-Support-Group</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>10. National Digital Literacy Programme</strong>
 </p>
 <p>The NDLP was launched in March 2020 to make digital learning inclusive
@@ -163,7 +163,7 @@ by equipping students with the digital skills to be future-ready.&nbsp;&nbsp;</p
 personal learning device (PLD).&nbsp;&nbsp;&nbsp;</p>
 <p>Students may use funds from their Edusave Account to pay for the PLD.&nbsp;&nbsp;
 More details on procurement and costing will be provided later.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>11.&nbsp;Student Handbook</strong>
 </p>
 <p>The&nbsp;&lt;Link to website - <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">student handbook</a>&gt;&nbsp;contains
