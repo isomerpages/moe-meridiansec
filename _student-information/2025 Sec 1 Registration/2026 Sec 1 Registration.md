@@ -79,7 +79,7 @@ download the application.</p>
 <p>If you need to create a Singpass, please refer to the Instructional guide
 for Singpass registration (Singapore Citizen, Permanent Resident or Foreign
 Identification Number (FIN) holder).</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://portal.singpass.gov.sg/home/ui/support</a>
+<p><a href="https://portal.singpass.gov.sg/home/ui/support" rel="noopener nofollow" target="_blank">https://portal.singpass.gov.sg/home/ui/support</a>
 </p>
 <p></p>
 <p>&nbsp;<strong>4. Outcome of application to offer Higher Mother Tongue and 3rd Languag</strong>e</p>
