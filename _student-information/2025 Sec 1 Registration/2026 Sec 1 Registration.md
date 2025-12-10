@@ -55,7 +55,7 @@ Form is attached in&nbsp;&lt;Link to <a href="/files/Sec 1 Registration 2026/202
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
 <p>2026&nbsp;&lt;<a href="https://www.meridiansec.moe.edu.sg/files/Booklists/Meridian_Sec_1___Information_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Book List</a>&gt;</p>
-<p>2026&nbsp;&lt;<a href="https://www.meridiansec.moe.edu.sg/sales-and-collections-of-books-and-uniform-2025/" rel="noopener noreferrer nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>&gt;</p>
+<p>2026&nbsp;&lt;<a href="/2026-purchase-and-collection-of-textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>&gt;</p>
 <p>&nbsp;</p>
 <p><strong>3. Full Subject-Based Banding (Full SBB)</strong>
 </p>
