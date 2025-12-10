@@ -48,7 +48,8 @@ this online Registration Form&nbsp;&lt;Link to formSG <a href="https://form.gov.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <p>For your easy reference, the items to be completed in the online Registration
-Form is attached in&nbsp;&lt;Link to <a href="/files/Sec 1 Registration 2026/2026_Sec_1_Registration_Form___Annex_A_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>&gt;</p>
+Form is attached in&nbsp;<a href="/files/Sec 1 Registration 2026/2026_Sec_1_Registration_Form___Annex_A_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>
+</p>
 <p>&nbsp;</p>
 <p><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong>
 </p>
@@ -123,7 +124,8 @@ appeals will not be disclosed.</p>
 </p>
 <p>&nbsp;If you wish to apply for FAS, please submit your application via
 the&nbsp;&lt;Link to formSG - <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">e-FAS form</a>&gt;.&nbsp;&nbsp; For more
-information, please refer to:&nbsp;&lt;Link to form - <a href="https://www.meridiansec.moe.edu.sg/2025-moe-fas-application/" rel="noopener noreferrer nofollow" target="_blank">2026 MOE FAS Application</a>&gt;</p>
+information, please refer to:&nbsp; <a href="https://www.meridiansec.moe.edu.sg/2025-moe-fas-application/" rel="noopener nofollow" target="_blank">2026 MOE FAS Application Form</a>
+</p>
 <p>You may approach our staff in our General Office or call 65831387 for
 further assistance before you purchase the textbooks or uniforms.</p>
 <p></p>
