@@ -48,7 +48,7 @@ this online Registration Form&nbsp;&lt;Link to formSG <a href="https://form.gov.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <p>For your easy reference, the items to be completed in the online Registration
-Form is attached in&nbsp;&lt;Link to <a href="https://www.meridiansec.moe.edu.sg/files/Sec%201%20Registration%202025/2025_Sec_1_Registration_Form__for_user_s_reference_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>&gt;</p>
+Form is attached in&nbsp;&lt;Link to <a href="/files/Sec 1 Registration 2026/2026_Sec_1_Registration_Form___Annex_A_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>&gt;</p>
 <p>&nbsp;</p>
 <p><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong>
 </p>
