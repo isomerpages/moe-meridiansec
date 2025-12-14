@@ -32,25 +32,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Razali B Abdul Hamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Principal-Designate</p>
-<p>(w.e.f 15 Dec 2025)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Puah You Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -62,7 +50,7 @@ variant: tiptap
 <p>Mrs Rose Chen-Tay Ngee Seew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -74,7 +62,19 @@ variant: tiptap
 <p>Ms Tan Li Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursyha Binte Koloos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:meridian_sec@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meridian_sec@moe.edu.sg</a>
 </p>
 </td>
 </tr>
