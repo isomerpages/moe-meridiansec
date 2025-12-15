@@ -89,7 +89,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 1</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_1_Blue.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_1_Blue.pdf" rel="noopener nofollow" target="_blank">2026_Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ on the dates shown below.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 5</strong>
 </p>
-<p><a href="/files/Booklists/Meridian_2026___Sec_5_Green.pdf" rel="noopener nofollow" target="_blank">2026_Sec_5</a>
+<p><a href="/files/Booklists/Meridian_2026___Sec_5_Green.pdf" rel="noopener nofollow" target="_blank">2026_Sec 5</a>
 </p>
 <p></p>
 </td>
