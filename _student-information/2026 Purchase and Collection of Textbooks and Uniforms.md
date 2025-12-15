@@ -153,7 +153,7 @@ on the dates shown below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22, 23, 26 December 2025 (Tentative)</strong>
+<p><strong>22, 23, 26 December 2025 </strong>
 </p>
 </td>
 </tr>
