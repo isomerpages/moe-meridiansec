@@ -142,8 +142,10 @@ the uniform policy.</p>
 <p>The Secondary 1 Orientation will be held from&nbsp;<strong>2 to 7 January 2026.</strong>
 </p>
 <p><strong>Dismissal times</strong>&nbsp;for the orientation period and items
-to be brought can be found in the<a href="/files/Sec 1 Registration 2026/Sec_1_Orientation_Info_Kit__15_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank"> Sec 1 Orientation Programme Information Kit</a>.</p>
-<p>&lt;Link to website 2026 Sec 1 Orientation Programme&gt;</p>
+to be brought can be found in the<a href="/files/Sec 1 Registration 2026/Sec_1_Orientation_Info_Kit__15_Dec_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+</p>
+<p><a href="/files/Sec 1 Registration 2026/Sec_1_Orientation_Info_Kit__15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Orientation Info Kit </a>
+</p>
 <p><strong>9. Secondary 1 Parent Engagement Session</strong>
 </p>
 <p>&nbsp;We would also like to extend our invitation to all Sec 1 parents/guardians
