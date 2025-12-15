@@ -114,7 +114,7 @@ considered.</p>
 to transfer to another school. &nbsp;&nbsp;They are expected to honour
 their commitment to the allocated DSA school for the entire duration of
 the programme.</p>
-<p>Complete and submit the&nbsp;<a href="https://form.gov.sg/6736fd91af16d982df0da880" rel="noopener noreferrer nofollow" target="_blank">Appeal for transfer to Meridian Secondary School&gt; (for non-medical cases)</a>&nbsp;<strong>by 24 December 2025 (Wednesday), 5pm</strong>.</p>
+<p>Complete and submit the&nbsp;<a href="https://form.gov.sg/684ce17c2bb4de915c706222" rel="noopener noreferrer nofollow" target="_blank">Appeal for transfer to Meridian Secondary School&gt; (for non-medical cases)</a>&nbsp;<strong>by 24 December 2025 (Wednesday), 5pm</strong>.</p>
 <p>Your child should continue to attend school at the posted secondary school
 until the transfer is approved.&nbsp;Your appeal is deemed to be unsuccessful
 if you do not hear from the school by 9 January 2026. Reason(s) for unsuccessful
