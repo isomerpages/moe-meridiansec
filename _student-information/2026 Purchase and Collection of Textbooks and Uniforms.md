@@ -87,6 +87,18 @@ on the dates shown below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Secondary 1 </strong>
+</p>
+<p><a href="/files/Booklists/Meridian_2026___Sec_1_Blue.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Sec 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>19,22, 23, 26, 29, 30 December 2025 </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Secondary 2</strong>
 </p>
 <p><a href="/files/Booklists/Meridian_2026___Sec_2_Peach.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2</a>
@@ -135,14 +147,14 @@ on the dates shown below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1 and</strong>
-</p>
 <p><strong>Secondary 5</strong>
+</p>
+<p><a href="/files/Booklists/Meridian_2026___Sec_5_Green.pdf" rel="noopener nofollow" target="_blank">2026_Sec_5</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>18 ,19, 22, 23, 26 December 2025 (Tentative)</strong>
+<p><strong>22, 23, 26 December 2025 (Tentative)</strong>
 </p>
 </td>
 </tr>
