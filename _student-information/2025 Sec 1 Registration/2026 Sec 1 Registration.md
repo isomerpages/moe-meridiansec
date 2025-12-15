@@ -143,7 +143,7 @@ the uniform policy.</p>
 </p>
 <p><strong>Dismissal times</strong>&nbsp;for the orientation period and items
 to be brought can be found in the</p>
-<p><a href="/files/Sec 1 Registration 2026/Sec_1_Orientation_Info_Kit__15_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Orientation Info Kit</a>
+<p><a href="/files/Sec 1 Registration 2026/Sec_1_Orientation_Info_Kit__15_Dec_2025____for_school_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 Orientation Info Kit</a>
 </p>
 <p><strong>9. Secondary 1 Parent Engagement Session</strong>
 </p>
