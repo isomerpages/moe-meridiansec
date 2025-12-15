@@ -44,7 +44,7 @@ Engagement Session</p>
 <p><strong>1. Online Registration (Compulsory)</strong>
 </p>
 <p>It is&nbsp;<em>compulsory</em>&nbsp;for parents/guardians to complete
-this online Registration Form&nbsp;&lt;Link to formSG <a href="https://form.gov.sg/673acfe45af547358a2df334" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 Registration Form</a>&gt;&nbsp;<strong>by</strong>&nbsp;<strong>24 December 2025 (Wednesday), 12pm</strong>.
+this online Registration Form&nbsp;&lt;Link to formSG <a href="https://form.gov.sg/684cdffd2bb4de915c70446b" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 Registration Form</a>&gt;&nbsp;<strong>by</strong>&nbsp;<strong>24 December 2025 (Wednesday), 12pm</strong>.
 The information is used for important administrative purposes and for planning
 the Sec 1 Orientation Programme.</p>
 <p>For your easy reference, the items to be completed in the online Registration
