@@ -21,6 +21,11 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
+  - infobar:
+      title: Release of 2025 N Level Results
+      id: infobar
+      button: CLICK HERE
+      url: /announcements/announcements/2023-n-level-results/
   - infopic:
       title: 2025 Open House
       id: infopic
