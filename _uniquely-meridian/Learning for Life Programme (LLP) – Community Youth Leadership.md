@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_1.jpg">
 </div>
 <h3>Student Leadership at Meridian</h3>
 <p>In Meridian, we believe that leadership can be learned. Our school aims
@@ -25,7 +27,7 @@ leaders.</p>
 <h4>Student Leadership Model</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_2.jpg">
 </div>
 <p><em>The Five Practices of Exemplary Leadership® is a registered trademark of John Wiley &amp; Sons, Inc.&nbsp;</em>
 </p>
@@ -55,25 +57,28 @@ the values of service and community engagement. Through such experiences,
 students strengthen their leadership dispositions and broaden their impact
 beyond formal roles.</p>
 <h4>Highlights</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_6.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_3.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Picture7.png">
-</div>
 <p>Visit this link to find out more about the students’ Visionary Volunteers
 Trailblazers Summit projects: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/mssvvts</a>
 </p>
