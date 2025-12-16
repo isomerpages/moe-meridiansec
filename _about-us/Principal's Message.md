@@ -9,7 +9,7 @@ variant: tiptap
 <h4>A warm welcome to Meridian Secondary School!</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/Mr_Puah.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/Mr_Puah.jpg">
 </div>
 <p>I am Mr Puah You Kai, the new Principal of Meridian Secondary School.
 I am deeply humbled to join the Meridian Family as its third Principal
