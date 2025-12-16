@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_1.jpg">
 </div>
@@ -61,7 +59,6 @@ beyond formal roles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_4.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2025/Department_Webpage_Update_2025___LLP_CYL_5.jpg">
