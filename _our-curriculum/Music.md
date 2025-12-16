@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__1.jpg">
 </div>
 <h2>Music Education at Meridian</h2>
 <ul data-tight="true" class="tight">
@@ -31,7 +31,7 @@ to discover, collaborate, and find the joy of music.</p>
 <h3>Highlights</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__3.jpg">
 </div>
 <p><strong>SYF Youth Station</strong>
 </p>
