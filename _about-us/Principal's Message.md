@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h2>Principal’s Message 2025</h2>
 <p></p>
-<h4><strong>A warm welcome to Meridian Secondary School!</strong></h4>
+<h4>A warm welcome to Meridian Secondary School!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ORGANISATION CHART/Mr_Puah.jpg">
+</div>
 <p>I am Mr Puah You Kai, the new Principal of Meridian Secondary School.
 I am deeply humbled to join the Meridian Family as its third Principal
 and honoured to take over the leadership baton from Mr Mohamad Razali.</p>
