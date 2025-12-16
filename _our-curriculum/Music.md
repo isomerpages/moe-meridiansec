@@ -24,10 +24,12 @@ learning through nurturing the innate musical ability in every student.
 With the wide range of programmes offered, students are given opportunities
 to discover, collaborate, and find the joy of music.</p>
 <h3>Key Learning Experiences</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__2.jpg">
 </div>
 <h3>Highlights</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/MUSIC 2025/Department_Webpage_Update_2025____Music__3.jpg">
 </div>
@@ -36,4 +38,5 @@ to discover, collaborate, and find the joy of music.</p>
 <p><strong>· 2025 Youth Station Project Select Live! (Lower Category)</strong>
 </p>
 <p>“Teenage Years” composed by Annabella from Class 1-5</p>
+<p></p>
 <p></p>
