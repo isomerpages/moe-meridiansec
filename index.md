@@ -25,7 +25,7 @@ sections:
       title: Release of 2025 N Level Results
       id: infobar
       button: CLICK HERE
-      url: /release-of-2025-n-level-results/
+      url: https://www.meridiansec.moe.edu.sg/release-of-2025-n-level-results/
   - infopic:
       title: 2025 Open House
       id: infopic
