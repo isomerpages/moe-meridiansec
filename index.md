@@ -25,7 +25,7 @@ sections:
       title: Release of 2025 N Level Results
       id: infobar
       button: CLICK HERE
-      url: /announcements/announcements/2023-n-level-results/
+      url: /release-of-2025-n-level-results/
   - infopic:
       title: 2025 Open House
       id: infopic
