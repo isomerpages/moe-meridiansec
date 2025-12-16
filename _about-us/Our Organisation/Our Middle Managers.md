@@ -147,7 +147,7 @@ further assistance. Thank you.</p>
 <p>HOD / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siew Chin Hoong, Addie</p>
+<p>Mr Siew Chin Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">siew_chin_hoong@moe.edu.sg</a>
