@@ -3,7 +3,7 @@ title: 2026 Sec 1 Registration
 permalink: /2025-sec-1-registration/
 variant: tiptap
 description: ""
-third_nav_title: 2025 Sec 1 Registration
+third_nav_title: 2026 Sec 1 Registration
 ---
 <h3>2026 Secondary 1 Registration and Other Important Information</h3>
 <p></p>
@@ -55,8 +55,8 @@ Form is attached in&nbsp;<a href="/files/Sec 1 Registration 2026/2026_Sec_1_Regi
 </p>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
-<p>2026&nbsp;&lt;<a href="https://www.meridiansec.moe.edu.sg/files/Booklists/Meridian_Sec_1___Information_Final.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="/files/Booklists/Meridian_2026___Sec_1_Blue.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List</a>&gt;</p>
+<p>2026&nbsp;&lt;<a href="/files/Booklists/Meridian_2026___Sec_1_Blue.pdf" rel="noopener nofollow" target="_blank">Sec 1 Book List&gt;</a>
+</p>
 <p>2026&nbsp;&lt;<a href="/2026-purchase-and-collection-of-textbooks-and-uniforms/" rel="noopener noreferrer nofollow" target="_blank">Purchase and Collection of Textbooks and Uniforms</a>&gt;</p>
 <p>&nbsp;</p>
 <p><strong>3. Full Subject-Based Banding (Full SBB)</strong>
