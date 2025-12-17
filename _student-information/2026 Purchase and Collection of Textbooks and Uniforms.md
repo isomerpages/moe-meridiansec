@@ -38,15 +38,6 @@ register for an account and make your purchase.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Secondary 1 and 5</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
