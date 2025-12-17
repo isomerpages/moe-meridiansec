@@ -44,8 +44,7 @@ register for an account and make your purchase.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 December 2025 (Tentative)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -93,7 +92,7 @@ on the dates shown below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19,22, 23, 26, 29, 30 December 2025</strong>
+<p><strong>19,22, 23, 26, December 2025</strong>
 </p>
 </td>
 </tr>
