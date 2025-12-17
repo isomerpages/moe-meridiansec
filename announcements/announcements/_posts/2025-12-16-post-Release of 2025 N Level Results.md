@@ -52,26 +52,25 @@ your child, and supporting your child’s transition through post N-Level
 education, please refer to <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents </a>You
 and your child may also wish to refer to the What’s Next pamphlet&nbsp;
 <a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>&nbsp;and available ECG resources
-on the MySkillsFuture Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+on the MySkillsFuture Student Portal&nbsp;<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
-<p></p>
 <h4>Education and Career Guidance (ECG)</h4>
 <p>For ECG counselling services, students are encouraged to explore the range
 of education and career pathways available to them to make informed decisions
 about their next steps. They may refer to the following websites for more
 information:</p>
-<p>MOE’s CourseFinder&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>&nbsp;
+<p>MOE’s CourseFinder&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>&nbsp;
 for offerings and courses in the polytechnics and ITE</p>
-<p>MySkillsFuture Student Portal on&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> on
-education and career pathways&nbsp; &nbsp;</p>
+<p>MySkillsFuture Student Portal on&nbsp;<a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a> on education
+and career pathways&nbsp; &nbsp;</p>
 <p>Students may also consult their teachers or Ms Cheryl Low, our ECG Counsellor
 about their next steps. Alternatively, they can make an ECG counselling
-appointment via the ECG Centre @ MOE at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.&nbsp;
+appointment via the ECG Centre @ MOE at&nbsp;<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>.&nbsp;
 The ECG Centre @ MOE will offer online or phone counselling services from
 11 to 26 December 2025, from 9am to 5pm on weekdays and 9am to 12pm on
 Saturdays and eve of public holidays.</p>
 <p>We encourage all students to return to school to collect their results.</p>
-<p>Please see attached <strong><a href="/files/Annoucements Attachments/RELEASE OF N LEVEL RESULTS/MOE_SEAB_PR___Date_of_Release_of_2025_GCE_N_Level_Exam_Results__for_prior_info_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Press Release</u></a></strong> for
+<p>Please see attached <a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/MOE_SEAB_PR___Date_of_Release_of_2025_GCE_N_Level_Exam_Results__for_prior_info_.pdf" rel="noopener nofollow" target="_blank">Press Release</a> for
 more information regarding:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for Institute of Technical
 Education (ITE) courses</p>
@@ -80,6 +79,6 @@ to Polytechnic Programme (DPP)</p>
 <p>Thank you.</p>
 <p><strong>For Reference:</strong>
 </p>
-<p>ITE Factsheet Link:&nbsp; &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/</a>
+<p>ITE Factsheet Link:&nbsp; &nbsp;<a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/</a>
 </p>
 <p></p>
