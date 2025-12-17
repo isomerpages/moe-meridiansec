@@ -7,11 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>RELEASE OF GCE N-LEVEL EXAM RESULTS</h2>
+<h3>RELEASE OF GCE N-LEVEL EXAM RESULTS</h3>
+<p></p>
 <p>The N-Level results will be released on:</p>
 <p>Date: &nbsp;&nbsp; Thursday, 18 December 2025.</p>
-<p>Time: &nbsp;&nbsp; 2.00 pm. Students should be seated in the School Hall
-by 1.45 pm.</p>
+<p>Time: &nbsp;&nbsp; 2.00 pm. Stud</p>
+<p>ents should be seated in the School Hall by 1.45 pm.</p>
 <p>Attire: &nbsp; Students must be in proper school attire and personal grooming
 to receive their results.&nbsp;</p>
 <p>Venue:&nbsp; School Hall</p>
@@ -26,10 +27,8 @@ a proxy to collect a physical copy of their results from the school. Proxies
 are required to produce the relevant documents for the school’s verification
 when collecting the results. You may contact the school for assistance
 with the appointment of a proxy.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>INVITATION TO PARENTS / GUARDIANS</strong>
-</p>
+<p></p>
+<h4>INVITATION TO PARENTS / GUARDIANS</h4>
 <p>Parents / Guardians are invited to be present during the release of results.
 The school will be open from 1.30 pm onwards. As there are insufficient
 parking spaces in the school compound, parents / guardians are advised
@@ -47,10 +46,7 @@ positive when deciding on their next steps.</p>
 child about their interests and choices and build their pathways together.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>RESOURCES FOR PARENTS</strong>
-</p>
+<h4>RESOURCES FOR PARENTS</h4>
 <p>For more resources on providing social and emotional support, affirming
 your child, and supporting your child’s transition through post N-Level
 education, please refer to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
@@ -58,8 +54,8 @@ education, please refer to:&nbsp;<a rel="noopener noreferrer nofollow" target="_
 pamphlet&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>&nbsp;and
 available ECG resources on the MySkillsFuture Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
-<p><strong>Education and Career Guidance (ECG)</strong>
-</p>
+<p></p>
+<h4>Education and Career Guidance (ECG)</h4>
 <p>For ECG counselling services, students are encouraged to explore the range
 of education and career pathways available to them to make informed decisions
 about their next steps. They may refer to the following websites for more
@@ -75,8 +71,8 @@ The ECG Centre @ MOE will offer online or phone counselling services from
 11 to 26 December 2025, from 9am to 5pm on weekdays and 9am to 12pm on
 Saturdays and eve of public holidays.</p>
 <p>We encourage all students to return to school to collect their results.</p>
-<p>Please see attached <strong><u>Press Release</u></strong> for more information
-regarding:</p>
+<p>Please see attached <strong><a href="/files/Annoucements Attachments/RELEASE OF N LEVEL RESULTS/MOE_SEAB_PR___Date_of_Release_of_2025_GCE_N_Level_Exam_Results__for_prior_info_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Press Release</u></a></strong> for
+more information regarding:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for Institute of Technical
 Education (ITE) courses</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for the Direct-Entry-Scheme
