@@ -78,4 +78,4 @@ Education (ITE) courses</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for the Direct-Entry-Scheme
 to Polytechnic Programme (DPP)</p>
 <p>Thank you.</p>
-<p>&nbsp;</p>
+<p></p>
