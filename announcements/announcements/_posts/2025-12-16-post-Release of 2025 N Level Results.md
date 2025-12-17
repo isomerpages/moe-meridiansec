@@ -72,10 +72,18 @@ Saturdays and eve of public holidays.</p>
 <p>We encourage all students to return to school to collect their results.</p>
 <p>Please see attached <a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/MOE_SEAB_PR___Date_of_Release_of_2025_GCE_N_Level_Exam_Results__for_prior_info_.pdf" rel="noopener nofollow" target="_blank">Press Release</a> for
 more information regarding:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for Institute of Technical
-Education (ITE) courses</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for the Direct-Entry-Scheme
-to Polytechnic Programme (DPP)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for Institute of Technical Education (ITE) courses</p>
+</li>
+<li>
+<p>Application for the Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
+</li>
+<li>
+<p>Application for the Polytechnic Foundation Programme (PFP)</p>
+</li>
+</ul>
+<p></p>
 <p>Thank you.</p>
 <p><strong>For Reference:</strong>
 </p>
