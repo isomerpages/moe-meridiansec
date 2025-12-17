@@ -11,8 +11,8 @@ variant: tiptap
 <p></p>
 <p>The N-Level results will be released on:</p>
 <p>Date: &nbsp;&nbsp; Thursday, 18 December 2025.</p>
-<p>Time: &nbsp;&nbsp; 2.00 pm. Stud</p>
-<p>ents should be seated in the School Hall by 1.45 pm.</p>
+<p>Time: &nbsp;&nbsp; 2.00 pm. Students should be seated in the School Hall
+by 1.45 pm.</p>
 <p>Attire: &nbsp; Students must be in proper school attire and personal grooming
 to receive their results.&nbsp;</p>
 <p>Venue:&nbsp; School Hall</p>
@@ -49,10 +49,10 @@ child about their interests and choices and build their pathways together.</p>
 <h4>RESOURCES FOR PARENTS</h4>
 <p>For more resources on providing social and emotional support, affirming
 your child, and supporting your child’s transition through post N-Level
-education, please refer to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
-<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">.&nbsp;</a>You and your child may also wish to refer to the What’s Next
-pamphlet&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>&nbsp;and
-available ECG resources on the MySkillsFuture Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
+education, please refer to <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents </a>You
+and your child may also wish to refer to the What’s Next pamphlet&nbsp;
+<a href="https://go.gov.sg/whats-next-nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>&nbsp;and available ECG resources
+on the MySkillsFuture Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 <p></p>
 <h4>Education and Career Guidance (ECG)</h4>
@@ -78,4 +78,8 @@ Education (ITE) courses</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for the Direct-Entry-Scheme
 to Polytechnic Programme (DPP)</p>
 <p>Thank you.</p>
+<p><strong>For Reference:</strong>
+</p>
+<p>ITE Factsheet Link:&nbsp; &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/</a>
+</p>
 <p></p>
