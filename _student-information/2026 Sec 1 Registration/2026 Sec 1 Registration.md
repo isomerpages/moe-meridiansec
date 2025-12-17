@@ -137,7 +137,7 @@ further assistance before you purchase the textbooks or uniforms.</p>
 Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
-<p>Please refer to&nbsp; <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MSS E-Student Handbook</a>&nbsp;on
+<p>Please refer to&nbsp; <a href="/files/Handbooks and Letters/Student_Handbook_2026_16_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">MSS E-Student Handbook</a>&nbsp;on
 the uniform policy.</p>
 <p>The Secondary 1 Orientation will be held from&nbsp;<strong>2 to 7 January 2026.</strong>
 </p>
@@ -169,7 +169,7 @@ More details on procurement and costing will be provided later.</p>
 <p></p>
 <p><strong>11.&nbsp;Student Handbook</strong>
 </p>
-<p>The <a href="https://www.meridiansec.moe.edu.sg/files/Handbooks%20and%20Letters/Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">student handbook</a>&nbsp;contains
+<p>The <a href="/files/Handbooks and Letters/Student_Handbook_2026_16_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">student handbook</a>&nbsp;contains
 useful information that a new student will need to know.&nbsp; Please spend
 some time reading the student handbook so that you know what to expect
 when you join us.</p>
