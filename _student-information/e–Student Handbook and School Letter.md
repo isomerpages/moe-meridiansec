@@ -8,8 +8,8 @@ variant: tiptap
 <p>The e-Student Handbook provides important information such as school rules
 and regulations, student progression criteria to the next level, and other
 helpful details.</p>
-<p>Click <a href="/files/Handbooks and Letters/Student_Handbook_2025_29_Aug.pdf" rel="noopener nofollow" target="_blank">here</a> to
-download the 2025 E-Student Handbook <em>(uploaded on 29 August)</em>.</p>
+<p>Click<a href="/files/Handbooks and Letters/Student_Handbook_2026_16_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="/files/Handbooks and Letters/Student_Handbook_2026_16_Dec.pdf" rel="noopener nofollow" target="_blank">here</a>to download the 2026 E-Student Handbook <em>(uploaded on 17 December)</em>.</p>
 <h4>School Letter</h4>
 <p>The annual school letter provides information for student before the start
 of the year.</p>
