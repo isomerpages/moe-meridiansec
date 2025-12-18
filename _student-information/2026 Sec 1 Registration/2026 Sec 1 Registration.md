@@ -93,7 +93,7 @@ PG.&nbsp;</p>
 such as chronic heart conditions or kidney problems or&nbsp;<strong>severe physical impairments</strong>,
 such as those requiring permanent use of a wheelchair.</p>
 <p>Parents need to submit your appeal&nbsp;<strong>in person</strong>&nbsp;through
-Meridian Secondary School&nbsp;<strong>before 24 December 2025 (Wednesday), 12pm</strong>.&nbsp;&nbsp;
+Meridian Secondary School&nbsp;<strong>before 22 December 2025 (Monday), 12pm</strong>.&nbsp;&nbsp;
 All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from doctors.&nbsp;&nbsp; Application without
 supporting documents, incomplete form or late submission will not be processed.</p>
