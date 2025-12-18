@@ -22,6 +22,11 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infobar:
+      title: 2026 Sec 1 Registration
+      id: infobar
+      button: CLICK HERE
+      url: https://www.meridiansec.moe.edu.sg/2025-sec-1-registration/
+  - infobar:
       title: Release of 2025 N Level Results
       id: infobar
       button: CLICK HERE
