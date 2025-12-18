@@ -57,4 +57,9 @@ sections:
       id: infobar
       button: Click here
       url: https://www.meridiansec.moe.edu.sg/2025-eoy-exam-script-checking-timetable/
+  - infobar:
+      title: 2026 Sec 1 Registration
+      id: infobar
+      button: CLICK HERE
+      url: https://www.meridiansec.moe.edu.sg/2025-sec-1-registration/
 ---
