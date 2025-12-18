@@ -87,15 +87,26 @@ more information regarding:</p>
 <p>Thank you.</p>
 <p><strong>For Reference:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>ITE Factsheet Link:&nbsp; &nbsp;<a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/3-year-4-year-higher-nitec/</a>
 </p>
-<p></p>
+</li>
+<li>
 <p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/1__For_Students__2025_N_Level_Briefing_Slides_on_Release_of_Results_Day.pdf" rel="noopener nofollow" target="_blank">For Students 2025 N Level Briefing Slides on Release of Results Day</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/1b__2025_JIEN_Factsheet___Annex_A.pdf" rel="noopener nofollow" target="_blank">2025 JIEN Factsheet Annex A</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/3b__PFP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">PFP Factsheet for Students</a>
 </p>
+</li>
+<li>
 <p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/4b__DPP_Factsheet_for_Students.pdf" rel="noopener nofollow" target="_blank">DPP Factsheet for Students</a>
 </p>
+</li>
+</ul>
 <p></p>
