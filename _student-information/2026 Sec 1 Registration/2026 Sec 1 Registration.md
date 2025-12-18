@@ -135,8 +135,8 @@ further assistance before you purchase the textbooks or uniforms.</p>
 Uniform culottes/pants, white socks and black shoes. For students who are
 not able to purchase the MSS school uniform by the first day of school,
 he/ she can report to school in his/ her primary school uniform.</p>
-<p>Please refer to&nbsp; <a href="/files/Handbooks and Letters/Student_Handbook_2026_17_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">MSS E-Student Handboo</a>
-<a href="/files/Handbooks and Letters/Student_Handbook_2026_16_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">k</a>&nbsp;on the uniform policy.</p>
+<p>Please refer to&nbsp; <a href="/files/Handbooks and Letters/Student_Handbook_2026_17_Dec.pdf" rel="noopener nofollow" target="_blank">MSS E- Student Handbook</a>&nbsp;on
+the uniform policy.</p>
 <p>The Secondary 1 Orientation will be held from&nbsp;<strong>2 to 7 January 2026.</strong>
 </p>
 <p><strong>Dismissal times</strong>&nbsp;for the orientation period and items
