@@ -97,7 +97,7 @@ more information regarding:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/1b___for_Students__JIEN_JIEE_2026_Intake_entry_requirements___Course_Code.pdf" rel="noopener nofollow" target="_blank">For Students: JIEN JIEE 2026 Intake Entry Requirements Course Code (Updated) </a>
+<p><a href="/files/Announcements Attachments/RELEASE OF N LEVEL RESULTS/1b___for_Students__JIEN_JIEE_2026_Intake_entry_requirements___Course_Code.pdf" rel="noopener nofollow" target="_blank">For Students: JIEN JIEE 2026 Intake Entry Requirements Course Code (Updated)</a>
 </p>
 </li>
 <li>
