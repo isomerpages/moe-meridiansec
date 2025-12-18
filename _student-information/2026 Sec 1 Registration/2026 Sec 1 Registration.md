@@ -7,7 +7,7 @@ third_nav_title: 2026 Sec 1 Registration
 ---
 <h3>2026 Secondary 1 Registration and Other Important Information</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Information/sec 1 orientation.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Meridians cheering at a football match" src="/images/Student Information/Cheering.jpg">
 </div>
 <p><strong>Dear Parents and Secondary 1 Students,</strong>
 </p>
