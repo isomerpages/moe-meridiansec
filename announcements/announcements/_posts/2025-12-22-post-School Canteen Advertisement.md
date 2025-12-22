@@ -116,8 +116,8 @@ School’s General Office by the closing date.</p>
 </ul>
 </li>
 </ol>
-<p><strong>How to get there?</strong>
-</p>
+<h4>How to get there?</h4>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Pasir Ris Mrt (EW1)</p>
@@ -126,10 +126,8 @@ School’s General Office by the closing date.</p>
 <p>Bus number: 359</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Interested applicants must meet the following criteria:</strong>
-</p>
+<p></p>
+<h4>Interested applicants must meet the following criteria:</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -178,10 +176,8 @@ environment.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Note to successful applicants:</strong>
-</p>
+<p></p>
+<h4>Note to successful applicants:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) operating the stall must attend
@@ -197,5 +193,5 @@ Singapore Food Agency (SFA) to operate the stall.</p>
 </p>
 <hr>
 <p><a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-<a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[NMY(1</a>
+<a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[NMY(1)</a>
 </p>
