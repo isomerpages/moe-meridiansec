@@ -49,7 +49,7 @@ the Sec 1 Orientation Programme.</p>
 Form is attached in&nbsp;<a href="/files/Sec 1 Registration 2026/2026_Sec_1_Registration_Form___Annex_A_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>
 </p>
 <p>&nbsp;</p>
-<p><strong>2. 2025 Purchase and Collection of Textbooks and Uniforms</strong>
+<p><strong>2. 2026 Purchase and Collection of Textbooks and Uniforms</strong>
 </p>
 <p>Click on the following links for the Sec 1 booklist and instructions for
 the purchase of textbooks and uniform.</p>
