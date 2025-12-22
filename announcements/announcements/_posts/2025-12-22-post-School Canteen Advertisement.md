@@ -67,7 +67,6 @@ General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
-<a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NMY(1]</a><a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
 </p>
 </li>
 </ul>
