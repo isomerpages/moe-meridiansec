@@ -54,8 +54,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <h4>Application Procedure</h4>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -65,8 +64,13 @@ You may also request for a hardcopy of the Application Form from the School’s
 General Office.</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Form for individual stallholder</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NMY(1]</a>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
+<a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NMY(1]</a><a href="/files/Announcements Attachments/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+</p>
+</li>
+</ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the Application Form:</p>
