@@ -80,7 +80,8 @@ variant: tiptap
 PG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Resources Folder/04_FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
 </td>
 </tr>
 <tr>
