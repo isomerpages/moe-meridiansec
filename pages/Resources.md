@@ -76,6 +76,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAQ for Submission of Medical Certificates and Parents Letter through
+PG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MOE Financial Assistance Scheme (FAS) Form</p>
 </td>
 <td rowspan="1" colspan="1">
