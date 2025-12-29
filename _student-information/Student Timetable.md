@@ -111,11 +111,11 @@ form teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 ILD Schedule</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Sem_1_ILD_Presentation_29_Dec_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 ILD Schedule</u></a>
 </p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 Remedial Schedule</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Sem_1_Remedial_Schedule_29_Dec_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 Remedial Schedule</u></a>
 </p>
 </li>
 </ul>
