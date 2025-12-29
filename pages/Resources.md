@@ -76,6 +76,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>FAQ for Submission of Medical Certificates and Parents Letter through
+PG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Resources Folder/04_FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MOE Financial Assistance Scheme (FAS) Form</p>
 </td>
 <td rowspan="1" colspan="1">
