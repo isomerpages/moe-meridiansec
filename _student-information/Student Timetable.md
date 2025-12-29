@@ -5,64 +5,117 @@ description: ""
 variant: tiptap
 ---
 <p>Dear parents and students,</p>
-<p>Please download the School Timetable for 2025 Semester 2.</p>
+<p>Please download the School Timetable for 2026 Semester 1.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable Matters/2025_Semester_2_Timetable__Sec_1__26_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Secondary 1 Semester 2 Timetable</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Semester_1_Timetable__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Secondary 1 Semester 1 Timetable</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable Matters/2025_Semester_2_Timetable__Sec_2__26_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Secondary 2 Semester 2 Timetable</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>20</u></a>
+<a href="/files/Timetable Matters 2026/2026_Semester_1_Timetable__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>26 Secondary 2 Semester 1 Timetable</u>
+</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable Matters/2025_Semester_2_Timetable__Sec_3__26_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Secondary 3 Semester 2 Timetable</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Semester_1_Timetable__Sec_3_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Secondary 3 Semester 1 Timetable</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable Matters/2025_Semester_2_Timetable__Sec_4___5__26_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Secondary 4 &amp; 5 Semester 2 Timetable</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Semester_1_Timetable__Sec_4___5_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Secondary 4 &amp; 5 Semester 1 Timetable</u></a>
 </p>
 </li>
 </ul>
-<p>Please take note of the dismissal time for 2025 Semester 2 lessons.</p>
-<p>&nbsp;</p>
-<p>For <strong>Lower Secondary</strong> students:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Monday, Tuesday, and Thursday</strong> dismissal is at <strong>1:35 PM</strong>
+<p>Please take note of the dismissal time for Sec 1 2026 Semester 1.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
 </p>
-</li>
-<li>
-<p><strong>Wednesday</strong> dismissal is at <strong>2:10 PM</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Odd Week</strong>
 </p>
-</li>
-<li>
-<p><strong>Friday</strong> dismissal remains early at <strong>12:25 PM</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Even Week</strong>
 </p>
-</li>
-</ul>
-<p>For <strong>Upper Secondary</strong> students:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Monday through Thursday</strong> dismissal is at <strong>2:10 PM</strong>
-</p>
-</li>
-<li>
-<p><strong>Friday</strong> dismissal is at <strong>12:25 PM</strong>
-</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:10 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:10 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:35 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:35 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:10 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:35 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:35 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:10 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:25 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:25 PM</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>You may download the schedule of subjects on Independent Learning Day
 below. Students will be informed by their respective subject teachers and
 form teachers about the details of the curriculum task prior to each Independent
 Learning Day.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable Matters/2025_Sem_2_ILD__final_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Semester 2 ILD Schedule</u></a>
+<p><a href="/files/Timetable Matters 2026/2026_Sem_1_ILD_Presentation_29_Dec_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 ILD Schedule</u></a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable Matters/2025_Sem_2_Remedial_Schedule__final__30_June_2025.pdf" rel="noopener nofollow" target="_blank">2025 Semester 2 Remedial Schedule</a>
+<p><a href="/files/Timetable Matters 2026/2026_Sem_1_Remedial_Schedule_29_Dec_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2026 Semester 1 Remedial Schedule</u></a>
 </p>
 </li>
 </ul>
