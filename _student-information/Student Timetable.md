@@ -4,7 +4,14 @@ permalink: /student-information/student-timetable/
 description: ""
 variant: tiptap
 ---
-<p>Dear parents and students,</p>
+<p>Our school runs on the Even &amp; Odd Week Timetable. To know whether
+the week is odd or even, please refer to our school calendar here: <a href="https://www.meridiansec.moe.edu.sg/calendar/" rel="noopener nofollow" target="_blank">School Calendar</a>
+</p>
+<p>For further illustration, please refer to the image below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student Information/How_to_read_the_timetable.jpg">
+</div>
+<p>The timetables for the different levels can be found below.</p>
 <p>Please download the School Timetable for 2026 Semester 1.</p>
 <ul data-tight="true" class="tight">
 <li>
