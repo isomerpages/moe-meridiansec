@@ -18,20 +18,27 @@ clubs in the Singapore Floorball League.</p>
 <p>&nbsp;Our alumni continue to shine, contributing actively to various National
 Floorball setups and inspiring the next generation of players.</p>
 <h3>Schedule and Venue</h3>
-<p>&nbsp;All Boys: Mondays and Thursdays – 1400hr to 1730hr</p>
-<p>All Girls: Tuesdays – 1400hr to 1730hr, Fridays – 1230hr to 1600hr</p>
-<p>All training will take place in the ISH.</p>
+<p>All Boys: Mondays and Thursdays – 1430hr to 1730hr</p>
+<p>All Girls: Tuesdays and Fridays – 1430hr to 1730hr</p>
+<p>All training will take place in ISH.</p>
 <h3>Teachers-in-charge</h3>
-<p>Overall I/C: Mr. Justin Toh Choon Gee</p>
-<p>2 I/C : Mr. Teo Wei Yang</p>
+<p>Mr. Teo Wei Yang</p>
+<p>Mr. Jeryl Lee Shin Siang</p>
 <p>Ms. Quek Ser Hwee</p>
-<p>Ms. Eng Siam Ngeng</p>
+<p>Ms. Carol Eng Siam Ngeng</p>
 <h3>Coaches</h3>
-<p>Mr. Ben Ow</p>
-<p>Mr. Muhammad Faris Bin Rusli</p>
-<p>Miss. Siti Khadijah Bte Md Yaacob</p>
+<p>Mr. Ashari Bin Mohamed Salleh</p>
+<p>Mr. Shahizan Bin Ahmad</p>
 <p></p>
 <h3>Highlights and Achievements</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,39 +47,26 @@ Floorball setups and inspiring the next generation of players.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YEAR</p>
+<h4>YEAR</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>RESULTS</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Girls: First Runner up (NSG)</p>
-<p>B Boys: 2<sup>nd</sup>&nbsp;Runner up (NSG)</p>
-<p>C Girls and C Boys: Top 16 (NSG)</p>
+<h4>RESULTS</h4>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Boys: First Runner up (NSG)</p>
-<p>B Boys, B Girls, C Girls: Top 16 (NSG)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Girls: Top 8 (NSG League 1)</p>
-<p>C Boys: Top 16 (NSG League 1)</p>
-<p>B Boys and B Girls: Top 16 (NSG)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -82,13 +76,47 @@ Floorball setups and inspiring the next generation of players.</p>
 <td rowspan="1" colspan="1">
 <p>B Boys: Top 16 (NSG)</p>
 <p>B Girls: Top 8 (NSG)</p>
-<p>C Boys: Top 4 (NSG)</p>
-<p>C Girls: Top 8 (NSG)</p>
+<p>C Boys: Top 4 (NSG League 1)</p>
+<p>C Girls: Top 8 (NSG League 1)</p>
+<p>Singapore Youth Floorball Carnival: Top 4 (Both B Boys and Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys and B Girls: Top 16 (NSG)</p>
+<p>C Girls: Top 8 (NSG League 1)</p>
+<p>C Boys: Top 16 (NSG League 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys, B Girls, C Girls: Top 16 (NSG)</p>
+<p>C Boys: 3<sup>rd</sup> place (NSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls: 3<sup>rd </sup>place (NSG)</p>
+<p>B Boys: Top 4 (NSG)</p>
+<p>C Girls and C Boys: Top 16 (NSG)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
 </div>
