@@ -16,11 +16,11 @@ of the year.</p>
 <p>Click on the links below to download the 2026 School Letters.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Handbooks and Letters/2026_MSS_School_Letter__Sec_1__Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Letter to Parents</a>
+<p><a href="/files/Handbooks and Letters/2026_MSS_School_Letter__Sec_1_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Letter to Parents</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Handbooks and Letters/2026_MSS_School_Letter__Sec_2_5__Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2-5 Letter to Parents</a>
+<p><a href="/files/Handbooks and Letters/2026_MSS_School_Letter__Sec_2_5_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2-5 Letter to Parents</a>
 </p>
 </li>
 </ol>
