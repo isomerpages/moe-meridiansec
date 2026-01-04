@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h2>Principal’s Message 2025</h2>
+<h2>Principal’s Message 2026</h2>
 <p></p>
 <h4>A warm welcome to Meridian Secondary School!</h4>
 <p></p>
