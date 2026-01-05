@@ -304,7 +304,7 @@ further assistance. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Information and Communication Technology (Covering)</p>
+<p>SH / Information and Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hock Kiang, Belinda</p>
