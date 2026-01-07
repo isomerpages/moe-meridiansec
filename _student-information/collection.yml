@@ -2,6 +2,8 @@ collections:
   student-information:
     output: true
     order:
+      - "2025 GCE O Level Results Release: Info for Parents.md"
+      - "2025 GCE O Level Results Release: Info for Students.md"
       - 2026 Sec 1 Registration/.keep
       - 2026 Sec 1 Registration/2026 Sec 1 Registration.md
       - 2026 MOE FAS Application.md
