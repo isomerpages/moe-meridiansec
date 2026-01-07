@@ -28,16 +28,20 @@ to 21 January 2026, from 9am to 5pm on weekdays and 9am to 12pm on Saturdays.</p
 </p>
 </li>
 <li>
-<p>ECG Resources: What’s Next</p>
+<p><a href="/files/GCE O Level 2025/Info For Students/2__ECG_Resources_Whats_Next_O_Level_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Resources: What’s Next</a>
+</p>
 </li>
 <li>
-<p>2026 Factsheet for Students</p>
+<p><a href="/files/GCE O Level 2025/Info For Students/3__2025_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Factsheet for Students</a>
+</p>
 </li>
 <li>
-<p>2026 JAE Information Sheet</p>
+<p><a href="/files/GCE O Level 2025/Info For Students/4__2026_JAE_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JAE Information Sheet</a>
+</p>
 </li>
 <li>
-<p>Application to Repeat 4E5N_Annex C</p>
+<p><a href="/files/GCE O Level 2025/Info For Students/5__Application_to_Repeat_4E5N_Annex_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Repeat 4E5N_Annex C</a>
+</p>
 </li>
 </ul>
 <p></p>
