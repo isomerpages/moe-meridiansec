@@ -43,7 +43,7 @@ please refer to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http
 </p>
 <p>&nbsp;You can access ECG resources here&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>&nbsp;
 and the&nbsp;<em>MySkillsFuture&nbsp;</em>Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
-<p><a href="/files/GCE O Level 2025/Info For Parents/parent information sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Information Sheet </a>
+<p><a href="/files/GCE O Level 2025/Info For Parents/parent information sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Information Sheet</a>
 </p>
 <p><a href="https://www.meridiansec.moe.edu.sg/files/GCE%20O%20Level%20%202024/3___For_Parents__2024_ECG_Tips_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Tips for Parents</a>
 </p>
