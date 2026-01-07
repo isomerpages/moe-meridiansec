@@ -62,4 +62,9 @@ sections:
       id: infobar
       button: Click here
       url: https://www.meridiansec.moe.edu.sg/2025-eoy-exam-script-checking-timetable/
+  - infobar:
+      title: Release of 2025 GCE O Level Results
+      id: infobar
+      button: CLICK HERE
+      url: /release-of-2025-gce-o-level-results/
 ---
