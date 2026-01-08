@@ -34,7 +34,7 @@ may contact the school for assistance with the appointment of a proxy.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.meridiansec.moe.edu.sg/2024-gce-o-level-results-release-info-for-students/" rel="noopener noreferrer nofollow" target="_blank">GCE-O-Level Results: Info for Students</a>
+<p><a href="/2025-gce-o-level-results-release-info-for-students/" rel="noopener nofollow" target="_blank">GCE-O-Level Results: Info for Students </a>
 </p>
 </li>
 <li>
