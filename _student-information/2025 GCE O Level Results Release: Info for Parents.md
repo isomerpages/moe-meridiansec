@@ -40,8 +40,8 @@ teens about their interests and choices and build their pathways together.</p>
 your teen, and supporting your teen’s transition through post O-Level education,
 please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/seiresforparents</a>
 </p>
-<p>&nbsp;You can access ECG resources here&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>&nbsp;
-and the&nbsp;<em>MySkillsFuture&nbsp;</em>Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
+<p>&nbsp;You can access ECG resources here <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a> and
+the&nbsp;<em>MySkillsFuture&nbsp;</em>Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
 <p><a href="/files/GCE O Level 2025/Info For Parents/parent information sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Information Sheet</a>
 </p>
 <p><a href="https://www.meridiansec.moe.edu.sg/files/GCE%20O%20Level%20%202024/3___For_Parents__2024_ECG_Tips_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Tips for Parents</a>
