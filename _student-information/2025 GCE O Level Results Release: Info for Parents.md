@@ -38,8 +38,7 @@ teens about their interests and choices and build their pathways together.</p>
 </p>
 <p>For more resources on providing social and emotional support, affirming
 your teen, and supporting your teen’s transition through post O-Level education,
-please refer to:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener noreferrer nofollow" target="_blank">.</a>
+please refer to: <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/seiresforparents</a>
 </p>
 <p>&nbsp;You can access ECG resources here&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>&nbsp;
 and the&nbsp;<em>MySkillsFuture&nbsp;</em>Student Portal&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MFSFSec</a>.</p>
