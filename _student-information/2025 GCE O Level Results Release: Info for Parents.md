@@ -56,7 +56,7 @@ may refer to the following websites for more information:</p>
 MOE’s CourseFinder <a href="https://www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a>
 </p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MySkillsFuture Student Portal <a href="https://go.gov.sg/MySFSec" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a> 
+MySkillsFuture Student Portal <a href="https://go.gov.sg/MySFSec" rel="noopener nofollow" target="_blank">https://go.gov.sg/MySFSec</a>
 </p>
 <p>Students may also consult our ECG Counsellor, Ms Cheryl Low about their
 next steps. Alternatively, they can make an ECG counselling appointment
