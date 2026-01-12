@@ -120,7 +120,7 @@ Learning Day.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable Matters 2026/2026_Sem_1_Remedial_for_website.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Remedial Schedule (updated on 02/01/2026)</a>
+<p><a href="/files/Timetable Matters 2026/2026_Sem_1_Remedial_for_website_as_of_12_Jan.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Remedial Schedule (updated on 12/01/2026)</a>
 </p>
 </li>
 </ul>
