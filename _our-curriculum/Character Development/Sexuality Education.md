@@ -48,6 +48,5 @@ decisions for yourself, your family and society; and</p>
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
-for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here </a> for
+more information on MOE Sexuality Education.</p>
