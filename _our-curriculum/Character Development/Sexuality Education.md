@@ -816,9 +816,8 @@ opt-out form. This form will be communicated to parents at the start of
 the year and is also available <a href="https://form.gov.sg/69649abc717727d0363d5a89" rel="noopener nofollow" target="_blank">here</a> The completed
 form is to be submitted by 22/01/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65831387
-or &nbsp;<a href="meridian_sec@moe.edu.sg" rel="noopener nofollow" target="_blank">meridian_sec@moe.edu.sg </a>for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+or <strong>meridian_sec@moe.edu.sg</strong> for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
