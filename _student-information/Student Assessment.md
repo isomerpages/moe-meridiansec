@@ -4,7 +4,6 @@ permalink: /student-information/student-assessment/
 description: ""
 variant: tiptap
 ---
-<h2>2025 Assessment Update</h2>
 <h4>Semester 2 Weighted Assessments (WAs) Schedule</h4>
 <p>The Weighted Assessments (WAs) will be conducted for</p>
 <ul data-tight="true" class="tight">
