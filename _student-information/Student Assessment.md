@@ -242,6 +242,8 @@ unchanged.</p>
 </tr>
 </tbody>
 </table>
+<p><em>Weightings for examinable common curriculum subjects (Art, D&amp;T and FCE) may vary in alignment with subject-specific learning and assessment objectives.</em>
+</p>
 <h4>For Secondary 4 to 5</h4>
 <table style="minWidth: 100px">
 <colgroup>
