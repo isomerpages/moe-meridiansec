@@ -42,5 +42,9 @@ ECG Centre @ MOE offers online or phone counselling services from 7 to
 <p><a href="/files/GCE O Level 2025/Info For Students/5__Application_to_Repeat_4E5N_Annex_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Application to Repeat 4E5N_Annex C</a>
 </p>
 </li>
+<li>
+<p><a href="/files/GCE O Level 2025/Info For Students/1__2025_O_Level_Briefing_Slides_for_Students_on_Supporting_Students__Well_being.pdf" rel="noopener nofollow" target="_blank">2025 O Level Briefing Slides for Students</a>
+</p>
+</li>
 </ul>
 <p></p>
