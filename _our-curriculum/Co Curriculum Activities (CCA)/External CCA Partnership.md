@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curriculum Activities (CCA)
 ---
-<h3>External CCA Partnership (For Secondary One Students 2024)</h3>
+<h3>External CCA Partnership (For Secondary One Students 2026)</h3>
 <h4>Cluster-based CCA</h4>
 <p>In order to offer a broader range of CCAs to cater for diverse student
 interests, the Secondary One Students in 2026 are able to select <strong><u>one</u></strong> of
