@@ -23,16 +23,21 @@ lieu of their school-based CCA.</p>
 <p>&nbsp;The following CCAs are offered through this programme:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Athletics (Click <a href="/files/CCA Matters/3__SP_CCA_Athletics_Poster__28102024_.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Athletics (Click <a href="/files/Co Curriculum 2026/2A___Created_by_SportSG__SP_CCA_Poster_2026__Athletics_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more)</p>
 </li>
 <li>
-<p>Water Polo (Click <a href="/files/CCA Matters/5__SP_CCA_Water_Polo_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Water Polo (Click <a href="/files/Co Curriculum 2026/2D___Created_by_SportSG__SP_CCA_Poster_2026__Water_Polo_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 find out more)</p>
 </li>
 <li>
-<p>Canoeing (Click&nbsp;<a href="/files/CCA Matters/5__SP_CCA_Poster_2025_Canoeing.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
+<p>Canoeing (Click <a href="/files/Co Curriculum 2026/2B___Created_by_SportSG__SP_CCA_Poster_2026__Canoeing_.pdf" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 find out more)</p>
+</li>
+<li>
+<p>Hockey <a href="/files/Co Curriculum 2026/2C___Created_by_SportSG__SP_CCA_Poster_2026__Hockey_.pdf" rel="noopener nofollow" target="_blank">here</a> (Click
+to find out more) <strong><em>(NEW)</em></strong>
+</p>
 </li>
 <li>
 <p>Ethnic Dance (Click <a href="/files/CCA Matters/4__SP_CCA_Publicity_Poster__2024_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
