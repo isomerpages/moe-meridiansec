@@ -8,13 +8,11 @@ third_nav_title: Co Curriculum Activities (CCA)
 <h3>External CCA Partnership (For Secondary One Students 2024)</h3>
 <h4>Cluster-based CCA</h4>
 <p>In order to offer a broader range of CCAs to cater for diverse student
-interests, the Secondary One Students in 2025 are able to select <strong><u>one</u></strong> of
+interests, the Secondary One Students in 2026 are able to select <strong><u>one</u></strong> of
 the following CCAs that are offered by the cluster schools as one of their
 CCA options* in their CCA option form, subject to availability. This collaboration
 encourages students from different schools to interact and collaborate,
-fostering a sense of community beyond their immediate school environment.
-Click <strong><a href="/files/CCA Matters/SP_CCA_FAQs_For_Parents_Students__2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong> to
-find out more.</p>
+fostering a sense of community beyond their immediate school environment.</p>
 <p>&nbsp;</p>
 <h4>Strategic Partnership Co-Curricular Activities (SP-CCA)</h4>
 <p>The Ministry of Education (MOE) has partnered the Ministry of Culture,
