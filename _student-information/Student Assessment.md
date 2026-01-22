@@ -158,7 +158,7 @@ assessment mode and the assessment task/topics assessed.</p>
 </p>
 <p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec2.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 2</a>
 </p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec3.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 3</a>
+<p><a href="/files/Assessment Matters/2026 Assessment/Semester_1_Weighted_Assessment_Schedule_Sec3_updated22Jan.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule Sec 3 (updated 22 Jan)</a>
 </p>
 <p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec4.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 4</a>
 </p>
