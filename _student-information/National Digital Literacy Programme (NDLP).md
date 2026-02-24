@@ -22,7 +22,7 @@ learning and resources productively.</p>
 system. The Chromebook is designed for use primarily while connected to
 the internet, with most of its applications and data residing online.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSbZQNJwPuI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSbZQNJwPuI"></iframe>
 </div>
 <p>The Chromebook is chosen for the following reasons:</p>
 <ol data-tight="true" class="tight">
@@ -65,8 +65,14 @@ around</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
+<h3><strong>&nbsp;</strong></h3>
+<h3>Resources for students</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/NDLP Resources/1__Student_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Student Briefing 2026</a>
 </p>
+</li>
+</ul>
 <h3>DMA</h3>
 <ul data-tight="true" class="tight">
 <li>
