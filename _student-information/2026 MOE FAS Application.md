@@ -26,9 +26,7 @@ which pulls income data directly from IRAS and CPF Board records."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Student Information/FAS.png">
 </div>
-<p>You may refer to the hardcopy application form below, if require.</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/financial-matters/moe-fas-application-form.pdf</a>
-</p>
+<p></p>
 <p>Learn more about MOE FAS</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
