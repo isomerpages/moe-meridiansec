@@ -246,12 +246,14 @@ Presentation, Speech Day Concert</p>
 </li>
 </ul>
 <h3>Our CCA Experience</h3>
-<p><em>Being in a dance CCA taught me the importance of communication. By participating in prestigious competitions such as WSB and S24, I learnt that voicing out my thoughts about the performance help us understand each other better, foster good friendship and strong ties.</em>
+<p>&nbsp;<em>Through leading practices and choreographing performances, I developed confidence, discipline, and a strong sense of responsibility. Collaborating with my team taught me the value of teamwork, communication, and resilience—especially when preparing for school events and competitions.</em>
 </p>
-<p><strong>– Sylvia Kang (3E1,2024)</strong>
+<p>-&nbsp;&nbsp;<strong>ADYNA BINTE MUHAMMAD AZRI (S4-3, 2026)</strong>
 </p>
-<p><em>As the Chairperson of Madroovers, I am blessed to learn and grow under the guidance of my Coach, Mr Wein and the teachers. I am grateful to be given the opportunities to lead and serve the CCA. Throughout my three years in modern dance, I learn the importance of building a good relationship with my fellow juniors and seniors.</em>
+<p><strong>&nbsp;</strong>
 </p>
-<p><strong>– Abilene Buthor (3A1,2024)</strong>
+<p><em>The experience has been meaningful in building a supportive dance community where members feel encouraged to express themselves creatively. Seeing my teammates grow in skill and confidence has been incredibly rewarding. Being a Modern Dance leader has truly shaped me into a more empathetic and driven individual, and it is an experience I will always cherish.</em>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ARISSA ZIYAN NUR EYMAAN PUTRI HARIZAL (S4-5, 2026)</strong>
 </p>
 <p></p>
