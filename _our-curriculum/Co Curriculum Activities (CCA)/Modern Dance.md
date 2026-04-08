@@ -100,6 +100,9 @@ and supported one another through setbacks.</p>
 also qualified to represent Singapore on the global stage at the Dance
 World Cup Finals 2026, in Ireland.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2026/modern_dance.jpg">
+</div>
 <h3>2025</h3>
 <p><strong>SYF 2025</strong>
 </p>
