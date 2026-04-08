@@ -135,6 +135,7 @@ in the recent WSB competition after months of teamwork and relentless pursuit
 of excellence. This prestigious stage provided our dancers with the opportunity
 to develop stage confidence and collaborative skills while working to achieve
 common artistic goals.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/Picture1.jpg">
 </div>
@@ -144,6 +145,7 @@ common artistic goals.</p>
 Jordan x ‘Finesse’ by Bruno Mars for MSS Go-Green Day. Choreographed by
 our creative instructor, Mr Wein, the dance number aims to promote sustainability
 efforts.&nbsp;&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_1.jpg">
 </div>
