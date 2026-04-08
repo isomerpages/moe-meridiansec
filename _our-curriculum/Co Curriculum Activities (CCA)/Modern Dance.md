@@ -74,6 +74,9 @@ Martha Graham, modern dancer and choreographer</p>
 <li>
 <p>Ms Nuradila Binte Osman</p>
 </li>
+<li>
+<p>Mdm Ma Li</p>
+</li>
 </ul>
 <h3>Instructor</h3>
 <ul data-tight="true" class="tight">
@@ -82,6 +85,21 @@ Martha Graham, modern dancer and choreographer</p>
 </li>
 </ul>
 <h3>Yearly Highlights</h3>
+<h3>2026</h3>
+<p><strong>Dance World Cup Singapore Qualifying Match 2026</strong>
+</p>
+<p>&nbsp;On 22 March 2026, our passionate team of 27 talented dancers represented
+our school in the prestigious Dance World Cup Singapore Qualifying Match
+in the Street Large Group Category delivering a powerful and electrifying
+performance.</p>
+<p>&nbsp;The journey to the Dance World Cup was about discipline, resilience,
+and trust. Our dancers learned to listen—to their music, their coach and
+teachers, and most importantly, to each other. We celebrated small victories
+and supported one another through setbacks.</p>
+<p>They were awarded the Silver Award — an outstanding accomplishment that
+also qualified to represent Singapore on the global stage at the Dance
+World Cup Finals 2026, in Ireland.</p>
+<p>&nbsp;</p>
 <h3>2025</h3>
 <p><strong>SYF 2025</strong>
 </p>
