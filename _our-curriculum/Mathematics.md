@@ -43,6 +43,28 @@ and to learn cooperatively and independently.</p>
 </li>
 </ul>
 <h3>Highlights</h3>
+<h4>2026 Regional and National FinLit Competition</h4>
+<p>&nbsp;Our Secondary 3 Principles of Accounts (POA) students traded their
+ledgers for game boards at the <strong>2026 Regional and National FinLit Competition</strong>!
+Hosted by Smart Cloud and Temasek Polytechnic, this annual enrichment program
+gave our students a chance to put their financial savvy to the test.</p>
+<p></p>
+<p>Our students had a good experience collaborating and competing with peers
+from different schools, tackling real-world financial literacy challenges
+through interactive gameplay.&nbsp; Congratulations to our two finalists
+who achieved first positions first at their tables.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MOHAMMAD AKMAL BIN MOHAMMAD HAMDAN (3-5)</p>
+</li>
+<li>
+<p>LOUIS HONG WEI SHENG (3-6)</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
 <h4>STEM Playground Challenge 2025</h4>
 <p>On 23 October 2025, the Math teachers conducted the STEM (Science, Technology,
 Engineering, and Mathematics) Playground Challenge for two classes of Sec
