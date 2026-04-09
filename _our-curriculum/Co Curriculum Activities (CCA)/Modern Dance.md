@@ -74,6 +74,9 @@ Martha Graham, modern dancer and choreographer</p>
 <li>
 <p>Ms Nuradila Binte Osman</p>
 </li>
+<li>
+<p>Mdm Ma Li</p>
+</li>
 </ul>
 <h3>Instructor</h3>
 <ul data-tight="true" class="tight">
@@ -81,7 +84,26 @@ Martha Graham, modern dancer and choreographer</p>
 <p>Mr Lee Chun Wein</p>
 </li>
 </ul>
+<p></p>
 <h3>Yearly Highlights</h3>
+<h4>2026</h4>
+<p><strong>Dance World Cup Singapore Qualifying Match 2026</strong>
+</p>
+<p>&nbsp;On 22 March 2026, our passionate team of 27 talented dancers represented
+our school in the prestigious Dance World Cup Singapore Qualifying Match
+in the Street Large Group Category delivering a powerful and electrifying
+performance.</p>
+<p>&nbsp;The journey to the Dance World Cup was about discipline, resilience,
+and trust. Our dancers learned to listen—to their music, their coach and
+teachers, and most importantly, to each other. We celebrated small victories
+and supported one another through setbacks.</p>
+<p>They were awarded the Silver Award — an outstanding accomplishment that
+also qualified to represent Singapore on the global stage at the Dance
+World Cup Finals 2026, in Ireland.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2026/modern_dance.jpg">
+</div>
 <h3>2025</h3>
 <p><strong>SYF 2025</strong>
 </p>
@@ -104,9 +126,11 @@ and learned to embrace feedback as part of growth.</p>
 and for representing the school with such passion and grace.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/Picture1_jpg.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/Picture1_jpg.png">
 </div>
+<p></p>
 <h3>2024</h3>
+<p></p>
 <p><strong>World Supremacy Battlegrounds Singapore Vol. 4</strong>
 </p>
 <p><strong>&nbsp;</strong>It’s a Platinum Award for our Modern Dance crew
@@ -115,25 +139,31 @@ of excellence. This prestigious stage provided our dancers with the opportunity
 to develop stage confidence and collaborative skills while working to achieve
 common artistic goals.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/Picture1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/Picture1.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_4.jpg">
+</div>
+<p></p>
 <p><strong>MSS Go Green 2024</strong>
 </p>
 <p>Our Madroovers covered a rendition of ‘This Is How We Do It’ by Mondell
 Jordan x ‘Finesse’ by Bruno Mars for MSS Go-Green Day. Choreographed by
 our creative instructor, Mr Wein, the dance number aims to promote sustainability
 efforts.&nbsp;&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_1.jpg">
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_3.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_3.jpg">
 </div>
 <p></p>
 <p><strong>Open Stage Dance Competition 2024</strong>
@@ -144,25 +174,20 @@ CC and Passion Arts. Their energetic performance blew the crowd gathered
 at Our Tampines Hub who danced and cheered along to the number. As we move
 forward, our dancers will take on a bigger stage, a new crowd with yet
 another flaming performance</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_4.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_5.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/modern_dance_pic_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/modern_dance_pic_6.jpg">
-</div>
-<ul>
-<li>
-<p><strong>2023</strong>
+<h4>2023</h4>
+<p><strong>SYF Arts Presentation 2021 - Certificate of Distinction</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2021 - Certificate of Distinction</p>
-</li>
 <li>
 <p>Participate in Super 24 Dance Competition 2023</p>
 </li>
@@ -173,15 +198,12 @@ another flaming performance</p>
 <p>School Performances: Chinese New Year Concert, National Day Concert</p>
 </li>
 </ul>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/dance_2023_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/dance_2023_01.jpg">
 </div>
-<ul>
-<li>
-<p><strong>2022</strong>
-</p>
+<p></p>
+<h4>2022</h4>
 <ul>
 <li>
 <p>Top 3 Winner of the GetActive! Singapore Workout 2022 School Competition</p>
@@ -193,19 +215,16 @@ another flaming performance</p>
 <p>School Performance: Chinese New Year Celebration, National Day Concert</p>
 </li>
 </ul>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/dance_2022_02.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/dance_2022_01.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/dance_2022_01.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/dance_2022_02.jpg">
 </div>
-<ul>
-<li>
-<p><strong>2021</strong>
-</p>
+<p></p>
+<h4>2021</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
@@ -220,17 +239,16 @@ Presentation, Speech Day Concert</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2024/dance_2021_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance 2025/dance_2021_01.jpg">
 </div>
-</li>
-</ul>
+<p></p>
 <h3>Our CCA Experience</h3>
-<p><em>Being in a dance CCA taught me the importance of communication. By participating in prestigious competitions such as WSB and S24, I learnt that voicing out my thoughts about the performance help us understand each other better, foster good friendship and strong ties.</em>
+<p>&nbsp;<em>Through leading practices and choreographing performances, I developed confidence, discipline, and a strong sense of responsibility. Collaborating with my team taught me the value of teamwork, communication, and resilience—especially when preparing for school events and competitions.</em>
 </p>
-<p><strong>– Sylvia Kang (3E1,2024)</strong>
+<p>-&nbsp;&nbsp;<strong>ADYNA BINTE MUHAMMAD AZRI (S4-3, 2026)</strong>
 </p>
-<p><em>As the Chairperson of Madroovers, I am blessed to learn and grow under the guidance of my Coach, Mr Wein and the teachers. I am grateful to be given the opportunities to lead and serve the CCA. Throughout my three years in modern dance, I learn the importance of building a good relationship with my fellow juniors and seniors.</em>
+<p><strong>&nbsp;</strong><em>The experience has been meaningful in building a supportive dance community where members feel encouraged to express themselves creatively. Seeing my teammates grow in skill and confidence has been incredibly rewarding. Being a Modern Dance leader has truly shaped me into a more empathetic and driven individual, and it is an experience I will always cherish.</em>
 </p>
-<p><strong>– Abilene Buthor (3A1,2024)</strong>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ARISSA ZIYAN NUR EYMAAN PUTRI HARIZAL (S4-5, 2026)</strong>
 </p>
 <p></p>
