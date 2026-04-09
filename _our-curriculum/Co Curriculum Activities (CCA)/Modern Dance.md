@@ -252,9 +252,7 @@ Presentation, Speech Day Concert</p>
 </p>
 <p>-&nbsp;&nbsp;<strong>ADYNA BINTE MUHAMMAD AZRI (S4-3, 2026)</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><em>The experience has been meaningful in building a supportive dance community where members feel encouraged to express themselves creatively. Seeing my teammates grow in skill and confidence has been incredibly rewarding. Being a Modern Dance leader has truly shaped me into a more empathetic and driven individual, and it is an experience I will always cherish.</em>
+<p><strong>&nbsp;</strong><em>The experience has been meaningful in building a supportive dance community where members feel encouraged to express themselves creatively. Seeing my teammates grow in skill and confidence has been incredibly rewarding. Being a Modern Dance leader has truly shaped me into a more empathetic and driven individual, and it is an experience I will always cherish.</em>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>ARISSA ZIYAN NUR EYMAAN PUTRI HARIZAL (S4-5, 2026)</strong>
 </p>
