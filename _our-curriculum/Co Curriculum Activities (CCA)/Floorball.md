@@ -18,26 +18,30 @@ clubs in the Singapore Floorball League.</p>
 <p>&nbsp;Our alumni continue to shine, contributing actively to various National
 Floorball setups and inspiring the next generation of players.</p>
 <h3>Schedule and Venue</h3>
-<p>All Boys: Mondays and Thursdays – 1430hr to 1730hr</p>
-<p>All Girls: Tuesdays and Fridays – 1430hr to 1730hr</p>
+<p>All Boys: Mondays and Thursdays – 1445hr to 1745hr</p>
+<p>All Girls: Tuesdays and Fridays – 1445hr to 1745hr and 1430hr to 1730hr
+respectively</p>
 <p>All training will take place in ISH.</p>
 <h3>Teachers-in-charge</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mr. Teo Wei Yang</p>
+</li>
+<li>
 <p>Mr. Jeryl Lee Shin Siang</p>
+</li>
+<li>
 <p>Ms. Quek Ser Hwee</p>
+</li>
+<li>
 <p>Ms. Carol Eng Siam Ngeng</p>
+</li>
+</ul>
 <h3>Coaches</h3>
 <p>Mr. Ashari Bin Mohamed Salleh</p>
 <p>Mr. Shahizan Bin Ahmad</p>
 <p></p>
 <h3>Highlights and Achievements</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -47,26 +51,19 @@ Floorball setups and inspiring the next generation of players.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>YEAR</h4>
+<p>YEAR</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>RESULTS</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>RESULTS</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>B Boys: Top 8 (NSG)</p>
+<p>B Girls: Top 8 (NSG)</p>
 </td>
 </tr>
 <tr>
@@ -110,42 +107,136 @@ Floorball setups and inspiring the next generation of players.</p>
 <p>C Girls and C Boys: Top 16 (NSG)</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls: 2<sup>nd</sup> Place (NSG)</p>
+<p>C Boys: 2<sup>nd</sup> Place (NSG)</p>
+<p>C Girls: 4<sup>th</sup> Place (NSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Girls: 3<sup>rd</sup> Place (NSG)</p>
+<p>C Boys: 3<sup>rd</sup> Place (NSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys: 2<sup>nd</sup> Place (NSG)</p>
+<p>C Girls: 3<sup>rd</sup> Place (NSG)</p>
+<p>C Boys: 4<sup>th</sup> Place (NSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Boys: 4<sup>th</sup> Place (NSG)</p>
+<p>B Girls: 4<sup>th</sup> Place (NSG)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture2.png">
 </div>
+<p></p>
+<h4>2026 Secondary Two Camp</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/WhatsApp_Image_2026_04_09_at_12_52_28.jpg">
+</div>
+<p>A picture speaks a thousand words. Our Secondary Two Floorballers have
+learnt survival skills and had lots of fun too!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture1.jpg">
+</div>
+<p></p>
+<h4>2026 NSG B Division Girls</h4>
+<p>Our B Division Girls who have participated in the National School Games
+2026 has done very well in their matches against many schools. They have
+made victory and are proud to come back strong each time they faced difficulty.
+It is never easy and our girls have grown stronger after each match with
+improvement, from playing techniques to how they handle the situation that
+came up during each match. Resilience is seen in their games as our girls
+continue to seek improvement.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture2.jpg">
+</div>
+<p></p>
+<h4>2026 NSG B Division Boys</h4>
+<p>Our B Division boys have participated in many matches against other schools
+in the National School Games and have rose up to the challenges facing
+strong teams from various schools. Our Boys have grown stronger after every
+match and have learnt new skills and strategies each time they train and
+during each match too. A resilient team who has come far is able to continue
+to progress and shine for future matches that comes along the way!</p>
+<p></p>
+<h4>Women’s Floorball World Cup 2025</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture3.jpg">
+</div>
+<p>Danisha Eryna (4-4), our B Division Floorball Captain represented Singapore
+at the Women’s World Floorball Championship 2025 in Brno and Ostrava.</p>
+<p>&nbsp;“Representing my country has always been my dream”,</p>
+<p>Danisha shared.</p>
+<p></p>
+<h4>2025 Singapore Youth Floorball Carnival, Boys team</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture4.jpg">
+</div>
+<p></p>
+<p></p>
+<h4>2025 Singapore Youth Floorball Carnival, Girls team</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture5.jpg">
+</div>
+<p></p>
 <h3>Our CCA Experience</h3>
 <p><strong>Nur Alya Herina Binte Wahindra,&nbsp;(4E3 2025), Captain, B Division Girls</strong>
 </p>
-<p><strong>&nbsp;</strong>My experience in Meridian Floorball has been one
-of the most memorable parts of my journey in Meridian Secondary School.
-I joined Meridian Floorball through the Direct School Admission Exercise
-and when I first started, I had little experience. However, through hard
-work, determination and the unwavering support of my teammates, I grew
-not only as a player but also as a person. Over the past four years, I
-have gone through a rollercoaster of emotions during trainings and NSG—stress,
-pressure, joy, and even disappointment. Despite the tough losses and intense
-training sessions, my team and I never gave up. Along the way, I formed
-strong bonds with my teammates and made many new friends who shared the
-same struggles and triumphs. Being a part of Meridian Floorball has brought
-me immense joy, and I’ll carry with me the memories I have made with my
-teammates, coaches and teachers forever!</p>
+<p></p>
+<p>My experience in Meridian Floorball has been one of the most memorable
+parts of my journey in Meridian Secondary School. I joined Meridian Floorball
+through the Direct School Admission Exercise and when I first started,
+I had little experience. However, through hard work, determination and
+the unwavering support of my teammates, I grew not only as a player but
+also as a person. Over the past four years, I have gone through a rollercoaster
+of emotions during trainings and NSG—stress, pressure, joy, and even disappointment.
+Despite the tough losses and intense training sessions, my team and I never
+gave up. Along the way, I formed strong bonds with my teammates and made
+many new friends who shared the same struggles and triumphs. Being a part
+of Meridian Floorball has brought me immense joy, and I’ll carry with me
+the memories I have made with my teammates, coaches and teachers forever!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture3.jpg">
 </div>
 <p><strong>Mohamad Shaif Bin Zulkifli,&nbsp;(2-2 2025), Captain, C Division Boys</strong>
 </p>
-<p>&nbsp;For the past two years, I have played floorball at Meridian Secondary
+<p>For the past two years, I have played floorball at Meridian Secondary
 School, gaining valuable experience as both a player and a leader. As the
 C Division Captain, I was entrusted with leading my team through training,
 competitions and school tournaments. In this role, I worked closely with
