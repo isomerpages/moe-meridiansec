@@ -48,7 +48,6 @@ and to learn cooperatively and independently.</p>
 ledgers for game boards at the <strong>2026 Regional and National FinLit Competition</strong>!
 Hosted by Smart Cloud and Temasek Polytechnic, this annual enrichment program
 gave our students a chance to put their financial savvy to the test.</p>
-<p></p>
 <p>Our students had a good experience collaborating and competing with peers
 from different schools, tackling real-world financial literacy challenges
 through interactive gameplay.&nbsp; Congratulations to our two finalists
@@ -61,10 +60,17 @@ who achieved first positions first at their tables.</p>
 <li>
 <p>LOUIS HONG WEI SHENG (3-6)</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2026/WhatsApp_Image_2026_04_02_at_11_08_35_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2026/WhatsApp_Image_2026_04_02_at_11_07_57_AM.jpg">
+</div>
+<p></p>
 <h4>STEM Playground Challenge 2025</h4>
 <p>On 23 October 2025, the Math teachers conducted the STEM (Science, Technology,
 Engineering, and Mathematics) Playground Challenge for two classes of Sec
