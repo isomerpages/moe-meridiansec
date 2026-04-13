@@ -43,6 +43,57 @@ and to learn cooperatively and independently.</p>
 </li>
 </ul>
 <h3>Highlights</h3>
+<h4>Sec 1 Code for Fun Programme 2026</h4>
+<p>As part of the school's Experiential Week on 24 and 25 March 2026, our
+Secondary 1 students participated in the Code for Fun programme—an engaging
+programme that introduces students to computational thinking, inventive
+problem-solving, and digital making through AI. This year's theme, Sustainable
+Living, encouraged students to apply their learning to real-world challenges.</p>
+<h4>Understanding how AI works in the Real World</h4>
+<p>The programme begins by demystifying AI. Rather than treating it as a
+“black box,” students explore how AI makes decisions learning that it relies
+on patterns, rules, and data processed through algorithmic steps. Through
+exploring interactive AI-powered web apps, students see firsthand how inputs
+shape outputs, explore how AI influences everyday decisions and discuss
+ethical considerations, such as bias, misinformation, and responsible use
+of AI-generated content.</p>
+<h4>Mastering Prompt Engineering</h4>
+<p>A key highlight of the programme is teaching students how to “talk” to
+AI effectively. Using the RACE framework—Role, Aim, Constraints, and Examples—students
+learn to craft clear and purposeful prompts. They apply this skill creatively
+by building a multi-screen <em>Compliment Board</em> app, fostering both
+technical skills and a positive classroom culture.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2026/Picture1.png">
+</div>
+<p></p>
+<h4>The Final Project</h4>
+<p>Here, students step into the role of designers and developers, using generative
+AI tools to bring their ideas to life. Guided by design thinking and computational
+thinking principles, they identify real-world problems, break them down,
+and build web app prototypes as solutions. Through an iterative process,
+students assess their apps with peers, gather feedback, and refine their
+designs. They learn to adapt to new constraints, rethink their approaches,
+and improve their solutions—mirroring real-world innovation cycles.</p>
+<p>More importantly, students reflect on the limitations of AI. They discover
+that while AI is powerful, it cannot replicate human judgement, creativity,
+and empathy. By identifying errors and making thoughtful improvements,
+students learn to work <em>with</em> AI, not rely on it blindly.</p>
+<h4>Conclusion</h4>
+<p>The Code for Fun Secondary 2026 programme equips students with the mindset
+and tools needed to navigate a rapidly changing technological landscape.
+By combining AI literacy, ethical awareness, and practical innovation,
+the programme empowers students to become confident creators, critical
+thinkers, and responsible users of technology.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Departments/Mathematics 2026/Picture2.png">
+</div>
+<p></p>
+<p></p>
 <h4>2026 Regional and National FinLit Competition</h4>
 <p>&nbsp;Our Secondary 3 Principles of Accounts (POA) students traded their
 ledgers for game boards at the <strong>2026 Regional and National FinLit Competition</strong>!
