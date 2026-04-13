@@ -148,15 +148,6 @@ respectively</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture1.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2025/Picture2.png">
-</div>
-<p></p>
 <h4>2026 Secondary Two Camp</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -165,12 +156,12 @@ respectively</p>
 <p>A picture speaks a thousand words. Our Secondary Two Floorballers have
 learnt survival skills and had lots of fun too!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture1.jpg">
 </div>
 <p></p>
 <h4>2026 NSG B Division Girls</h4>
+<p></p>
 <p>Our B Division Girls who have participated in the National School Games
 2026 has done very well in their matches against many schools. They have
 made victory and are proud to come back strong each time they faced difficulty.
@@ -178,6 +169,7 @@ It is never easy and our girls have grown stronger after each match with
 improvement, from playing techniques to how they handle the situation that
 came up during each match. Resilience is seen in their games as our girls
 continue to seek improvement.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture2.jpg">
@@ -196,9 +188,11 @@ to progress and shine for future matches that comes along the way!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Floorball 2026/Picture3.jpg">
 </div>
+<p></p>
 <p>Danisha Eryna (4-4), our B Division Floorball Captain represented Singapore
 at the Women’s World Floorball Championship 2025 in Brno and Ostrava.</p>
-<p>&nbsp;“Representing my country has always been my dream”,</p>
+<p>&nbsp;</p>
+<p>“Representing my country has always been my dream”,</p>
 <p>Danisha shared.</p>
 <p></p>
 <h4>2025 Singapore Youth Floorball Carnival, Boys team</h4>
