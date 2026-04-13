@@ -43,7 +43,6 @@ and to learn cooperatively and independently.</p>
 </li>
 </ul>
 <h3>Highlights</h3>
-<p></p>
 <h4>Sec 1 Code for Fun Programme 2026</h4>
 <p>As part of the school's Experiential Week on 24 and 25 March 2026, our
 Secondary 1 students participated in the Code for Fun programme—an engaging
