@@ -140,10 +140,10 @@ Football.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Football 2026/Picture4.jpg">
 </div>
 <p>&nbsp;</p>
-<h3>&nbsp;Our CCA Experience</h3>
+<h3>Our CCA Experience</h3>
 <p>&nbsp;Follow us on Instagram: @meridiansecfootball &nbsp;</p>
 <p>Join meridianfootball on Linktree for more updates:</p>
-<p>&nbsp;Check out this Linktree! - <a href="https://linktr.ee/meridianfootball?utm_source=linktree_profile_share" rel="noopener noreferrer nofollow" target="_blank">https://linktr.ee/meridianfootball?utm_source=linktree_profile_share</a>
+<p>Check out this Linktree! - <a href="https://linktr.ee/meridianfootball?utm_source=linktree_profile_share" rel="noopener noreferrer nofollow" target="_blank">https://linktr.ee/meridianfootball?utm_source=linktree_profile_share</a>
 </p>
 <p></p>
 <p></p>
