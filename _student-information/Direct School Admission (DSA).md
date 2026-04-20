@@ -49,7 +49,7 @@ through the MOE DSA-SEC Exercise 2026.</p>
 <h3>ADMISSION CRITERIA</h3>
 <p>The general criteria for selection are as follows:</p>
 <p></p>
-<p> <strong>Interest &amp; passion</strong>
+<p><strong>Interest &amp; passion</strong>
 <br>Applicants should demonstrate a keen interest in and passion for their
 respective talent areas. A clear and genuine aspiration in the talent area
 is an advantage.</p>
