@@ -21,21 +21,29 @@ sections:
           url: /resources/
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
-  - infobar:
-      title: Release of 2025 GCE O Level Results
-      id: infobar
-      button: CLICK HERE
-      url: /release-of-2025-gce-o-level-results/
+  - infopic:
+      title: Direct School Admission 2026
+      subtitle: DSA 2026
+      id: infopic
+      description: Click on the link below to find out about our DSA application process.
+      button: Click Here
+      url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
+      image: /images/DSA_2026.png
+      alt: Image alt text
+  - infopic:
+      title: Our Achievements
+      id: infopic
+      description: Click below to find out more about our Meridians who have been
+        making waves.
+      button: FIND OUT MORE
+      url: /about-us/our-stories/meridians-making-waves/
+      alt: Image alt text
+      image: /images/Meridians Making Waves/bdivgirls2025.png
   - infobar:
       title: 2026 Sec 1 Registration
       id: infobar
       button: CLICK HERE
       url: https://www.meridiansec.moe.edu.sg/2025-sec-1-registration/
-  - infobar:
-      title: Release of 2025 N Level Results
-      id: infobar
-      button: CLICK HERE
-      url: https://www.meridiansec.moe.edu.sg/release-of-2025-n-level-results/
   - infopic:
       title: 2025 Open House
       id: infopic
@@ -46,15 +54,6 @@ sections:
       image: /images/Announcements/Open_House_Poster_2025.png
       url: /2025-open-house-for-p6-students/
   - infopic:
-      title: Our Achievements
-      id: infopic
-      description: Click below to find out more about our Meridians who have been
-        making waves.
-      button: FIND OUT MORE
-      url: /about-us/our-stories/meridians-making-waves/
-      alt: Image alt text
-      image: /images/Meridians Making Waves/bdivgirls2025.png
-  - infopic:
       title: Full Subject-Based Banding (Full SBB)
       description: Meridian Secondary School has embarked on Full Subject-Based
         Banding for our Secondary 1 students since 2023.
@@ -62,9 +61,4 @@ sections:
       url: student-information/full-sbb/
       image: /images/Homepage and Logos/teacher and students.jpg
       alt: FSBB Poster
-  - infobar:
-      title: 2025 EOY Exam Script Checking Timetable
-      id: infobar
-      button: Click here
-      url: https://www.meridiansec.moe.edu.sg/2025-eoy-exam-script-checking-timetable/
 ---
