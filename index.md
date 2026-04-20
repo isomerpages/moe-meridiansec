@@ -28,7 +28,7 @@ sections:
       description: Click on the link below to find out about our DSA application process.
       button: Click Here
       url: https://www.meridiansec.moe.edu.sg/student-information/dsa/
-      image: /images/DSA_2026.png
+      image: /images/DSA_2026_edited.png
       alt: Image alt text
   - infopic:
       title: Our Achievements
