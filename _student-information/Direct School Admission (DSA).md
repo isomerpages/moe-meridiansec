@@ -260,7 +260,6 @@ IS) or in person at their respective primary schools.</p>
 </table>
 <p>&nbsp;</p>
 <hr>
-<p></p>
 <h3>SUBMISSION OF APPLICATION</h3>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal
 (<a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>).</p>
@@ -269,11 +268,8 @@ IS) or in person at their respective primary schools.</p>
 <h3>IMPORTANT NOTES</h3>
 <p><strong>&nbsp;Parents and students are encouraged to choose schools wisely based on the student’s <u>aptitudes and strengths</u>, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<p><strong>&nbsp;Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
 </p>
-<p><strong>Students who are successfully admitted to the school via DSA are expected to <u>honour their commitment</u> to the school and participate in the activities related to the talent they are selected throughout their secondary school years.</strong>
-</p>
-<h3></h3>
 <h3>For students NOT studying in MOE mainstream primary schools</h3>
 <p>Students not studying in MOE schools are required to obtain a Registration
 Number (RGxxxxxxx) at MOE Customer Service Centre (CSC), before they can
@@ -282,8 +278,7 @@ MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener
 </p>
 <p>&nbsp;</p>
 <hr>
-<p>&nbsp;</p>
-<h3>FOR DSA ENQUIRIES</h3>
+<h3>&nbsp;FOR DSA ENQUIRIES</h3>
 <p></p>
 <p>For general enquiries, you may contact:</p>
 <table style="minWidth: 50px">
@@ -307,6 +302,7 @@ MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener
 </table>
 <p>&nbsp;</p>
 <h3>USEFUL MOE WEBLINKS</h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
