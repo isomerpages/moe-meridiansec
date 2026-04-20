@@ -15,7 +15,7 @@ and talents that they can demonstrate beyond the PSLE.</p>
 <p>Meridian Secondary School (MSS) extends a warm invitation to Primary 6
 students to apply for direct admission into the school for academic year
 2027 before the Secondary One Posting Exercise.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <h3>Meridian Secondary School offers DSA for the following Talent Areas:</h3>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -41,7 +41,7 @@ students to apply for direct admission into the school for academic year
 </li>
 </ul>
 <p>(Boys &amp; girls are both accepted for each of the 5 talent areas)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>If you are interested and would like to join us, you may seek admission
 through DSA.&nbsp; We will be admitting Secondary One students for 2027
 through the MOE DSA-SEC Exercise 2026.</p>
@@ -71,7 +71,6 @@ Applicants should be able to demonstrate evidence of good conduct in school.</p>
 Primary 6 (Mid-year)</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <h3>CRITERIA / SELECTION PROCESS</h3>
 <p></p>
@@ -362,8 +361,7 @@ MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener
 <td rowspan="1" colspan="1">
 <p><strong>Direct to DSA-Sec Portal (Non-Mainstream Students)</strong>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
+<p></p>
 <p><strong><em>(*go live on 6 May 2026, 11am)</em></strong>
 </p>
 </td>
