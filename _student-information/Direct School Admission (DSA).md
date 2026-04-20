@@ -211,7 +211,8 @@ Games (NSG) or any equivalent competition/involvements (eg. for football
 <h4>APPLICATION STAGE</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge. For more details, please refer to MOE
-website – <em><u>www.moe.gov.sg/dsa-sec</u></em>.</p>
+website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
 </td>
 </tr>
 <tr>
