@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2026/DSA_Leadership_Leaflet__to_be_placed_at_Primary_Schools_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Uniquely Meridian/LLP 2026/DSA_Leadership_Leaflet__to_be_placed_at_Primary_Schools_.jpg">
 </div>
 <p></p>
 <p></p>
