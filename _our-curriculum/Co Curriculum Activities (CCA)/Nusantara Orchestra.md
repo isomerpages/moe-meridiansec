@@ -48,7 +48,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Tuesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30pm – 5.30pm</p>
+<p>2.45pm – 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room &amp; Art Gallery</p>
@@ -59,7 +59,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30pm – 5.30pm</p>
+<p>2.45pm – 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room &amp; Art Gallery</p>
@@ -67,19 +67,25 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Ng Yi Qing (Overall IC)</p>
 </li>
 <li>
-<p>Miss Veronica Lee (2IC</p>
+<p>Miss Veronica Lee (2IC)</p>
 </li>
 <li>
 <p>Mdm Norzalina Bohari</p>
 </li>
 <li>
 <p>Mdm Nordiana Daim</p>
+</li>
+<li>
+<p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
 </li>
 </ul>
 <h3>Instructor</h3>
@@ -101,10 +107,15 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 <li>
 <p>Mr Muhammad Hariz Bin Mohammad Azhari</p>
+<p></p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<h4>Angklung &amp; Kulintang Ensemble</h4>
+<p>The Meridian Nusantara Orchestra, comprising Angklung/Kulintang Ensemble
+and Gamelan Ensemble, has been the pride of the school. Their quality performance
+has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
+<p></p>
+<p>Angklung &amp; Kulintang Ensemble</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -112,28 +123,101 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 </li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Distinction <strong>PLEASE ADD THIS LINE</strong>
+</p>
+</li>
 </ul>
-<h4>Gamelan Ensemble</h4>
+<p>Gamelan Ensemble</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
 </li>
 <li>
 <p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Accomplishment <strong>PLEASE ADD THIS LINE</strong>
+</p>
+</li>
+</ul>
+<p>Angklung &amp; Kulintang Ensemble</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+</li>
+</ul>
+<p>Gamelan Ensemble</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
+<p></p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture1.jpg">
-</div>
-<p><strong>SYF 2025 - MNO ANGKLUNG &amp; KULINGTANG ENSEMBLE</strong>
+<p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P1.jpg">
 </div>
+<p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P2.jpg">
+</div>
 <h3>Highlights</h3>
+<p></p>
+<h4>2026</h4>
+<p><strong>Sec 1 CCA Experience</strong>
+</p>
+<p>The Sec 1 CCA Experience gave students a warm and engaging introduction
+to MNO. Senior members guided them through a typical training session,
+helping them feel welcomed and at ease. Through patient guidance, the Sec
+1 students discovered that picking up musical skills can be both manageable
+and enjoyable. The seniors taught them simple keynotes, enabling everyone
+to come together and play a short musical piece, building confidence and
+excitement for their musical journey ahead.</p>
+<p>&nbsp;</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>School Exchange with Opera Estate Primary School</em>
+</p>
+<p></p>
+<p>The school exchange with Opera Estate Primary School was a meaningful
+celebration of music and connection. Students from both schools performed
+pieces, sharing their talents for appreciation and enjoyment. Our MNO members
+guided the junior musicians, sharing musical knowledge in a supportive
+and engaging way. Through this interaction, students bonded, built friendships,
+and grew in confidence. The exchange not only enriched their musical experience
+but also carved a promising path for future collaboration between both
+schools.</p>
 <h4>2025</h4>
 <p>The <strong>Meridian Nusantara Orchestra (MNO)</strong> has made Meridian
 proud at the <strong>Singapore Youth Festival (SYF) 2025</strong>, achieving <strong>Double Distinction</strong> in

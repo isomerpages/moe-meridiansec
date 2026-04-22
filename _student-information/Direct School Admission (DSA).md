@@ -142,12 +142,10 @@ art exhibitions/competitions</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection interview for shortlisted applicants</p>
+<p>All applicants will need to submit and an existing E-portfolio for shortlisting
+purposes. Hard copies and/or actual works will not be accepted.</p>
 <p>&nbsp;</p>
-<p>Shortlisted students will be required to submit images of artwork collections</p>
-<p>(Either printed hard copies or softcopies – actual artworks not to be
-accepted)</p>
-<p>&nbsp;</p>
+<p>Selection interview for shortlisted applicants.</p>
 </td>
 </tr>
 <tr>
@@ -166,8 +164,7 @@ Games (NSG) or any equivalent competition/involvements (eg. for football
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Sports trials (which may include an interview) for shortlisted applicants</p>
+<p>&nbsp;Sports trials (which may include an interview) for shortlisted applicants</p>
 </td>
 </tr>
 </tbody>
