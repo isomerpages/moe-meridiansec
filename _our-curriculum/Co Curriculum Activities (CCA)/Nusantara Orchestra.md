@@ -227,12 +227,21 @@ schools.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture6.png">
+</div>
+<p></p>
 <p>The Angklung &amp; Kulintang Ensemble delivered an outstanding SYF performance,
 earning a well-deserved Certificate of Distinction. With poise, absolute
 focus, and seamless synchrony, every note reflected their dedication and
 discipline. Their performance was not just technically impressive, but
 deeply expressive – instilling a strong sense of pride in all who watched.
 A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture7.png">
+</div>
 <p></p>
 <p></p>
 <p>The Gamelan Ensemble captivated the audience with a stellar SYF performance,
@@ -275,7 +284,10 @@ bonds through a shared passion for music. Such experiences not only build
 confidence and collaboration, but also nurture open-mindedness, communication
 skills, and a deeper appreciation for diverse musical practices.</p>
 <h4>2024</h4>
-<p>School Exchange with Haig Girl’s Primary School</p>
+<p><strong>School Exchange with Haig Girl’s Primary School</strong>
+</p>
+<p></p>
+<p></p>
 <p>As part of their VIA service, MNO took on a meaningful role in coaching
 and mentoring the Nusantara Orchestra students from Haig Girls' School
 as they prepared for their SYF performance. Our students guided their juniors
