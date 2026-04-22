@@ -286,7 +286,15 @@ ensemble playing. Our MNO members, on the other hand, developed leadership,
 empathy, and communication skills. The programme also strengthened ties
 between both schools, fostering a supportive musical community built on
 collaboration, mentorship, and a shared love for music.</p>
-<p>Hari Raya Community Performance</p>
+<p></p>
+<p><strong>Hari Raya Community Performance</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2025/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p>MNO was honoured to be invited to perform at the Hari Raya celebration
