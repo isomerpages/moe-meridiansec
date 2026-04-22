@@ -198,20 +198,7 @@ to come together and play a short musical piece, building confidence and
 excitement for their musical journey ahead.</p>
 <p>&nbsp;</p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>School Exchange with Opera Estate Primary School</em>
+<p><strong><em>School Exchange with Opera Estate Primary School</em></strong>
 </p>
 <p></p>
 <p>The school exchange with Opera Estate Primary School was a meaningful
@@ -223,12 +210,11 @@ and grew in confidence. The exchange not only enriched their musical experience
 but also carved a promising path for future collaboration between both
 schools.</p>
 <h4>2025</h4>
-<p><em>Singapore Youth Festival (SYF) 2025</em>
+<p><strong><em>Singapore Youth Festival (SYF) 2025</em></strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture6.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture6.png">
 </div>
 <p></p>
 <p>The Angklung &amp; Kulintang Ensemble delivered an outstanding SYF performance,
@@ -238,11 +224,9 @@ discipline. Their performance was not just technically impressive, but
 deeply expressive – instilling a strong sense of pride in all who watched.
 A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture7.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture7.png">
 </div>
-<p></p>
 <p></p>
 <p>The Gamelan Ensemble captivated the audience with a stellar SYF performance,
 that also earned a well-deserved Certificate of Distinction. With remarkable
@@ -253,7 +237,7 @@ teamwork. A performance of such artistry and excellence is truly a source
 of immense pride for the school.</p>
 <p><em>&nbsp;</em>
 </p>
-<p><em>SYF Showcase@Esplanade</em>
+<p><strong><em>SYF Showcase@Esplanade</em></strong>
 </p>
 <p></p>
 <p>Embracing the theme of SG60, “Building Our Singapore Together”, the&nbsp;<em>Singapore Youth Festival (SYF) 2025 Celebrations</em>&nbsp;presents
@@ -380,5 +364,5 @@ more effectively with the members of this big family. I also learned to
 take initiative and work closely with our Head Chairperson, Syahmi.</p>
 <p>&nbsp;Beyond developing my musical skills, I have grown to be more responsible
 in handling the instruments and more attentive to my teachers and instructors.</p>
-<p>&nbsp;<em>Queaisyah Binte Mohammad Zaki (3-6)</em>
+<p>&nbsp;<em>Queaisyah Binte Mohammad Zaki (3-6</em>
 </p>
