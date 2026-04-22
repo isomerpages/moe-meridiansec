@@ -117,7 +117,8 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
-<p>Angklung &amp; Kulintang Ensemble</p>
+<p><strong>Angklung &amp; Kulintang Ensemble</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -129,7 +130,8 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 </li>
 </ul>
-<p>Gamelan Ensemble</p>
+<p><strong>Gamelan Ensemble</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -141,7 +143,8 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 </ul>
-<p>Angklung &amp; Kulintang Ensemble</p>
+<p><strong>Angklung &amp; Kulintang Ensemble</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -153,7 +156,8 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 </li>
 </ul>
-<p>Gamelan Ensemble</p>
+<p><strong>Gamelan Ensemble</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -219,16 +223,57 @@ and grew in confidence. The exchange not only enriched their musical experience
 but also carved a promising path for future collaboration between both
 schools.</p>
 <h4>2025</h4>
-<p>The <strong>Meridian Nusantara Orchestra (MNO)</strong> has made Meridian
-proud at the <strong>Singapore Youth Festival (SYF) 2025</strong>, achieving <strong>Double Distinction</strong> in
-both the <strong>Kulintang</strong> and <strong>Gamelan</strong> categories.
-This outstanding accomplishment is a testament to the students’ <strong>dedication, discipline, and teamwork</strong>.
-Months of focused rehearsals and a shared passion for music enabled the
-orchestra to perform with precision and heart, showcasing the beauty of
-traditional Indonesian instruments in perfect harmony. Their success not
-only reflects their musical excellence but also embodies the true Meridian
-spirit of perseverance, collaboration, and pride. Congratulations to the
-MNO for this remarkable achievement!</p>
+<p><em>Singapore Youth Festival (SYF) 2025</em>
+</p>
+<p></p>
+<p></p>
+<p>The Angklung &amp; Kulintang Ensemble delivered an outstanding SYF performance,
+earning a well-deserved Certificate of Distinction. With poise, absolute
+focus, and seamless synchrony, every note reflected their dedication and
+discipline. Their performance was not just technically impressive, but
+deeply expressive – instilling a strong sense of pride in all who watched.
+A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
+<p></p>
+<p></p>
+<p>The Gamelan Ensemble captivated the audience with a stellar SYF performance,
+that also earned a well-deserved Certificate of Distinction. With remarkable
+precision, unity, and control, the ensemble delivered a rich and immersive
+musical experience. Their disciplined coordination and nuanced expression
+brought the music to life, reflecting countless hours of dedication and
+teamwork. A performance of such artistry and excellence is truly a source
+of immense pride for the school.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>SYF Showcase@Esplanade</em>
+</p>
+<p></p>
+<p>Embracing the theme of SG60, “Building Our Singapore Together”, the&nbsp;<em>Singapore Youth Festival (SYF) 2025 Celebrations</em>&nbsp;presents
+a performing arts showcase that aims to strengthen community bonds and
+inspire youth engagement, fostering a sense of shared identity and collective
+future. The Angklung &amp; Kulintang Ensemble proudly showcased their talents
+at Kaleidoscope, the SYF showcase held at the iconic Esplanade – Theatres
+on the Bay. A standout highlight of the performance was the lively interactive
+segment, where audience members were invited to try the angklung and play
+along to the familiar tunes of the beloved National Day song, We Are Singapore.
+This engaging moment transformed the performance into a shared musical
+experience, creating a joyful and immersive atmosphere that resonated with
+all.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>School Exchange with Hougang Secondary School</em>
+</p>
+<p>MNO’s school exchange with Hougang Secondary School was a meaningful and
+enriching experience for all involved. Students actively learned from one
+another, sharing musical knowledge, exchanging tips on their respective
+instruments, and gaining fresh perspectives on performance techniques.
+Beyond honing their skills, the exchange fostered new friendships and strengthened
+bonds through a shared passion for music. Such experiences not only build
+confidence and collaboration, but also nurture open-mindedness, communication
+skills, and a deeper appreciation for diverse musical practices.</p>
 <h4>2024</h4>
 <p><strong>VIA Mentoring Programme</strong>
 </p>
