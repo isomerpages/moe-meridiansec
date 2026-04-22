@@ -106,8 +106,10 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Mr Muhammad Fariz Bin Adbul Rashid</p>
 </li>
 <li>
-<p>Mr Muhammad Hariz Bin Mohammad Azhari</p>
-<p></p>
+<p>Mr Muhammad Hariz Bin Mohammad Azhar</p>
+</li>
+<li>
+<p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
 </li>
 </ul>
 <h3>Achievements</h3>
@@ -124,8 +126,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction <strong>PLEASE ADD THIS LINE</strong>
-</p>
+<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 </li>
 </ul>
 <p>Gamelan Ensemble</p>
@@ -137,8 +138,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
 </li>
 <li>
-<p>SYF Arts Presentation 2021 – Certificate of Accomplishment <strong>PLEASE ADD THIS LINE</strong>
-</p>
+<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 </li>
 </ul>
 <p>Angklung &amp; Kulintang Ensemble</p>
