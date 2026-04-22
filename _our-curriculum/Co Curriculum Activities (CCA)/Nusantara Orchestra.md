@@ -326,33 +326,39 @@ journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
+<p></p>
 <h3>Our CCA Experience</h3>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO2.jpg">
+</div>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
 on responsibilities, I developed important skills such as communication,
 teamwork, and confidence. My instructors also played a significant role
 in this journey, guiding and supporting me every step of the way, which
 allowed me to improve continuously.</p>
-<p>&nbsp;</p>
-<p>These experiences gave me the courage to step up and lead others, eventually
-leading me to take on the role of Head Chairperson of the CCA. I am truly
-grateful for how MNO has shaped me into a more confident and responsible
-leader.</p>
-<p>&nbsp;</p>
-<p><em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
+<p>&nbsp;These experiences gave me the courage to step up and lead others,
+eventually leading me to take on the role of Head Chairperson of the CCA.
+I am truly grateful for how MNO has shaped me into a more confident and
+responsible leader.</p>
+<p>&nbsp;<em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO1.jpg">
+</div>
 <p></p>
 <p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
 <p>I remember when I first joined MNO in Secondary 1, the teachers and seniors
 were patient, supportive, and caring.</p>
-<p>&nbsp;</p>
 <p>Through MNO, I learned to lead by example and take initiative. As the
 newly appointed Vice Chairperson, I have learned to lead the CCA and communicate
 more effectively with the members of this big family. I also learned to
 take initiative and work closely with our Head Chairperson, Syahmi.</p>
-<p>&nbsp;</p>
-<p>Beyond developing my musical skills, I have grown to be more responsible
+<p>&nbsp;Beyond developing my musical skills, I have grown to be more responsible
 in handling the instruments and more attentive to my teachers and instructors.</p>
-<p>&nbsp;</p>
-<p><em>Queaisyah Binte Mohammad Zaki (3-6)</em>
+<p>&nbsp;<em>Queaisyah Binte Mohammad Zaki (3-6)</em>
 </p>
