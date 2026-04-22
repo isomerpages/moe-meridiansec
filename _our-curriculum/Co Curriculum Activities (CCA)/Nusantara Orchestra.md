@@ -275,19 +275,43 @@ bonds through a shared passion for music. Such experiences not only build
 confidence and collaboration, but also nurture open-mindedness, communication
 skills, and a deeper appreciation for diverse musical practices.</p>
 <h4>2024</h4>
+<p>School Exchange with Haig Girl’s Primary School</p>
+<p>As part of their VIA service, MNO took on a meaningful role in coaching
+and mentoring the Nusantara Orchestra students from Haig Girls' School
+as they prepared for their SYF performance. Our students guided their juniors
+with patience and care, sharing musical techniques, rehearsal strategies,
+and performance tips. This experience was mutually enriching. The Haig
+Girls’ students gained confidence, skills, and a deeper understanding of
+ensemble playing. Our MNO members, on the other hand, developed leadership,
+empathy, and communication skills. The programme also strengthened ties
+between both schools, fostering a supportive musical community built on
+collaboration, mentorship, and a shared love for music.</p>
+<p>Hari Raya Community Performance</p>
+<p></p>
+<p></p>
+<p>MNO was honoured to be invited to perform at the Hari Raya celebration
+hosted by Pasir Ris Central Community Club. Set against the heartfelt theme <em>“Nostalgia Raya”</em>,
+the performance evoked cherished memories of the past through familiar
+tunes and expressive melodies. The event was graced by Desmond Tan, Grassroots
+Adviser to Pasir Ris Central GROs, adding to the significance of the occasion.</p>
+<p></p>
+<p>It was truly an honour to perform for the residents, whose heartfelt appreciation
+and warm support uplifted and inspired our musicians. Through this meaningful
+experience, the ensemble not only celebrated cultural heritage but also
+strengthened their connection with the community through the shared joy
+of music.</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>VIA Mentoring Programme</strong>
 </p>
 <p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
 to coach them in their preparation for SYF performance. The collaboration
 was meaningful as it forged a sisterhood among the girls.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
-</div>
+<p></p>
 <p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
 Community Club</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
-</div>
+<p></p>
 <p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
 the festivity with the residence at Pasir Ris Central Community Club. The
 Secondary 3 MNOs serenaded them with two songs – a classic Raya melody,
@@ -296,40 +320,39 @@ loved the performance that they requested for an encore! Kudos to these
 Meridians who have touched the hearts of our Pasir Ris Community.</p>
 <p><strong>National Day Celebration</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO8.jpg">
-</div>
+<p></p>
 <p>MNO came together to celebrate National Day and the country’s incredible
 journey as a nation from a small island to a thriving global hub. The MNO
 dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
 our rich culture, diversity, and resilience that make us truly unique.
 Majulah Singapura!</p>
 <h3>Our CCA Experience</h3>
-<p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
+<p>My time in MNO has been a truly meaningful journey that has helped me
+grow as a leader. Through participating in various activities and taking
+on responsibilities, I developed important skills such as communication,
+teamwork, and confidence. My instructors also played a significant role
+in this journey, guiding and supporting me every step of the way, which
+allowed me to improve continuously.</p>
+<p>&nbsp;</p>
+<p>These experiences gave me the courage to step up and lead others, eventually
+leading me to take on the role of Head Chairperson of the CCA. I am truly
+grateful for how MNO has shaped me into a more confident and responsible
+leader.</p>
+<p>&nbsp;</p>
+<p><em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
-</div>
-<p>"I feel that MNO is like a family. It gives me a strong sense of belonging
-and makes me feel safe. I joined because I had experience with anklung
-and kulintang in primary school, but you don’t need to be musically talented
-to join this CCA. I’ve learned to multitask and adapt quickly here. Although
-I usually keep music notes in my head, I've found that writing them down
-can also be helpful. These skills are useful for the future, as being able
-to multitask will help me complete projects and tasks more efficiently.
-Additionally, learning how to absorb information quickly has sharpened
-my ability to learn at a faster pace.</p>
-<p>Overall, MNO is an amazing place to be."</p>
-<p><strong>&nbsp;MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
-</div>
-<p>"Having had the opportunity to serve as a level leader for two consecutive
-years, MNO has given me the chance to develop and refine my leadership
-skills. MNO aims to ignite young musicians' passion, inspiring them to
-pursue their musical dreams, and it has also taught me valuable life lessons.
-Through this experience, I’ve become a more resilient and self-motivated
-person, constantly striving to improve my character. The journey hasn’t
-always been easy, but the results are incredibly rewarding and fulfilling."&nbsp;</p>
 <p></p>
+<p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
+<p>I remember when I first joined MNO in Secondary 1, the teachers and seniors
+were patient, supportive, and caring.</p>
+<p>&nbsp;</p>
+<p>Through MNO, I learned to lead by example and take initiative. As the
+newly appointed Vice Chairperson, I have learned to lead the CCA and communicate
+more effectively with the members of this big family. I also learned to
+take initiative and work closely with our Head Chairperson, Syahmi.</p>
+<p>&nbsp;</p>
+<p>Beyond developing my musical skills, I have grown to be more responsible
+in handling the instruments and more attentive to my teachers and instructors.</p>
+<p>&nbsp;</p>
+<p><em>Queaisyah Binte Mohammad Zaki (3-6)</em>
+</p>
