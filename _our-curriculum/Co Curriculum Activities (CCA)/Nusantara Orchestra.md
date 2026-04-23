@@ -197,6 +197,11 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <h4>2026</h4>
 <p><strong>Sec 1 CCA Experience</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide2.jpg">
+</div>
 <p>The Sec 1 CCA Experience gave students a warm and engaging introduction
 to MNO. Senior members guided them through a typical training session,
 helping them feel welcomed and at ease. Through patient guidance, the Sec
@@ -208,6 +213,12 @@ excitement for their musical journey ahead.</p>
 <p></p>
 <p><strong><em>School Exchange with Opera Estate Primary School</em></strong>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide3.jpg">
+</div>
 <p></p>
 <p>The school exchange with Opera Estate Primary School was a meaningful
 celebration of music and connection. Students from both schools performed
@@ -248,6 +259,11 @@ of immense pride for the school.</p>
 <p><strong><em>SYF Showcase@Esplanade</em></strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide4.jpg">
+</div>
+<p></p>
 <p>Embracing the theme of SG60, “Building Our Singapore Together”, the&nbsp;<em>Singapore Youth Festival (SYF) 2025 Celebrations</em>&nbsp;presents
 a performing arts showcase that aims to strengthen community bonds and
 inspire youth engagement, fostering a sense of shared identity and collective
@@ -265,8 +281,13 @@ all.</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p><em>School Exchange with Hougang Secondary School</em>
+<p><strong><em>School Exchange with Hougang Secondary School</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide5.jpg">
+</div>
+<p></p>
 <p>MNO’s school exchange with Hougang Secondary School was a meaningful and
 enriching experience for all involved. Students actively learned from one
 another, sharing musical knowledge, exchanging tips on their respective
@@ -278,6 +299,11 @@ skills, and a deeper appreciation for diverse musical practices.</p>
 <h4>2024</h4>
 <p><strong>School Exchange with Haig Girl’s Primary School</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide6.jpg">
+</div>
 <p></p>
 <p></p>
 <p>As part of their VIA service, MNO took on a meaningful role in coaching
@@ -295,6 +321,9 @@ collaboration, mentorship, and a shared love for music.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide7.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
