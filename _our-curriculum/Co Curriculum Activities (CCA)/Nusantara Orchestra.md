@@ -6,6 +6,11 @@ third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
 <h2>About Us</h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Pic_1_mno.jpg">
+</div>
 <p>Meridian Nusantara Orchestra (MNO) – Where Tradition Meets Innovation!</p>
 <p>Step into the world of rhythm, culture, and creativity with the Meridian
 Nusantara Orchestra (MNO) a one-of-a-kind Performing Arts CCA that brings
