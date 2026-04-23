@@ -29,7 +29,9 @@ new sounds, MNO welcomes you to discover music like never before — and
 be part of a tradition that celebrates both heritage and innovation!</p>
 <p></p>
 <p></p>
+<p></p>
 <h3>Schedule and Venue</h3>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -77,6 +79,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -95,6 +98,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <h3>Instructor</h3>
 <p><strong>Main Instructor / Conductor</strong>
