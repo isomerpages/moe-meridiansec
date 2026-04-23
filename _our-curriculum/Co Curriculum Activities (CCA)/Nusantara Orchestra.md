@@ -6,6 +6,12 @@ third_nav_title: Co Curriculum Activities (CCA)
 variant: tiptap
 ---
 <h2>About Us</h2>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Pic_1_mno.jpg">
+</div>
+<p></p>
 <p>Meridian Nusantara Orchestra (MNO) – Where Tradition Meets Innovation!</p>
 <p>Step into the world of rhythm, culture, and creativity with the Meridian
 Nusantara Orchestra (MNO) a one-of-a-kind Performing Arts CCA that brings
@@ -21,7 +27,12 @@ individuals who know the power of teamwork and expression.</p>
 <p>&nbsp;Whether you’re a seasoned musician or just curious about exploring
 new sounds, MNO welcomes you to discover music like never before — and
 be part of a tradition that celebrates both heritage and innovation!</p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Schedule and Venue</h3>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,8 +79,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,6 +98,8 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <h3>Instructor</h3>
 <p><strong>Main Instructor / Conductor</strong>
 </p>
@@ -106,42 +118,19 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p>Mr Muhammad Fariz Bin Adbul Rashid</p>
 </li>
 <li>
-<p>Mr Muhammad Hariz Bin Mohammad Azhari</p>
+<p>Mr Muhammad Hariz Bin Mohammad Azhar</p>
 <p></p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <h3>Achievements</h3>
+<p></p>
 <p>The Meridian Nusantara Orchestra, comprising Angklung/Kulintang Ensemble
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
-<p>Angklung &amp; Kulintang Ensemble</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction <strong>PLEASE ADD THIS LINE</strong>
-</p>
-</li>
-</ul>
-<p>Gamelan Ensemble</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Accomplishment <strong>PLEASE ADD THIS LINE</strong>
-</p>
-</li>
-</ul>
-<p>Angklung &amp; Kulintang Ensemble</p>
+<h4>Angklung &amp; Kulintang Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -151,9 +140,10 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 </li>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+<p></p>
 </li>
 </ul>
-<p>Gamelan Ensemble</p>
+<h4>Gamelan Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -165,26 +155,54 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 </li>
 </ul>
 <p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Kulingtang_SYF_2025.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
 </div>
+<p></p>
+<p></p>
+<p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture5.jpg">
+</div>
+<p></p>
+<p></p>
+<p><strong>SYF Arts Presentation 2023 (Gamelan Ensemble)</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture4.jpg">
+</div>
+<p></p>
+<p></p>
 <h3>Highlights</h3>
 <p></p>
 <h4>2026</h4>
+<p></p>
 <p><strong>Sec 1 CCA Experience</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide2.jpg">
+</div>
 <p>The Sec 1 CCA Experience gave students a warm and engaging introduction
 to MNO. Senior members guided them through a typical training session,
 helping them feel welcomed and at ease. Through patient guidance, the Sec
@@ -194,21 +212,12 @@ to come together and play a short musical piece, building confidence and
 excitement for their musical journey ahead.</p>
 <p>&nbsp;</p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>School Exchange with Opera Estate Primary School</em>
+<p><strong><em>School Exchange with Opera Estate Primary School</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide3.jpg">
+</div>
 <p></p>
 <p>The school exchange with Opera Estate Primary School was a meaningful
 celebration of music and connection. Students from both schools performed
@@ -218,73 +227,152 @@ and engaging way. Through this interaction, students bonded, built friendships,
 and grew in confidence. The exchange not only enriched their musical experience
 but also carved a promising path for future collaboration between both
 schools.</p>
-<h4>2025</h4>
-<p>The <strong>Meridian Nusantara Orchestra (MNO)</strong> has made Meridian
-proud at the <strong>Singapore Youth Festival (SYF) 2025</strong>, achieving <strong>Double Distinction</strong> in
-both the <strong>Kulintang</strong> and <strong>Gamelan</strong> categories.
-This outstanding accomplishment is a testament to the students’ <strong>dedication, discipline, and teamwork</strong>.
-Months of focused rehearsals and a shared passion for music enabled the
-orchestra to perform with precision and heart, showcasing the beauty of
-traditional Indonesian instruments in perfect harmony. Their success not
-only reflects their musical excellence but also embodies the true Meridian
-spirit of perseverance, collaboration, and pride. Congratulations to the
-MNO for this remarkable achievement!</p>
-<h4>2024</h4>
-<p><strong>VIA Mentoring Programme</strong>
-</p>
-<p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
-to coach them in their preparation for SYF performance. The collaboration
-was meaningful as it forged a sisterhood among the girls.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO10A.jpg">
-</div>
-<p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
-Community Club</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
-</div>
-<p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
-the festivity with the residence at Pasir Ris Central Community Club. The
-Secondary 3 MNOs serenaded them with two songs – a classic Raya melody,
-‘Suasana Hari Raya’ and the current trending song ‘Alamak Raya Lagi’. Residence
-loved the performance that they requested for an encore! Kudos to these
-Meridians who have touched the hearts of our Pasir Ris Community.</p>
-<p><strong>National Day Celebration</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO8.jpg">
-</div>
-<p>MNO came together to celebrate National Day and the country’s incredible
-journey as a nation from a small island to a thriving global hub. The MNO
-dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
-our rich culture, diversity, and resilience that make us truly unique.
-Majulah Singapura!</p>
-<h3>Our CCA Experience</h3>
-<p><strong>SAKURA DINAH BINTE MOHAMED FAIZAL (3E1)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO12A.jpg">
-</div>
-<p>"I feel that MNO is like a family. It gives me a strong sense of belonging
-and makes me feel safe. I joined because I had experience with anklung
-and kulintang in primary school, but you don’t need to be musically talented
-to join this CCA. I’ve learned to multitask and adapt quickly here. Although
-I usually keep music notes in my head, I've found that writing them down
-can also be helpful. These skills are useful for the future, as being able
-to multitask will help me complete projects and tasks more efficiently.
-Additionally, learning how to absorb information quickly has sharpened
-my ability to learn at a faster pace.</p>
-<p>Overall, MNO is an amazing place to be."</p>
-<p><strong>&nbsp;MUHAMMAD RIZQ AQASYA BIN MUHAMMAD NOOR (3E1)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/MNO/MNO13A.jpg">
-</div>
-<p>"Having had the opportunity to serve as a level leader for two consecutive
-years, MNO has given me the chance to develop and refine my leadership
-skills. MNO aims to ignite young musicians' passion, inspiring them to
-pursue their musical dreams, and it has also taught me valuable life lessons.
-Through this experience, I’ve become a more resilient and self-motivated
-person, constantly striving to improve my character. The journey hasn’t
-always been easy, but the results are incredibly rewarding and fulfilling."&nbsp;</p>
 <p></p>
+<h4>2025</h4>
+<p></p>
+<p><strong><em>Singapore Youth Festival (SYF) 2025</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture6.png">
+</div>
+<p></p>
+<p>The Angklung &amp; Kulintang Ensemble delivered an outstanding SYF performance,
+earning a well-deserved Certificate of Distinction. With poise, absolute
+focus, and seamless synchrony, every note reflected their dedication and
+discipline. Their performance was not just technically impressive, but
+deeply expressive – instilling a strong sense of pride in all who watched.
+A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture7.png">
+</div>
+<p></p>
+<p>The Gamelan Ensemble captivated the audience with a stellar SYF performance,
+that also earned a well-deserved Certificate of Distinction. With remarkable
+precision, unity, and control, the ensemble delivered a rich and immersive
+musical experience. Their disciplined coordination and nuanced expression
+brought the music to life, reflecting countless hours of dedication and
+teamwork. A performance of such artistry and excellence is truly a source
+of immense pride for the school.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong><em>SYF Showcase@Esplanade</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide4.jpg">
+</div>
+<p></p>
+<p>Embracing the theme of SG60, “Building Our Singapore Together”, the&nbsp;<em>Singapore Youth Festival (SYF) 2025 Celebrations</em>&nbsp;presents
+a performing arts showcase that aims to strengthen community bonds and
+inspire youth engagement, fostering a sense of shared identity and collective
+future. The Angklung &amp; Kulintang Ensemble proudly showcased their talents
+at Kaleidoscope, the SYF showcase held at the iconic Esplanade – Theatres
+on the Bay. A standout highlight of the performance was the lively interactive
+segment, where audience members were invited to try the angklung and play
+along to the familiar tunes of the beloved National Day song, We Are Singapore.
+This engaging moment transformed the performance into a shared musical
+experience, creating a joyful and immersive atmosphere that resonated with
+all.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong><em>School Exchange with Hougang Secondary School</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide5.jpg">
+</div>
+<p></p>
+<p>MNO’s school exchange with Hougang Secondary School was a meaningful and
+enriching experience for all involved. Students actively learned from one
+another, sharing musical knowledge, exchanging tips on their respective
+instruments, and gaining fresh perspectives on performance techniques.
+Beyond honing their skills, the exchange fostered new friendships and strengthened
+bonds through a shared passion for music. Such experiences not only build
+confidence and collaboration, but also nurture open-mindedness, communication
+skills, and a deeper appreciation for diverse musical practices.</p>
+<h4>2024</h4>
+<p><strong>School Exchange with Haig Girl’s Primary School</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide6.jpg">
+</div>
+<p></p>
+<p>As part of their VIA service, MNO took on a meaningful role in coaching
+and mentoring the Nusantara Orchestra students from Haig Girls' School
+as they prepared for their SYF performance. Our students guided their juniors
+with patience and care, sharing musical techniques, rehearsal strategies,
+and performance tips. This experience was mutually enriching. The Haig
+Girls’ students gained confidence, skills, and a deeper understanding of
+ensemble playing. Our MNO members, on the other hand, developed leadership,
+empathy, and communication skills. The programme also strengthened ties
+between both schools, fostering a supportive musical community built on
+collaboration, mentorship, and a shared love for music.</p>
+<p></p>
+<p></p>
+<p><strong>Hari Raya Community Performance</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide7.jpg">
+</div>
+<p></p>
+<p></p>
+<p>MNO was honoured to be invited to perform at the Hari Raya celebration
+hosted by Pasir Ris Central Community Club. Set against the heartfelt theme <em>“Nostalgia Raya”</em>,
+the performance evoked cherished memories of the past through familiar
+tunes and expressive melodies. The event was graced by Desmond Tan, Grassroots
+Adviser to Pasir Ris Central GROs, adding to the significance of the occasion.</p>
+<p></p>
+<p>It was truly an honour to perform for the residents, whose heartfelt appreciation
+and warm support uplifted and inspired our musicians. Through this meaningful
+experience, the ensemble not only celebrated cultural heritage but also
+strengthened their connection with the community through the shared joy
+of music.</p>
+<p></p>
+<p></p>
+<p></p>
+<h3>Our CCA Experience</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
+</div>
+<p>My time in MNO has been a truly meaningful journey that has helped me
+grow as a leader. Through participating in various activities and taking
+on responsibilities, I developed important skills such as communication,
+teamwork, and confidence. My instructors also played a significant role
+in this journey, guiding and supporting me every step of the way, which
+allowed me to improve continuously.</p>
+<p>&nbsp;These experiences gave me the courage to step up and lead others,
+eventually leading me to take on the role of Head Chairperson of the CCA.
+I am truly grateful for how MNO has shaped me into a more confident and
+responsible leader.</p>
+<p>&nbsp;<em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
+</div>
+<p></p>
+<p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
+<p>I remember when I first joined MNO in Secondary 1, the teachers and seniors
+were patient, supportive, and caring.</p>
+<p>Through MNO, I learned to lead by example and take initiative. As the
+newly appointed Vice Chairperson, I have learned to lead the CCA and communicate
+more effectively with the members of this big family. I also learned to
+take initiative and work closely with our Head Chairperson, Syahmi.</p>
+<p>&nbsp;Beyond developing my musical skills, I have grown to be more responsible
+in handling the instruments and more attentive to my teachers and instructors.</p>
+<p>&nbsp;<em>Queaisyah Binte Mohammad Zaki (3-6</em>
+</p>
