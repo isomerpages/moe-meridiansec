@@ -11,6 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Pic_1_mno.jpg">
 </div>
+<p></p>
 <p>Meridian Nusantara Orchestra (MNO) – Where Tradition Meets Innovation!</p>
 <p>Step into the world of rhythm, culture, and creativity with the Meridian
 Nusantara Orchestra (MNO) a one-of-a-kind Performing Arts CCA that brings
@@ -26,6 +27,7 @@ individuals who know the power of teamwork and expression.</p>
 <p>&nbsp;Whether you’re a seasoned musician or just curious about exploring
 new sounds, MNO welcomes you to discover music like never before — and
 be part of a tradition that celebrates both heritage and innovation!</p>
+<p></p>
 <h3>Schedule and Venue</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -73,8 +75,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -112,17 +113,14 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 <li>
 <p>Mr Muhammad Hariz Bin Mohammad Azhar</p>
-</li>
-<li>
-<p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
+<p></p>
 </li>
 </ul>
+<p></p>
 <h3>Achievements</h3>
 <p>The Meridian Nusantara Orchestra, comprising Angklung/Kulintang Ensemble
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
-<p></p>
-<p></p>
 <p></p>
 <p><strong>Angklung &amp; Kulintang Ensemble</strong>
 </p>
