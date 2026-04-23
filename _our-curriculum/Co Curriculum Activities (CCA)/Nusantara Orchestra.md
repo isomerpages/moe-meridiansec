@@ -257,6 +257,8 @@ discipline. Their performance was not just technically impressive, but
 deeply expressive – instilling a strong sense of pride in all who watched.
 A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture7.png">
 </div>
@@ -377,7 +379,7 @@ Majulah Singapura!</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
 </div>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
@@ -396,7 +398,7 @@ responsible leader.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
 </div>
 <p></p>
 <p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
