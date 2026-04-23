@@ -28,7 +28,9 @@ individuals who know the power of teamwork and expression.</p>
 new sounds, MNO welcomes you to discover music like never before — and
 be part of a tradition that celebrates both heritage and innovation!</p>
 <p></p>
+<p></p>
 <h3>Schedule and Venue</h3>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -91,9 +93,9 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 <li>
 <p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <h3>Instructor</h3>
 <p><strong>Main Instructor / Conductor</strong>
 </p>
@@ -117,7 +119,9 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 </ul>
 <p></p>
+<p></p>
 <h3>Achievements</h3>
+<p></p>
 <p>The Meridian Nusantara Orchestra, comprising Angklung/Kulintang Ensemble
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
@@ -146,41 +150,18 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 <p></p>
-</li>
-</ul>
-<h4>Angklung &amp; Kulintang Ensemble</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+<p></p>
+<p></p>
 <p></p>
 </li>
 </ul>
-<h4>Gamelan Ensemble</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
-<p></p>
-</li>
-</ul>
-<p></p>
 <p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Kulingtang_SYF_2025.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
@@ -190,9 +171,9 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
 </div>
 <p></p>
+<p></p>
 <p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture5.jpg">
@@ -203,16 +184,17 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 </p>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture4.jpg">
 </div>
+<p></p>
+<p></p>
 <h3>Highlights</h3>
 <p></p>
 <h4>2026</h4>
+<p></p>
 <p><strong>Sec 1 CCA Experience</strong>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide2.jpg">
@@ -243,6 +225,7 @@ but also carved a promising path for future collaboration between both
 schools.</p>
 <p></p>
 <h4>2025</h4>
+<p></p>
 <p><strong><em>Singapore Youth Festival (SYF) 2025</em></strong>
 </p>
 <p></p>
@@ -256,6 +239,7 @@ focus, and seamless synchrony, every note reflected their dedication and
 discipline. Their performance was not just technically impressive, but
 deeply expressive – instilling a strong sense of pride in all who watched.
 A truly remarkable showcase of teamwork, musical excellence, and passion.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
