@@ -259,7 +259,6 @@ of immense pride for the school.</p>
 <p><strong><em>SYF Showcase@Esplanade</em></strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide4.jpg">
 </div>
@@ -279,7 +278,6 @@ all.</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p></p>
 <p><strong><em>School Exchange with Hougang Secondary School</em></strong>
 </p>
 <p></p>
@@ -314,6 +312,7 @@ empathy, and communication skills. The programme also strengthened ties
 between both schools, fostering a supportive musical community built on
 collaboration, mentorship, and a shared love for music.</p>
 <p></p>
+<p></p>
 <p><strong>Hari Raya Community Performance</strong>
 </p>
 <p></p>
@@ -335,35 +334,12 @@ strengthened their connection with the community through the shared joy
 of music.</p>
 <p></p>
 <p></p>
-<p><strong>VIA Mentoring Programme</strong>
-</p>
-<p>Secondary 3 MNO girls mentor Nusantara Orchestra students from Haig Girls
-to coach them in their preparation for SYF performance. The collaboration
-was meaningful as it forged a sisterhood among the girls.</p>
-<p></p>
-<p>Invitation to Hari Raya Celebration with the residence at Pasir Ris Central
-Community Club</p>
-<p></p>
-<p>MNO was invited to perform for Nostalgia Raya 2024 and share the joy of
-the festivity with the residence at Pasir Ris Central Community Club. The
-Secondary 3 MNOs serenaded them with two songs – a classic Raya melody,
-‘Suasana Hari Raya’ and the current trending song ‘Alamak Raya Lagi’. Residence
-loved the performance that they requested for an encore! Kudos to these
-Meridians who have touched the hearts of our Pasir Ris Community.</p>
-<p><strong>National Day Celebration</strong>
-</p>
-<p></p>
-<p>MNO came together to celebrate National Day and the country’s incredible
-journey as a nation from a small island to a thriving global hub. The MNO
-dedicated the iconic song ‘One People, One Nation, One Singapore’ to honor
-our rich culture, diversity, and resilience that make us truly unique.
-Majulah Singapura!</p>
 <p></p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
 </div>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
@@ -382,7 +358,7 @@ responsible leader.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
 </div>
 <p></p>
 <p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
