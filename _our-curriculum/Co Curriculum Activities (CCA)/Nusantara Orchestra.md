@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Pic_1_mno.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Pic_1_mno.jpg">
 </div>
 <p></p>
 <p>Meridian Nusantara Orchestra (MNO) – Where Tradition Meets Innovation!</p>
@@ -75,7 +75,6 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,6 +91,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </li>
 <li>
 <p>Mr Dzakirin Azfar Bin Mohamed Herman</p>
+<p></p>
 </li>
 </ul>
 <h3>Instructor</h3>
@@ -122,8 +122,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
-<p><strong>Angklung &amp; Kulintang Ensemble</strong>
-</p>
+<h4>Angklung &amp; Kulintang Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -133,36 +132,10 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 </li>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Gamelan Ensemble</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
-</li>
-</ul>
-<p><strong>Angklung &amp; Kulintang Ensemble</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
-</li>
-<li>
-<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
-</li>
-</ul>
-<p><strong>Gamelan Ensemble</strong>
-</p>
+<h4>Gamelan Ensemble</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
@@ -173,23 +146,50 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <li>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 <p></p>
+</li>
+</ul>
+<h4>Angklung &amp; Kulintang Ensemble</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Distinction</p>
 <p></p>
 </li>
 </ul>
+<h4>Gamelan Ensemble</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2023 – Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Kulingtang_SYF_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Kulingtang_SYF_2025.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
 </div>
+<p></p>
 <h3>Highlights</h3>
 <p></p>
 <h4>2026</h4>
@@ -198,7 +198,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide2.jpg">
 </div>
 <p>The Sec 1 CCA Experience gave students a warm and engaging introduction
 to MNO. Senior members guided them through a typical training session,
@@ -212,10 +212,8 @@ excitement for their musical journey ahead.</p>
 <p><strong><em>School Exchange with Opera Estate Primary School</em></strong>
 </p>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide3.jpg">
 </div>
 <p></p>
 <p>The school exchange with Opera Estate Primary School was a meaningful
@@ -226,6 +224,7 @@ and engaging way. Through this interaction, students bonded, built friendships,
 and grew in confidence. The exchange not only enriched their musical experience
 but also carved a promising path for future collaboration between both
 schools.</p>
+<p></p>
 <h4>2025</h4>
 <p><strong><em>Singapore Youth Festival (SYF) 2025</em></strong>
 </p>
@@ -259,7 +258,7 @@ of immense pride for the school.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide4.jpg">
 </div>
 <p></p>
 <p>Embracing the theme of SG60, “Building Our Singapore Together”, the&nbsp;<em>Singapore Youth Festival (SYF) 2025 Celebrations</em>&nbsp;presents
@@ -277,13 +276,12 @@ all.</p>
 </p>
 <p><em>&nbsp;</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><strong><em>School Exchange with Hougang Secondary School</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide5.jpg">
 </div>
 <p></p>
 <p>MNO’s school exchange with Hougang Secondary School was a meaningful and
@@ -298,11 +296,9 @@ skills, and a deeper appreciation for diverse musical practices.</p>
 <p><strong>School Exchange with Haig Girl’s Primary School</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide6.jpg">
 </div>
-<p></p>
 <p></p>
 <p>As part of their VIA service, MNO took on a meaningful role in coaching
 and mentoring the Nusantara Orchestra students from Haig Girls' School
@@ -318,11 +314,9 @@ collaboration, mentorship, and a shared love for music.</p>
 <p><strong>Hari Raya Community Performance</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Slide7.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p>MNO was honoured to be invited to perform at the Hari Raya celebration
@@ -336,7 +330,6 @@ and warm support uplifted and inspired our musicians. Through this meaningful
 experience, the ensemble not only celebrated cultural heritage but also
 strengthened their connection with the community through the shared joy
 of music.</p>
-<p></p>
 <p></p>
 <p></p>
 <p><strong>VIA Mentoring Programme</strong>
@@ -369,7 +362,6 @@ Majulah Singapura!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
 </div>
-<p></p>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
 on responsibilities, I developed important skills such as communication,
@@ -382,6 +374,7 @@ I am truly grateful for how MNO has shaped me into a more confident and
 responsible leader.</p>
 <p>&nbsp;<em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
