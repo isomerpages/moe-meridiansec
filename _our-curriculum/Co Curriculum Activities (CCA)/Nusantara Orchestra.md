@@ -195,7 +195,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture5.jpg">
 </div>
 <p></p>
 <p></p>
@@ -205,7 +205,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture4.jpg">
 </div>
 <h3>Highlights</h3>
 <p></p>
