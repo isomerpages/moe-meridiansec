@@ -122,6 +122,8 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 and Gamelan Ensemble, has been the pride of the school. Their quality performance
 has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
+<p></p>
+<p></p>
 <p><strong>Angklung &amp; Kulintang Ensemble</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -180,14 +182,15 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Kulingtang_SYF_2025.jpg">
 </div>
 <p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/P2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
 </div>
 <h3>Highlights</h3>
 <p></p>
@@ -292,9 +295,6 @@ collaboration, mentorship, and a shared love for music.</p>
 </p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/MNO 2025/WhatsApp_Image_2024_11_14_at_10_16_08_AM.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
@@ -339,10 +339,10 @@ Majulah Singapura!</p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
 </div>
+<p></p>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
 on responsibilities, I developed important skills such as communication,
@@ -356,8 +356,10 @@ responsible leader.</p>
 <p>&nbsp;<em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
 </p>
 <p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO1.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Queaisyah_3_6.jpg">
 </div>
 <p></p>
 <p>MNO is my second home. Everyone in MNO is incredibly inclusive and welcoming.</p>
