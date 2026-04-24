@@ -30,6 +30,7 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <h3>Schedule and Venue</h3>
 <p></p>
 <p></p>
@@ -79,7 +80,6 @@ be part of a tradition that celebrates both heritage and innovation!</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
 <h3>Teachers In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -157,6 +157,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 </li>
 </ul>
 <p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
@@ -168,12 +169,14 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p><strong>SYF 2025 - MNO GAMELAN ENSEMBLE</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/MNO_Gamelan_SYF_2025.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>SYF Arts Presentation 2023 (Angklung &amp; Kulintang Ensemble)</strong>
@@ -191,6 +194,7 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture4.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <h3>Highlights</h3>
@@ -212,7 +216,7 @@ to come together and play a short musical piece, building confidence and
 excitement for their musical journey ahead.</p>
 <p>&nbsp;</p>
 <p></p>
-<p><strong><em>School Exchange with Opera Estate Primary School</em></strong>
+<p><strong>School Exchange with Opera Estate Primary School</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -228,14 +232,17 @@ and grew in confidence. The exchange not only enriched their musical experience
 but also carved a promising path for future collaboration between both
 schools.</p>
 <p></p>
+<p></p>
 <h4>2025</h4>
 <p></p>
-<p><strong><em>Singapore Youth Festival (SYF) 2025</em></strong>
+<p><strong>Singapore Youth Festival (SYF) 2025</strong>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Picture6.png">
 </div>
+<p></p>
 <p></p>
 <p>The Angklung &amp; Kulintang Ensemble delivered an outstanding SYF performance,
 earning a well-deserved Certificate of Distinction. With poise, absolute
@@ -260,7 +267,7 @@ teamwork. A performance of such artistry and excellence is truly a source
 of immense pride for the school.</p>
 <p><em>&nbsp;</em>
 </p>
-<p><strong><em>SYF Showcase@Esplanade</em></strong>
+<p><strong>SYF Showcase@Esplanade</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -280,8 +287,6 @@ experience, creating a joyful and immersive atmosphere that resonated with
 all.</p>
 <p><em>&nbsp;</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
 <p><strong><em>School Exchange with Hougang Secondary School</em></strong>
 </p>
 <p></p>
@@ -297,7 +302,10 @@ Beyond honing their skills, the exchange fostered new friendships and strengthen
 bonds through a shared passion for music. Such experiences not only build
 confidence and collaboration, but also nurture open-mindedness, communication
 skills, and a deeper appreciation for diverse musical practices.</p>
+<p></p>
+<p></p>
 <h4>2024</h4>
+<p></p>
 <p><strong>School Exchange with Haig Girl’s Primary School</strong>
 </p>
 <p></p>
@@ -315,6 +323,7 @@ ensemble playing. Our MNO members, on the other hand, developed leadership,
 empathy, and communication skills. The programme also strengthened ties
 between both schools, fostering a supportive musical community built on
 collaboration, mentorship, and a shared love for music.</p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>Hari Raya Community Performance</strong>
@@ -339,12 +348,15 @@ of music.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
 <h3>Our CCA Experience</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CCA/MNO 2026/Syahmi_3_5.jpg">
 </div>
+<p></p>
 <p>My time in MNO has been a truly meaningful journey that has helped me
 grow as a leader. Through participating in various activities and taking
 on responsibilities, I developed important skills such as communication,
@@ -357,6 +369,7 @@ I am truly grateful for how MNO has shaped me into a more confident and
 responsible leader.</p>
 <p>&nbsp;<em>Mohamed Ariel Syahmi Bin Mohamed Herni (3-5)</em>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
