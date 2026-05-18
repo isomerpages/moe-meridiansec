@@ -155,11 +155,17 @@ has garnered top awards in the bi-annual Singapore Youth Festival (SYF).</p>
 <p>SYF Arts Presentation 2021 – Certificate of Accomplishment</p>
 <p></p>
 <p></p>
+<p>Here are some videos of our past SYF performances:</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L4YVg6w7IYs?si=oHiZuO2SWdIE7TF2"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>SYF Arts Presentation 2025 (Angklung &amp; Kulintang Ensemble)</strong>
 </p>
 <p></p>
