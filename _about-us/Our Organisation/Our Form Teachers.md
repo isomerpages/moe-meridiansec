@@ -35,8 +35,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Moon Jia Yuan&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">moon_jia_yuan@moe.edu.sg</a>
+<p>Mr Tay Guo Kwang</p>
+<p><a href="mailto:tay_guo_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_guo_kwang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -83,8 +83,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Kim Gin&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheong_kim_gin@moe.edu.sg</a>
+<p>Ms Guo Xiaofei</p>
+<p><a href="mailto:guo_xiaofei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_xiaofei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
