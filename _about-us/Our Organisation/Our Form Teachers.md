@@ -180,7 +180,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmin Tan Jiemin</p>
+<p>Ms Nur Fateha Bte Kamsani</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jasmin_tan_jiemin@moe.edu.sg</a>
 </p>
 </td>
@@ -199,6 +199,10 @@ variant: tiptap
 <p>Mdm Ahadiyah Binte Rosmani</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">Ahadiyah_rosmani@moe.edu.sg</a>
 </p>
+<p>Mr Tristan Gerard Rodrigues Toh</p>
+<p><a href="mailto:tristan_gerard_rodrigues_toh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tristan_gerard_rodrigues_toh@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -215,8 +219,8 @@ variant: tiptap
 <p>Mdm Yu Wei</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">yu_wei@moe.edu.sg</a>
 </p>
-<p>Ms Goh Sze Li</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_sze_li_a@moe.edu.sg</a>
+<p>Mr Tay Siew Kwong</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_siew_kwong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -292,6 +296,9 @@ variant: tiptap
 <p>Mdm Norazisza Bte Mohd Taib&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">norazisza_mohamed_taib@moe.edu.sg</a>
 </p>
+<p>Ms Zhao Xiaomeng</p>
+<p><a href="mailto:zhao_xiaomeng_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhao_xiaomeng_1@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,6 +327,9 @@ variant: tiptap
 <p>Mdm Siti Zaidah Bte Abas&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_zaidah_abas@moe.edu.sg</a>
 </p>
+<p>Mr Ng Chee Kin</p>
+<p><a href="mailto:ng_chee_kin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chee_kin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -335,6 +345,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Nuradila bte Osman&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">nuradila_osman@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Muhammad Dzakirin</p>
+<p><a href="mailto:muhamad_dzakirin_azfar_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_dzakirin_azfar_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -400,6 +414,9 @@ variant: tiptap
 <p>Mr Vaahidalisha S/O Pakiri Muhammad&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">vaahidalisha_muhammad@moe.edu.sg</a>
 </p>
+<p>Mr Sng Jian Hao</p>
+<p><a href="mailto:sng_jian_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_jian_hao@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -416,6 +433,9 @@ variant: tiptap
 <p>Mr Chou Cher Hoong&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">chou_cher_hoong@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Miss Wang Jin</p>
+<p>wang_jin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
