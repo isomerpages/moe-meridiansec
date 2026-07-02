@@ -35,7 +35,7 @@ talent within our school community.</p>
 <p><a href="/files/10th Anniversary/MSS_10_Anniversary_Writing_Competition___EL_Entries.pdf" rel="noopener nofollow" target="_blank">English Language Selection</a>
 </p>
 <h4>Chinese Language</h4>
-<p><a href="/files/10th Anniversary/.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selection</a>
+<p><a href="/files/10th Anniversary/Chinese_Language_Selected_Works.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selection</a>
 </p>
 <h4>Malay Language</h4>
 <p>a. Letters of Appreciation Category</p>
