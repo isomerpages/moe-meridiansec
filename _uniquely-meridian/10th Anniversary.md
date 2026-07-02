@@ -32,10 +32,10 @@ which reflect the imagination, thoughtfulness and diverse perspectives
 of our students. We invite you to enjoy their writing and celebrate the
 talent within our school community.</p>
 <h4>English Language</h4>
-<p><a href="/files/10th Anniversary/MSS_10_Anniversary_Writing_Competition___EL_Entries.pdf" rel="noopener nofollow" target="_blank">English Language Selected Students' English Language Selected Students' WorksWork</a>
+<p><a href="/files/10th Anniversary/MSS_10_Anniversary_Writing_Competition___EL_Entries.pdf" rel="noopener nofollow" target="_blank">English Language Selection</a>
 </p>
 <h4>Chinese Language</h4>
-<p><a href="/files/10th Anniversary/.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selected StudenChinese Language Selected Students' Worksts Work</a>
+<p><a href="/files/10th Anniversary/.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selection</a>
 </p>
 <h4>Malay Language</h4>
 <p>a. Letters of Appreciation Category</p>
