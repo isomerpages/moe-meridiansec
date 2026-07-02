@@ -29,6 +29,7 @@ sections:
       url: https://www.meridiansec.moe.edu.sg/10th-anniversary/
       image: /images/Uniquely Meridian/MSS_10th_Anniversary_Logo.jpg
       alt: 10th Anniversary Logo
+      subtitle: 3 Jul (Fri), 5:30pm - 7pm
   - infopic:
       title: Direct School Admission 2026
       subtitle: DSA 2026
