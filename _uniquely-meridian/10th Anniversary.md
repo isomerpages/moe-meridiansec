@@ -4,8 +4,26 @@ permalink: /10th-anniversary/
 variant: tiptap
 description: ""
 ---
-<h1>10th Anniversary Celebrations: Creative Writing Competition</h1>
-<p></p>
+<h1>10th Anniversary Celebrations</h1>
+<h2>1. 10th Anniversary Concert: Live Streaming</h2>
+<p>Tune in to the live stream of Meridian Secondary School's 10th Anniversary
+Concert.</p>
+<p>Whether you are joining us from home or tuning in from elsewhere, we are
+delighted to have you celebrate this special milestone with our Meridian
+family.</p>
+<p>This concert commemorates a decade of growth, resilience and excellence.
+Through music, dance and drama, our students pay tribute to the school's
+journey over the past ten years while looking forward with home and confidence
+to the future.</p>
+<p>Sit back, enjoy the performances, and celebrate with us as we honour the
+people, memories and shared experiences that have shaped our school.</p>
+<p>We hop you enjoy the show!</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sa79pv7BQgg?si=dIn5old4dszcZHJ6"></iframe>
+</div>
+<p>Link: <a href="https://www.youtube.com/live/Sa79pv7BQgg?si=WCFBoZf_tNtS2rGX" rel="noopener nofollow" target="_blank">Live Streaming Link</a>
+</p>
+<h2>2. Creative Writing Competition</h2>
 <p>As part of our school's 10th Anniversary celebrations, students participated
 in the 10th Anniversary Creative Writing Competition, expressing their
 creativity and unique voices through the English Language and Mother Tongue
@@ -14,9 +32,10 @@ which reflect the imagination, thoughtfulness and diverse perspectives
 of our students. We invite you to enjoy their writing and celebrate the
 talent within our school community.</p>
 <h4>English Language</h4>
-<p>[To be updated]</p>
+<p><a href="/files/10th Anniversary/MSS_10_Anniversary_Writing_Competition___EL_Entries.pdf" rel="noopener nofollow" target="_blank">English Language Selected Students' English Language Selected Students' WorksWork</a>
+</p>
 <h4>Chinese Language</h4>
-<p><a href="/files/10th Anniversary/.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selected Students Work</a>
+<p><a href="/files/10th Anniversary/.pdf" rel="noopener nofollow" target="_blank">Chinese Language Selected StudenChinese Language Selected Students' Worksts Work</a>
 </p>
 <h4>Malay Language</h4>
 <p>a. Letters of Appreciation Category</p>
