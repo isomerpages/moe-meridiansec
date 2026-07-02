@@ -22,6 +22,13 @@ sections:
       subtitle: Joyful Learners, Creative Thinkers, Compassionate Leaders
       variant: center
   - infopic:
+      title: 10th Anniversary Concert
+      id: infopic
+      description: Join us for an evening of music and celebrations!
+      button: Live Streaming Details
+      url: https://www.meridiansec.moe.edu.sg/10th-anniversary/
+      image: /images/Uniquely Meridian/MSS_10th_Anniversary_Logo.jpg
+  - infopic:
       title: Direct School Admission 2026
       subtitle: DSA 2026
       id: infopic
