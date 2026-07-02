@@ -17,7 +17,7 @@ journey over the past ten years while looking forward with home and confidence
 to the future.</p>
 <p>Sit back, enjoy the performances, and celebrate with us as we honour the
 people, memories and shared experiences that have shaped our school.</p>
-<p>We hop you enjoy the show!</p>
+<p>We hope you'll enjoy the show!</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sa79pv7BQgg?si=dIn5old4dszcZHJ6"></iframe>
 </div>
