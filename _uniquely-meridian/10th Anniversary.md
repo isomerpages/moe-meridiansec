@@ -19,9 +19,9 @@ to the future.</p>
 people, memories and shared experiences that have shaped our school.</p>
 <p>We hope you'll enjoy the show!</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sa79pv7BQgg?si=dIn5old4dszcZHJ6"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vslMoWF6oqM?si=qow2AKG77N3ZCiQZ"></iframe>
 </div>
-<p>Link: <a href="https://www.youtube.com/live/Sa79pv7BQgg?si=WCFBoZf_tNtS2rGX" rel="noopener nofollow" target="_blank">Live Streaming Link</a>
+<p>Link: <a href="https://www.youtube.com/live/vslMoWF6oqM?si=bGFPQzqxDLPo0r-L" rel="noopener nofollow" target="_blank">Live Streaming Link</a>
 </p>
 <h2>2. Creative Writing Competition</h2>
 <p>As part of our school's 10th Anniversary celebrations, students participated
