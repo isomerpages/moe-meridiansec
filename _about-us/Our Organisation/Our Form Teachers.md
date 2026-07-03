@@ -223,7 +223,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mr Tang Siew Kwong</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tang_siew_kwong@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tang_siew_kwong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
