@@ -23,6 +23,8 @@ people, memories and shared experiences that have shaped our school.</p>
 </div>
 <p>Link: <a href="https://www.youtube.com/live/vslMoWF6oqM?si=bGFPQzqxDLPo0r-L" rel="noopener nofollow" target="_blank">Live Streaming Link</a>
 </p>
+<p>Link: <a href="https://www.youtube.com/live/vslMoWF6oqM?si=bGFPQzqxDLPo0r-L" rel="noopener nofollow" target="_blank">Live Streaming Link</a>
+</p>
 <h2>2. Creative Writing Competition</h2>
 <p>As part of our school's 10th Anniversary celebrations, students participated
 in the 10th Anniversary Creative Writing Competition, expressing their
