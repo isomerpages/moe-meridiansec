@@ -136,33 +136,23 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>Semester 1 Weighted Assessments (WAs) Schedule</h3>
+<h3>Semester 2 Weighted Assessments (WAs) Schedule</h3>
 <p>&nbsp;</p>
-<p>&nbsp;<strong>Semester 1</strong>&nbsp;Weighted Assessments (WAs) Schedule</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Term 1 will be conducted between 2 to 26 February 2026 (Lower Sec) and
-26 January to 26 February 2026 (Upper Sec), and</p>
+<p>Term 3 will be conducted between 27 July to 21 August 2026 for Secondary
+1 to 3 students.</p>
 </li>
 </ul>
+<p>&nbsp;</p>
+<p>Please refer to the attachment for the detailed weekly schedule, assessment
+mode and the assessment task/topics assessed:</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Term 2 will be conducted between 20 April to 14 May 2026.</p>
-</li>
-</ul>
-<p>&nbsp;Please refer to the attachment for the detailed weekly schedule,
-assessment mode and the assessment task/topics assessed.</p>
-<p></p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec1.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 1</a>
+<p><a href="/files/Assessment Matters/2026 Assessment/Semester_2_Weighted_Assessment_Schedule_Sec1.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighed Assessment Schedule Sec 1</a>
 </p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec2.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 2</a>
+<p><a href="/files/Assessment Matters/2026 Assessment/Semester_2_Weighted_Assessment_Schedule_Sec2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighted Assessment Schedule Sec 2</a>
 </p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Semester_1_Weighted_Assessment_Schedule_Sec3_updated22Jan.pdf" rel="noopener nofollow" target="_blank">Semester 1 Weighted Assessment Schedule Sec 3 (updated 22 Jan)</a>
-</p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec4.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 4</a>
-</p>
-<p><a href="/files/Assessment Matters/2026 Assessment/Sem_1_Weighted_Assessment_Schedule_Sec5.pdf" rel="noopener nofollow" target="_blank">Sem 1 Weighted Assessment Schedule Sec 5</a>
+<p><a href="/files/Assessment Matters/2026 Assessment/Semester_2_Weighted_Assessment_Schedule_Sec3.pdf" rel="noopener nofollow" target="_blank">Semester 2 Weighted Assessment Schedule Sec 3</a>
 </p>
 <p></p>
 <p></p>
