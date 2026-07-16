@@ -50,6 +50,8 @@ and date of resumption of normal time-table for you:</p>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Technical) Stream:</p>
 <p></p>
+<p><a href="/files/Announcements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2026_4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4NT Preliminary Exam Timetable 2026</a>
+</p>
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
@@ -63,6 +65,10 @@ and date of resumption of normal time-table for you:</p>
 <td rowspan="1" colspan="1">
 <p>4 Normal (Academic) Stream:</p>
 <p></p>
+<p><a href="/files/Announcements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2026_4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4NA Preliminary Exam Timetable 2026</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -75,6 +81,9 @@ and date of resumption of normal time-table for you:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Express and 5 Normal (Academic) Stream:</p>
+<p></p>
+<p><a href="/files/Announcements Attachments/Sec_4_5_Preliminary_Exam_Timetable_2026_4E5N.pdf" rel="noopener nofollow" target="_blank">Sec 4E5N Preliminary Exam Timetable 2026</a>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
