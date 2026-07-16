@@ -90,7 +90,7 @@ and date of resumption of normal time-table for you:</p>
 <p>17 August to 2 September 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 September, Thursday</p>
+<p>3 September, Thursday</p>
 <p>(Students will join the school for the Staff Appreciation Day Celebrations.)</p>
 </td>
 </tr>
