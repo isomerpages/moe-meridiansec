@@ -73,6 +73,8 @@ further assistance. Thank you.</p>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
 <p>(Secondary 1, 4 and 5)</p>
+<p></p>
+<p>HOD/ Mother Tongue Languages (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sitinorzahurin Bte Sudin</p>
@@ -163,18 +165,6 @@ further assistance. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">loo_liat_siang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tang Jui Piow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tang_jui_piow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
