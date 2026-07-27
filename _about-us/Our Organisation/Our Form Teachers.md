@@ -181,7 +181,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Fateha Bte Kamsani</p>
+<p>Ms Jasmin Tan</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">jasmin_tan_jiemin@moe.edu.sg</a>
 </p>
 </td>
