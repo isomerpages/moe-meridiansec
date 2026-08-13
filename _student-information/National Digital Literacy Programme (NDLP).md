@@ -65,7 +65,6 @@ around</p>
 </p>
 </li>
 </ul>
-<h3><strong>&nbsp;</strong></h3>
 <h3>Resources for students</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -89,6 +88,13 @@ around</p>
 </li>
 <li>
 <p><a href="/files/NDLP Resources/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option B</a>
+</p>
+</li>
+</ul>
+<h3>Edupass </h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/mss-edupass" rel="noopener nofollow" target="_blank">Edupass onboarding guide (For Students)</a>
 </p>
 </li>
 </ul>
