@@ -135,7 +135,71 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Secondary 4 and 5 Preliminary Examination</h3>
+<p>Dear Secondary 4 and 5 students,</p>
+<p>The Preliminary Examinations for Secondary 4 and 5 students will be conducted
+from 11 August– 2 September. Please refer to the table below for the schedule
+and date of resumption of normal time-table for you:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Examinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Exam Schedule</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Written Papers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Resumption of normal timetable</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N Level Preliminary Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment Matters/2026 Assessment/Sec_4_5_Preliminary_Exam_Timetable_2026_4NT.pdf" rel="noopener nofollow" target="_blank">4 Normal (Technical) Stream</a>
+</p>
 <p></p>
+<p></p>
+<p><a href="/files/Assessment Matters/2026 Assessment/Sec_4_5_Preliminary_Exam_Timetable_2026_4NA.pdf" rel="noopener nofollow" target="_blank">4 Normal (Academic) Stream</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 to 21 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 August, Monday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>O Level Preliminary Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment Matters/2026 Assessment/Sec_4_5_Preliminary_Exam_Timetable_2026_4E5N.pdf" rel="noopener nofollow" target="_blank">4 Express and 5 Normal (Academic) Stream</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 August to 2 September 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 September, Wednesday</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Semester 2 Weighted Assessments (WAs) Schedule</h3>
 <p>&nbsp;</p>
 <ul data-tight="true" class="tight">
